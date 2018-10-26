@@ -2,7 +2,11 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544132341">
+        <mark key="[" line="23" column="0" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
@@ -10,6 +14,13 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
