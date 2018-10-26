@@ -1,7 +1,7 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
   <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl b" />
     <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />

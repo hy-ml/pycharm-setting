@@ -3,23 +3,82 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544132341">
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1540545231697">
+        <mark key="[" line="54" column="41" />
+        <mark key="]" line="54" column="17" />
+        <mark key="." line="54" column="17" />
+        <mark key="^" line="54" column="17" />
+      </file>
+      <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="56" />
+        <mark key="^" line="22" column="56" />
+        <mark key="." line="22" column="56" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>for row, line in enumerate(</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>for row, line in enumerate(</text>
+      </register>
+      <register name="/" type="4">
+        <text>find</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>find</last-search>
+      <last-offset />
+      <last-pattern>find</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>find</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
