@@ -9,11 +9,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541125187001">
-        <mark key="[" line="20" column="39" />
-        <mark key="]" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="7" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541126365062">
+        <mark key="[" line="52" column="34" />
+        <mark key="]" line="61" column="42" />
+        <mark key="." line="61" column="42" />
+        <mark key="^" line="61" column="42" />
       </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
@@ -31,40 +31,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zLlJlc2l6ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5vcm1hbGl6ZSA9IHRyYW5zZm9ybXMuTm9ybWFsaXplKCkK</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5vcm1hbGl6ZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4X2xpa2VsaWhvb2RfbGJsID0gLTEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyYW5zZm9ybSA9IHRyYW5zZm9ybXMuQ29tcG9zZShbCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4X251bV9sYmwgPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIG1ha2VfZGF0YXNldChwY2RfZGF0YV9maWxlLCByb290X2Rpcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -83,6 +83,7 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
