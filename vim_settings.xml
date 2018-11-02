@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541122928082">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="17" />
