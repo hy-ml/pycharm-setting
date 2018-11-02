@@ -3,17 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/utils.py" timestamp="1541123671369">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="28" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="28" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/utils.py" timestamp="1541128484913">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541128196357">
-        <mark key="[" line="40" column="9" />
-        <mark key="]" line="40" column="9" />
-        <mark key="." line="40" column="9" />
-        <mark key="^" line="40" column="40" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541131176707">
+        <mark key="'" line="66" column="17" />
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
@@ -28,62 +29,76 @@
         <mark key="." line="22" column="56" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="84" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/predict.py" />
+      <jump line="29" column="33" filename="$USER_HOME$/projects/movie_dataset/classification/predict.py" />
+      <jump line="34" column="45" filename="$USER_HOME$/projects/movie_dataset/classification/predict.py" />
+      <jump line="52" column="17" filename="$USER_HOME$/projects/movie_dataset/classification/predict.py" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>find</text>
+        <text>pcd_data</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY2x1c3Rlcl9sYmxzID09IGxibF9pbl9mcmFnbWVudHM6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcGNkX2RhdGEgaW4gZnJhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yb290X2Rpcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcGNkX2RhdGE6IHttb3ZpZV9uYW1lKHN0ciksIGZyYW1lKGludCksIGJib3gobGlzdCBvciBudW1weS5uZGFycmF5KX0K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yb290X2RpciA9IFBhdGgocm9vdF9kaXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByb290X2Rpci5fX2NsYXNzX18gPT0gc3RyOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNhdmVfYW5ub3RfcGF0aHMgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>find</last-search>
+      <last-search>pcd_data</last-search>
       <last-offset />
-      <last-pattern>find</last-pattern>
+      <last-pattern>pcd_data</last-pattern>
+      <last-replace>cluster_data</last-replace>
+      <last-substitute>pcd_data</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>find</entry>
+        <entry>tr</entry>
+        <entry>resize</entry>
+        <entry>pcd_data</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
         <entry>1</entry>
+        <entry>%s/pcd_data/cluster_data/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -122,6 +137,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
