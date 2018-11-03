@@ -9,18 +9,18 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541149182401">
-        <mark key="'" line="66" column="17" />
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="36" />
-        <mark key="^" line="22" column="36" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541245773403">
+        <mark key="'" line="26" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541244278043">
-        <mark key="[" line="55" column="39" />
-        <mark key="]" line="55" column="39" />
-        <mark key="." line="55" column="39" />
-        <mark key="^" line="55" column="39" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541245481612">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
@@ -40,55 +40,58 @@
       <jump line="29" column="33" filename="$USER_HOME$/projects/movie_dataset/classification/predict.py" />
       <jump line="34" column="45" filename="$USER_HOME$/projects/movie_dataset/classification/predict.py" />
       <jump line="52" column="17" filename="$USER_HOME$/projects/movie_dataset/classification/predict.py" />
+      <jump line="27" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/predict.py" />
+      <jump line="19" column="10" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>pcd_data</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgY2x1c3Rlcl9sYmxzID09IGxibF9pbl9mcmFnbWVudHM6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nX2Nyb3BwZWQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGltZ19jcm9wID0gaW1nLmNyb3AoKHhfbWluLCB5X21pbiksIHgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">awo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1nID0gSW1hZ2Uub3BlbihpbWdfcGF0aHNbZnJhbWVdKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGltZ19wYXRocyA9IGxpc3QoUGF0aChhcmdzLmltZ19kaXIpLmdsb2IoJyonKSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZGF0YSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pcd_data</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>pcd_data</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>cluster_data</last-replace>
       <last-substitute>pcd_data</last-substitute>
       <last-dir>1</last-dir>
@@ -100,6 +103,8 @@
         <entry>tr</entry>
         <entry>resize</entry>
         <entry>pcd_data</entry>
+        <entry>img_path</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
