@@ -14,11 +14,11 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541317231010">
-        <mark key="'" line="36" column="47" />
-        <mark key="[" line="45" column="17" />
-        <mark key="]" line="45" column="17" />
-        <mark key="." line="45" column="17" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541319331882">
+        <mark key="'" line="43" column="10" />
+        <mark key="[" line="52" column="48" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541316375498">
         <mark key="[" line="0" column="0" />
@@ -54,55 +54,56 @@
       <jump line="16" column="19" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
       <jump line="69" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
       <jump line="36" column="47" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
+      <jump line="43" column="10" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>max_</text>
       </register>
       <register name="/" type="4">
-        <text>outdir</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY2x1c3Rlcl9sYmxzID09IGxibF9pbl9mcmFnbWVudHM6Cg==</text>
+        <text encoding="base64">ICAgIHhfbWF4LCB4X21pbiwgeV9tYXgsIHlfbWluID0gYmJveAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNhdGVnb3J5KQo=</text>
+        <text encoding="base64">ICAgICN4X21heCwgeF9taW4sIHlfbWF4LCB5X21pbiA9IGJib3gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC51dGlscy5kYXRhIAo=</text>
+        <text encoding="base64">ICAgIG1heF94LCBtaW5feCwgbWF4X3ksIG1pbl95ID0gYmJveAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC51dGlscyBpbXBvcnQgCg==</text>
+        <text encoding="base64">ICAgIGlmIGltZ19jcm9wX2Rpcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNhdGVnb3J5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNhdGVnb3J5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBpcm50KCkK</text>
+        <text encoding="base64">ZnJvbSB0b3JjaC51dGlscy5kYXRhIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>outdir</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>outdir</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>cluster_data</last-replace>
       <last-substitute>pcd_data</last-substitute>
       <last-dir>1</last-dir>
@@ -115,11 +116,11 @@
         <entry>resize</entry>
         <entry>pcd_data</entry>
         <entry>img_path</entry>
-        <entry>print</entry>
         <entry>img_tm</entry>
         <entry>class_file</entry>
         <entry>category</entry>
         <entry>outdir</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -169,6 +170,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
