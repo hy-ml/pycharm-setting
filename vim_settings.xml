@@ -21,9 +21,19 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541338557456">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="17" column="14" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+        <mark key="o" line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541336296299">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="109" column="23" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="106" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1541337681214">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
@@ -36,6 +46,13 @@
         <mark key="]" line="22" column="56" />
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" timestamp="1541338183398">
+        <mark key="'" line="39" column="29" />
+        <mark key="[" line="31" column="60" />
+        <mark key="]" line="31" column="60" />
+        <mark key="." line="31" column="60" />
+        <mark key="^" line="31" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -59,57 +76,62 @@
       <jump line="43" column="10" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
       <jump line="4" column="16" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
       <jump line="38" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/src/train_dataset.py" />
+      <jump line="14" column="30" filename="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" />
+      <jump line="27" column="43" filename="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" />
+      <jump line="13" column="42" filename="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" />
+      <jump line="31" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" />
+      <jump line="39" column="29" filename="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltZy5zYXZlKCcuL2EuanBnJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>in</text>
+        <text>num_classes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X3RyYW5zZm9ybShzZWxmLCByZXNpemVfc2l6ZSk6CiAgICAgICAgbm9ybWFsaXplID0gdHJhbnNmb3Jtcy5Ob3JtYWxpemUobWVhbj1bMC40ODUsIDAuNDU2LCAwLjQwNl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RkPVswLjIyOSwgMC4yMjQsIDAuMjI1XSkKICAgICAgICB0cmFuc2Zvcm0gPSB0cmFuc2Zvcm1zLkNvbXBvc2UoWwogICAgICAgICAgICB0cmFuc2Zvcm1zLlJlc2l6ZShyZXNpemVfc2l6ZSksCiAgICAgICAgICAgIHRyYW5zZm9ybXMuVG9UZW5zb3IoKSwKICAgICAgICAgICAgbm9ybWFsaXplCiAgICAgICAgXSkKICAgICAgICByZXR1cm4gdHJhbnNmb3JtCg==</text>
+        <text encoding="base64">ICAgIGlmIG1vZGVsID09ICd2Z2cxNic6CiAgICAgICAgbW9kZWwgPSB0b3JjaHZpc2lvbi5tb2RlbHMudmdnMTYocHJldHJhaW5lZD1wcmV0cmFpbmVkKQogICAgZWxpZiBtb2RlbCA9PSAndmdnMTZfYm4nOgogICAgICAgIG1vZGVsID0gdG9yY2h2aXNpb24ubW9kZWxzLnZnZzE2X2JuKHByZXRyYWluZWQ9cHJldHJhaW5lZCkKICAgIGVsaWYgbW9kZWwgPT0gJ3Jlc25ldDUwJzoKICAgICAgICBtb2RlbCA9IHRvcmNodmlzaW9uLm1vZGVscy5yZXNuZXQ1MChwcmV0cmFpbmVkPXByZXRyYWluZWQpCiAgICBlbHNlOgogICAgICAgIHByaW50KCd7fSBpcyBub3Qgc3VwcG9ydGVkLicuZm9ybWF0KG1vZGVsKSkKICAgICAgICBleGl0KC0xKQoKICAgIHJldHVybiBtb2RlbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltZy5zYXZlKCcuL2EuanBnJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltZwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltZyA9IEltYWdlLm9wZW4oZGF0YXNldC5pbWdfcGF0aHNbMF0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltZy5zYXZlKCcuL2EuanBnJykK</text>
+        <text encoding="base64">ICAgIG1vZGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltZyA9IEltYWdlLm9wZW4oZGF0YXNldC5pbWdfcGF0aHNbMF0pCg==</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MuZ3B1IGlzIG5vbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltZy5zaG93KCkK</text>
+        <text encoding="base64">ICAgIG5ldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXQuaW1nX3BhdGhzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzX2xibCA9IGNsYXNzX2xibF90YmxbY2xhc3NfbmFtZV90YmwuaW5kZXgoY2xhc3NfbmFtZSldCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChjbGFzc19uYW1lKQo=</text>
+        <text encoding="base64">ICAgIG5ldCA9IHNlbGVjdF9tb2RlbChtb2RlbCwgbnVtKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/num_classes/num_classes=num_classes/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>in</last-search>
+      <last-search>num_classes</last-search>
       <last-offset />
-      <last-pattern>in</last-pattern>
-      <last-replace>cluster_data</last-replace>
-      <last-substitute>pcd_data</last-substitute>
+      <last-pattern>num_classes</last-pattern>
+      <last-replace>num_classes=num_classes</last-replace>
+      <last-substitute>num_classes</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -126,12 +148,23 @@
         <entry>outdir</entry>
         <entry>print</entry>
         <entry>in</entry>
+        <entry>pretrained</entry>
+        <entry>pretrained=</entry>
+        <entry>False</entry>
+        <entry>num_classes</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
         <entry>1</entry>
         <entry>%s/pcd_data/cluster_data/gc</entry>
+        <entry>split</entry>
+        <entry>%s/pretrained/False/gc</entry>
+        <entry>%s/pretrained/True/gc</entry>
+        <entry>%s/pretrained//gc</entry>
+        <entry>%s/pretrained=//gc</entry>
+        <entry>%s/False/False, num_classes/g</entry>
         <entry>w</entry>
+        <entry>%s/num_classes/num_classes=num_classes/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -178,6 +211,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
