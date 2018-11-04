@@ -14,11 +14,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541319331882">
+      <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541320588055">
         <mark key="'" line="43" column="10" />
-        <mark key="[" line="52" column="48" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541316375498">
         <mark key="[" line="0" column="0" />
@@ -57,11 +58,11 @@
       <jump line="43" column="10" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>max_</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -70,31 +71,31 @@
         <text encoding="base64">ICAgIHhfbWF4LCB4X21pbiwgeV9tYXgsIHlfbWluID0gYmJveAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeSgpCg==</text>
+        <text encoding="base64">ICAgIHlfbWF4LCB5X21pbiwgeF9tYXgsIHhfbWluID0gYmJveAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICN4X21heCwgeF9taW4sIHlfbWF4LCB5X21pbiA9IGJib3gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1heF94LCBtaW5feCwgbWF4X3ksIG1pbl95ID0gYmJveAo=</text>
+        <text encoding="base64">ICAgICN4X21heCwgeF9taW4sIHlfbWF4LCB5X21pbiA9IGJib3gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGltZ19jcm9wX2Rpcgo=</text>
+        <text encoding="base64">ICAgIG1heF94LCBtaW5feCwgbWF4X3ksIG1pbl95ID0gYmJveAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgIGlmIGltZ19jcm9wX2Rpcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNhdGVnb3J5KQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNhdGVnb3J5KQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC51dGlscy5kYXRhIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNhdGVnb3J5KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
