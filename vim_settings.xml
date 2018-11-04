@@ -4,16 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/movie_dataset/classification/utils.py" timestamp="1541128484913">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541245773403">
-        <mark key="'" line="26" column="28" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541245481612">
         <mark key="'" line="50" column="0" />
