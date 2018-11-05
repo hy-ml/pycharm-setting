@@ -21,12 +21,12 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541338557456">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="17" column="14" />
-        <mark key="^" line="17" column="14" />
-        <mark key="." line="17" column="14" />
-        <mark key="o" line="9" column="4" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541396906005">
+        <mark key="'" line="122" column="25" />
+        <mark key="[" line="74" column="53" />
+        <mark key="]" line="74" column="53" />
+        <mark key="." line="74" column="53" />
+        <mark key="^" line="74" column="39" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541336296299">
         <mark key="[" line="98" column="0" />
@@ -81,55 +81,66 @@
       <jump line="13" column="42" filename="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" />
       <jump line="31" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" />
       <jump line="39" column="29" filename="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" />
+      <jump line="89" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="90" column="32" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="88" column="47" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="87" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="64" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="62" column="16" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="63" column="32" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="52" column="18" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="55" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="73" column="36" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="123" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>num_classes</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIG1vZGVsID09ICd2Z2cxNic6CiAgICAgICAgbW9kZWwgPSB0b3JjaHZpc2lvbi5tb2RlbHMudmdnMTYocHJldHJhaW5lZD1wcmV0cmFpbmVkKQogICAgZWxpZiBtb2RlbCA9PSAndmdnMTZfYm4nOgogICAgICAgIG1vZGVsID0gdG9yY2h2aXNpb24ubW9kZWxzLnZnZzE2X2JuKHByZXRyYWluZWQ9cHJldHJhaW5lZCkKICAgIGVsaWYgbW9kZWwgPT0gJ3Jlc25ldDUwJzoKICAgICAgICBtb2RlbCA9IHRvcmNodmlzaW9uLm1vZGVscy5yZXNuZXQ1MChwcmV0cmFpbmVkPXByZXRyYWluZWQpCiAgICBlbHNlOgogICAgICAgIHByaW50KCd7fSBpcyBub3Qgc3VwcG9ydGVkLicuZm9ybWF0KG1vZGVsKSkKICAgICAgICBleGl0KC0xKQoKICAgIHJldHVybiBtb2RlbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5ncHUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MuZ3B1IGlzIG5vbgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlcG9jaCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG9zcy5pdGVtKCkuX19jbGFzc19fKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldCA9IHNlbGVjdF9tb2RlbChtb2RlbCwgbnVtKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/num_classes/num_classes=num_classes/gc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>num_classes</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>num_classes</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>num_classes=num_classes</last-replace>
       <last-substitute>num_classes</last-substitute>
       <last-dir>1</last-dir>
@@ -146,12 +157,14 @@
         <entry>class_file</entry>
         <entry>category</entry>
         <entry>outdir</entry>
-        <entry>print</entry>
         <entry>in</entry>
         <entry>pretrained</entry>
         <entry>pretrained=</entry>
         <entry>False</entry>
         <entry>num_classes</entry>
+        <entry>inputs</entry>
+        <entry>trainse</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -163,8 +176,8 @@
         <entry>%s/pretrained//gc</entry>
         <entry>%s/pretrained=//gc</entry>
         <entry>%s/False/False, num_classes/g</entry>
-        <entry>w</entry>
         <entry>%s/num_classes/num_classes=num_classes/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
