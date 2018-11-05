@@ -35,6 +35,11 @@
       <file name="/a.dummy" timestamp="1541337681214">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" timestamp="1541415629424">
+        <mark key="'" line="71" column="12" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="83" column="42" />
+      </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="17" />
@@ -54,11 +59,11 @@
         <mark key="." line="31" column="60" />
         <mark key="^" line="31" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" timestamp="1541415110280">
-        <mark key="[" line="40" column="24" />
-        <mark key="]" line="40" column="25" />
-        <mark key="." line="40" column="25" />
-        <mark key="^" line="40" column="45" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" timestamp="1541416153877">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="60" column="29" />
+        <mark key="." line="68" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -98,55 +103,66 @@
       <jump line="55" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
       <jump line="73" column="36" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
       <jump line="123" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="83" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
+      <jump line="82" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
+      <jump line="81" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
+      <jump line="80" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
+      <jump line="45" column="52" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
+      <jump line="59" column="18" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
+      <jump line="68" column="39" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
+      <jump line="75" column="18" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
+      <jump line="77" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
+      <jump line="78" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
+      <jump line="71" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdhY2N1cmFjeToge30lJy5mb3JtYXQoY29ycmVjdHMgLyB0b3RhbCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>class_file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1nX3NpemUgPSAoMTI4LCAxMjgpCmZlYXR1cmVfc2l6ZSA9ICg0LCA0KQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oY2xhc3NfZmlsZSwgJ3InKSBhcyBmcDoKICAgICAgICAgICAgbGluZXMgPSBmcC5yZWFkbGluZXMoKQogICAgICAgIGNsYXNzX25hbWVfdGJsID0gW10KICAgICAgICBjbGFzc19sYmxfdGJsID0gW10KICAgICAgICBmb3IgbGluZSBpbiBsaW5lczoKICAgICAgICAgICAgY2xhc3NfbmFtZSA9IGxpbmUuc3BsaXQoJywnKVswXS5zdHJpcCgpCiAgICAgICAgICAgIGNsYXNzX2xibCA9IGludChsaW5lLnNwbGl0KCcsJylbMV0uc3RyaXAoKSkKICAgICAgICAgICAgY2xhc3NfbmFtZV90YmwuYXBwZW5kKGNsYXNzX25hbWUpCiAgICAgICAgICAgIGNsYXNzX2xibF90YmwuYXBwZW5kKGNsYXNzX2xibCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdhY2N1cmFjeToge30lJy5mb3JtYXQoY29ycmVjdHMgLyB0b3RhbCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFyc2VyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvcmNoLm1vZGUoLmxvKQo=</text>
+        <text encoding="base64">ICAgIGlmIGNsYXNzX2ZpbGUgaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsYXNzX2NvcnJlY3RzID0gWzAuIGZvciBfIGluIHJhbmdlKG51bV9jbGFzc2VzKV0K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc190YmwgPSBwYXJzZV9jbGFzc19saXN0KGNsYXNzX2ZpbGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzX3RvdGFsID0gWzAuIGZvciBfIGluIHJhbmdlKG51bV9jbGFzc2VzKV0K</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodG90YWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh7fToge30pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29ycmVjdHMpCg==</text>
+        <text encoding="base64">ICAgIGZvciBsYmwgaW4gY2xhc3NfdGJsOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvdGFsID0gMAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdjbGFzcyBzcGVjaWZpYyBhY2N1YXJheScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvcnJlY3RzID0gMAo=</text>
+        <text encoding="base64">ICAgIGZvciBsYmwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>class_file</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>class_file</last-pattern>
       <last-replace>num_classes=num_classes</last-replace>
       <last-substitute>num_classes</last-substitute>
       <last-dir>1</last-dir>
@@ -160,7 +176,6 @@
         <entry>pcd_data</entry>
         <entry>img_path</entry>
         <entry>img_tm</entry>
-        <entry>class_file</entry>
         <entry>category</entry>
         <entry>outdir</entry>
         <entry>in</entry>
@@ -171,6 +186,8 @@
         <entry>inputs</entry>
         <entry>trainse</entry>
         <entry>print</entry>
+        <entry>class</entry>
+        <entry>class_file</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
