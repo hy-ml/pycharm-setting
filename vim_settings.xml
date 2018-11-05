@@ -21,12 +21,12 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541396906005">
-        <mark key="'" line="122" column="25" />
-        <mark key="[" line="74" column="53" />
-        <mark key="]" line="74" column="53" />
-        <mark key="." line="74" column="53" />
-        <mark key="^" line="74" column="39" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541400531120">
+        <mark key="'" line="125" column="25" />
+        <mark key="[" line="71" column="66" />
+        <mark key="]" line="71" column="66" />
+        <mark key="." line="71" column="66" />
+        <mark key="^" line="70" column="35" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541336296299">
         <mark key="[" line="98" column="0" />
@@ -95,43 +95,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG1vZGVsID09ICd2Z2cxNic6CiAgICAgICAgbW9kZWwgPSB0b3JjaHZpc2lvbi5tb2RlbHMudmdnMTYocHJldHJhaW5lZD1wcmV0cmFpbmVkKQogICAgZWxpZiBtb2RlbCA9PSAndmdnMTZfYm4nOgogICAgICAgIG1vZGVsID0gdG9yY2h2aXNpb24ubW9kZWxzLnZnZzE2X2JuKHByZXRyYWluZWQ9cHJldHJhaW5lZCkKICAgIGVsaWYgbW9kZWwgPT0gJ3Jlc25ldDUwJzoKICAgICAgICBtb2RlbCA9IHRvcmNodmlzaW9uLm1vZGVscy5yZXNuZXQ1MChwcmV0cmFpbmVkPXByZXRyYWluZWQpCiAgICBlbHNlOgogICAgICAgIHByaW50KCd7fSBpcyBub3Qgc3VwcG9ydGVkLicuZm9ybWF0KG1vZGVsKSkKICAgICAgICBleGl0KC0xKQoKICAgIHJldHVybiBtb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlci5hZGRfc2NhbGFycygnbG9zcycsIHsndHJhaW4nOiB0cmFpbl9sb3NzfSwgbl9pdGVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5ncHUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbl9pdGVyID0gMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlcG9jaCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW5ncHUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG9zcy5pdGVtKCkuX19jbGFzc19fKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgxKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlcG9jaCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -227,6 +227,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
