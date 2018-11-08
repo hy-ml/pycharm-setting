@@ -14,9 +14,9 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net.py" timestamp="1541659445786">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="16" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net.py" timestamp="1541682782974">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541329365728">
         <mark key="'" line="4" column="16" />
@@ -29,13 +29,23 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="106" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1541337681214">
+      <file name="/a.dummy" timestamp="1541680903410">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" timestamp="1541415629424">
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" timestamp="1541681039645">
+        <mark key="'" line="11" column="44" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" timestamp="1541679816301">
         <mark key="'" line="71" column="12" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="83" column="42" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="150" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/file/annotation.csv" timestamp="1541678171982">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="30" column="9" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/clustering/clustering.py" timestamp="1541648247213">
         <mark key="[" line="36" column="16" />
@@ -49,36 +59,61 @@
         <mark key="^" line="22" column="56" />
         <mark key="." line="22" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" timestamp="1541338183398">
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" timestamp="1541678147089">
         <mark key="'" line="39" column="29" />
         <mark key="[" line="31" column="60" />
         <mark key="]" line="31" column="60" />
         <mark key="." line="31" column="60" />
         <mark key="^" line="31" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" timestamp="1541416903023">
+      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" timestamp="1541682560209">
+        <mark key="'" line="41" column="15" />
         <mark key="[" line="64" column="20" />
         <mark key="]" line="64" column="20" />
         <mark key="." line="64" column="20" />
         <mark key="^" line="53" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_openset.py" timestamp="1541682882414">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_dropout_sampling.py" timestamp="1541659448948">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541413080618">
+      <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_unseen.csv" timestamp="1541679026286">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541681989306">
         <mark key="'" line="121" column="25" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="21" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="33" column="42" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" timestamp="1541682135147">
+        <mark key="'" line="26" column="6" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="4" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="34" column="4" />
       </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="17" />
         <mark key="." line="54" column="17" />
         <mark key="^" line="54" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_seen.csv" timestamp="1541679067564">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="19" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -129,70 +164,101 @@
       <jump line="77" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="78" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="71" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
+      <jump line="134" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="131" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="157" column="21" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="169" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="170" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="5" column="19" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="121" column="10" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="118" column="27" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="111" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="100" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="122" column="20" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="99" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="124" column="54" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="123" column="31" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="48" column="39" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="11" column="44" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
+      <jump line="126" column="33" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="37" column="66" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="40" column="62" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="117" column="32" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="119" column="34" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="12" column="20" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="20" column="10" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="23" column="53" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="30" column="44" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="32" column="44" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="25" column="6" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="40" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
+      <jump line="71" column="54" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
+      <jump line="24" column="49" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
+      <jump line="26" column="37" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
+      <jump line="28" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
+      <jump line="29" column="48" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
+      <jump line="31" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
+      <jump line="46" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
+      <jump line="3" column="38" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
+      <jump line="41" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0geC52aQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNzaWZpZXIgPSBubi5TZXF1ZW50aWFsKAogICAgICAgICAgICBubi5MaW5lYXIoNTEyICogZmVhdHVyZV9zaXplWzBdICogZmVhdHVyZV9zaXplWzFdLCA0MDk2KSwKICAgICAgICAgICAgbm4uUmVMVShUcnVlKSwKICAgICAgICAgICAgbm4uRHJvcG91dCgpLAogICAgICAgICAgICBubi5MaW5lYXIoNDA5NiwgNDA5NiksCiAgICAgICAgICAgIG5uLlJlTFUoVHJ1ZSksCiAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwKICAgICAgICAgICAgbm4uTGluZWFyKDQwOTYsIG51bV9jbGFzc2VzKSwKICAgICAgICApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
-        <text>class_file</text>
+        <text>no_grad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5mZWF0dXJlcyh4KQogICAgICAgIHggPSB4LnZpZXcoeC5zaXplKDApLCAtMSkKICAgICAgICB4ID0gc2VsZi5jbGFzc2lmaWVyKHgpCiAgICAgICAgcmV0dXJuIHgK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNzaWZpZXIgPSBubi5TZXF1ZW50aWFsKAogICAgICAgICAgICBubi5MaW5lYXIoNTEyICogZmVhdHVyZV9zaXplWzBdICogZmVhdHVyZV9zaXplWzFdLCA0MDk2KSwKICAgICAgICAgICAgbm4uUmVMVShUcnVlKSwKICAgICAgICAgICAgbm4uRHJvcG91dCgpLAogICAgICAgICAgICBubi5MaW5lYXIoNDA5NiwgNDA5NiksCiAgICAgICAgICAgIG5uLlJlTFUoVHJ1ZSksCiAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwKICAgICAgICAgICAgbm4uTGluZWFyKDQwOTYsIG51bV9jbGFzc2VzKSwKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0geC52aQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNzaWZpZXIgPSBubi5TZXF1ZW50aWFsKAogICAgICAgICAgICBubi5MaW5lYXIoNTEyICogZmVhdHVyZV9zaXplWzBdICogZmVhdHVyZV9zaXplWzFdLCA0MDk2KSwKICAgICAgICAgICAgbm4uUmVMVShUcnVlKSwKICAgICAgICAgICAgbm4uRHJvcG91dCgpLAogICAgICAgICAgICBubi5MaW5lYXIoNDA5NiwgNDA5NiksCiAgICAgICAgICAgIG5uLlJlTFUoVHJ1ZSksCiAgICAgICAgICAgIG5uLkRyb3BvdXQoKSwKICAgICAgICAgICAgbm4uTGluZWFyKDQwOTYsIG51bV9jbGFzc2VzKSwKICAgICAgICApCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5mZWF0dXJlcyh4KQo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">IyAKIyA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdhJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYubGluZXIxKHgpKQo=</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5yZWx1MShzZWxmLmxpbmVyMih4KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYubGluZXIxKHgpKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuKQo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">IyAKIyA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtX2NsYXNzZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXQK</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gQ2xhc3NpZmljYXRpb25OZXQoZGVlcGNvcHkobW9kZWxfaW1hZ2VfbmV0LmZlYXR1cmVzKSwgZmVhdHVyZV9zaXplLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYubGluZXIzKHgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>class_file</last-search>
+      <last-search>no_grad</last-search>
       <last-offset />
-      <last-pattern>class_file</last-pattern>
-      <last-replace>num_classes=num_classes</last-replace>
-      <last-substitute>num_classes</last-substitute>
+      <last-pattern>no_grad</last-pattern>
+      <last-replace>seen_data</last-replace>
+      <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>find</entry>
-        <entry>tr</entry>
-        <entry>resize</entry>
-        <entry>pcd_data</entry>
-        <entry>img_path</entry>
-        <entry>img_tm</entry>
-        <entry>category</entry>
-        <entry>outdir</entry>
         <entry>in</entry>
         <entry>pretrained</entry>
         <entry>pretrained=</entry>
@@ -200,9 +266,19 @@
         <entry>num_classes</entry>
         <entry>inputs</entry>
         <entry>trainse</entry>
-        <entry>print</entry>
         <entry>class</entry>
+        <entry>cap</entry>
+        <entry>data</entry>
+        <entry>int</entry>
+        <entry>make</entry>
+        <entry>64</entry>
         <entry>class_file</entry>
+        <entry>print</entry>
+        <entry>mode</entry>
+        <entry>model =</entry>
+        <entry>model</entry>
+        <entry>model.</entry>
+        <entry>no_grad</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -215,6 +291,7 @@
         <entry>%s/pretrained=//gc</entry>
         <entry>%s/False/False, num_classes/g</entry>
         <entry>%s/num_classes/num_classes=num_classes/gc</entry>
+        <entry>%s/data/seen_data/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
