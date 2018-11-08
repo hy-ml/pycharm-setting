@@ -40,6 +40,12 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="83" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/movie_dataset/clustering/clustering.py" timestamp="1541648247213">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="34" column="48" />
+        <mark key="." line="34" column="48" />
+        <mark key="^" line="34" column="48" />
+      </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="17" />
@@ -116,11 +122,11 @@
       <jump line="71" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnbWV0aG9kIG5hbWU6JykK</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>class_file</text>
@@ -129,31 +135,31 @@
         <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oY2xhc3NfZmlsZSwgJ3InKSBhcyBmcDoKICAgICAgICAgICAgbGluZXMgPSBmcC5yZWFkbGluZXMoKQogICAgICAgIGNsYXNzX25hbWVfdGJsID0gW10KICAgICAgICBjbGFzc19sYmxfdGJsID0gW10KICAgICAgICBmb3IgbGluZSBpbiBsaW5lczoKICAgICAgICAgICAgY2xhc3NfbmFtZSA9IGxpbmUuc3BsaXQoJywnKVswXS5zdHJpcCgpCiAgICAgICAgICAgIGNsYXNzX2xibCA9IGludChsaW5lLnNwbGl0KCcsJylbMV0uc3RyaXAoKSkKICAgICAgICAgICAgY2xhc3NfbmFtZV90YmwuYXBwZW5kKGNsYXNzX25hbWUpCiAgICAgICAgICAgIGNsYXNzX2xibF90YmwuYXBwZW5kKGNsYXNzX2xibCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29ycmVjdF9udW0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnbWV0aG9kIG5hbWU6JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29ycmVjdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJlZGljdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWxwX21lc3NhZ2UgPSAiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxlbihsYWJlbHMpKQo=</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MWtrCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGNsYXNzX2ZpbGUgaXMgbm90IE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnVXNlIHRoaXMgY2xhc3MgbGlrZTonKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc190YmwgPSBwYXJzZV9jbGFzc19saXN0KGNsYXNzX2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbHMgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
