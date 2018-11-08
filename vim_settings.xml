@@ -14,19 +14,16 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net.py" timestamp="1541659445786">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="25" column="16" />
+      </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541329365728">
         <mark key="'" line="4" column="16" />
         <mark key="[" line="59" column="49" />
         <mark key="]" line="53" column="0" />
         <mark key="^" line="25" column="4" />
         <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541413080618">
-        <mark key="'" line="121" column="25" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="21" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1541336296299">
         <mark key="[" line="98" column="0" />
@@ -46,12 +43,6 @@
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
       </file>
-      <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="54" column="17" />
-        <mark key="." line="54" column="17" />
-        <mark key="^" line="54" column="17" />
-      </file>
       <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="56" />
@@ -70,6 +61,24 @@
         <mark key="]" line="64" column="20" />
         <mark key="." line="64" column="20" />
         <mark key="^" line="53" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_dropout_sampling.py" timestamp="1541659448948">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541413080618">
+        <mark key="'" line="121" column="25" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="17" />
+        <mark key="." line="54" column="17" />
+        <mark key="^" line="54" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -123,43 +132,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnbWV0aG9kIG5hbWU6JykK</text>
+        <text encoding="base64">ICAgICAgICB4ID0geC52aQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>class_file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oY2xhc3NfZmlsZSwgJ3InKSBhcyBmcDoKICAgICAgICAgICAgbGluZXMgPSBmcC5yZWFkbGluZXMoKQogICAgICAgIGNsYXNzX25hbWVfdGJsID0gW10KICAgICAgICBjbGFzc19sYmxfdGJsID0gW10KICAgICAgICBmb3IgbGluZSBpbiBsaW5lczoKICAgICAgICAgICAgY2xhc3NfbmFtZSA9IGxpbmUuc3BsaXQoJywnKVswXS5zdHJpcCgpCiAgICAgICAgICAgIGNsYXNzX2xibCA9IGludChsaW5lLnNwbGl0KCcsJylbMV0uc3RyaXAoKSkKICAgICAgICAgICAgY2xhc3NfbmFtZV90YmwuYXBwZW5kKGNsYXNzX25hbWUpCiAgICAgICAgICAgIGNsYXNzX2xibF90YmwuYXBwZW5kKGNsYXNzX2xibCkK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5mZWF0dXJlcyh4KQogICAgICAgIHggPSB4LnZpZXcoeC5zaXplKDApLCAtMSkKICAgICAgICB4ID0gc2VsZi5jbGFzc2lmaWVyKHgpCiAgICAgICAgcmV0dXJuIHgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnbWV0aG9kIG5hbWU6JykK</text>
+        <text encoding="base64">ICAgICAgICB4ID0geC52aQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi5mZWF0dXJlcyh4KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwX21lc3NhZ2UgPSAiIiIK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYubGluZXIxKHgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIiIK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi5yZWx1KHNlbGYuKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnJykK</text>
+        <text encoding="base64">ICAgICAgICBzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnVXNlIHRoaXMgY2xhc3MgbGlrZTonKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbHMgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
