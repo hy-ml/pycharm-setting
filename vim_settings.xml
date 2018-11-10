@@ -8,12 +8,12 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" timestamp="1541730095596">
-        <mark key="'" line="27" column="30" />
-        <mark key="[" line="28" column="41" />
-        <mark key="]" line="28" column="41" />
-        <mark key="." line="28" column="41" />
-        <mark key="^" line="28" column="41" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" timestamp="1541827119669">
+        <mark key="'" line="33" column="28" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="37" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/train_dataset.py" timestamp="1541337231815">
         <mark key="'" line="38" column="25" />
@@ -21,9 +21,11 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net.py" timestamp="1541682782974">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="17" column="8" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net.py" timestamp="1541827027873">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="29" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541329365728">
         <mark key="'" line="4" column="16" />
@@ -74,17 +76,18 @@
         <mark key="." line="31" column="60" />
         <mark key="^" line="31" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" timestamp="1541730976156">
+      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" timestamp="1541826953801">
         <mark key="'" line="41" column="15" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="71" />
         <mark key="." line="64" column="20" />
         <mark key="^" line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_openset.py" timestamp="1541682882414">
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_openset.py" timestamp="1541827144244">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_dropout_sampling.py" timestamp="1541659448948">
         <mark key="[" line="26" column="0" />
@@ -97,15 +100,14 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541726439576">
-        <mark key="'" line="6" column="30" />
-        <mark key="[" line="61" column="45" />
-        <mark key="]" line="61" column="45" />
-        <mark key="." line="61" column="45" />
-        <mark key="^" line="61" column="45" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1541827297122">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" timestamp="1541724034930">
-        <mark key="'" line="26" column="6" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" timestamp="1541827341265">
+        <mark key="'" line="64" column="22" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="55" />
         <mark key="^" line="8" column="29" />
@@ -125,11 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="23" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
-      <jump line="30" column="23" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
-      <jump line="31" column="44" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
-      <jump line="57" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
       <jump line="75" column="43" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
       <jump line="15" column="26" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
       <jump line="16" column="19" filename="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" />
@@ -215,7 +212,6 @@
       <jump line="67" column="16" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="41" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="59" column="29" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="6" column="30" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="57" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="120" column="23" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
@@ -225,55 +221,61 @@
       <jump line="73" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="36" column="59" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="27" column="30" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
+      <jump line="33" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
+      <jump line="6" column="38" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="61" column="24" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
+      <jump line="51" column="34" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
+      <jump line="64" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0cyA9IEYuc29mdG1heChtb2RlbChpbnB1dHMpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>model</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyUyMHM6ICUwM2YnICUKICAgICAgICAgICAgICAgICAgKGxibF9uYW1lLCBjbGFzc19jb2xsZWN0W2xibF9pZF0gLyBjbGFzc190b3RhbFtsYmxfaWRdKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0cyA9IEYuc29mdG1heChtb2RlbChpbnB1dHMpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJlZGljdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0cyA9IEYuc29mdG1heChtb2RlbChpbnB1dHMpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZGljdHMgPSBucC5hcmdtYXgocHJlZGljdHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobnAuYXJyYXkocHJlZGljdHMpLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuY2xhc3NpZmllciA9IG5uLlNlcXVlbnRpYWwoCiAgICAgICAgIyAgICAgbm4uTGluZWFyKDUxMiAqIGZlYXR1cmVfc2l6ZVswXSAqIGZlYXR1cmVfc2l6ZVsxXSwgNDA5NiksCiAgICAgICAgIyAgICAgbm4uUmVMVShUcnVlKSwKICAgICAgICAjICAgICBubi5Ecm9wb3V0KCksCiAgICAgICAgIyAgICAgbm4uTGluZWFyKDQwOTYsIDQwOTYpLAogICAgICAgICMgICAgIG5uLlJlTFUoVHJ1ZSksCiAgICAgICAgIyAgICAgbm4uRHJvcG91dCgpLAogICAgICAgICMgICAgIG5uLkxpbmVhcig0MDk2LCBudW1fY2xhc3NlcyksCiAgICAgICAgIyApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgb3V0cHV0cyA9IEYuc29mdG1heChtb2RlbChpbnB1dHMpLCAxKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJlZGljdHMuc2hhcGUpCg==</text>
+        <text encoding="base64">ZnJvbSB0b3JjaC5ubi4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gRi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJlZGljdHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -281,8 +283,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inputs</entry>
-        <entry>trainse</entry>
         <entry>class</entry>
         <entry>cap</entry>
         <entry>int</entry>
@@ -290,17 +290,19 @@
         <entry>64</entry>
         <entry>mode</entry>
         <entry>model =</entry>
-        <entry>model</entry>
         <entry>model.</entry>
         <entry>no_grad</entry>
         <entry>print</entry>
         <entry>output</entry>
         <entry>thre</entry>
-        <entry>softmax</entry>
         <entry>shuff</entry>
         <entry>class_file</entry>
         <entry>class_core</entry>
         <entry>data</entry>
+        <entry>foft</entry>
+        <entry>soft</entry>
+        <entry>softmax</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
