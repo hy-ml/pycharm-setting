@@ -28,10 +28,11 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1544000119762">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1544003066611">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="89" column="33" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1541680903410">
         <mark key="[" line="0" column="0" />
@@ -239,43 +240,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ2V4dHJhY3QnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBjYXRlZ29yaWVzX2luX3NjZW5lIGluIG5vdCBOb25lOgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>class_file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vlbl9jYXRlZ29yaWVzID0gXAogICAgICAgICAgICAgICAgZGN0X2NhdGVnb3JpZXNfaW5fc2NlbmVbbW92aWVfZGlyLm5hbWVdWydzZWVuX2NhdGVnb3JpZXMnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWxzID0gdG9yY2guYXJnbWF4KG91dHB1dHMuY3B1KCksIGRpbT0xKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ2V4dHJhY3QnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBjYXRlZ29yaWVzX2luX3NjZW5lIGluIG5vdCBOb25lOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5kaWNlcyA9IHRvcmNoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vlbl9jYXRlZ29yaWVzID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWxzID0gdG9yY2guYXJnbWF4KG91dHB1dHMuY3B1KCksIGRpbT0xKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vlbl9jYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWxzID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ2V4dHJhY3QnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHBhcnNlX2NsYXNzX2xpc3QoY2xhc3NfZmlsZSk6CiAgICB3aXRoIG9wZW4oY2xhc3NfZmlsZSwgJ3InKSBhcyBmcDoKICAgICAgICBsaW5lcyA9IGZwLnJlYWRsaW5lcygpCiAgICBjbGFzc190YmwgPSB7fQogICAgZm9yIGxpbmUgaW4gbGluZXM6CiAgICAgICAgY2xhc3NfbmFtZSA9IGxpbmUuc3BsaXQoJywnKVswXS5zdHJpcCgpCiAgICAgICAgY2xhc3NfbGJsID0gaW50KGxpbmUuc3BsaXQoJywnKVsxXS5zdHJpcCgpKQogICAgICAgIGNsYXNzX3RibFtjbGFzc19sYmxdID0gY2xhc3NfbmFtZQogICAgcmV0dXJuIGNsYXNzX3RibAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vlbl9jYXRlZ29yaWVzID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0ncGF0aCB0byB0aGUgY2xhc3MgZGVmaW5pdGluIGZpbGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vlbl9jYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tY2xhc3NfZmlsZScsIHR5cGU9c3RyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -330,6 +331,7 @@
         <entry>q</entry>
         <entry>w]</entry>
         <entry>83</entry>
+        <entry>95</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
