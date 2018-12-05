@@ -33,10 +33,11 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1543985259307">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1543986567334">
+        <mark key="[" line="148" column="12" />
+        <mark key="]" line="148" column="12" />
+        <mark key="." line="148" column="12" />
+        <mark key="^" line="148" column="12" />
       </file>
       <file name="/a.dummy" timestamp="1541680903410">
         <mark key="[" line="0" column="0" />
@@ -231,52 +232,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>category_list_</text>
+        <text>indices</text>
       </register>
       <register name="/" type="4">
-        <text>outputs</text>
+        <text>annotao</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyUyMHM6ICUwM2YnICUKICAgICAgICAgICAgICAgICAgKGxibF9uYW1lLCBjbGFzc19jb2xsZWN0W2xibF9pZF0gLyBjbGFzc190b3RhbFtsYmxfaWRdKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBkYXRhLnRyYW5zCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F0ZWdvcnlfbGlzdF9pbl9zY2VuZSA9IE5vbmUK</text>
+        <text encoding="base64">ZnIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2F0ZWdvcmllc19pbl9zY2VuZSA9IGRjdF9jYXRlZ29yeV9saXN0X2luX3NjZW5lCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRhLm15X3RyYW5zZm9ybXMgaW1wb3J0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkY3RfY2F0ZWdvcnlfbGlzdF9pbl9zY2VuZSBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>outputs</last-search>
+      <last-search>annotao</last-search>
       <last-offset />
-      <last-pattern>outputs</last-pattern>
+      <last-pattern>annotao</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -284,7 +285,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cap</entry>
         <entry>int</entry>
         <entry>make</entry>
         <entry>64</entry>
@@ -304,6 +304,7 @@
         <entry>softmax</entry>
         <entry>model</entry>
         <entry>outputs</entry>
+        <entry>annotao</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
