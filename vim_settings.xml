@@ -3,19 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" timestamp="1541827119669">
-        <mark key="'" line="33" column="28" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="37" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/train_dataset.py" timestamp="1541337231815">
-        <mark key="'" line="38" column="25" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net.py" timestamp="1541910954142">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -28,22 +15,8 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1544003670280">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="89" column="33" />
-        <mark key="." line="94" column="0" />
-        <mark key="o" line="94" column="2" />
-      </file>
       <file name="/a.dummy" timestamp="1541680903410">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" timestamp="1541723848409">
-        <mark key="'" line="11" column="44" />
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="28" />
-        <mark key="." line="39" column="28" />
-        <mark key="^" line="39" column="28" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" timestamp="1541727452423">
         <mark key="'" line="145" column="49" />
@@ -60,16 +33,10 @@
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/check_duplicate.py" timestamp="1544084833318">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="56" />
-        <mark key="^" line="22" column="56" />
-        <mark key="." line="22" column="56" />
+      <file name="$USER_HOME$/projects/movie_dataset/classification/check_duplicate.py" timestamp="1544088763333">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" timestamp="1541909299014">
         <mark key="'" line="39" column="29" />
@@ -85,12 +52,6 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_openset.py" timestamp="1541910981601">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="34" />
-      </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_dropout_sampling.py" timestamp="1541659448948">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -102,6 +63,52 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" timestamp="1541910858868">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="55" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="34" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/fix_duplicate.py" timestamp="1544089196332">
+        <mark key="[" line="35" column="69" />
+        <mark key="]" line="36" column="34" />
+        <mark key="^" line="36" column="34" />
+        <mark key="." line="36" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" timestamp="1541827119669">
+        <mark key="'" line="33" column="28" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1544003670280">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="89" column="33" />
+        <mark key="." line="94" column="0" />
+        <mark key="o" line="94" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" timestamp="1541723848409">
+        <mark key="'" line="11" column="44" />
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
+      </file>
+      <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="56" />
+        <mark key="^" line="22" column="56" />
+        <mark key="." line="22" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_openset.py" timestamp="1541910981601">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="34" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_unseen.csv" timestamp="1541679026286">
         <mark key="[" line="0" column="0" />
@@ -121,13 +128,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="60" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" timestamp="1541910858868">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="55" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="34" column="4" />
       </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
@@ -245,44 +245,44 @@
       <jump line="28" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJlZGljdCkK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>class_file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWxzID0gdG9yY2guYXJnbWF4KG91dHB1dHMuY3B1KCksIGRpbT0xKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihhcmdzLnByZWRpY3QsICdyYicpIGFzIGZwOgogICAgICAgIHJlc3VsdHMgPSBwaWNrbGUubG9hZChmcCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJlZGljdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxhYmVsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtb3ZpZV9uYW1lICE9ICdtb3ZpZV81XzJfMyc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHByZWRpY3QpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNvdW50KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChtb3ZpZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudCArPSAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtb3ZpZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgbW92aWUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXRuKHByZSkK</text>
+        <text encoding="base64">ICAgIHcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
