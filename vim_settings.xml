@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" timestamp="1544417716452">
+        <mark key="[" line="65" column="64" />
+        <mark key="]" line="66" column="20" />
+        <mark key="^" line="66" column="20" />
+        <mark key="." line="66" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net.py" timestamp="1541910954142">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -18,14 +24,23 @@
       <file name="/a.dummy" timestamp="1541680903410">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_class_agnostic_320x240.yaml" timestamp="1544417089556">
+        <mark key="'" line="18" column="63" />
+        <mark key="[" line="18" column="53" />
+        <mark key="]" line="18" column="63" />
+        <mark key="^" line="18" column="63" />
+        <mark key="." line="18" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_320x240.yaml" timestamp="1544417033050">
+        <mark key="[" line="18" column="63" />
+        <mark key="]" line="18" column="63" />
+        <mark key="^" line="18" column="63" />
+        <mark key="." line="18" column="63" />
+      </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" timestamp="1541727452423">
         <mark key="'" line="145" column="49" />
         <mark key="[" line="134" column="0" />
         <mark key="]" line="150" column="16" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/file/annotation.csv" timestamp="1541678171982">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="30" column="9" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/clustering/clustering.py" timestamp="1541648247213">
         <mark key="[" line="36" column="16" />
@@ -70,6 +85,18 @@
         <mark key="]" line="33" column="55" />
         <mark key="^" line="8" column="29" />
         <mark key="." line="34" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_class_agnostic_640x480.yaml" timestamp="1544417114756">
+        <mark key="[" line="18" column="53" />
+        <mark key="]" line="18" column="59" />
+        <mark key="^" line="18" column="59" />
+        <mark key="." line="18" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_640x480.yaml" timestamp="1544417063720">
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="17" column="58" />
+        <mark key="^" line="18" column="62" />
+        <mark key="." line="17" column="58" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" timestamp="1541827119669">
         <mark key="'" line="33" column="28" />
@@ -123,6 +150,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="60" />
       </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" timestamp="1544417453732">
+        <mark key="'" line="32" column="5" />
+      </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="17" />
@@ -137,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
-      <jump line="64" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
       <jump line="62" column="16" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
       <jump line="63" column="32" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
       <jump line="52" column="18" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
@@ -237,55 +265,57 @@
       <jump line="16" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
       <jump line="27" column="58" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
       <jump line="28" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
+      <jump line="18" column="63" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_class_agnostic_320x240.yaml" />
+      <jump line="32" column="5" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>class_file</text>
+        <text>breka</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpdGggb3BlbihhcmdzLnByZWRpY3QsICdyYicpIGFzIGZwOgogICAgICAgIHJlc3VsdHMgPSBwaWNrbGUubG9hZChmcCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcGVuM2QuZHJhd19nZW9tZXRyaWVzKFtwY2RdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChtb3ZpZV9kYXRhc2V0X2NhdGVnb3JpZXNbbGFiZWxdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcGVuM2QuZHJhd19nZW9tZXRyaWVzKFtwY2RdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChtb3ZpZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChtb3ZpZV9kYXRhc2V0X2NhdGVnb3JpZXNbbGFiZWxdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChtb3ZpZV9uYW1lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChsYWJlbCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChsYWJlbCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>class_file</last-search>
+      <last-search>breka</last-search>
       <last-offset />
-      <last-pattern>class_file</last-pattern>
+      <last-pattern>breka</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -293,8 +323,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry>output</entry>
         <entry>thre</entry>
         <entry>shuff</entry>
         <entry>class_core</entry>
@@ -313,9 +341,10 @@
         <entry>movie_list</entry>
         <entry>parse_class</entry>
         <entry>class_file</entry>
+        <entry>BACK</entry>
+        <entry>breka</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>1</entry>
         <entry>%s/pcd_data/cluster_data/gc</entry>
         <entry>split</entry>
@@ -332,6 +361,7 @@
         <entry>w]</entry>
         <entry>83</entry>
         <entry>95</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
