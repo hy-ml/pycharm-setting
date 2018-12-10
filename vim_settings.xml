@@ -151,8 +151,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" timestamp="1544420590972">
-        <mark key="'" line="108" column="11" />
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" timestamp="1544424891720">
+        <mark key="'" line="77" column="21" />
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="29" />
+        <mark key="." line="75" column="29" />
       </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
@@ -168,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="36" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
       <jump line="123" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
       <jump line="83" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="82" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
@@ -268,6 +270,7 @@
       <jump line="45" column="21" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/data/build.py" />
       <jump line="52" column="64" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
       <jump line="108" column="11" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
+      <jump line="77" column="21" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
