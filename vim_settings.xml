@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" timestamp="1544419623954">
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" timestamp="1544425848790">
         <mark key="[" line="45" column="26" />
-        <mark key="]" line="66" column="20" />
-        <mark key="^" line="66" column="20" />
-        <mark key="." line="66" column="20" />
+        <mark key="]" line="45" column="26" />
+        <mark key="^" line="45" column="26" />
+        <mark key="." line="45" column="26" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net.py" timestamp="1541910954142">
         <mark key="[" line="25" column="0" />
@@ -151,8 +151,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" timestamp="1544424891720">
-        <mark key="'" line="77" column="21" />
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" timestamp="1544425856679">
+        <mark key="'" line="61" column="43" />
         <mark key="[" line="75" column="28" />
         <mark key="]" line="75" column="29" />
         <mark key="." line="75" column="29" />
@@ -171,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
       <jump line="83" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="82" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="81" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
@@ -271,6 +270,7 @@
       <jump line="52" column="64" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
       <jump line="108" column="11" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
       <jump line="77" column="21" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
+      <jump line="61" column="43" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -280,7 +280,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>NUM_WOR</text>
+        <text>NU</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpdGggb3BlbihhcmdzLnByZWRpY3QsICdyYicpIGFzIGZwOgogICAgICAgIHJlc3VsdHMgPSBwaWNrbGUubG9hZChmcCkK</text>
@@ -317,9 +317,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NUM_WOR</last-search>
+      <last-search>NU</last-search>
       <last-offset />
-      <last-pattern>NUM_WOR</last-pattern>
+      <last-pattern>NU</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -327,7 +327,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>foft</entry>
         <entry>soft</entry>
         <entry>softmax</entry>
@@ -347,6 +346,7 @@
         <entry>class_agnostic</entry>
         <entry>num</entry>
         <entry>NUM_WOR</entry>
+        <entry>NU</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
