@@ -9,6 +9,13 @@
         <mark key="^" line="45" column="26" />
         <mark key="." line="45" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" timestamp="1544439367503">
+        <mark key="'" line="88" column="26" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="91" column="34" />
+        <mark key="." line="117" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net.py" timestamp="1541910954142">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -119,7 +126,6 @@
         <mark key="." line="39" column="28" />
         <mark key="^" line="39" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/setup.py" timestamp="1544418190635" />
       <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="56" />
@@ -171,9 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="82" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="81" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="80" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="45" column="52" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="59" column="18" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
@@ -271,19 +274,22 @@
       <jump line="108" column="11" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
       <jump line="77" column="21" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
       <jump line="61" column="43" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
+      <jump line="82" column="23" filename="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" />
+      <jump line="54" column="26" filename="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" />
+      <jump line="84" column="26" filename="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>NU</text>
+        <text>self._trans</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihhcmdzLnByZWRpY3QsICdyYicpIGFzIGZwOgogICAgICAgIHJlc3VsdHMgPSBwaWNrbGUubG9hZChmcCkK</text>
+        <text encoding="base64">ICAgICAgICBwb2ludHMgPSBsYWJlbGVkX3BjZFs6LCAzXQogICAgICAgIGNvbG9ycyA9IGxhYmVsZWRfcGNkWzosIDM6Nl0KICAgICAgICBsYWJlbHMgPSBsYWJlbGVkX3BjZFs6LCA2XQogICAgICAgIHBjZCA9IG9wZW4zZC5Qb2ludENsb3VkKCkKICAgICAgICBwY2QucG9pbnRzID0gb3BlbjNkLlZlY3RvcjNkVmVjdG9yKHBvaW50cykKICAgICAgICBwY2QuY29sb3JzID0gb3BlbjNkLlZlY3RvcjNkVmVjdG9yKGNvbG9ycykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -292,34 +298,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVwdGhzID0gcHRzWzosIDJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsYmxzID0gcGNkWzosIC0xXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcGVuM2QuZHJhd19nZW9tZXRyaWVzKFtwY2RdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwdHMgPSBwY2RbOiwgOjNdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChtb3ZpZV9kYXRhc2V0X2NhdGVnb3JpZXNbbGFiZWxdKQo=</text>
+        <text encoding="base64">ICAgICAgICBsYmxzID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChtb3ZpZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVwdGhzID0gcHRzWzosIDJdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbHMgPSBsYWJlbGVkX3BjZFs6LCAtMV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXB0aCA9IGxhYmVsZWRfcGNkWzosIDNdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NU</last-search>
+      <last-search>self._trans</last-search>
       <last-offset />
-      <last-pattern>NU</last-pattern>
+      <last-pattern>self._trans</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -327,8 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry>foft</entry>
-        <entry>soft</entry>
         <entry>softmax</entry>
         <entry>model</entry>
         <entry>outputs</entry>
@@ -347,6 +351,8 @@
         <entry>num</entry>
         <entry>NUM_WOR</entry>
         <entry>NU</entry>
+        <entry>_transform</entry>
+        <entry>self._trans</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
@@ -366,6 +372,7 @@
         <entry>83</entry>
         <entry>95</entry>
         <entry>wq</entry>
+        <entry>54</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
