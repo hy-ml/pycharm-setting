@@ -71,12 +71,6 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="34" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/fix_duplicate.py" timestamp="1544096057932">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="43" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" timestamp="1541827119669">
         <mark key="'" line="33" column="28" />
         <mark key="[" line="54" column="0" />
