@@ -15,6 +15,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/structures/boxlist_ops.py" timestamp="1544518525241" />
       <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541329365728">
         <mark key="'" line="4" column="16" />
         <mark key="[" line="59" column="49" />
@@ -164,6 +165,9 @@
         <mark key="]" line="75" column="29" />
         <mark key="." line="75" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/modeling/roi_heads/box_head/inference.py" timestamp="1544518433627">
+        <mark key="'" line="14" column="56" />
+      </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="17" />
@@ -176,11 +180,11 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/tools/test_net.py" timestamp="1544515210221">
+        <mark key="'" line="89" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="39" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="75" column="18" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="77" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="78" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="71" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="134" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
@@ -278,6 +282,9 @@
       <jump line="127" column="37" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="182" column="16" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="181" column="26" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/tools/test_net.py" />
+      <jump line="89" column="8" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/tools/test_net.py" />
+      <jump line="14" column="56" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/modeling/roi_heads/box_head/inference.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -287,7 +294,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>min</text>
+        <text>boxlist_nms</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwb2ludHMgPSBsYWJlbGVkX3BjZFs6LCAzXQogICAgICAgIGNvbG9ycyA9IGxhYmVsZWRfcGNkWzosIDM6Nl0KICAgICAgICBsYWJlbHMgPSBsYWJlbGVkX3BjZFs6LCA2XQogICAgICAgIHBjZCA9IG9wZW4zZC5Qb2ludENsb3VkKCkKICAgICAgICBwY2QucG9pbnRzID0gb3BlbjNkLlZlY3RvcjNkVmVjdG9yKHBvaW50cykKICAgICAgICBwY2QuY29sb3JzID0gb3BlbjNkLlZlY3RvcjNkVmVjdG9yKGNvbG9ycykK</text>
@@ -324,9 +331,9 @@
       </register>
     </registers>
     <search>
-      <last-search>min</last-search>
+      <last-search>boxlist_nms</last-search>
       <last-offset />
-      <last-pattern>min</last-pattern>
+      <last-pattern>boxlist_nms</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -334,8 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>model</entry>
-        <entry>outputs</entry>
         <entry>annotao</entry>
         <entry>trans</entry>
         <entry>get</entry>
@@ -354,6 +359,8 @@
         <entry>_transform</entry>
         <entry>self._trans</entry>
         <entry>min</entry>
+        <entry>synchronize</entry>
+        <entry>boxlist_nms</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
