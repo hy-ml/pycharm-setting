@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" timestamp="1544425848790">
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" timestamp="1544513522285">
+        <mark key="'" line="181" column="26" />
         <mark key="[" line="45" column="26" />
         <mark key="]" line="45" column="26" />
         <mark key="^" line="45" column="26" />
@@ -28,11 +29,11 @@
         <mark key="^" line="18" column="63" />
         <mark key="." line="18" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_320x240.yaml" timestamp="1544422043182">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="21" column="5" />
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_320x240.yaml" timestamp="1544513593136">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="18" />
         <mark key="^" line="21" column="5" />
-        <mark key="." line="21" column="5" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/clustering/clustering.py" timestamp="1541648247213">
         <mark key="[" line="36" column="16" />
@@ -131,6 +132,12 @@
         <mark key="." line="13" column="36" />
         <mark key="^" line="13" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_101_FPN_1x_class_agnostic_640x480.yaml" timestamp="1544513601324">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1544513668950" />
       <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_unseen.csv" timestamp="1541679026286">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -170,9 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="45" column="52" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="59" column="18" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="68" column="39" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="75" column="18" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
       <jump line="77" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
@@ -270,16 +274,19 @@
       <jump line="82" column="23" filename="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" />
       <jump line="54" column="26" filename="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" />
       <jump line="84" column="26" filename="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" />
+      <jump line="127" column="37" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" />
+      <jump line="182" column="16" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" />
+      <jump line="181" column="26" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>self._trans</text>
+        <text>min</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwb2ludHMgPSBsYWJlbGVkX3BjZFs6LCAzXQogICAgICAgIGNvbG9ycyA9IGxhYmVsZWRfcGNkWzosIDM6Nl0KICAgICAgICBsYWJlbHMgPSBsYWJlbGVkX3BjZFs6LCA2XQogICAgICAgIHBjZCA9IG9wZW4zZC5Qb2ludENsb3VkKCkKICAgICAgICBwY2QucG9pbnRzID0gb3BlbjNkLlZlY3RvcjNkVmVjdG9yKHBvaW50cykKICAgICAgICBwY2QuY29sb3JzID0gb3BlbjNkLlZlY3RvcjNkVmVjdG9yKGNvbG9ycykK</text>
@@ -312,13 +319,13 @@
         <text encoding="base64">ICAgICAgICBkZXB0aCA9IGxhYmVsZWRfcGNkWzosIDNdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>self._trans</last-search>
+      <last-search>min</last-search>
       <last-offset />
-      <last-pattern>self._trans</last-pattern>
+      <last-pattern>min</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -326,7 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry>softmax</entry>
         <entry>model</entry>
         <entry>outputs</entry>
         <entry>annotao</entry>
@@ -346,6 +352,7 @@
         <entry>NU</entry>
         <entry>_transform</entry>
         <entry>self._trans</entry>
+        <entry>min</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
@@ -360,13 +367,13 @@
         <entry>%s/data/seen_data/gc</entry>
         <entry>62</entry>
         <entry>s</entry>
-        <entry>q</entry>
         <entry>w]</entry>
         <entry>83</entry>
         <entry>95</entry>
         <entry>wq</entry>
         <entry>54</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
