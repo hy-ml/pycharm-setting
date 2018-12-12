@@ -178,19 +178,18 @@
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1544513668950" />
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/inference.py" timestamp="1544521667635" />
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544599742970">
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544609424174">
         <mark key="p" line="0" column="0" />
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="4" />
-        <mark key="^" line="21" column="4" />
+        <mark key="[" line="49" column="72" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" timestamp="1544606448546">
-        <mark key="'" line="93" column="27" />
-        <mark key="[" line="52" column="66" />
-        <mark key="]" line="52" column="71" />
-        <mark key="." line="52" column="71" />
-        <mark key="^" line="52" column="71" />
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" timestamp="1544610898051">
+        <mark key="'" line="82" column="14" />
+        <mark key="[" line="83" column="23" />
+        <mark key="]" line="83" column="24" />
+        <mark key="^" line="83" column="24" />
+        <mark key="." line="83" column="24" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_unseen.csv" timestamp="1541679026286">
         <mark key="[" line="0" column="0" />
@@ -254,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="16" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="41" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="59" column="29" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="57" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
@@ -351,58 +348,60 @@
       <jump line="53" column="17" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
       <jump line="54" column="33" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
       <jump line="38" column="22" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="10" column="4" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="93" column="27" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
+      <jump line="31" column="28" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
+      <jump line="69" column="26" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
+      <jump line="82" column="14" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>sample_step</text>
+        <text>time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KG91dF9mb3JtYXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRmluaXNoOiB7Oi4yfSwgezouMn0sIHs6LjJ9Ii5mb3JtYXQocmF0aW8sIHRocmVzaG9sZCwgYmFzZV90aHJlc2hvbGQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IHRpbWUudGltZSgpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2FtCg==</text>
+        <text encoding="base64">ICAgIG91dHBhdGggPSBvcy5wYXRoLmpvaW4oYXJncy5vdXRkaXIsICdyYXRpb197Oi4yfV90aHJlc2hvbGRfezouMn1fYmFzZV9yYXRpb197Oi4yfS5wa2wnLmZvcm1hdCgKICAgICAgICByYXRpbywgdGhyZXNob2xkLCBiYXNlX3JhdGlvKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRocmVzaG9sZCBpbiBsc3RfdGhyZXNob2xkOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MubnVtX3Byb2Nlc3NlcyA+IDE6Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYmFzZV90aHJlc2hvbGQgaW4gbHN0X2Jhc2VfdGhyZXNob2xkOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIFBvb2woYXJncy5udW1fcHJvY2Vzc2VzKSBhcyBwOgogICAgICAgICAgICBwLm1hdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3ByZWRpY3RzXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGxhYmVsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sample_step</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern>sample_step</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -410,7 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>checkpoints</entry>
         <entry>dat</entry>
         <entry>num</entry>
         <entry encoding="base64">ID0gMA==</entry>
@@ -430,9 +428,9 @@
         <entry>data</entry>
         <entry>init</entry>
         <entry>sample_step</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
-        <entry>split</entry>
         <entry>%s/pretrained/False/gc</entry>
         <entry>%s/pretrained/True/gc</entry>
         <entry>%s/pretrained//gc</entry>
@@ -451,6 +449,7 @@
         <entry>15</entry>
         <entry>42</entry>
         <entry>s</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
