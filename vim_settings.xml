@@ -185,12 +185,12 @@
         <mark key="." line="21" column="4" />
         <mark key="^" line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" timestamp="1544605749632">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="52" column="54" />
-        <mark key="]" line="52" column="58" />
-        <mark key="." line="52" column="58" />
-        <mark key="^" line="52" column="58" />
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" timestamp="1544606448546">
+        <mark key="'" line="93" column="27" />
+        <mark key="[" line="52" column="66" />
+        <mark key="]" line="52" column="71" />
+        <mark key="." line="52" column="71" />
+        <mark key="^" line="52" column="71" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_unseen.csv" timestamp="1541679026286">
         <mark key="[" line="0" column="0" />
@@ -254,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="67" column="16" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="41" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="59" column="29" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
@@ -354,55 +353,56 @@
       <jump line="38" column="22" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="10" column="4" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
+      <jump line="93" column="27" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text>sample_step</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KG91dF9mb3JtYXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MubnVtX3Byb2Nlc3NlcyA+IDE6Cg==</text>
+        <text encoding="base64">c2FtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIFBvb2woYXJncy5udW1fcHJvY2Vzc2VzKSBhcyBwOgogICAgICAgICAgICBwLm1hdAo=</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MubnVtX3Byb2Nlc3NlcyA+IDE6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxzdF8K</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIFBvb2woYXJncy5udW1fcHJvY2Vzc2VzKSBhcyBwOgogICAgICAgICAgICBwLm1hdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxzdAo=</text>
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search>sample_step</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern>sample_step</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -410,7 +410,6 @@
     </search>
     <history>
       <history-search>
-        <entry>min_val</entry>
         <entry>checkpoints</entry>
         <entry>dat</entry>
         <entry>num</entry>
@@ -430,6 +429,7 @@
         <entry>ex</entry>
         <entry>data</entry>
         <entry>init</entry>
+        <entry>sample_step</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
