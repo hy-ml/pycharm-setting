@@ -16,6 +16,11 @@
         <mark key="." line="57" column="58" />
         <mark key="^" line="57" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net.py" timestamp="1541910954142">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/structures/boxlist_ops.py" timestamp="1544518525241" />
       <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541329365728">
         <mark key="'" line="4" column="16" />
@@ -37,6 +42,11 @@
         <mark key="^" line="21" column="5" />
         <mark key="." line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/support_tools/check_bbox.py" timestamp="1544588236378">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/layers/nms.py" timestamp="1544522831872">
         <mark key="[" line="22" column="17" />
         <mark key="]" line="22" column="17" />
@@ -48,6 +58,11 @@
         <mark key="]" line="34" column="48" />
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/check_duplicate.py" timestamp="1544094979085">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" timestamp="1541909299014">
         <mark key="'" line="39" column="29" />
@@ -62,6 +77,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_dropout_sampling.py" timestamp="1541659448948">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/data/datasets/movie_dataset.py" timestamp="1544531399535">
         <mark key="'" line="68" column="26" />
@@ -158,6 +178,12 @@
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1544513668950" />
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/inference.py" timestamp="1544521667635" />
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" timestamp="1544588402266">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="56" column="37" />
+      </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_unseen.csv" timestamp="1541679026286">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -212,16 +238,15 @@
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="88" />
       </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" timestamp="1544588711218">
+        <mark key="'" line="58" column="33" />
+        <mark key="[" line="86" column="27" />
+        <mark key="]" line="87" column="18" />
+        <mark key="." line="87" column="18" />
+        <mark key="^" line="87" column="18" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="46" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="3" column="38" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="41" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="75" column="7" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="31" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="84" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="82" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
@@ -314,55 +339,63 @@
       <jump line="89" column="42" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/tools/save_predicted_bbox_and_score.py" />
       <jump line="91" column="20" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/tools/save_predicted_bbox_and_score.py" />
       <jump line="94" column="12" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/tools/save_predicted_bbox_and_score.py" />
+      <jump line="58" column="30" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
+      <jump line="15" column="4" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
+      <jump line="76" column="57" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
+      <jump line="49" column="36" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
+      <jump line="50" column="11" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
+      <jump line="53" column="17" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
+      <jump line="54" column="33" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZpbmlzaGVkOiB7Oi4yJX0iLmZvcm1hdChpIC8gKGRhdGFfbG9hZGVyX3Rlc3QuYmF0Y2hfc2l6ZSAqIGxlbihkYXRhX2xvYWRlcl90ZXN0KSkpKQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>i</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wb3NhbHMgPSBwcm9wb3NhbHMuc3BsaXQoYm94ZXNfcGVyX2ltYWdlLCBkaW09MCkKICAgICAgICBjbGFzc19wcm9iID0gY2xhc3NfcHJvYi5zcGxpdChib3hlc19wZXJfaW1hZ2UsIGRpbT0wKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykKICAgICAgICAjIGZvciBpLCAoYl9wLCBjX3AsIGltZ19wYXRoKSBpbiBlbnVtZXJhdGUoemlwKAogICAgICAgICMgICAgICAgICBib3hlc19wcmVkaWN0LCBjbGFzc19zY29yZXNfcHJlZGljdCwgaW1nX3BhdGhzKSk6CiAgICAgICAgZm9yIGl0ZXIsIGlkeCBpbiBlbnVtZXJhdGUocmFuZ2UoMCwgbGVuKGltZ19wYXRocyksIDEwMCkpOgogICAgICAgICAgICBwcmludChpdGVyKQogICAgICAgICAgICBpZiBpdGVyID4gMTAwOgogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgYl9wID0gYm94ZXNfcHJlZGljdFtpZHhdCiAgICAgICAgICAgIGNfcCA9IGNsYXNzX3Njb3Jlc19wcmVkaWN0W2lkeF0KICAgICAgICAgICAgaW1nX3BhdGggPSBpbWdfcGF0aHNbaWR4XQogICAgICAgICAgICBpbWcgPSBjdjIuaW1yZWFkKG9zLnBhdGguam9pbihhcmdzLmRhdGFfZGlyLCBpbWdfcGF0aCksIGN2Mi5JTVJFQURfQ09MT1IpCiAgICAgICAgICAgIGltZyA9IGN2Mi5yZXNpemUoaW1nLCAoNjQwLCA0ODApLCBjdjIuSU5URVJfQ1VCSUMpCiAgICAgICAgICAgICMgaW1nID0gSW1hZ2Uub3Blbihvcy5wYXRoLmpvaW4oYXJncy5kYXRhX2RpciwgaW1nX3BhdGgpKS5yZXNpemUoKDY0MCwgNDgwKSkKICAgICAgICAgICAgaW1nID0gY3YyLmN2dENvbG9yKG5wLmFycmF5KGltZyksIGN2Mi5DT0xPUl9SR0IyQkdSKQogICAgICAgICAgICBsYWJlbHNfcHJlZGljdCA9IG5wLmFyZ21heChjX3AsIGF4aXM9LTEpCiAgICAgICAgICAgIGNfcCA9IGNfcFtsYWJlbHNfcHJlZGljdCA9PSAxLCAxXQogICAgICAgICAgICBiX3AgPSBiX3BbbGFiZWxzX3ByZWRpY3QgPT0gMSwgNDpdCiAgICAgICAgICAgIGJfcF9rZWVwLCBfID0gbm1zX3dpdGhfaW1nX3NpbWlsYXJpdHkoCiAgICAgICAgICAgICAgICBiX3AsIGNfcCwgaW1nLCB0aHJlc2hvbGQ9MSwgcmF0ZV9zaW1pbGFyaXR5PXJhdGlvKQogICAgICAgICAgICBjX3Bfa2VlcCA9IG5wLm9uZXMoYl9wX2tlZXAuc2hhcGVbMF0pCiAgICAgICAgICAgIHNhdmVfZGF0YSA9IGFwcGVuZF9zYXZlX2RhdGEoc2F2ZV9kYXRhLCBiX3Bfa2VlcCwgY19wX2tlZXAsIGltZ19wYXRoKQoKICAgICAgICAgICAgcHJpbnQoJ0ZpbmlzaGVkOiB7fS97fScuZm9ybWF0KGl0ZXIsIGxlbihpbWdfcGF0aHMpKSkKICAgICAgICBvdXRwYXRoID0gb3MucGF0aC5qb2luKGFyZ3Mub3V0ZGlyLCAncmF0aW9fezouMn0ucGtsJy5mb3JtYXQocmF0aW8pKQogICAgICAgIHdpdGggb3BlbihvdXRwYXRoLCAnd2InKSBhcyBmcDoKICAgICAgICAgICAgcGlja2xlLmR1bXAoc2F2ZV9kYXRhLCBmcCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImZpbmlzaGVkOiB7Oi4yJX0iLmZvcm1hdChpIC8gKGRhdGFfbG9hZGVyX3Rlc3QuYmF0Y2hfc2l6ZSAqIGxlbihkYXRhX2xvYWRlcl90ZXN0KSkpKQo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb21waWxlKCkK</text>
+        <text encoding="base64">CgoKCiAgICAgICAgIyBmb3IgaSwgKGJfcCwgY19wLCBpbWdfcGF0aCkgaW4gZW51bWVyYXRlKHppcCgKICAgICAgICAjICAgICAgICAgYm94ZXNfcHJlZGljdCwgY2xhc3Nfc2NvcmVzX3ByZWRpY3QsIGltZ19wYXRocykpOgogICAgICAgICMgZm9yIGl0ZXIsIGlkeCBpbiBlbnVtZXJhdGUocmFuZ2UoMCwgbGVuKGltZ19wYXRocyksIDEwMCkpOgogICAgICAgICMgICAgIHByaW50KGl0ZXIpCiAgICAgICAgIyAgICAgaWYgaXRlciA+IDEwMDoKICAgICAgICAjICAgICAgICAgYnJlYWsKICAgICAgICAjICAgICBiX3AgPSBib3hlc19wcmVkaWN0W2lkeF0KICAgICAgICAjICAgICBjX3AgPSBjbGFzc19zY29yZXNfcHJlZGljdFtpZHhdCiAgICAgICAgIyAgICAgaW1nX3BhdGggPSBpbWdfcGF0aHNbaWR4XQogICAgICAgICMgICAgIGltZyA9IGN2Mi5pbXJlYWQob3MucGF0aC5qb2luKGFyZ3MuZGF0YV9kaXIsIGltZ19wYXRoKSwgY3YyLklNUkVBRF9DT0xPUikKICAgICAgICAjICAgICBpbWcgPSBjdjIucmVzaXplKGltZywgKDY0MCwgNDgwKSwgY3YyLklOVEVSX0NVQklDKQogICAgICAgICMgICAgICMgaW1nID0gSW1hZ2Uub3Blbihvcy5wYXRoLmpvaW4oYXJncy5kYXRhX2RpciwgaW1nX3BhdGgpKS5yZXNpemUoKDY0MCwgNDgwKSkKICAgICAgICAjICAgICBpbWcgPSBjdjIuY3Z0Q29sb3IobnAuYXJyYXkoaW1nKSwgY3YyLkNPTE9SX1JHQjJCR1IpCiAgICAgICAgIyAgICAgbGFiZWxzX3ByZWRpY3QgPSBucC5hcmdtYXgoY19wLCBheGlzPS0xKQogICAgICAgICMgICAgIGNfcCA9IGNfcFtsYWJlbHNfcHJlZGljdCA9PSAxLCAxXQogICAgICAgICMgICAgIGJfcCA9IGJfcFtsYWJlbHNfcHJlZGljdCA9PSAxLCA0Ol0KICAgICAgICAjICAgICBiX3Bfa2VlcCwgXyA9IG5tc193aXRoX2ltZ19zaW1pbGFyaXR5KAogICAgICAgICMgICAgICAgICBiX3AsIGNfcCwgaW1nLCB0aHJlc2hvbGQ9MSwgcmF0ZV9zaW1pbGFyaXR5PXJhdGlvKQogICAgICAgICMgICAgIGNfcF9rZWVwID0gbnAub25lcyhiX3Bfa2VlcC5zaGFwZVswXSkKICAgICAgICAjICAgICBzYXZlX2RhdGEgPSBhcHBlbmRfc2F2ZV9kYXRhKHNhdmVfZGF0YSwgYl9wX2tlZXAsIGNfcF9rZWVwLCBpbWdfcGF0aCkKCiAgICAgICAgIyAgICAgcHJpbnQoJ0ZpbmlzaGVkOiB7fS97fScuZm9ybWF0KGl0ZXIsIGxlbihpbWdfcGF0aHMpKSkKICAgICAgICAjIG91dHBhdGggPSBvcy5wYXRoLmpvaW4oYXJncy5vdXRkaXIsICdyYXRpb197Oi4yfS5wa2wnLmZvcm1hdChyYXRpbykpCiAgICAgICAgIyB3aXRoIG9wZW4ob3V0cGF0aCwgJ3diJykgYXMgZnA6CiAgICAgICAgIyAgICBwaWNrbGUuZHVtcChzYXZlX2RhdGEsIGZwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSA+IDAgYW5kIGkgJSAxMDAgPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChiLCBjKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaSAlIDEwMCA9PSAwOgogICAgICAgICAgICAgICAgcHJpbnQoImZpbmlzaGVkOiB7fS97fSIuZm9ybWF0KGkrMSwgbGVuKGRhdGFfbG9hZGVyX3Rlc3QpKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpdGVyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIHNhdmVfZGF0YSA9IGluaXRfc2F2ZV9kYXRhKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzX3ByZWRpY3QgPSBGLnNvZnRtYXgoY2xhc3NfbG9naXRzLCAtMSkudG8oJ2NwdScpLm51bXB5KCkK</text>
+        <text encoding="base64">ICAgIHdpdGggcCA9IFBvb2wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wb3NhbHMgPSBwcm9wb3NhbHMuc3BsaXQoYm94ZXNfcGVyX2ltYWdlLCBkaW09MCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgIGZvciByYXRpbyBpbiBsc3RfcmF0aW86Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>i</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>i</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -370,17 +403,10 @@
     </search>
     <history>
       <history-search>
-        <entry>min</entry>
-        <entry>synchronize</entry>
-        <entry>boxlist_nms</entry>
-        <entry>weights</entry>
-        <entry>add</entry>
-        <entry>dataset_catalog</entry>
         <entry>build_dataset</entry>
         <entry>min_val</entry>
         <entry>checkpoints</entry>
         <entry>dat</entry>
-        <entry>pdb</entry>
         <entry>num</entry>
         <entry encoding="base64">ID0gMA==</entry>
         <entry>args['</entry>
@@ -390,10 +416,15 @@
         <entry>coder</entry>
         <entry>softmax</entry>
         <entry>i</entry>
+        <entry>pdb</entry>
+        <entry>calc_sim</entry>
+        <entry>simila</entry>
+        <entry>class_logits</entry>
+        <entry>class_log</entry>
+        <entry>ex</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
-        <entry>%s/pcd_data/cluster_data/gc</entry>
         <entry>split</entry>
         <entry>%s/pretrained/False/gc</entry>
         <entry>%s/pretrained/True/gc</entry>
@@ -403,13 +434,16 @@
         <entry>%s/num_classes/num_classes=num_classes/gc</entry>
         <entry>%s/data/seen_data/gc</entry>
         <entry>62</entry>
-        <entry>s</entry>
         <entry>w]</entry>
         <entry>83</entry>
         <entry>95</entry>
         <entry>wq</entry>
         <entry>54</entry>
         <entry>q</entry>
+        <entry>12</entry>
+        <entry>15</entry>
+        <entry>42</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
