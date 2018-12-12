@@ -178,18 +178,19 @@
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1544513668950" />
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/inference.py" timestamp="1544521667635" />
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544609424174">
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544611282064">
         <mark key="p" line="0" column="0" />
         <mark key="[" line="49" column="72" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+        <mark key="]" line="46" column="64" />
+        <mark key="." line="46" column="64" />
+        <mark key="^" line="46" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" timestamp="1544610898051">
-        <mark key="'" line="82" column="14" />
-        <mark key="[" line="83" column="23" />
-        <mark key="]" line="83" column="24" />
-        <mark key="^" line="83" column="24" />
-        <mark key="." line="83" column="24" />
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" timestamp="1544611707449">
+        <mark key="'" line="61" column="24" />
+        <mark key="[" line="111" column="41" />
+        <mark key="]" line="111" column="42" />
+        <mark key="^" line="113" column="50" />
+        <mark key="." line="111" column="42" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_unseen.csv" timestamp="1541679026286">
         <mark key="[" line="0" column="0" />
@@ -253,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="29" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="57" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="120" column="23" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
@@ -353,55 +353,56 @@
       <jump line="31" column="28" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
       <jump line="69" column="26" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="82" column="14" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
+      <jump line="61" column="24" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxzdF9hcmdzLmFwcGVuZCgocmF0aW8sIHRocmVzaG9sZCwgYmFzZV90aHJlc2hvbGQpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>time</text>
+        <text>lst</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiRmluaXNoOiB7Oi4yfSwgezouMn0sIHs6LjJ9Ii5mb3JtYXQocmF0aW8sIHRocmVzaG9sZCwgYmFzZV90aHJlc2hvbGQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCA9IHRpbWUudGltZSgpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxzdF9hcmdzLmFwcGVuZCgocmF0aW8sIHRocmVzaG9sZCwgYmFzZV90aHJlc2hvbGQpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJhc2VfdGhyZXNob2xkIGluIGxzdF9iYXNlX3RocmVzaG9sZDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG91dHBhdGggPSBvcy5wYXRoLmpvaW4oYXJncy5vdXRkaXIsICdyYXRpb197Oi4yfV90aHJlc2hvbGRfezouMn1fYmFzZV9yYXRpb197Oi4yfS5wa2wnLmZvcm1hdCgKICAgICAgICByYXRpbywgdGhyZXNob2xkLCBiYXNlX3JhdGlvKSkK</text>
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IHRpbWUudGltZSgpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRocmVzaG9sZCBpbiBsc3RfdGhyZXNob2xkOgo=</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG91dHBhdGggPSBvcy5wYXRoLmpvaW4oYXJncy5vdXRkaXIsICdyYXRpb197Oi4yfV90aHJlc2hvbGRfezouMn1fYmFzZV9yYXRpb197Oi4yfS5wa2wnLmZvcm1hdCgKICAgICAgICByYXRpbywgdGhyZXNob2xkLCBiYXNlX3JhdGlvKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYmFzZV90aHJlc2hvbGQgaW4gbHN0X2Jhc2VfdGhyZXNob2xkOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRocmVzaG9sZCBpbiBsc3RfdGhyZXNob2xkOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3ByZWRpY3RzXQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYmFzZV90aHJlc2hvbGQgaW4gbHN0X2Jhc2VfdGhyZXNob2xkOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGxhYmVsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>time</last-search>
+      <last-search>lst</last-search>
       <last-offset />
-      <last-pattern>time</last-pattern>
+      <last-pattern>lst</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -409,7 +410,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dat</entry>
         <entry>num</entry>
         <entry encoding="base64">ID0gMA==</entry>
         <entry>args['</entry>
@@ -429,6 +429,7 @@
         <entry>init</entry>
         <entry>sample_step</entry>
         <entry>time</entry>
+        <entry>lst</entry>
       </history-search>
       <history-cmd>
         <entry>%s/pretrained/False/gc</entry>
