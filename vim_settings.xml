@@ -179,9 +179,9 @@
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1544513668950" />
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/inference.py" timestamp="1544521667635" />
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" timestamp="1544588402266">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
         <mark key="^" line="56" column="37" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_unseen.csv" timestamp="1541679026286">
@@ -238,13 +238,7 @@
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="88" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" timestamp="1544588711218">
-        <mark key="'" line="58" column="33" />
-        <mark key="[" line="86" column="27" />
-        <mark key="]" line="87" column="18" />
-        <mark key="." line="87" column="18" />
-        <mark key="^" line="87" column="18" />
-      </file>
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" timestamp="1544588711218" />
     </filemarks>
     <jumps>
       <jump line="31" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
