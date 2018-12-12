@@ -178,19 +178,19 @@
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1544513668950" />
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/inference.py" timestamp="1544521667635" />
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544613332189">
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544614870738">
         <mark key="p" line="0" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="33" column="0" />
+        <mark key="'" line="94" column="23" />
+        <mark key="[" line="75" column="21" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" timestamp="1544613712742">
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" timestamp="1544614471801">
         <mark key="'" line="86" column="8" />
-        <mark key="[" line="48" column="34" />
-        <mark key="]" line="48" column="64" />
-        <mark key="." line="48" column="64" />
-        <mark key="^" line="48" column="64" />
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="5" />
+        <mark key="." line="49" column="5" />
+        <mark key="^" line="49" column="5" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_unseen.csv" timestamp="1541679026286">
         <mark key="[" line="0" column="0" />
@@ -254,9 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="145" column="49" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="81" column="7" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="73" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="36" column="59" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="27" column="30" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
@@ -354,55 +351,58 @@
       <jump line="56" column="19" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="87" column="8" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="89" column="8" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
+      <jump line="34" column="32" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
+      <jump line="3" column="23" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
+      <jump line="79" column="23" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>Path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRmluaXNoOiB7Oi4yfSwgezouMn0sIHs6LjJ9Ii5mb3JtYXQocmF0aW8sIHRocmVzaG9sZCwgYmFzZV90aHJlc2hvbGQpKQo=</text>
+        <text encoding="base64">ICAgIG92ZXJhbGxfY291bnRfbm90X2RldGVjdGVkX3NlZW4gPSAwCiAgICBvdmVyYWxsX2NvdW50X3Rvb19kZXRlY3RlZF9zZWVuID0gMAogICAgb3ZlcmFsbF9jb3VudF9ub3RfZGV0ZWN0ZWRfdW5zZWVuID0gMAogICAgb3ZlcmFsbF9jb3VudF90b29fZGV0ZWN0ZWRfdW5zZWVuID0gMAogICAgb3ZlcmFsbF90b3RhbF9ib3hfYW5ub3QgPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnYWZhZicpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGltZ19wYXRocyBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGltZ19wYXRocykK</text>
+        <text encoding="base64">ICAgIGNvdW50X25vdF9kZXRlY3RlZF9zZWVuX292ZXIgPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihpbWdfcGF0aHMpKQo=</text>
+        <text encoding="base64">ICAgIG92ZXJhbGxfCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudF90b29fZGV0ZWN0ZWQgPSBbMF0gKiA0NAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudF9ub3RfZGV0ZWN0ZWQgPSBbMF0gKiA0NAo=</text>
+        <text encoding="base64">ICAgIG91dHBhdGggPSBQYXRoKG91dGRpcikgLyAoZmlsZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhdGlvID0gcHJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWF4X2xhYmVsX3NlZW4gPSAyNQo=</text>
+        <text encoding="base64">ICAgIGV2YWx1YXRpb25fcmVzdWx0cyA9IHt9CiAgICBmb3IgbW92aWVfbmFtZSBpbiBwcmVkaWN0cy5rZXlzKCk6CiAgICAgICAgY291bnRfbm90X2RldGVjdGVkX3NlZW4gPSAwCiAgICAgICAgY291bnRfdG9vX2RldGVjdGVkX3NlZW4gPSAwCiAgICAgICAgY291bnRfbm90X2RldGVjdGVkX3Vuc2VlbiA9IDAKICAgICAgICBjb3VudF90b29fZGV0ZWN0ZWRfdW5zZWVuID0gMAogICAgICAgIHRvdGFsX2JveF9hbm5vdCA9IDAKCiAgICAgICAgZm9yIGZyYW1lIGluIHByZWRpY3RzW21vdmllX25hbWVdLmtleXMoKToKICAgICAgICAgICAgbGFiZWxfYW5ub3QgPSBhbm5vdHNbbW92aWVfbmFtZV1bJ2xhYmVsJ10KICAgICAgICAgICAgYm94X3ByZWRpY3QgPSBwcmVkaWN0c1ttb3ZpZV9uYW1lXVtmcmFtZV1bJ2Jib3hfcHJlZGljdCddCiAgICAgICAgICAgIGJveF9wcmVkaWN0ID0gdG9yY2guYXNfdGVuc29yKGJveF9wcmVkaWN0KS5yZXNoYXBlKC0xLCA0KQogICAgICAgICAgICBib3hfYW5ub3QgPSBhbm5vdHNbbW92aWVfbmFtZV1bZnJhbWVdWydiYm94J10KICAgICAgICAgICAgYm94X2Fubm90ID0gdG9yY2guYXNfdGVuc29yKGJveF9hbm5vdCkucmVzaGFwZSgtMSwgNCkKICAgICAgICAgICAgdG90YWxfYm94X2Fubm90ICs9IGxlbihib3hfYW5ub3QpCgogICAgICAgICAgICAjIHNpemUgb2YgaW1hZ2UgaXMgNjQwIHggNDgwIHdoZW4gdHJhaW4KICAgICAgICAgICAgYm94X3ByZWRpY3QgPSBCb3hMaXN0KGJveF9wcmVkaWN0LCAoNjQwLCA0ODApKS50byhkZXZpY2UpCiAgICAgICAgICAgIGJveF9hbm5vdCA9IEJveExpc3QoYm94X2Fubm90LCAoMzIwLCAyNDApKS50byhkZXZpY2UpCiAgICAgICAgICAgIGJveF9hbm5vdC5yZXNpemUoKDY0MCwgNDgwKSkKCiAgICAgICAgICAgIGlvdSA9IGJveGxpc3RfaW91KGJveF9wcmVkaWN0LCBib3hfYW5ub3QpCiAgICAgICAgICAgIGJveF9pZHMgPSB0b3JjaC5hcmdtYXgoaW91LCBkaW09LTEpLnRvKCdjcHUnKS5udW1weSgpCiAgICAgICAgICAgICMgY291bnQgYm94ZXMgb2YgZWFjaCBsYWJlbAogICAgICAgICAgICBjb3VudF9ib3hlcyA9IFsKICAgICAgICAgICAgICAgIG5wLnN1bShib3hfaWRzID09IGlkKSBmb3IgaWQgaW4gcmFuZ2UobGVuKGxhYmVsX2Fubm90KSldCiAgICAgICAgICAgIGlzX3NlZW4gPSBsYWJlbF9hbm5vdCA8PSBtYXhfbGFiZWxfc2VlbgogICAgICAgICAgICBpc191bnNlZW4gPSBsYWJlbF9hbm5vdCA+IG1heF9sYWJlbF9zZWVuCiAgICAgICAgICAgIGNvdW50c19zZWVuID0gbnAuYXJyYXkoY291bnRfYm94ZXMpW2lzX3NlZW5dCiAgICAgICAgICAgIGNvdW50c191bnNlZW4gPSBucC5hcnJheShjb3VudF9ib3hlcylbaXNfdW5zZWVuXQoKICAgICAgICAgICAgY291bnRfbm90X2RldGVjdGVkX3NlZW4gKz0gbnAuc3VtKGNvdW50c19zZWVuID09IDApCiAgICAgICAgICAgIGNvdW50X3Rvb19kZXRlY3RlZF9zZWVuICs9IG5wLnN1bShjb3VudHNfc2VlbiA+IDEpCiAgICAgICAgICAgIGNvdW50X25vdF9kZXRlY3RlZF91bnNlZW4gKz0gbnAuc3VtKGNvdW50c191bnNlZW4gPT0gMCkKICAgICAgICAgICAgY291bnRfdG9vX2RldGVjdGVkX3Vuc2VlbiArPSBucC5zdW0oY291bnRzX3Vuc2VlbiA+IDEpCiAgICAgICAgZXZhbHVhdGlvbl9yZXN1bHRzW21vdmllX25hbWVdID0gewogICAgICAgICAgICAnbm90X2RldGVjdGVkX3NlZW4nOiBjb3VudF9ub3RfZGV0ZWN0ZWRfc2VlbiwKICAgICAgICAgICAgJ3Rvb19kZXRlY3RlZF9zZWVuJzogY291bnRfdG9vX2RldGVjdGVkX3NlZW4sCiAgICAgICAgICAgICdub3RfZGV0ZWN0ZWRfdW5zZWVuJzogY291bnRfbm90X2RldGVjdGVkX3Vuc2VlbiwKICAgICAgICAgICAgJ3Rvb19kZXRlY3RlZF91bnNlZW4nOiBjb3VudF90b29fZGV0ZWN0ZWRfdW5zZWVuLAogICAgICAgICAgICAndG90YWxfYm94X2Fubm90JzogdG90YWxfYm94X2Fubm90CiAgICAgICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>Path</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>Path</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -410,7 +410,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ID0gMA==</entry>
         <entry>args['</entry>
         <entry>TEST</entry>
         <entry>_C.TEST</entry>
@@ -430,6 +429,7 @@
         <entry>time</entry>
         <entry>lst</entry>
         <entry>print</entry>
+        <entry>Path</entry>
       </history-search>
       <history-cmd>
         <entry>%s/pretrained/False/gc</entry>
