@@ -50,12 +50,12 @@
         <mark key="^" line="18" column="62" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/compare_results.py" timestamp="1544685680011">
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/compare_results.py" timestamp="1544689465264">
         <mark key="'" line="12" column="42" />
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="70" column="4" />
-        <mark key="." line="70" column="4" />
-        <mark key="^" line="70" column="4" />
+        <mark key="[" line="81" column="18" />
+        <mark key="]" line="81" column="18" />
+        <mark key="." line="81" column="18" />
+        <mark key="^" line="81" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/tools/save_predicted_bbox_and_score.py" timestamp="1544534202442">
         <mark key="'" line="94" column="12" />
@@ -89,7 +89,7 @@
         <mark key="^" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1544513668950" />
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544668606011">
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544689015878">
         <mark key="p" line="0" column="0" />
         <mark key="'" line="35" column="13" />
         <mark key="[" line="56" column="46" />
@@ -361,44 +361,44 @@
       <jump line="13" column="42" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/compare_results.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdldF90b3RhbF9ib3hlcyhzb3VyY2UsICd0b3RhbF9ib3hlc19zZWVuJykK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>s[k</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciByYXRpbyBpbiByYXRpb3M6CiAgICAgICAgcHJpbnQoJ3s6LjJ9LCAnLmZvcm1hdChyYXRpbyksIGVuZD0nJykK</text>
+        <text encoding="base64">ICAgIGdldF90b3RhbF9ib3hlcyhzb3VyY2UsICd0b3RhbF9ib3hlc19zZWVuJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRhcmdldF9wYXRoLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdCA9IHMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYXRpbwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRhcmdldF9wYXRoLm5hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciB0YXJnZXQgaW4gdGFyZ2V0czoKICAgICAgICBwcmludCgnezouMn0sICcuZm9ybWF0KHJhdGlvKSwgZW5kPScnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdCA9IHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9jb3VudHMoc291cmNlLCB0YXJnZXRzLCAnbm90X2RldGVjdGVkX3Vuc2VlbicpCg==</text>
+        <text encoding="base64">ICAgICAgICByYXRpbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGZvciB0YXJnZXQgaW4gdGFyZ2V0czoKICAgICAgICBwcmludCgnezouMn0sICcuZm9ybWF0KHJhdGlvKSwgZW5kPScnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdcbVxtJykK</text>
+        <text encoding="base64">ICAgIG91dHB1dF9jb3VudHMoc291cmNlLCB0YXJnZXRzLCAnbm90X2RldGVjdGVkX3Vuc2VlbicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcyA9IHNvdXJjZVtrXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3t9LCB7fSwge30nLmZvcm1hdChrLCBkaWZmX25kcywgZGlmZl9uZHUpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdcbVxtJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
