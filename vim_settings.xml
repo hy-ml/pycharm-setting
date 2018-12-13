@@ -89,12 +89,12 @@
         <mark key="^" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1544513668950" />
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544689015878">
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544693425116">
         <mark key="p" line="0" column="0" />
-        <mark key="'" line="35" column="13" />
-        <mark key="[" line="56" column="46" />
-        <mark key="]" line="56" column="49" />
-        <mark key="." line="56" column="49" />
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="76" column="14" />
+        <mark key="]" line="76" column="15" />
+        <mark key="." line="76" column="15" />
         <mark key="^" line="56" column="49" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/data/make_cache_data.py" timestamp="1543988965341">
@@ -259,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="21" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
       <jump line="61" column="43" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
       <jump line="82" column="23" filename="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" />
       <jump line="54" column="26" filename="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" />
@@ -359,6 +358,7 @@
       <jump line="88" column="11" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity_.py" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
       <jump line="13" column="42" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/compare_results.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -368,7 +368,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>s[k</text>
+        <text>tatal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdldF90b3RhbF9ib3hlcyhzb3VyY2UsICd0b3RhbF9ib3hlc19zZWVuJykK</text>
@@ -405,9 +405,9 @@
       </register>
     </registers>
     <search>
-      <last-search>s[k</last-search>
+      <last-search>tatal</last-search>
       <last-offset />
-      <last-pattern>s[k</last-pattern>
+      <last-pattern>tatal</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -415,7 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>argmax</entry>
         <entry>fro</entry>
         <entry>img_size</entry>
         <entry>size</entry>
@@ -435,6 +434,7 @@
         <entry encoding="base64">c2l6ZSA+IDA=</entry>
         <entry>s_key</entry>
         <entry>s[k</entry>
+        <entry>tatal</entry>
       </history-search>
       <history-cmd>
         <entry>%s/data/seen_data/gc</entry>
