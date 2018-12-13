@@ -178,11 +178,13 @@
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1544513668950" />
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/inference.py" timestamp="1544521667635" />
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544615899200">
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" timestamp="1544668606011">
         <mark key="p" line="0" column="0" />
-        <mark key="]" line="130" column="30" />
-        <mark key="." line="130" column="30" />
-        <mark key="^" line="130" column="30" />
+        <mark key="'" line="35" column="13" />
+        <mark key="[" line="56" column="46" />
+        <mark key="]" line="56" column="49" />
+        <mark key="." line="56" column="49" />
+        <mark key="^" line="56" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" timestamp="1544631270453">
         <mark key="'" line="86" column="8" />
@@ -253,7 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="30" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="33" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
       <jump line="6" column="38" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
       <jump line="61" column="24" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
@@ -353,55 +354,56 @@
       <jump line="79" column="23" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
       <jump line="39" column="18" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
+      <jump line="35" column="13" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>annot</text>
+        <text>argmax</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG92ZXJhbGxfdG90YWxfYm94ZXNfc2VlbiA9IDAKICAgIG92ZXJhbGxfdG90YWxfYm94ZXNfdW5zZWVuID0gMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm94X2RldGVjdGVkID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW91ID0gaW91Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm94Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHN0X2FyZ3MuYXBwZW5kKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxzdF9hcmdzID0gW10KICAgIGZvciByYXRpbyBpbiBsc3RfcmF0aW86CiAgICAgICAgZm9yIHRocmVzaG9sZCBpbiBsc3RfdGhyZXNob2xkOgoKICAgICAgICAgICAgZm9yIGJhc2VfdGhyZXNob2xkIGluIGxzdF9iYXNlX3RocmVzaG9sZDoKICAgICAgICAgICAgICAgIGxzdF9hcmdzLmFwcGVuZCgocmF0aW8sIHRocmVzaG9sZCwgYmFzZV90aHJlc2hvbGQpKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHN0X2FyZ3MuYXBwZW5kKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBrbwo=</text>
+        <text encoding="base64">ICAgIGxzdF9hcmdzID0gW10KICAgIGZvciByYXRpbyBpbiBsc3RfcmF0aW86CiAgICAgICAgZm9yIHRocmVzaG9sZCBpbiBsc3RfdGhyZXNob2xkOgoKICAgICAgICAgICAgZm9yIGJhc2VfdGhyZXNob2xkIGluIGxzdF9iYXNlX3RocmVzaG9sZDoKICAgICAgICAgICAgICAgIGxzdF9hcmdzLmFwcGVuZCgocmF0aW8sIHRocmVzaG9sZCwgYmFzZV90aHJlc2hvbGQpKQoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>57</text>
       </register>
     </registers>
     <search>
-      <last-search>annot</last-search>
+      <last-search>argmax</last-search>
       <last-offset />
-      <last-pattern>annot</last-pattern>
+      <last-pattern>argmax</last-pattern>
       <last-replace>seen_data</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -409,7 +411,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TEST</entry>
         <entry>_C.TEST</entry>
         <entry>corder</entry>
         <entry>coder</entry>
@@ -429,9 +430,9 @@
         <entry>print</entry>
         <entry>Path</entry>
         <entry>annot</entry>
+        <entry>argmax</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/pretrained/False/gc</entry>
         <entry>%s/pretrained/True/gc</entry>
         <entry>%s/pretrained//gc</entry>
         <entry>%s/pretrained=//gc</entry>
@@ -451,6 +452,7 @@
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>57</entry>
       </history-cmd>
       <history-expr />
       <history-input />
