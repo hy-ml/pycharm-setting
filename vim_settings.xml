@@ -50,11 +50,11 @@
         <mark key="^" line="18" column="62" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/compare_results.py" timestamp="1544671682050">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="28" />
-        <mark key="^" line="15" column="28" />
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/compare_results.py" timestamp="1544682411600">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/tools/save_predicted_bbox_and_score.py" timestamp="1544534202442">
         <mark key="'" line="94" column="12" />
@@ -361,43 +361,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXN0YW5jZSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2l6ZSA+IDA=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRzID0gbnAud2hlcmUoKG92ciAtIHJhdGVfZGlzdGFuY2UgKiBkaXN0YW5jZVsxOl0pIDw9IHRocmVzaG9sZClbMF0K</text>
+        <text encoding="base64">ICAgICAgICBkaWZmX25kcyA9IHJfdFsnbm90X2RldGVjdGVkX3NlZW4nXSAtIHJfc1snbm90X2RldGVjdGVkX3NlZW4nXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXN0YW5jZSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvdnIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvdnIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgne30sIHt9LCB7fScuZm9ybWF0KGssIHNpbV9ubXNfbmRzLCBzaW1fbm1zX25kdSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRfaWQK</text>
+        <text encoding="base64">ICAgICAgICBzaW1fbm1zX25kdSA9IHIyWydub3RfZGV0ZWN0ZWRfdW5zZWVuJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+        <text encoding="base64">ICAgICAgICBzaW1fbm1zX25kcyA9IHIyWydub3RfZGV0ZWN0ZWRfc2VlbiddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYm94ZXMsIHNjb3JlcyA9IHJlbW92ZV9lbXB0eV9pbWcoYm94ZXMsIHNjb3JlcykK</text>
+        <text encoding="base64">ICAgICAgICByMiA9IHJlc3VsdHMyW2tdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICByMSA9IHJlc3VsdHMxW2tdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZvciBrIGluIHJlc3VsdHMxLmtleXMoKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
