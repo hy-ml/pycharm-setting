@@ -50,12 +50,12 @@
         <mark key="^" line="18" column="62" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/compare_results.py" timestamp="1544689465264">
+      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/compare_results.py" timestamp="1544691110393">
         <mark key="'" line="12" column="42" />
-        <mark key="[" line="81" column="18" />
-        <mark key="]" line="81" column="18" />
-        <mark key="." line="81" column="18" />
-        <mark key="^" line="81" column="18" />
+        <mark key="[" line="81" column="4" />
+        <mark key="]" line="81" column="5" />
+        <mark key="." line="81" column="5" />
+        <mark key="^" line="81" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/tools/save_predicted_bbox_and_score.py" timestamp="1544534202442">
         <mark key="'" line="94" column="12" />
