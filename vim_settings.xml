@@ -3,423 +3,46 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/engine/trainer.py" timestamp="1544425848790">
-        <mark key="[" line="45" column="26" />
-        <mark key="]" line="45" column="26" />
-        <mark key="^" line="45" column="26" />
-        <mark key="." line="45" column="26" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net.py" timestamp="1541910954142">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/support_scripts/crop_imgs.py" timestamp="1541329365728">
-        <mark key="'" line="4" column="16" />
-        <mark key="[" line="59" column="49" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="25" column="4" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_class_agnostic_320x240.yaml" timestamp="1544417089556">
-        <mark key="'" line="18" column="63" />
-        <mark key="[" line="18" column="53" />
-        <mark key="]" line="18" column="63" />
-        <mark key="^" line="18" column="63" />
-        <mark key="." line="18" column="63" />
-      </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_320x240.yaml" timestamp="1544422043182">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="21" column="5" />
-        <mark key="^" line="21" column="5" />
-        <mark key="." line="21" column="5" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/clustering/clustering.py" timestamp="1541648247213">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="34" column="48" />
-        <mark key="." line="34" column="48" />
-        <mark key="^" line="34" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/check_duplicate.py" timestamp="1544094979085">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="25" column="28" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/utils.py" timestamp="1541909299014">
-        <mark key="'" line="39" column="29" />
-        <mark key="[" line="31" column="60" />
-        <mark key="]" line="31" column="60" />
-        <mark key="." line="31" column="60" />
-        <mark key="^" line="31" column="60" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" timestamp="1543997856865">
-        <mark key="'" line="17" column="22" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_dropout_sampling.py" timestamp="1541659448948">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/data/datasets/movie_dataset.py" timestamp="1544419769171">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/data/build.py" timestamp="1544419952925">
-        <mark key="'" line="45" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" timestamp="1543997479859">
-        <mark key="'" line="78" column="25" />
-        <mark key="[" line="49" column="42" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" timestamp="1541910858868">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="55" />
-        <mark key="^" line="8" column="29" />
-        <mark key="." line="34" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_class_agnostic_640x480.yaml" timestamp="1544417114756">
-        <mark key="[" line="18" column="53" />
-        <mark key="]" line="18" column="59" />
-        <mark key="^" line="18" column="59" />
-        <mark key="." line="18" column="59" />
-      </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_640x480.yaml" timestamp="1544417063720">
-        <mark key="[" line="17" column="58" />
-        <mark key="]" line="17" column="58" />
-        <mark key="^" line="18" column="62" />
-        <mark key="." line="17" column="58" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" timestamp="1541827119669">
-        <mark key="'" line="33" column="28" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="37" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/predict.py" timestamp="1544003670280">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="89" column="33" />
-        <mark key="." line="94" column="0" />
-        <mark key="o" line="94" column="2" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" timestamp="1541723848409">
-        <mark key="'" line="11" column="44" />
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="28" />
-        <mark key="." line="39" column="28" />
-        <mark key="^" line="39" column="28" />
-      </file>
-      <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="56" />
-        <mark key="^" line="22" column="56" />
-        <mark key="." line="22" column="56" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_openset.py" timestamp="1541910981601">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="34" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_unseen.csv" timestamp="1541679026286">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/data/make_cache_data.py" timestamp="1543988965341">
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="32" column="7" />
-        <mark key="^" line="32" column="7" />
-        <mark key="." line="32" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/train.py" timestamp="1543986621219">
-        <mark key="'" line="94" column="58" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="60" />
-      </file>
-      <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" timestamp="1544425856679">
-        <mark key="'" line="61" column="43" />
-        <mark key="[" line="75" column="28" />
-        <mark key="]" line="75" column="29" />
-        <mark key="." line="75" column="29" />
-      </file>
-      <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="54" column="17" />
-        <mark key="." line="54" column="17" />
-        <mark key="^" line="54" column="17" />
-      </file>
-      <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_seen.csv" timestamp="1541679067564">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="14" />
-        <mark key="^" line="19" column="14" />
-        <mark key="." line="19" column="14" />
+      <file name="$USER_HOME$/ml/pytorch/a/tmp.py" timestamp="1545234168147">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="80" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="45" column="52" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="59" column="18" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="68" column="39" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="75" column="18" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="77" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="78" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="71" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="134" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="131" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="157" column="21" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="169" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="170" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="5" column="19" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="121" column="10" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="118" column="27" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="111" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="100" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="122" column="20" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="99" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="124" column="54" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="123" column="31" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="48" column="39" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="11" column="44" filename="$USER_HOME$/projects/movie_dataset/classification/src/openset_dataset.py" />
-      <jump line="126" column="33" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="37" column="66" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="40" column="62" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="117" column="32" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="119" column="34" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="12" column="20" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="20" column="10" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="23" column="53" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="30" column="44" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="33" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="25" column="6" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="40" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="71" column="54" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="24" column="49" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="26" column="37" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="29" column="48" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="31" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="46" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="3" column="38" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="41" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="75" column="7" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="31" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="84" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="82" column="8" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="78" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="67" column="16" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="41" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="59" column="29" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="57" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="120" column="23" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="101" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="145" column="49" filename="$USER_HOME$/projects/movie_dataset/classification/src/classification_dataset.py" />
-      <jump line="81" column="7" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="73" column="15" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="36" column="59" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="27" column="30" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="33" column="28" filename="$USER_HOME$/projects/movie_dataset/classification/evaluation_openset.py" />
-      <jump line="6" column="38" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
-      <jump line="61" column="24" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
-      <jump line="51" column="34" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="59" column="12" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="64" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="94" column="58" filename="$USER_HOME$/projects/movie_dataset/classification/train.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/train_openset.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="36" column="58" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="50" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="51" column="11" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="53" column="13" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="55" column="13" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="59" column="79" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="26" column="33" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="84" column="31" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="39" column="30" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="22" column="55" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="31" column="26" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="76" column="25" filename="$USER_HOME$/projects/movie_dataset/classification/data/classification_dataset.py" />
-      <jump line="16" column="4" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="27" column="58" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="28" column="22" filename="$USER_HOME$/projects/movie_dataset/classification/evaluate.py" />
-      <jump line="18" column="63" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_class_agnostic_320x240.yaml" />
-      <jump line="32" column="5" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="47" column="34" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/data/build.py" />
-      <jump line="45" column="21" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/data/build.py" />
-      <jump line="52" column="64" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="108" column="11" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="77" column="21" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="61" column="43" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="82" column="23" filename="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" />
-      <jump line="54" column="26" filename="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" />
-      <jump line="84" column="26" filename="$USER_HOME$/projects/movie_dataset/bounding_box/bounding_box_maker.py" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>d</text>
-      </register>
-      <register name="/" type="4">
-        <text>self._trans</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb2ludHMgPSBsYWJlbGVkX3BjZFs6LCAzXQogICAgICAgIGNvbG9ycyA9IGxhYmVsZWRfcGNkWzosIDM6Nl0KICAgICAgICBsYWJlbHMgPSBsYWJlbGVkX3BjZFs6LCA2XQogICAgICAgIHBjZCA9IG9wZW4zZC5Qb2ludENsb3VkKCkKICAgICAgICBwY2QucG9pbnRzID0gb3BlbjNkLlZlY3RvcjNkVmVjdG9yKHBvaW50cykKICAgICAgICBwY2QuY29sb3JzID0gb3BlbjNkLlZlY3RvcjNkVmVjdG9yKGNvbG9ycykK</text>
-      </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2luZGlyJykK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2luZGlyJykK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwdGhzID0gcHRzWzosIDJdCg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYmxzID0gcGNkWzosIC0xXQo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdHMgPSBwY2RbOiwgOjNdCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsYmxzID0gCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwdGhzID0gcHRzWzosIDJdCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbHMgPSBsYWJlbGVkX3BjZFs6LCAtMV0K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXB0aCA9IGxhYmVsZWRfcGNkWzosIDNdCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>self._trans</last-search>
-      <last-offset />
-      <last-pattern>self._trans</last-pattern>
-      <last-replace>seen_data</last-replace>
-      <last-substitute>data</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>softmax</entry>
-        <entry>model</entry>
-        <entry>outputs</entry>
-        <entry>annotao</entry>
-        <entry>trans</entry>
-        <entry>get</entry>
-        <entry>load_ca</entry>
-        <entry>mode</entry>
-        <entry>root_dir</entry>
-        <entry>movie_list</entry>
-        <entry>parse_class</entry>
-        <entry>class_file</entry>
-        <entry>BACK</entry>
-        <entry>breka</entry>
-        <entry>class_agnostic</entry>
-        <entry>num</entry>
-        <entry>NUM_WOR</entry>
-        <entry>NU</entry>
-        <entry>_transform</entry>
-        <entry>self._trans</entry>
-      </history-search>
-      <history-cmd>
-        <entry>1</entry>
-        <entry>%s/pcd_data/cluster_data/gc</entry>
-        <entry>split</entry>
-        <entry>%s/pretrained/False/gc</entry>
-        <entry>%s/pretrained/True/gc</entry>
-        <entry>%s/pretrained//gc</entry>
-        <entry>%s/pretrained=//gc</entry>
-        <entry>%s/False/False, num_classes/g</entry>
-        <entry>%s/num_classes/num_classes=num_classes/gc</entry>
-        <entry>%s/data/seen_data/gc</entry>
-        <entry>62</entry>
-        <entry>s</entry>
-        <entry>q</entry>
-        <entry>w]</entry>
-        <entry>83</entry>
-        <entry>95</entry>
-        <entry>wq</entry>
-        <entry>54</entry>
-        <entry>w</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
