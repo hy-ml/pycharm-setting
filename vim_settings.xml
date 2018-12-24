@@ -78,10 +78,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/transforms.py" timestamp="1545661684576">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/transforms.py" timestamp="1545662457592">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="59" column="25" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/classifier.py" timestamp="1545639515279">
         <mark key="[" line="0" column="0" />
@@ -209,12 +210,12 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/box_dataset.py" timestamp="1545660253342">
-        <mark key="'" line="29" column="18" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="45" column="11" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/box_dataset.py" timestamp="1545663067758">
+        <mark key="'" line="32" column="18" />
+        <mark key="[" line="35" column="53" />
+        <mark key="]" line="36" column="50" />
+        <mark key="." line="36" column="50" />
+        <mark key="^" line="36" column="50" />
       </file>
       <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
         <mark key="[" line="22" column="0" />
@@ -421,11 +422,11 @@
       <jump line="30" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/box_dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>args</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbWdzID0gW3NlbGYudHJhbnNmb3JtKGltZykgZm9yIGltZyBpbiBpbWdzZl0K</text>
       </register>
       <register name="-" type="4">
-        <text>args</text>
+        <text>transforms</text>
       </register>
       <register name="/" type="4">
         <text>16</text>
@@ -434,31 +435,31 @@
         <text encoding="base64">b3JnX2ltZ19zaXplID0gKDMyMCwgMjQwKQpyZXNpemVkX2ltZ19zaXplID0gKDY0MCwgNDgwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfcmVzaXplID0gbnAuemVybwo=</text>
+        <text encoding="base64">ICAgICAgICBpbWdzID0gW3NlbGYudHJhbnNmb3JtKGltZykgZm9yIGltZyBpbiBpbWdzZl0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">ZnJvbSBkYXRhLnRyYW5zZm9ybXMgaW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnBvbGF0aW9uPWN2Mi5JTlRFUl9MSU5FQVIpCg==</text>
+        <text encoding="base64">ICAgICAgICBub3JtIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfcmVzaXplID0gY3YyLnJlc2l6ZShpbWcsIHNlbGYucmVzaXplX3NpemUsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfcmVzaXplID0gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
