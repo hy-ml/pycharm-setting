@@ -204,10 +204,11 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/box_dataset.py" timestamp="1545657049923">
-        <mark key="[" line="27" column="44" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/box_dataset.py" timestamp="1545658050203">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="35" />
       </file>
       <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
         <mark key="[" line="22" column="0" />
@@ -415,7 +416,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2ltZ3MoKToK</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -427,31 +428,31 @@
         <text encoding="base64">ZGVmIGJ1aWxkX2NsYXNzaWZpZXIoY2ZnLCBtb2RlbF9uYW1lLCBmdXNpb24pOgogICAgaWYgJ3ZnZycgaW4gbW9kZWxfbmFtZToKICAgICAgICBjbGFzc2lmaWVyID0gYnVpbGRfdmdnX2NsYXNzaWZpZXIoY2ZnKQogICAgZWxpZiAncmVzbmV0JyBpbiBtb2RlbF9uYW1lOgogICAgICAgIG1zZyA9ICdSZXNOZXQgd2lsbCBiZSBpbXBsZW1lbnRlZCBsYXRlci4nCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcihtc2cpCiAgICBlbHNlOgogICAgICAgIG1zZyA9ICdOb3QgaW1wbGVtZXRlZDoge30nLmZvcm1hdChtb2RlbF9uYW1lKQogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IobXNnKQogICAgcmV0dXJuIGNsYXNzaWZpZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2ltZ3MoKToK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">cmVzaWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbWcgPSBvCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">bHN0X21nCiAgICAgICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2ZvCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
