@@ -153,6 +153,12 @@
         <mark key="^" line="18" column="62" />
         <mark key="." line="17" column="58" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/suppnet.py" timestamp="1545631716636">
+        <mark key="[" line="20" column="63" />
+        <mark key="]" line="20" column="61" />
+        <mark key="^" line="20" column="61" />
+        <mark key="." line="20" column="61" />
+      </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/data/make_cache_data.py" timestamp="1543988965341">
         <mark key="[" line="31" column="35" />
         <mark key="]" line="32" column="7" />
@@ -360,44 +366,44 @@
       <jump line="15" column="0" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ291dGRpcicpCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>tatal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdldF90b3RhbF9ib3hlcyhzb3VyY2UsICd0b3RhbF9ib3hlc19zZWVuJykK</text>
+        <text encoding="base64">ICAgIGlmIG1vZGVsID09ICd2Z2cxNic6CiAgICAgICAgbW9kZWwgPSB0b3JjaHZpc2lvbi5tb2RlbHMudmdnMTYocHJldHJhaW5faW1hZ2VuZXQpCiAgICBlbGlmIG1vZGVsID09ICd2Z2cxNl9ibic6CiAgICAgICAgbW9kZWwgPSB0b3JjaHZpc2lvbi5tb2RlbHMudmdnMTZfYm4ocHJldHJhaW5faW1hZ2VuZXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ291dGRpcicpCg==</text>
+        <text encoding="base64">ZnJvbSBjb3B5IGltcG9ydCBkZWVwY29weQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluZGlyID0gUGF0aChhcmdzLikK</text>
+        <text encoding="base64">ICAgIGV4dHJhY3RvciA9IGRlZXBjb3B5KG1vKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAxCg==</text>
+        <text encoding="base64">ICAgIGVsaWYgbW9kZWwgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRhcmdldF9wYXRoLm5hbWUpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdCA9IHMK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYXRpbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -443,7 +449,6 @@
         <entry>95</entry>
         <entry>wq</entry>
         <entry>54</entry>
-        <entry>q</entry>
         <entry>12</entry>
         <entry>15</entry>
         <entry>s</entry>
@@ -455,6 +460,7 @@
         <entry>a</entry>
         <entry>26</entry>
         <entry>42</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
