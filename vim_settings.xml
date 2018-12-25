@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/config/base_config.py" timestamp="1545665254205">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="15" />
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/train.py" timestamp="1545664701336">
         <mark key="[" line="3" column="36" />
@@ -34,7 +34,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/config/file_path.py" timestamp="1545664892139">
         <mark key="[" line="0" column="0" />
@@ -166,11 +165,7 @@
         <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/box_dataset.py" timestamp="1545666897474">
-        <mark key="'" line="45" column="36" />
-        <mark key="[" line="20" column="45" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="20" column="44" />
-        <mark key="^" line="20" column="44" />
+        <mark key="'" line="46" column="36" />
       </file>
       <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
         <mark key="[" line="22" column="0" />
