@@ -14,6 +14,12 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/modeling/detector/generalized_rcnn.py" timestamp="1545830630305">
+        <mark key="[" line="70" column="37" />
+        <mark key="]" line="70" column="54" />
+        <mark key="^" line="70" column="54" />
+        <mark key="." line="70" column="54" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/train.py" timestamp="1545664701336">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="5" column="18" />
@@ -77,6 +83,13 @@
         <mark key="]" line="54" column="17" />
         <mark key="." line="54" column="17" />
         <mark key="^" line="54" column="17" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_features.py" timestamp="1545831275519">
+        <mark key="'" line="45" column="19" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="90" column="52" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/make_cache.py" timestamp="1545666747109">
         <mark key="[" line="12" column="0" />
@@ -255,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="19" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="87" column="8" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="89" column="8" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="34" column="32" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
@@ -355,55 +367,56 @@
       <jump line="77" column="62" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="84" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="72" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
+      <jump line="65" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_features.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGltaXplci56ZXJvX2dyYWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>count_roop</text>
+        <text>resu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0cyA9IG1vZGVsKHNvdXJjZV9pbWFnZSwgdGFyZ2V0X2ltYWdlcykKICAgICAgICAgICAgbG9zcyA9IGNyaXRlcmlvbihvdXRwdXRzLCB0YXJnZXRfbGFiZWxzKQo=</text>
+        <text encoding="base64">ICAgIGNmZy5URVNULklTX1BSRURJQ1RfRFVNUCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGltaXplci56ZXJvX2dyYWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxfbG9zc2VzLnJlc2V0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxfbG9zc19lcG9jaCA9IDAK</text>
+        <text encoding="base64">ZGVmIGluaXRfc2F2ZV9kYXRhKCk6IGtleXMgPSBbJ2Jib3hfYW5ub3QnLCAnbGFiZWxfYW5ub3QnLCAnYmJveF9wcmVkaWN0JywgJ2xhYmVsX3ByZWRpY3QnLAogICAgICAgICAgICAnaW1nX3BhdGgnXQogICAgc2F2ZV9kYXRhID0ge30KCiAgICBmb3Iga2V5IGluIGtleXM6CiAgICAgICAgc2F2ZV9kYXRhW2tleV0gPSBbXQogICAgcmV0dXJuIHNhdmVfZGF0YQoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxfbG9zc19lcG9jaCA9IDAK</text>
+        <text encoding="base64">ZGVmIGFwcGVuZF9zYXZlX2RhdGEoc2F2ZV9kYXRhLCBiX2EsIGNfYSwgYl9wLCBjX3AsIGltZ19wYXRoKToKICAgIGtleXMgPSBbJ2Jib3hfYW5ub3QnLCAnbGFiZWxfYW5ub3QnLCAnYmJveF9wcmVkaWN0JywgJ2xhYmVsX3ByZWRpY3QnLAogICAgICAgICAgICAnaW1nX3BhdGgnXQogICAgdmFsdWVzID0gW2JfYSwgY19hLCBiX3AsIGNfcCwgaW1nX3BhdGhdCgogICAgZm9yIGssIHYgaW4gemlwKGtleXMsIHZhbHVlcyk6CiAgICAgICAgc2F2ZV9kYXRhW2tdLmFwcGVuZCh2KQogICAgcmV0dXJuIHNhdmVfZGF0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRfcm9vcCArPSAxCg==</text>
+        <text encoding="base64">ICAgIGJveF9jb2RlciA9IEJveENvZGVyKHdlaWdodHM9KDEwLiwgMTAuLCA1LiwgNS4pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvdW50X3Jvb3AgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYXZlX2RhdGEsIGJfYSwgY19hLCBiX3AsIGNfcCwgaW1nX3BhdGgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdyaXR0ZXIgPSBTdW1tYXJ5V3JpdGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVfZGF0YSA9IGFwcGVuZF9zYXZlX2RhdGEoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhaW5fbG9zc19lcG9jaCArPSB0cmFpbl9sb3NzX2l0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNfYSA9IHQuZ2V0X2ZpZWxkKCdsYWJlbHMnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJfYSA9IHQuYmJveC50bygnY3B1JykubnVtcHkoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>count_roop</last-search>
+      <last-search>resu</last-search>
       <last-offset />
-      <last-pattern>count_roop</last-pattern>
+      <last-pattern>resu</last-pattern>
       <last-replace>extractor</last-replace>
       <last-substitute>self</last-substitute>
       <last-dir>1</last-dir>
@@ -411,8 +424,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s[k</entry>
-        <entry>tatal</entry>
         <entry>make</entry>
         <entry>self</entry>
         <entry>score</entry>
@@ -431,6 +442,8 @@
         <entry>exec</entry>
         <entry>keep</entry>
         <entry>count_roop</entry>
+        <entry>resut</entry>
+        <entry>resu</entry>
       </history-search>
       <history-cmd>
         <entry>54</entry>
