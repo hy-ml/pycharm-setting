@@ -130,12 +130,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" timestamp="1545793850040">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="26" column="31" />
-        <mark key="]" line="26" column="32" />
-        <mark key="." line="26" column="32" />
-        <mark key="^" line="26" column="32" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" timestamp="1545794955053">
+        <mark key="'" line="4" column="5" />
+        <mark key="[" line="80" column="60" />
+        <mark key="]" line="39" column="52" />
+        <mark key="." line="39" column="52" />
+        <mark key="^" line="39" column="52" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/classifier/__init__.py" timestamp="1545639548937">
         <mark key="[" line="0" column="0" />
@@ -265,9 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="36" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
-      <jump line="50" column="11" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
-      <jump line="54" column="33" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
       <jump line="38" column="22" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="10" column="4" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="93" column="27" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
@@ -365,58 +362,58 @@
       <jump line="17" column="44" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="22" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="26" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
+      <jump line="72" column="22" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
+      <jump line="73" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
+      <jump line="4" column="5" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>imgs_target</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>def</text>
+        <text>model</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZHMgPSBucC53aGVyZShvdnIgPD0gMC41KVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldF9pbWFnZXMgPSBbaW1nc1tpZHhdIGZvciBpZHggaW4gb3JkZXJbaW5kc19oaWdoX2lvdSsxXV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvc3MgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldF9sYWJlbHMgPSBbbGFiZWxzW2lkeF0gZm9yIGlkeCBpbiBvXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dHMgPSBtb2RlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsaWYgbGVhcm5fYWxnb3JpdGhtID09ICdhbm5vdCc6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHN1dQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LCx2YXJzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
-      <register name="9" type="8">
-        <text>dets
-dets
-dets
-dets</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGluZHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>def</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>def</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-replace>extractor</last-replace>
       <last-substitute>self</last-substitute>
       <last-dir>1</last-dir>
@@ -431,7 +428,6 @@ dets</text>
         <entry>s[k</entry>
         <entry>tatal</entry>
         <entry>make</entry>
-        <entry>model</entry>
         <entry>self</entry>
         <entry>score</entry>
         <entry>16</entry>
@@ -444,6 +440,7 @@ dets</text>
         <entry>load</entry>
         <entry>cfg</entry>
         <entry>def</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
         <entry>54</entry>
