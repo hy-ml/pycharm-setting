@@ -31,6 +31,13 @@
         <mark key="^" line="34" column="48" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" timestamp="1545838797825" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/modeling/roi_heads/box_head/box_head.py" timestamp="1545873918644">
+        <mark key="'" line="56" column="54" />
+        <mark key="[" line="80" column="69" />
+        <mark key="]" line="80" column="37" />
+        <mark key="^" line="80" column="37" />
+        <mark key="." line="80" column="37" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/make_cache.py" timestamp="1545666747109">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -276,8 +283,6 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/modeling/roi_heads/box_head/roi_box_predictors.py" timestamp="1545838653415" />
     </filemarks>
     <jumps>
-      <jump line="87" column="8" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
-      <jump line="89" column="8" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="34" column="32" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
       <jump line="3" column="23" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
       <jump line="79" column="23" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
@@ -376,6 +381,8 @@
       <jump line="84" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="72" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="65" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_features.py" />
+      <jump line="49" column="54" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/modeling/roi_heads/box_head/box_head.py" />
+      <jump line="56" column="54" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/modeling/roi_heads/box_head/box_head.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -385,7 +392,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>resu</text>
+        <text>split</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNmZy5URVNULklTX1BSRURJQ1RfRFVNUCA9IFRydWUK</text>
@@ -422,9 +429,9 @@
       </register>
     </registers>
     <search>
-      <last-search>resu</last-search>
+      <last-search>split</last-search>
       <last-offset />
-      <last-pattern>resu</last-pattern>
+      <last-pattern>split</last-pattern>
       <last-replace>extractor</last-replace>
       <last-substitute>self</last-substitute>
       <last-dir>1</last-dir>
@@ -432,7 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>make</entry>
         <entry>self</entry>
         <entry>score</entry>
         <entry>16</entry>
@@ -452,6 +458,7 @@
         <entry>count_roop</entry>
         <entry>resut</entry>
         <entry>resu</entry>
+        <entry>split</entry>
       </history-search>
       <history-cmd>
         <entry>54</entry>
