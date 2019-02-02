@@ -236,6 +236,13 @@
         <mark key="^" line="37" column="92" />
         <mark key="." line="37" column="92" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/yolo_v1/data/datasets/voc.py" timestamp="1549091706836">
+        <mark key="'" line="78" column="20" />
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="13" column="9" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/suppnet.py" timestamp="1545639562077">
         <mark key="[" line="2" column="78" />
         <mark key="]" line="2" column="81" />
@@ -297,8 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="67" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="86" column="41" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="88" column="11" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity.py" />
       <jump line="116" column="30" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity_.py" />
       <jump line="88" column="11" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity_.py" />
@@ -397,16 +402,18 @@
       <jump line="56" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="175" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="184" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
+      <jump line="97" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/yolo_v1/data/datasets/voc.py" />
+      <jump line="78" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/yolo_v1/data/datasets/voc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNodmlzaW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>_preprocess</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEZFQVRVUkVfRVhUUkFDVE9SOiAiRlBOMk1MUEZlYXR1cmVFeHRyYWN0b3JUd29TdHJlYW0iCiAgICBQUkVESUNUT1I6ICJGUE5QcmVkaWN0b3JUd29TdHJlYW0iCg==</text>
@@ -439,13 +446,13 @@
         <text encoding="base64">ICAgIFBSRURJQ1RPUjogIkZQTlByZWRpY3RvciIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>_preprocess</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>_preprocess</last-pattern>
       <last-replace>extractor</last-replace>
       <last-substitute>self</last-substitute>
       <last-dir>1</last-dir>
@@ -453,7 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exec</entry>
         <entry>keep</entry>
         <entry>count_roop</entry>
         <entry>resut</entry>
@@ -473,6 +479,7 @@
         <entry>126</entry>
         <entry>predict</entry>
         <entry>save</entry>
+        <entry>_preprocess</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
@@ -492,9 +499,9 @@
         <entry>22</entry>
         <entry>q</entry>
         <entry>.,.+32wq</entry>
-        <entry>wq</entry>
         <entry>126</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
