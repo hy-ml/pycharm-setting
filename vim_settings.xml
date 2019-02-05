@@ -170,6 +170,12 @@
         <mark key="." line="57" column="58" />
         <mark key="^" line="57" column="58" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/sampling.py" timestamp="1549357713326">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_101_FPN_1x_class_agnostic_640x480.yaml" timestamp="1544531494028">
         <mark key="[" line="37" column="74" />
         <mark key="]" line="39" column="22" />
@@ -235,6 +241,12 @@
         <mark key="." line="54" column="17" />
         <mark key="^" line="54" column="17" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/sampling/movie_dataset.py" timestamp="1549358063656">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="9" column="48" />
+        <mark key="^" line="9" column="48" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_101_FPN_1x_class_agnostic_640x480_2stream.yaml" timestamp="1545931383699">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="38" />
@@ -272,9 +284,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppnet.py" timestamp="1545926687645">
-        <mark key="'" line="53" column="21" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/modeling/roi_heads/box_head/roi_box_feature_extractors.py" timestamp="1545930491468">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
@@ -299,9 +308,6 @@
         <mark key="]" line="78" column="49" />
         <mark key="." line="78" column="49" />
         <mark key="^" line="78" column="49" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/visualization_tool/visualize_feature.py" timestamp="1545916612499">
-        <mark key="'" line="2" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -407,11 +413,11 @@
       <jump line="78" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/yolo_v1/data/datasets/voc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>_preprocess</text>
@@ -420,31 +426,31 @@
         <text encoding="base64">ICAgIEZFQVRVUkVfRVhUUkFDVE9SOiAiRlBOMk1MUEZlYXR1cmVFeHRyYWN0b3JUd29TdHJlYW0iCiAgICBQUkVESUNUT1I6ICJGUE5QcmVkaWN0b3JUd29TdHJlYW0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIiBTYW1wbGUgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJib3gK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmJveAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICIiIgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIHJhbmRvbV9zYW1wbGUocHJvYl9teXNlbGY9MC41KToKICAgICIiIgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9iX215c2VsZjogCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEFyZ3M6Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
