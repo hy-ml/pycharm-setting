@@ -258,10 +258,12 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_disperser/box_disperser.py" timestamp="1549364904765">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_disperser/box_disperser.py" timestamp="1549369803984">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="35" column="12" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/sampling/movie_dataset.py" timestamp="1549359991588">
         <mark key="[" line="24" column="40" />
@@ -352,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="11" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/exec_nms_with_img_similarity_.py" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/nms_with_img_similarity.py" />
       <jump line="13" column="42" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/compare_results.py" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/scripts/evaluate.py" />
@@ -452,16 +453,17 @@
       <jump line="78" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/yolo_v1/data/datasets/voc.py" />
       <jump line="5" column="1" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/defaults.py" />
       <jump line="17" column="52" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_disparser/box_disparser.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_disperser/box_disperser.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>disperse_value</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>disperse_value</text>
       </register>
       <register name="/" type="4">
-        <text>_preprocess</text>
+        <text>dispersed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiIiJTZWxlY3QgYSBib3VuZGluZy1ib3ggcmFuZG9tbHkgYW5kIHNhbWUgYm91bmRpbmctYm94IGFzIGFub3RoZXIK</text>
@@ -498,17 +500,16 @@
       </register>
     </registers>
     <search>
-      <last-search>_preprocess</last-search>
+      <last-search>dispersed</last-search>
       <last-offset />
-      <last-pattern>_preprocess</last-pattern>
-      <last-replace>extractor</last-replace>
-      <last-substitute>self</last-substitute>
+      <last-pattern>dispersed</last-pattern>
+      <last-replace>shifted</last-replace>
+      <last-substitute>dispersed</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>keep</entry>
         <entry>count_roop</entry>
         <entry>resut</entry>
         <entry>resu</entry>
@@ -528,9 +529,9 @@
         <entry>predict</entry>
         <entry>save</entry>
         <entry>_preprocess</entry>
+        <entry>dispersed</entry>
       </history-search>
       <history-cmd>
-        <entry>12</entry>
         <entry>15</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -549,6 +550,7 @@
         <entry>.,.+32wq</entry>
         <entry>126</entry>
         <entry>wq</entry>
+        <entry>%s/dispersed/shifted/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
