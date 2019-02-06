@@ -24,11 +24,11 @@
       <file name="/a.dummy" timestamp="1549414928744">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/movie_dataset.py" timestamp="1549417360586">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="36" column="36" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/movie_dataset.py" timestamp="1549419423948">
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="29" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/clustering/clustering.py" timestamp="1541648247213">
         <mark key="[" line="36" column="16" />
@@ -48,27 +48,22 @@
         <mark key="." line="37" column="94" />
         <mark key="^" line="37" column="94" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/semantic_segmentation/model/fcn.py" timestamp="1547647264126">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_samplers/box_sampler.py" timestamp="1549416608927">
         <mark key="[" line="48" column="37" />
         <mark key="]" line="48" column="43" />
         <mark key="." line="48" column="43" />
         <mark key="^" line="48" column="43" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/disparse_gt_boxes.py" timestamp="1549338526659">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/utils.py" timestamp="1549417177884">
         <mark key="[" line="19" column="64" />
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
         <mark key="^" line="19" column="75" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/transforms/build.py" timestamp="1549419747137">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/make_cache.py" timestamp="1549278470959">
         <mark key="[" line="17" column="40" />
@@ -275,6 +270,9 @@
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/transforms/transforms.py" timestamp="1549419795040">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_disperser/box_disperser.py" timestamp="1549414659716">
         <mark key="'" line="11" column="0" />
@@ -486,10 +484,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zLlJlc2l6ZShjZmcucmVzaXplKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>dispersed</text>
@@ -498,31 +496,31 @@
         <text encoding="base64">ICAgICAgICAiIiJTZWxlY3QgYSBib3VuZGluZy1ib3ggcmFuZG9tbHkgYW5kIHNhbWUgYm91bmRpbmctYm94IGFzIGFub3RoZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zLlJlc2l6ZShjZmcucmVzaXplKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zLlJhbmRvbVJlc2l6ZWRDcm9wKDIyNCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbmRpciwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgIHRyYWluX2RhdGFzZXQgPSBkYXRhc2V0cy5JbWFnZUZvbGRlcigK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfYnVpbGQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfc291cmNlLCBpbWdfdGFyZ2V0ID0gW2Nyb3BfaW1nKGltZ18pIGZvciBdCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdfdGFyZ2V0ID0gY3JvcF9pbWcoaW1nLCBib3hfdGFyZ2V0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfY3JvcHBlZAo=</text>
+        <text encoding="base64">ICAgICAgICBpbWdfc291cmNlID0gY3JvcF9pbWcoaW1nLCBib3hfc291cmNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
