@@ -24,11 +24,10 @@
       <file name="/a.dummy" timestamp="1549414928744">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/movie_dataset.py" timestamp="1549415519760">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/movie_dataset.py" timestamp="1549416791502">
+        <mark key="[" line="38" column="50" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/clustering/clustering.py" timestamp="1541648247213">
         <mark key="[" line="36" column="16" />
@@ -52,6 +51,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_samplers/box_sampler.py" timestamp="1549416608927">
+        <mark key="[" line="48" column="37" />
+        <mark key="]" line="48" column="43" />
+        <mark key="." line="48" column="43" />
+        <mark key="^" line="48" column="43" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/disparse_gt_boxes.py" timestamp="1549338526659">
         <mark key="[" line="30" column="0" />
@@ -474,10 +479,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAiTm90IGltcGxlbWVudCB7fS5kZGQiCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWcsIGJveF9zb3VyY2UsIGJveF90YXJnZXQgPSBzZWxmLl90cmFuc2Zvcm1zKGltZywgYm94X3NvdXJjZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>RandomBoxShifter)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dispersed</text>
@@ -486,34 +491,34 @@
         <text encoding="base64">ICAgICAgICAiIiJTZWxlY3QgYSBib3VuZGluZy1ib3ggcmFuZG9tbHkgYW5kIHNhbWUgYm91bmRpbmctYm94IGFzIGFub3RoZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cgPSAiTm90IGltcGxlbWVudCB7fS5kZGQiCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWcsIGJveF9zb3VyY2UsIGJveF90YXJnZXQgPSBzZWxmLl90cmFuc2Zvcm1zKGltZywgYm94X3NvdXJjZSkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJhbmdlX2Rpc3BlcnNlID0gcmFuZ2VfZGlzcGVyc2UK</text>
+        <text encoding="base64">ICAgICAgICBpbWcsIGJveF9zb3VyY2UsIGJveF90YXJnZXQgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBib3hfc2hpZnRlcgo=</text>
+        <text encoding="base64">ICAgICAgICBpbWcgPSBzZWxmLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYm8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbHMgPSBzZWxmLl9sc3RfbGFiZWxzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbF9zb3VyY2UgPSBib3gK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3hfc291cmNlLCBib3gK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -567,8 +572,8 @@
         <entry>.,.+32wq</entry>
         <entry>126</entry>
         <entry>%s/dispersed/shifted/gc</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
