@@ -132,6 +132,13 @@
         <mark key="^" line="59" column="25" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" timestamp="1549448200418">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="114" column="39" />
+        <mark key="]" line="81" column="37" />
+        <mark key="." line="81" column="37" />
+        <mark key="^" line="81" column="37" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_shifters/__init__.py" timestamp="1549422751141">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="35" />
@@ -187,12 +194,6 @@
         <mark key="]" line="2" column="30" />
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/fc_layers.py" timestamp="1549439880049">
-        <mark key="[" line="9" column="62" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/__init__.py" timestamp="1549422682740">
         <mark key="[" line="0" column="27" />
@@ -271,6 +272,12 @@
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/solver/__init__.py" timestamp="1549446520308">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
         <mark key="[" line="22" column="0" />
@@ -428,12 +435,12 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/defaults.py" timestamp="1549443812117">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/defaults.py" timestamp="1549446644381">
         <mark key="'" line="32" column="1" />
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="28" column="39" />
-        <mark key="." line="28" column="39" />
-        <mark key="^" line="28" column="39" />
+        <mark key="[" line="41" column="28" />
+        <mark key="]" line="41" column="30" />
+        <mark key="." line="41" column="30" />
+        <mark key="^" line="41" column="30" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/vgg.py" timestamp="1549438785857">
         <mark key="[" line="9" column="65" />
@@ -441,15 +448,19 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/solver/build.py" timestamp="1549446497277">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/test/test_build_model.py" timestamp="1549443862884">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/vgg.py" />
       <jump line="3" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/classifier.py" />
       <jump line="0" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/classifier.py" />
       <jump line="13" column="21" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/classifier.py" />
@@ -549,55 +560,56 @@
       <jump line="13" column="69" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/movie_dataset.py" />
       <jump line="18" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/movie_dataset.py" />
       <jump line="13" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/loss/contrastive_loss.py" />
+      <jump line="0" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>DATA_LOADER</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>shift</text>
+        <text>writer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIERhdGFMb2FkZXIKX0MuREFUQV9MT0FERVIgPSBDTigpCg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoJ2xvc3MnLCB7J3RyYWluJzogdHJhaW5fbG9zc30sIGVwb2NoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoImxvc3MiOiB7InRyYWluIiwgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW1pemVyLnN0ZXAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW1pemVyLnplcm9fZ3JhZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHBhcnNlCg==</text>
+        <text encoding="base64">ICAgIHdpdGggbW9kZWwubm9fZ3JhZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWdzIGltcG9ydCBfQyBhcyBjZmcK</text>
+        <text encoding="base64">ZGVmIHRyYWluKG1vZGVsLCBvcHRpbWl6ZXIsIGRhdGFfbG9hZGVyLCBsb3NzX21ldGVyLCBkZXZpY2UpOgogICAgZm9yIGRhdGEgaW4gZGF0YV9sb2FkZXI6CiAgICAgICAgaW1nX3NvdXJjZSwgaW1nX3RhcmdldCwgbGFiZWwgPSBkYXRhCiAgICAgICAgaW1nX3NvdXJjZSA9IGltZ19zb3VyY2UudG8oZGV2aWNlKQogICAgICAgIGltZ190YXJnZXQgPSBpbWdfdGFyZ2V0LnRvKGRldmljZSkKICAgICAgICBsYWJlbCA9IGxhYmVsLnRvKGRldmljZSkKCiAgICAgICAgb3B0aW1pemVyLnplcm9fZ3JhZCgpCiAgICAgICAgbG9zcyA9IG1vZGVsKGltZ19zb3VyY2UsIGltZ190YXJnZXQsIGxhYmVsKQogICAgICAgIGxvc3NfbWV0ZXIudXBkYXRlKGxvc3MuaXRlbSgpKQogICAgICAgIG9wdGltaXplci5zdGVwKCkKICAgIGxvc3NfZXBvY2ggPSBsb3NzX21ldGVyLmF2ZwogICAgbG9zc19tZXRlci5yZXNldCgpCiAgICByZXR1cm4gbG9zc19lcG9jaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpbWl6ZXIuemVyb19ncmFkKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwgPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBvcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>shift</last-search>
+      <last-search>writer</last-search>
       <last-offset />
-      <last-pattern>shift</last-pattern>
+      <last-pattern>writer</last-pattern>
       <last-replace>shifted</last-replace>
       <last-substitute>dispersed</last-substitute>
       <last-dir>1</last-dir>
@@ -605,14 +617,12 @@
     </search>
     <history>
       <history-search>
-        <entry>resu</entry>
         <entry>split</entry>
         <entry>convert</entry>
         <entry>int</entry>
         <entry>visua</entry>
         <entry>wri</entry>
         <entry>tensorboar</entry>
-        <entry>writer</entry>
         <entry>losses</entry>
         <entry>loss</entry>
         <entry>data</entry>
@@ -625,6 +635,8 @@
         <entry>dispersed</entry>
         <entry>sift</entry>
         <entry>shift</entry>
+        <entry>witer</entry>
+        <entry>writer</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
