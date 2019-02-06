@@ -279,11 +279,11 @@
         <mark key="^" line="37" column="92" />
         <mark key="." line="37" column="92" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" timestamp="1549423071690">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="36" />
-        <mark key="." line="12" column="36" />
-        <mark key="^" line="12" column="36" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" timestamp="1549424938142">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="38" column="63" />
+        <mark key="." line="38" column="63" />
+        <mark key="^" line="38" column="63" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/suppnet.py" timestamp="1545639562077">
         <mark key="[" line="2" column="78" />
@@ -351,11 +351,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/defaults.py" timestamp="1549423093325">
-        <mark key="'" line="10" column="1" />
-        <mark key="[" line="4" column="79" />
-        <mark key="]" line="4" column="79" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/defaults.py" timestamp="1549424760567">
+        <mark key="'" line="26" column="1" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -462,46 +462,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>dispersed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICBiYXRjaF9zaXplID0gY2ZnLkRBVEFfTE9BREVSLlZBTF9CQVRDSAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuZGF0YXNldAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGNmZy4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRhdGFfbG9hZGVyID0gZGF0YS5EYXRhTG9hZGVyKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzaHVmZmxlID0gVHJ1ZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBudW1faXRlcnMgPSBOb25lCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Zgo=</text>
+        <text encoding="base64">ICAgICAgICBudW1faXRlcnMgPSBjZmcuU09MVkVSLk1BWF9JVEVSCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuYm94X3NoaWZ0ZXJzIGltcG9ydCBidWlsZAo=</text>
+        <text encoding="base64">X0MuREFUQV9MT0FERVIuVFJBU0hVRkZMRSA9IFRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAuYnVpbGQgaW1wb3J0IGJ1aWxkX3RyYW5zZm9ybXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB5YWNzIGltcG9ydCAK</text>
+        <text encoding="base64">X0MuU09MVkVSLk1BWF9JVEVSID0gNDAwMDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -555,8 +555,8 @@
         <entry>126</entry>
         <entry>%s/dispersed/shifted/gc</entry>
         <entry>.,.+332w</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
