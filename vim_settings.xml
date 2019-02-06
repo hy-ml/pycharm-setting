@@ -27,9 +27,6 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="/a.dummy" timestamp="1549438577906">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/movie_dataset.py" timestamp="1549426506969">
         <mark key="'" line="18" column="32" />
         <mark key="[" line="29" column="57" />
@@ -37,10 +34,11 @@
         <mark key="^" line="30" column="12" />
         <mark key="." line="30" column="12" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/build.py" timestamp="1549448906596">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/build.py" timestamp="1549458963102">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="15" column="66" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/clustering/clustering.py" timestamp="1541648247213">
         <mark key="[" line="36" column="16" />
@@ -72,9 +70,6 @@
         <mark key="." line="50" column="31" />
         <mark key="^" line="46" column="50" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/vgg16.py" timestamp="1549438408186">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/utils.py" timestamp="1549417177884">
         <mark key="[" line="16" column="64" />
         <mark key="]" line="16" column="64" />
@@ -98,14 +93,17 @@
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/config/file_path.py" timestamp="1545664892139">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_unseen.csv" timestamp="1541679026286">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="4" column="13" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/movie_dataset_dia/classification_net/vgg.yaml" timestamp="1549459659788">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_101_FPN_1x_640x480_2stream.yaml" timestamp="1545931427631">
         <mark key="[" line="25" column="18" />
@@ -131,18 +129,18 @@
         <mark key="^" line="59" column="25" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/networks/siamesenet.py" timestamp="1549449743374">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="15" column="7" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="15" column="7" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/networks/siamesenet.py" timestamp="1549458935480">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="55" />
+        <mark key="." line="4" column="55" />
+        <mark key="^" line="4" column="55" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" timestamp="1549448200418">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="114" column="39" />
-        <mark key="]" line="81" column="37" />
-        <mark key="." line="81" column="37" />
-        <mark key="^" line="81" column="37" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" timestamp="1549463570709">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="114" column="64" />
+        <mark key="]" line="115" column="52" />
+        <mark key="^" line="115" column="52" />
+        <mark key="." line="115" column="52" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_shifters/__init__.py" timestamp="1549422751141">
         <mark key="[" line="0" column="41" />
@@ -206,9 +204,6 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/semantic_segmentation/model/utils.py" timestamp="1547647334705">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_class_agnostic_640x480.yaml" timestamp="1544514381726">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="18" />
@@ -239,11 +234,11 @@
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/__init__.py" timestamp="1549440387418">
-        <mark key="[" line="1" column="40" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="29" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/__init__.py" timestamp="1549458971001">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/modeling/detector/generalized_rcnn.py" timestamp="1545913633923">
         <mark key="[" line="38" column="37" />
@@ -257,8 +252,11 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1545930537829">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/networks/build.py" timestamp="1549458820035">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/config/path.py" timestamp="1545664960930">
         <mark key="[" line="4" column="32" />
@@ -344,17 +342,23 @@
         <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="33" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/networks/__init__.py" timestamp="1549458834605">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/sampling/movie_dataset.py" timestamp="1549359991588">
         <mark key="[" line="24" column="40" />
         <mark key="]" line="24" column="40" />
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/loss/build.py" timestamp="1549448505425">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-        <mark key="." line="9" column="14" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/loss/build.py" timestamp="1549458657600">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_101_FPN_1x_class_agnostic_640x480_2stream.yaml" timestamp="1545931383699">
         <mark key="[" line="15" column="0" />
@@ -373,6 +377,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/networks/classification_net.py" timestamp="1549458568413">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/suppnet.py" timestamp="1545639562077">
         <mark key="[" line="2" column="78" />
@@ -440,12 +450,12 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/defaults.py" timestamp="1549446644381">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/defaults.py" timestamp="1549459679668">
         <mark key="'" line="32" column="1" />
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="41" column="30" />
-        <mark key="." line="41" column="30" />
-        <mark key="^" line="41" column="30" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/vgg.py" timestamp="1549438785857">
         <mark key="[" line="9" column="65" />
@@ -466,8 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/classifier.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/classifier.py" />
       <jump line="13" column="21" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/propose_new_nms/maskrcnn_benchmark/modeling/suppressor/classifier.py" />
       <jump line="36" column="42" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/box_dataset.py" />
       <jump line="1" column="35" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppnet.py" />
@@ -566,31 +574,33 @@
       <jump line="18" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/movie_dataset.py" />
       <jump line="13" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/loss/contrastive_loss.py" />
       <jump line="0" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
+      <jump line="85" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
+      <jump line="3453" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SAVE_DIR</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SAVE_DIR</text>
       </register>
       <register name="/" type="4">
-        <text>writer</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoJ2xvc3MnLCB7J3RyYWluJzogdHJhaW5fbG9zc30sIGVwb2NoKQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKGNmZy5TQVZFX0RJUik6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb3NzID0gYnVpbGRfbG9zcyhjZmcpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtb2RlID09ICJ0cmFpbiIgb3IgbW9kZSA9PSAidmFsIjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1vZGUgPSBtb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgU2lhbWVzZU5ldChubi5Nb2R1bGUpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGNmZywgbW9kZSk6CiAgICAgICAgc3VwZXIoU2lhbWVzZU5ldCwgc2VsZikuX19pbml0X18oKQogICAgICAgIHNlbGYubW9kZSA9IG1vZGUKICAgICAgICBzZWxmLmV4dHJhY3RvciA9IGJ1aWxkX2V4dHJhY3RvcihjZmcpCiAgICAgICAgc2VsZi5jbGFzc2lmaWVyID0gYnVpbGRfY2xhc3NpZmllcihjZmcpCiAgICAgICAgaWYgbW9kZSA9PSAidHJhaW4iIG9yIG1vZGUgPT0gInZhbCI6CiAgICAgICAgICAgIHNlbGYubG9zcyA9IGJ1aWxkX2xvc3MoY2ZnKQoKICAgIGRlZiBfZm9yd2FyZF9vbmNlKHNlbGYsIHgpOgogICAgICAgIHggPSBzZWxmLmV4dHJhY3Rvcih4KQogICAgICAgIHggPSB4LnZpZXcoeC5zaXplKDApLCAtMSkKICAgICAgICB4ID0gc2VsZi5jbGFzc2lmaWVyKHgpCiAgICAgICAgcmV0dXJuIHgKCiAgICBkZWYgZm9yd2FyZChzZWxmLCB4MSwgeDIsIGxhYmVsPU5vbmUpOgogICAgICAgIHkxID0gc2VsZi5fZm9yd2FyZF9vbmNlKHgxKQogICAgICAgIHkyID0gc2VsZi5fZm9yd2FyZF9vbmNlKHgyKQogICAgICAgIGlmIHNlbGYubW9kZSA9PSAidGVzdCI6CiAgICAgICAgICAgIHJldHVybiB5MSwgeTIKICAgICAgICBlbHNlOgogICAgICAgICAgICBsb3NzID0gc2VsZi5sb3NzKHkxLCB5MiwgbGFiZWwpCiAgICAgICAgICAgIHJldHVybiBsb3NzCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -599,22 +609,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGJ1aWxkX2NyaXRlcmlvbihjZmcpOgogICAgaWYgY2ZnLk1PREVMLkxPU1MgPT0gIkNvbnRyYXN0aXZlTG9zcyI6CiAgICAgICAgbG9zcyA9IENvbnRyYXN0aXZlTG9zcyhjZmcuTU9ERUwuQ09OVFJBU1RJVkVfTE9TU19NQVJHSU4pCiAgICBlbHNlOgogICAgICAgIG1zZyA9ICJge31gIGlzIG5vdCBpbXBsZW1lbnRlZCB5ZXQuIi5mb3JtYXQoY2ZnLk1PREVMLkxPU1MpCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcihtc2cpCiAgICByZXR1cm4gbG9zcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvcmNoLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAubG9zcyBpbXBvcnQgYnVpbGRfbG9zcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoImxvc3MiOiB7InRyYWluIiwgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvcmNoLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>writer</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>writer</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>shifted</last-replace>
       <last-substitute>dispersed</last-substitute>
       <last-dir>1</last-dir>
@@ -635,13 +645,13 @@
         <entry>device</entry>
         <entry>126</entry>
         <entry>predict</entry>
-        <entry>save</entry>
         <entry>_preprocess</entry>
         <entry>dispersed</entry>
         <entry>sift</entry>
         <entry>shift</entry>
         <entry>witer</entry>
         <entry>writer</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -662,8 +672,8 @@
         <entry>126</entry>
         <entry>%s/dispersed/shifted/gc</entry>
         <entry>.,.+332w</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
