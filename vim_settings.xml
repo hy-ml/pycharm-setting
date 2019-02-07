@@ -52,12 +52,12 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluation/movie_datset.py" timestamp="1549528526128">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="30" column="35" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluation/movie_datset.py" timestamp="1549529862417">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/modeling/roi_heads/box_head/box_head.py" timestamp="1545930748009">
         <mark key="[" line="72" column="34" />
@@ -338,6 +338,12 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluation/build.py" timestamp="1549529983391">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/transforms/transforms.py" timestamp="1549419949450">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -491,7 +497,6 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/test/test_build_model.py" timestamp="1549517630622" />
     </filemarks>
     <jumps>
-      <jump line="19" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/box_dataset.py" />
       <jump line="18" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/box_dataset.py" />
       <jump line="26" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/box_dataset.py" />
       <jump line="30" column="22" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/box_dataset.py" />
@@ -591,64 +596,63 @@
       <jump line="5" column="45" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/structures/boxlist_ops.py" />
       <jump line="26" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/structures/boxlist_ops.py" />
       <jump line="64" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluation/movie_datset.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluation/movie_datset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>img_height</text>
       </register>
       <register name="/" type="4">
-        <text>_box_nms</text>
+        <text>bbox</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfbG9hZF9yZXN1bHRzKHJlc3VsdHNfZmlsZSk6CiAgICAgICAgd2l0aCBvcGVuKHJlc3VsdHNfZmlsZSwgInJiIikgYXMgZnA6CiAgICAgICAgICAgIHJlc3VsdHMgPSBwaWNrbGUubG9hZChmcCkK</text>
+        <text encoding="base64">ICAgICAgICBpbWdzX2Nyb3BwZWQgPSBbc2VsZi5fdHJhbnNmb3Jtcyhjcm9wX2ltZyhpbWcsIGIpKSBmb3IgYiBpbiBib3hlc19wcmVkaWN0XQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdzX2Nyb3BwZWQgPSBbc2VsZi5fdHJhbnNmb3Jtcyhjcm9wX2ltZyhpbWcsIGIpKSBmb3IgYiBpbiBib3hlc19wcmVkaWN0XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuLnV0aWxzIGltcG9ydCBjcm9wX2ltZwo=</text>
+        <text encoding="base64">ICAgICAgICBpbWcK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PVwKICAgICAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsc3RfYmJveF9wcmVkaWN0ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJib3hfYW5ub3QgPSAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_box_nms</last-search>
+      <last-search>bbox</last-search>
       <last-offset />
-      <last-pattern>_box_nms</last-pattern>
-      <last-replace>shifted</last-replace>
-      <last-substitute>dispersed</last-substitute>
+      <last-pattern>bbox</last-pattern>
+      <last-replace>box</last-replace>
+      <last-substitute>bbox</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>int</entry>
-        <entry>visua</entry>
         <entry>wri</entry>
         <entry>tensorboar</entry>
         <entry>losses</entry>
@@ -667,9 +671,10 @@
         <entry>loss</entry>
         <entry>train</entry>
         <entry>_box_nms</entry>
+        <entry>%s</entry>
+        <entry>bbox</entry>
       </history-search>
       <history-cmd>
-        <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>57</entry>
         <entry>.w</entry>
@@ -688,6 +693,7 @@
         <entry>%s/dispersed/shifted/gc</entry>
         <entry>.,.+332w</entry>
         <entry>wq</entry>
+        <entry>%s/bbox/box/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
