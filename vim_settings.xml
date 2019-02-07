@@ -70,6 +70,12 @@
         <mark key="." line="50" column="31" />
         <mark key="^" line="46" column="50" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/test/test_build_dataset.py" timestamp="1549517616294">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/utils.py" timestamp="1549417177884">
         <mark key="[" line="16" column="64" />
         <mark key="]" line="16" column="64" />
@@ -372,6 +378,12 @@
         <mark key="^" line="37" column="92" />
         <mark key="." line="37" column="92" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/test.py" timestamp="1549517944695">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" timestamp="1549425020850">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -475,10 +487,11 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/test/test_build_model.py" timestamp="1549443862884">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/test/test_build_model.py" timestamp="1549517630622">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -585,7 +598,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gcGkzCg==</text>
       </register>
       <register name="-" type="4">
         <text>SAVE_DIR</text>
@@ -597,31 +610,31 @@
         <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKGNmZy5TQVZFX0RJUik6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gcGkzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoImluZGlyIiwgdHlwZT1zdHIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvcmNoLgo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBjdjIKZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">RW5kIHRlc3QuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
