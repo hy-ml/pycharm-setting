@@ -350,6 +350,12 @@
         <mark key="^" line="30" column="12" />
         <mark key="." line="30" column="12" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/configs/unet/defaults.yaml" timestamp="1549699289337">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/movie_dataset/clustering/clustering.py" timestamp="1541648247213">
         <mark key="[" line="36" column="16" />
         <mark key="]" line="34" column="48" />
@@ -393,11 +399,11 @@
         <mark key="." line="21" column="11" />
         <mark key="^" line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/configs/unet/camvid.yaml" timestamp="1549693116322">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="1" column="42" />
-        <mark key="^" line="1" column="42" />
-        <mark key="." line="1" column="42" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/configs/unet/camvid.yaml" timestamp="1549696689378">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/data/build.py" timestamp="1549644709454">
         <mark key="[" line="31" column="63" />
@@ -484,11 +490,11 @@
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="48" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/model/unet.py" timestamp="1549693996173">
-        <mark key="[" line="38" column="61" />
-        <mark key="]" line="43" column="30" />
-        <mark key="." line="43" column="30" />
-        <mark key="^" line="43" column="30" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/model/unet.py" timestamp="1549699529409">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="32" column="47" />
+        <mark key="." line="32" column="47" />
+        <mark key="^" line="32" column="47" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_disperser/__init__.py" timestamp="1549415401087">
         <mark key="[" line="0" column="41" />
@@ -685,44 +691,44 @@
       <jump line="20" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/data/transforms/build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ARCHITECTURE</text>
       </register>
       <register name="/" type="4">
         <text>dataset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxheWVycyArPSBbY29udjJkLCBubi5CYXRjaE5vcm0yZCh2KSwgbm4uUmVMVShpbnBsYWNlPVRydWUpXQo=</text>
+        <text encoding="base64">ICAjICJNIiAtPiBNYXhQb29sMmQ6IGtlcm5lbF9zaXplPTIsIHN0cmlkZT0yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBmb3J3YXJkKHNlbGYsIHgpOgo=</text>
+        <text encoding="base64">ICAgICAgICBoID0gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmVhdHVyZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXMuYXBwZW5kKHgpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBibG9ja19jZmcpOgo=</text>
+        <text encoding="base64">ICAgICAgICBmZWF0dXJlcyA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgRGVjb2Rlcihubi5Nb2R1bGUpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBXc3VwZXIoVU5ldERlY29kZXIsIHNlbGYpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgICAgICBudW1fZG93bl91cF9ibG9ja3MgPSBpbnQoKGxlbihjZmcuTU9ERUwuQVJDSElURUNUVVJFKS0xKS8yKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
