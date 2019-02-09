@@ -490,11 +490,11 @@
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="48" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/model/unet.py" timestamp="1549699529409">
-        <mark key="[" line="38" column="36" />
-        <mark key="]" line="32" column="47" />
-        <mark key="." line="32" column="47" />
-        <mark key="^" line="32" column="47" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/model/unet.py" timestamp="1549704295207">
+        <mark key="[" line="66" column="18" />
+        <mark key="]" line="66" column="19" />
+        <mark key="." line="66" column="19" />
+        <mark key="^" line="66" column="19" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_disperser/__init__.py" timestamp="1549415401087">
         <mark key="[" line="0" column="41" />
@@ -692,43 +692,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGF5ZXJzICs9IFtjb252MmRdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ARCHITECTURE</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>dataset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAjICJNIiAtPiBNYXhQb29sMmQ6IGtlcm5lbF9zaXplPTIsIHN0cmlkZT0yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGF5ZXJzICs9IFtjb252MmRdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVjb252MmQgPSBubi5EZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoID0gTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmVhdHVyZXMK</text>
+        <text encoding="base64">ZnJvbSB0b3JjaCBpbXBvcnQgY2EK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZXMuYXBwZW5kKHgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmZWF0dXJlcyA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaCA9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBudW1fZG93bl91cF9ibG9ja3MgPSBpbnQoKGxlbihjZmcuTU9ERUwuQVJDSElURUNUVVJFKS0xKS8yKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
