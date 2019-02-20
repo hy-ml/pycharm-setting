@@ -41,11 +41,12 @@
         <mark key="." line="50" column="31" />
         <mark key="^" line="46" column="50" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" timestamp="1550670190928">
-        <mark key="[" line="69" column="9" />
-        <mark key="]" line="71" column="29" />
-        <mark key="^" line="71" column="29" />
-        <mark key="." line="71" column="29" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" timestamp="1550671768904">
+        <mark key="'" line="168" column="8" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="167" column="13" />
+        <mark key="^" line="167" column="13" />
+        <mark key="." line="167" column="13" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/movie_dataset_dia/classification_net/vgg.yaml" timestamp="1549459659788">
         <mark key="[" line="6" column="0" />
@@ -121,12 +122,12 @@
         <mark key="^" line="18" column="62" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" timestamp="1550670978893">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" timestamp="1550671690157">
         <mark key="'" line="31" column="12" />
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="17" />
-        <mark key="^" line="29" column="17" />
-        <mark key="." line="29" column="17" />
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="2" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_openset.py" timestamp="1541910981601">
         <mark key="[" line="13" column="35" />
@@ -647,16 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="28" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="29" column="37" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="30" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="34" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="35" column="63" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="36" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="62" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="50" column="33" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/modeling/roi_heads/box_head/roi_box_predictors.py" />
-      <jump line="112" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/predict.py" />
       <jump line="84" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="83" column="33" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/predict.py" />
       <jump line="57" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/predict.py" />
@@ -747,16 +738,26 @@
       <jump line="134" column="48" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="31" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" />
       <jump line="278" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
+      <jump line="31" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="50" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="46" column="17" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="34" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="33" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="30" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="29" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="13" column="38" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="28" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="167" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBQRVJJT0Q6IDI1MDAKICBNQVhfSVRFUjogMTAwMAogIEVBUkxZX1NUT1BfVEhSRVNIT0xEOiA1Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>agnotstic</text>
+        <text>merge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFubl9maWxlPW9zLnBhdGguam9pbihkYXRhX2RpciwgYXR0cnNbMV0pLAo=</text>
@@ -793,9 +794,9 @@
       </register>
     </registers>
     <search>
-      <last-search>agnotstic</last-search>
+      <last-search>merge</last-search>
       <last-offset />
-      <last-pattern>agnotstic</last-pattern>
+      <last-pattern>merge</last-pattern>
       <last-replace>anno</last-replace>
       <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
@@ -803,8 +804,6 @@
     </search>
     <history>
       <history-search>
-        <entry>target</entry>
-        <entry>obj</entry>
         <entry>anno</entry>
         <entry>rois</entry>
         <entry>tra</entry>
@@ -823,6 +822,8 @@
         <entry>CLASS</entry>
         <entry>class</entry>
         <entry>agnotstic</entry>
+        <entry>cfg</entry>
+        <entry>merge</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
