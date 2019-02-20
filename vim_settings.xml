@@ -121,12 +121,12 @@
         <mark key="^" line="18" column="62" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" timestamp="1550673311439">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="28" />
-        <mark key="^" line="19" column="28" />
-        <mark key="." line="19" column="28" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" timestamp="1550681026414">
+        <mark key="'" line="32" column="12" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="30" column="19" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_openset.py" timestamp="1541910981601">
         <mark key="[" line="13" column="35" />
@@ -551,8 +551,8 @@
         <mark key="." line="66" column="19" />
         <mark key="^" line="66" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" timestamp="1550670070065">
-        <mark key="'" line="134" column="48" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" timestamp="1550680659238">
+        <mark key="'" line="184" column="29" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_disperser/__init__.py" timestamp="1549415401087">
         <mark key="[" line="0" column="41" />
@@ -647,10 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="33" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" />
-      <jump line="26" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" />
-      <jump line="17" column="56" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" />
-      <jump line="23" column="15" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" />
       <jump line="20" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" />
       <jump line="14" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" />
       <jump line="8" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" />
@@ -747,16 +743,20 @@
       <jump line="83" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="68" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="70" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="6" column="1" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
+      <jump line="175" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
+      <jump line="191" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
+      <jump line="184" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>pdb</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFMzX0MyX0RFVEVDVFJPTl9VUkwgPSAiaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9kZXRlY3Ryb24iCg==</text>
@@ -793,9 +793,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pdb</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>pdb</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>anno</last-replace>
       <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
@@ -803,7 +803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>val</entry>
         <entry>do_validation</entry>
         <entry>CLASS</entry>
         <entry>class</entry>
@@ -823,6 +822,7 @@
         <entry>np</entry>
         <entry>json</entry>
         <entry>pdb</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
@@ -841,9 +841,9 @@
         <entry>%s/dispersed/shifted/gc</entry>
         <entry>.,.+332w</entry>
         <entry>%s/bbox/box/gc</entry>
-        <entry>wq</entry>
         <entry>%s/target/anno/gc</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
