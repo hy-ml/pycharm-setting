@@ -440,11 +440,11 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1550653538491">
-        <mark key="[" line="30" column="40" />
-        <mark key="]" line="30" column="46" />
-        <mark key="." line="30" column="46" />
-        <mark key="^" line="30" column="46" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1550656067276">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
+        <mark key="^" line="29" column="24" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_shifters/box_shifter.py" timestamp="1549425449832">
         <mark key="'" line="35" column="33" />
@@ -471,12 +471,11 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" timestamp="1550653333334">
-        <mark key="'" line="48" column="34" />
-        <mark key="[" line="45" column="78" />
-        <mark key="]" line="46" column="33" />
-        <mark key="." line="46" column="33" />
-        <mark key="^" line="46" column="33" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" timestamp="1550658940956">
+        <mark key="'" line="46" column="42" />
+        <mark key="[" line="110" column="53" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_class_agnostic_640x480.yaml" timestamp="1544514381726">
         <mark key="[" line="18" column="17" />
@@ -496,6 +495,10 @@
         <mark key="]" line="50" column="44" />
         <mark key="." line="50" column="44" />
         <mark key="^" line="50" column="44" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco.py" timestamp="1550657925799">
+        <mark key="'" line="38" column="39" />
+        <mark key="[" line="38" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_101_FPN_1x_class_agnostic_640x480.yaml" timestamp="1544531494028">
         <mark key="[" line="37" column="74" />
@@ -620,23 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="7" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppnet.py" />
-      <jump line="39" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppnet.py" />
-      <jump line="40" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppnet.py" />
-      <jump line="49" column="21" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppnet.py" />
-      <jump line="50" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppnet.py" />
-      <jump line="51" column="42" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppnet.py" />
-      <jump line="52" column="21" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppnet.py" />
-      <jump line="4" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/extractor/vgg.py" />
-      <jump line="6" column="13" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/extractor/vgg.py" />
-      <jump line="29" column="37" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/extractor/vgg.py" />
-      <jump line="19" column="21" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/extractor/vgg.py" />
-      <jump line="22" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/extractor/vgg.py" />
-      <jump line="61" column="7" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
-      <jump line="17" column="44" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="4" column="5" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="54" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="73" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
@@ -716,73 +702,83 @@
       <jump line="46" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/movie_dataset.py" />
       <jump line="54" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/movie_dataset.py" />
       <jump line="23" column="50" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/movie_dataset.py" />
-      <jump line="46" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="11" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
       <jump line="37" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
       <jump line="33" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="45" column="49" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="40" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="12" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="14" column="52" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="51" column="45" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="36" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="44" column="53" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco.py" />
+      <jump line="49" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco.py" />
+      <jump line="38" column="39" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco.py" />
+      <jump line="56" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="90" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="92" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="93" column="13" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="91" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="46" column="42" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuY29uY2F0X2RhdGFzZXQgaW1wb3J0IENvbmNhdERhdGFzZXQK</text>
+        <text encoding="base64">ICAgICAgICByb2lzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>factory</text>
+        <text>tra</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSAuY29uY2F0X2RhdGFzZXQgaW1wb3J0IENvbmNhdERhdGFzZXQK</text>
+        <text encoding="base64">ICAgICAgICBib3hlcyA9IHRvcmNoLmFzX3RlbnNvcihib3hlcykucmVzaGFwZSgtMSwgNCkgICMgZ3VhcmQgYWdhaW5zdCBubyBib3hlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByb2lzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVjb252MmQgPSBubi5EZQo=</text>
+        <text encoding="base64">ICAgICAgICByb2lzX3BvcyA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9pcyA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaCBpbXBvcnQgY2EK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLndpdGhfcm9pczoKICAgICAgICAgICAgcm9pcyA9IG5wLmxvYWQoCiAgICAgICAgICAgICAgICBvcy5wYXRoLmpvaW4oc2VsZi5yb290LCAiaW1hZ2VzIiwgc3BsaXQsIGZpbGVfbmFtZSkpLmNvbnZlcnQoJ1JHQicpCiAgICAgICAgICAgIHJvaXMgPSBzZWxmLl9yZWplY3RfdG9vX3NtYWxsX3JvaXMocm9pcykKICAgICAgICBlbHNlOgogICAgICAgICAgICByb2lzID0gTm9uZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucm9vdCwgInJvaXMiLCBzcGxpdCwgZmlsZV9uYW1lKSkuY29udmVydCgnUkdCJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9pcyA9IG5wLmxvYWQoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZpbHRlciBjcm93ZCBhbm5vdGF0aW9ucwogICAgICAgICMgVE9ETyBtaWdodCBiZSBiZXR0ZXIgdG8gYWRkIGFuIGV4dHJhIGZpZWxkCiAgICAgICAgYW5ubyA9IFtvYmogZm9yIG9iaiBpbiBhbm5vIGlmIG9ialsiaXNjcm93ZCJdID09IDBdCgogICAgICAgIGJveGVzID0gW29ialsiYmJveCJdIGZvciBvYmogaW4gYW5ub10KICAgICAgICBib3hlcyA9IHRvcmNoLmFzX3RlbnNvcihib3hlcykucmVzaGFwZSgtMSwgNCkgICMgZ3VhcmQgYWdhaW5zdCBubyBib3hlcwogICAgICAgIHRhcmdldCA9IEJveExpc3QoYm94ZXMsIGltZy5zaXplLCBtb2RlPSJ4eXdoIikuY29udmVydCgieHl4eSIpCgogICAgICAgIGNsYXNzZXMgPSBbb2JqWyJjYXRlZ29yeV9pZCJdIGZvciBvYmogaW4gYW5ub10KICAgICAgICBjbGFzc2VzID0gW3NlbGYuanNvbl9jYXRlZ29yeV9pZF90b19jb250aWd1b3VzX2lkW2NdIGZvciBjIGluIGNsYXNzZXNdCiAgICAgICAgIyAwOiBub3Qgb2JqZWN0LCAxOiBvYmplY3QKICAgICAgICBjbGFzc2VzID0gWzEgZm9yIF8gaW4gY2xhc3Nlc10KICAgICAgICBjbGFzc2VzID0gdG9yY2gudGVuc29yKGNsYXNzZXMpCiAgICAgICAgdGFyZ2V0LmFkZF9maWVsZCgibGFiZWxzIiwgY2xhc3NlcykKCiAgICAgICAgbWFza3MgPSBbb2JqWyJzZWdtZW50YXRpb24iXSBmb3Igb2JqIGluIGFubm9dCiAgICAgICAgbWFza3MgPSBTZWdtZW50YXRpb25NYXNrKG1hc2tzLCBpbWcuc2l6ZSkKICAgICAgICB0YXJnZXQuYWRkX2ZpZWxkKCJtYXNrcyIsIG1hc2tzKQoKICAgICAgICB0YXJnZXQgPSB0YXJnZXQuY2xpcF90b19pbWFnZShyZW1vdmVfZW1wdHk9VHJ1ZSkKCiAgICAgICAgaWYgc2VsZi50cmFuc2Zvcm1zIGlzIG5vdCBOb25lOgogICAgICAgICAgICBpbWcsIHRhcmdldCA9IHNlbGYudHJhbnNmb3JtcyhpbWcsIHRhcmdldCkKCiAgICAgICAgcmV0dXJuIGltZywgdGFyZ2V0LCBpZHgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaCA9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>factory</last-search>
+      <last-search>tra</last-search>
       <last-offset />
-      <last-pattern>factory</last-pattern>
-      <last-replace>box</last-replace>
-      <last-substitute>bbox</last-substitute>
+      <last-pattern>tra</last-pattern>
+      <last-replace>anno</last-replace>
+      <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>device</entry>
-        <entry>126</entry>
-        <entry>predict</entry>
-        <entry>_preprocess</entry>
-        <entry>dispersed</entry>
-        <entry>sift</entry>
-        <entry>shift</entry>
         <entry>witer</entry>
         <entry>writer</entry>
         <entry>save</entry>
@@ -796,9 +792,15 @@
         <entry>class_agno</entry>
         <entry>classes</entry>
         <entry>factory</entry>
+        <entry>path</entry>
+        <entry>root</entry>
+        <entry>target</entry>
+        <entry>obj</entry>
+        <entry>anno</entry>
+        <entry>rois</entry>
+        <entry>tra</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>57</entry>
         <entry>.w</entry>
         <entry>41</entry>
@@ -817,6 +819,7 @@
         <entry>.,.+332w</entry>
         <entry>%s/bbox/box/gc</entry>
         <entry>wq</entry>
+        <entry>%s/target/anno/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
