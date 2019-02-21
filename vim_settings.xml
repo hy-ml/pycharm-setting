@@ -204,7 +204,6 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/transforms/build.py" timestamp="1550669771054" />
       <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="56" />
@@ -240,6 +239,12 @@
         <mark key="]" line="54" column="17" />
         <mark key="." line="54" column="17" />
         <mark key="^" line="54" column="17" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/test_net.py" timestamp="1550720508788">
+        <mark key="[" line="76" column="59" />
+        <mark key="]" line="76" column="54" />
+        <mark key="^" line="76" column="54" />
+        <mark key="." line="76" column="54" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_sampler/build.py" timestamp="1549361172932">
         <mark key="[" line="9" column="38" />
