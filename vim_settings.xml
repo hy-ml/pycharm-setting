@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/scripts/train.py" timestamp="1549689623049">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/__init__.py" timestamp="1549440093112">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="1" column="34" />
@@ -497,6 +492,13 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/inference.py" timestamp="1550747052016">
+        <mark key="'" line="0" column="30" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" timestamp="1550679942110">
         <mark key="'" line="70" column="26" />
         <mark key="[" line="70" column="8" />
@@ -595,6 +597,12 @@
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/evaluation/__init__.py" timestamp="1550747023971">
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="25" column="35" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/test.py" timestamp="1549520299709">
         <mark key="[" line="29" column="23" />
         <mark key="]" line="26" column="52" />
@@ -645,14 +653,8 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/structures/boxlist_ops.py" timestamp="1549519288264">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" />
       <jump line="14" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" />
       <jump line="8" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" />
       <jump line="5" column="6" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/build.py" />
@@ -752,55 +754,56 @@
       <jump line="175" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="191" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="184" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
+      <jump line="0" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/inference.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>evaluatio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFMzX0MyX0RFVEVDVFJPTl9VUkwgPSAiaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9kZXRlY3Ryb24iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5pc19zYW1wbGVfcm9pczoK</text>
+        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCiAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ZnJvbSAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi5pc19zYW1wbGVfcm9pczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCiAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgICAgICBwcmkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>evaluatio</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>evaluatio</last-pattern>
       <last-replace>anno</last-replace>
       <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
@@ -808,7 +811,6 @@
     </search>
     <history>
       <history-search>
-        <entry>do_validation</entry>
         <entry>CLASS</entry>
         <entry>class</entry>
         <entry>agnotstic</entry>
@@ -828,6 +830,7 @@
         <entry>json</entry>
         <entry>pdb</entry>
         <entry>save</entry>
+        <entry>evaluatio</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
