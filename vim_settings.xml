@@ -504,6 +504,9 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/voc.py" timestamp="1550809556384">
+        <mark key="'" line="85" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/inference.py" timestamp="1550747052016">
         <mark key="'" line="0" column="30" />
         <mark key="[" line="6" column="12" />
@@ -667,7 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="13" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="91" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="44" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="46" column="42" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
@@ -767,6 +769,7 @@
       <jump line="77" column="40" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="67" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="56" column="14" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/voc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -776,7 +779,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text>get_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb2NvID0gc2VsZi5jb2NvCiAgICAgICAgaW1nX2lkID0gc2VsZi5pZHNbaWR4XQo=</text>
@@ -813,9 +816,9 @@
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search>get_</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern>get_</last-pattern>
       <last-replace>anno</last-replace>
       <last-substitute>target</last-substitute>
       <last-dir>1</last-dir>
@@ -823,7 +826,6 @@
     </search>
     <history>
       <history-search>
-        <entry>make_data_loader</entry>
         <entry>train(</entry>
         <entry>train</entry>
         <entry>tensor</entry>
@@ -843,6 +845,7 @@
         <entry>img_path</entry>
         <entry>lst_img_path</entry>
         <entry>img</entry>
+        <entry>get_</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
