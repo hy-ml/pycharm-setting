@@ -125,12 +125,12 @@
         <mark key="." line="39" column="62" />
         <mark key="^" line="39" column="62" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/movie_dataset.py" timestamp="1550815422030">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/movie_dataset.py" timestamp="1550816210927">
         <mark key="'" line="147" column="51" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="145" column="16" />
-        <mark key="." line="145" column="16" />
-        <mark key="^" line="145" column="16" />
+        <mark key="[" line="130" column="30" />
+        <mark key="]" line="130" column="31" />
+        <mark key="." line="130" column="31" />
+        <mark key="^" line="130" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_640x480.yaml" timestamp="1544417063720">
         <mark key="[" line="17" column="58" />
@@ -199,6 +199,10 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluate/movie_dataset.py" timestamp="1550816342550">
+        <mark key="'" line="47" column="9" />
+        <mark key="^" line="15" column="5" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/sampling/build.py" timestamp="1549360243129">
         <mark key="[" line="0" column="35" />
@@ -462,11 +466,11 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/eval.py" timestamp="1550815124145">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="45" column="70" />
-        <mark key="^" line="45" column="70" />
-        <mark key="." line="45" column="70" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/eval.py" timestamp="1550816407219">
+        <mark key="[" line="13" column="70" />
+        <mark key="]" line="16" column="67" />
+        <mark key="^" line="16" column="67" />
+        <mark key="." line="16" column="67" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/data/build.py" timestamp="1549644709454">
         <mark key="[" line="31" column="63" />
@@ -700,8 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="33" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
-      <jump line="36" column="63" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" />
       <jump line="217" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="8" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" />
       <jump line="18" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" />
@@ -800,19 +802,21 @@
       <jump line="38" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/evaluation/voc/voc_eval.py" />
       <jump line="17" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/evaluation/voc/voc_eval.py" />
       <jump line="146" column="51" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/movie_dataset.py" />
+      <jump line="22" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluate/movie_dataset.py" />
+      <jump line="48" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluate/movie_dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>get_im</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TE9HX0RJUjogIi4uL2xvZy9tb3ZpZV9kYXRhc2V0X2RpYS9zcGxpdF9zZWVuX3Vuc2Vlbi9jbGFzc2lmaWNhdGlvbl9uZXQvdmdnX2JuIgo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBkYXRhX2RpciwgcmVzdWx0X2ZpbGUsIGFubm90X2ZpbGUsIHRyYW5zZm9ybXM9Tm9uZSk6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZvciBlcG9jaCBpbiByYW5nZShjZmcuU09MVkVSLk1BWF9FUE9DSCk6Cg==</text>
@@ -846,9 +850,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_im</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>get_im</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>MovieDatasetTrain</last-replace>
       <last-substitute>MovieDataset</last-substitute>
       <last-dir>1</last-dir>
@@ -856,8 +860,6 @@
     </search>
     <history>
       <history-search>
-        <entry>np</entry>
-        <entry>json</entry>
         <entry>pdb</entry>
         <entry>save</entry>
         <entry>evaluatio</entry>
@@ -876,6 +878,8 @@
         <entry>amin</entry>
         <entry>main</entry>
         <entry>get_im</entry>
+        <entry>buid</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
