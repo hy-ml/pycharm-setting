@@ -595,6 +595,12 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
+      <file name="$USER_HOME$/ws/cpp/kisorinkou/week2/python/orb.py" timestamp="1551088354715">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="16" />
+        <mark key="^" line="30" column="16" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/model/unet.py" timestamp="1549704295207">
         <mark key="[" line="66" column="18" />
         <mark key="]" line="66" column="19" />
@@ -806,44 +812,44 @@
       <jump line="48" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluate/movie_dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGN2Mi5kcmF3TWF0Y2hlcygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBkYXRhX2RpciwgcmVzdWx0X2ZpbGUsIGFubm90X2ZpbGUsIHRyYW5zZm9ybXM9Tm9uZSk6Cg==</text>
+        <text encoding="base64">ICAgIHJzbHQxID0gY3YyLmRyYXdLZXlwb2ludHMoaW1nMSwga3AxLCBjb2xvcj0oMCwgMjU1LCAwKSwgZmxhZ3M9MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBlcG9jaCBpbiByYW5nZShjZmcuU09MVkVSLk1BWF9FUE9DSCk6Cg==</text>
+        <text encoding="base64">ICAgIGN2Mi5kcmF3TWF0Y2hlcygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbl9sb3NzID0gdHJhaW4obW9kZWwsIG9wdGltaXplciwgdHJhaW5fZGF0YV9sb2FkZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYWluX2xvc3NfbWV0ZXIsIGRldmljZSkKICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoJ2xvc3MnLCB7J3RyYWluJzogdHJhaW5fbG9zc30sIGVwb2NoKzEpCiAgICAgICAgcHJpbnQoInt9IGVwb2NoOiB7fSIuZm9ybWF0KGVwb2NoKzEsIHRyYWluX2xvc3MpKQoKICAgICAgICBpZiAoZXBvY2ggKyAxKSAlIGNmZy5TT0xWRVIuVkFMX1BFUklPRCA9PSAwOgogICAgICAgICAgICB2YWxfbG9zcyA9IHZhbChtb2RlbCwgdmFsX2RhdGFfbG9hZGVyLCB2YWxfbG9zc19tZXRlciwgZGV2aWNlKQogICAgICAgICAgICBpZiB2YWxfbG9zcyA8IG1pbl92YWxfbG9zczoKICAgICAgICAgICAgICAgIGNvdW50c19ub3RfcmVuZXdfbWluX3ZhbF9sb3NzID0gMAogICAgICAgICAgICAgICAgbWluX3ZhbF9sb3NzID0gdmFsX2xvc3MKICAgICAgICAgICAgICAgIHRvcmNoLnNhdmUobW9kZWwuc3RhdGVfZGljdCgpLCBvcy5wYXRoLmpvaW4oCiAgICAgICAgICAgICAgICAgICAgY2ZnLlNBVkVfRElSLCAibWluX3ZhbCIpKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgY291bnRzX25vdF9yZW5ld19taW5fdmFsX2xvc3MgKz0gMQogICAgICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoJ2xvc3MnLCB7J3ZhbCc6IHZhbF9sb3NzfSwgZXBvY2grMSkKCiAgICAgICAgICAgIGlmIGNvdW50c19ub3RfcmVuZXdfbWluX3ZhbF9sb3NzID49IGNmZy5TT0xWRVIuRUFSTFlfU1RPUF9DT1VOVFM6CiAgICAgICAgICAgICAgICBicmVhawoK</text>
+        <text encoding="base64">ICAgIGN2Mi5kcmF3TWF0Y2hlcygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKGNmZy5MT0dfRElSKToKICAgICAgICBvcy5tYWtlZGlycyhjZmcuTE9HX0RJUikK</text>
+        <text encoding="base64">ICAgIHJzbHQxID0gY3YyLmRyYXdLZXlwb2ludHMoaW1nMSwga3AxLCBOb25lLCBjb2xvcj0oMCwgMjU1LCAwKSwgZmxhZ3M9MCkKICAgIHJzbHQyID0gY3YyLmRyYXdLZXlwb2ludHMoaW1nMiwga3AyLCBOb25lLCBjb2xvcj0oMCwgMjU1LCAwKSwgZmxhZ3M9MCkKCiAgICBjdjIuaW1zaG93KCJpbWcxIiwgcnNsdDEpCiAgICBjdjIuaW1zaG93KCJpbWcyIiwgcnNsdDIpCiAgICBjdjIud2FpdEtleSgwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9yYiA9IGN2Mi5PUkIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgd3JpdGVyIG9mIHRlbnNvcmJvYXJkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGtwMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQogICAgdmFsX2xvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQogICAgY291bnRzX25vdF9yZW5ld19taW5fdmFsX2xvc3MgPSAwCiAgICBtaW5fdmFsX2xvc3MgPSAxMDAwMDAwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWwiKQo=</text>
+        <text encoding="base64">ICAgIGtwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
