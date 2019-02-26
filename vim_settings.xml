@@ -132,6 +132,12 @@
         <mark key="." line="130" column="31" />
         <mark key="^" line="130" column="31" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/visualization_tool/visualize_box.py" timestamp="1551186148338">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="52" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_50_C4_1x_640x480.yaml" timestamp="1544417063720">
         <mark key="[" line="17" column="58" />
         <mark key="]" line="17" column="58" />
@@ -534,11 +540,6 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/voc.py" timestamp="1550811507772">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="133" column="48" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/inference.py" timestamp="1550747052016">
         <mark key="'" line="0" column="30" />
         <mark key="[" line="6" column="12" />
@@ -670,6 +671,13 @@
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" timestamp="1551186179160">
+        <mark key="'" line="5" column="1" />
+        <mark key="[" line="82" column="8" />
+        <mark key="]" line="82" column="8" />
+        <mark key="." line="82" column="8" />
+        <mark key="^" line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/structures/boxlist_ops.py" timestamp="1545650717381">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="0" />
@@ -710,7 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="8" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" />
       <jump line="18" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" />
       <jump line="114" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
@@ -810,55 +817,56 @@
       <jump line="146" column="51" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/movie_dataset.py" />
       <jump line="22" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluate/movie_dataset.py" />
       <jump line="48" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluate/movie_dataset.py" />
+      <jump line="5" column="1" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGN2Mi5kcmF3TWF0Y2hlcygpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>cvt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJzbHQxID0gY3YyLmRyYXdLZXlwb2ludHMoaW1nMSwga3AxLCBjb2xvcj0oMCwgMjU1LCAwKSwgZmxhZ3M9MCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN2Mi5kcmF3TWF0Y2hlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3X3NpemUgPSByZXNpemUuZ2V0X3NpemUoaW1nLnNpemUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN2Mi5kcmF3TWF0Y2hlcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJzbHQxID0gY3YyLmRyYXdLZXlwb2ludHMoaW1nMSwga3AxLCBOb25lLCBjb2xvcj0oMCwgMjU1LCAwKSwgZmxhZ3M9MCkKICAgIHJzbHQyID0gY3YyLmRyYXdLZXlwb2ludHMoaW1nMiwga3AyLCBOb25lLCBjb2xvcj0oMCwgMjU1LCAwKSwgZmxhZ3M9MCkKCiAgICBjdjIuaW1zaG93KCJpbWcxIiwgcnNsdDEpCiAgICBjdjIuaW1zaG93KCJpbWcyIiwgcnNsdDIpCiAgICBjdjIud2FpdEtleSgwKQo=</text>
+        <text encoding="base64">ZnJvbSBtYXNrcmNubl9iZW5jaG1hcmsuZGF0YS50cmFuc2Zvcm1zIGltcG9ydCBSZXNpemUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9yYiA9IGN2Mi5PUkIoKQo=</text>
+        <text encoding="base64">ICAgIGN2Mi5kcmF3TWF0Y2hlcygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGN2Mi5kcmF3TWF0Y2hlcygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgIHJzbHQxID0gY3YyLmRyYXdLZXlwb2ludHMoaW1nMSwga3AxLCBOb25lLCBjb2xvcj0oMCwgMjU1LCAwKSwgZmxhZ3M9MCkKICAgIHJzbHQyID0gY3YyLmRyYXdLZXlwb2ludHMoaW1nMiwga3AyLCBOb25lLCBjb2xvcj0oMCwgMjU1LCAwKSwgZmxhZ3M9MCkKCiAgICBjdjIuaW1zaG93KCJpbWcxIiwgcnNsdDEpCiAgICBjdjIuaW1zaG93KCJpbWcyIiwgcnNsdDIpCiAgICBjdjIud2FpdEtleSgwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtwMgo=</text>
+        <text encoding="base64">ICAgIG9yYiA9IGN2Mi5PUkIoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtwCg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>cvt</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>cvt</last-pattern>
       <last-replace>MovieDatasetTrain</last-replace>
       <last-substitute>MovieDataset</last-substitute>
       <last-dir>1</last-dir>
@@ -866,7 +874,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pdb</entry>
         <entry>save</entry>
         <entry>evaluatio</entry>
         <entry>output_dir</entry>
@@ -886,6 +893,7 @@
         <entry>get_im</entry>
         <entry>buid</entry>
         <entry>build</entry>
+        <entry>cvt</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
