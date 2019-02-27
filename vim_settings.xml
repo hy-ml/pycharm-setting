@@ -692,12 +692,11 @@
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" timestamp="1551256046925">
-        <mark key="'" line="74" column="62" />
-        <mark key="[" line="77" column="38" />
-        <mark key="]" line="78" column="21" />
-        <mark key="." line="78" column="21" />
-        <mark key="^" line="78" column="21" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" timestamp="1551256765380">
+        <mark key="'" line="86" column="37" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/structures/boxlist_ops.py" timestamp="1545650717381">
         <mark key="[" line="4" column="0" />
@@ -740,7 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
       <jump line="141" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="14" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="19" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
@@ -840,58 +838,56 @@
       <jump line="110" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="159" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="160" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="89" column="37" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBmbGFnX3Jlc2l6ZToKICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>num_gpus</text>
+        <text>show</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tZGF0YS1kaXIiLAogICAgICAgIGRlc3Q9ImRhdGFfZGlyIiwKICAgICAgICBoZWxwPSJQYXRoIHRvIHRoZSByb290IGRpcmVjdG9yeSBvZiBkYXRhc2V0Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBmbGFnX3Jlc2l6ZToKICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nLnNob3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZGF0YV9ub3RfZHRjX3NlZW4gPSBucC56ZXJvcygobGVuKGxzdF9yYXRpbyksIGxlbihsc3RfdGhyZXNob2xkX2Z1c2lvbikpKQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGFfbm90X2R0Y19zZWVuID0gbnAuemVyb3MoKGxlbihsc3RfcmF0aW8pLCBsZW4obHN0X3RocmVzaG9sZF9pb3UpKSkKICAgIGRhdGFfbm90X2R0Y191bnNlZW4gPSBucC56ZXJvcygobGVuKGxzdF9yYXRpbyksIGxlbihsc3RfdGhyZXNob2xkX2lvdSkpKQogICAgZGF0YV90b29fZHRjX3NlZW4gPSBucC56ZXJvcygobGVuKGxzdF9yYXRpbyksIGxlbihsc3RfdGhyZXNob2xkX2lvdSkpKQogICAgZGF0YV90b29fZHRjX3Vuc2VlbiA9IG5wLnplcm9zKChsZW4obHN0X3JhdGlvKSwgbGVuKGxzdF90aHJlc2hvbGRfaW91KSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="8">
-        <text>#
-#
-#
-#</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgZGF0YV9ub3RfZHRjX3NlZW4gPSBucC56ZXJvcygobGVuKGxzdF9yYXRpbyksIGxlbihsc3RfdGhyZXNob2xkX2Z1c2lvbikpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
+        <text encoding="base64">ICAgIGRhdGFfbm90X2R0Y19zZWVuID0gbnAuemVyb3MoKGxlbihsc3RfcmF0aW8pLCBsZW4obHN0X3RocmVzaG9sZF9pb3UpKSkKICAgIGRhdGFfbm90X2R0Y191bnNlZW4gPSBucC56ZXJvcygobGVuKGxzdF9yYXRpbyksIGxlbihsc3RfdGhyZXNob2xkX2lvdSkpKQogICAgZGF0YV90b29fZHRjX3NlZW4gPSBucC56ZXJvcygobGVuKGxzdF9yYXRpbyksIGxlbihsc3RfdGhyZXNob2xkX2lvdSkpKQogICAgZGF0YV90b29fZHRjX3Vuc2VlbiA9IG5wLnplcm9zKChsZW4obHN0X3JhdGlvKSwgbGVuKGxzdF90aHJlc2hvbGRfaW91KSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>num_gpus</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern>num_gpus</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace>MovieDatasetTrain</last-replace>
       <last-substitute>MovieDataset</last-substitute>
       <last-dir>1</last-dir>
@@ -899,7 +895,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MovieDataset</entry>
         <entry>amin</entry>
         <entry>main</entry>
         <entry>get_im</entry>
@@ -919,6 +914,7 @@
         <entry>eval</entry>
         <entry>distr</entry>
         <entry>num_gpus</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
