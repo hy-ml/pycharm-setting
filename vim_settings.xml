@@ -9,12 +9,6 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/configs/unet/unet.yaml" timestamp="1549690616406">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1550813239102">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluation/movie_dataset.py" timestamp="1550813575663">
         <mark key="'" line="58" column="54" />
         <mark key="[" line="56" column="32" />
@@ -613,6 +607,13 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" timestamp="1551241934285">
+        <mark key="'" line="96" column="10" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="18" column="18" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/model/unet.py" timestamp="1549704295207">
         <mark key="[" line="66" column="18" />
         <mark key="]" line="66" column="19" />
@@ -660,9 +661,6 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/evaluation/__init__.py" timestamp="1550747023971">
-        <mark key="[" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/test.py" timestamp="1549520299709">
         <mark key="[" line="29" column="23" />
@@ -729,17 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="134" column="48" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="31" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" />
-      <jump line="278" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="31" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="46" column="17" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="34" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="33" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="30" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="29" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="13" column="38" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="167" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="274" column="23" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
@@ -829,55 +816,71 @@
       <jump line="5" column="1" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
       <jump line="72" column="38" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
       <jump line="74" column="62" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
+      <jump line="29" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="30" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="108" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="58" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="53" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="0" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="75" column="58" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="55" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="67" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="97" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="96" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGRlZiBpbmRleF93b3Jkc19pdGVyKHRleHQpOgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvdW50X25vdF9kdGNfc2VlbiA9IDAKICAgICAgICAjIGNvdW50X3Rvb19kdGNfc2VlbiA9IDAKICAgICAgICAjIGNvdW50X25vdF9kdGNfdW5zZWVuID0gMAogICAgICAgICMgY291bnRfdG9vX2R0Y191bnNlZW4gPSAwCiAgICAgICAgIyB0b3RhbF9ib3hlc19zZWVuID0gMAogICAgICAgICMgdG90YWxfYm94ZXNfdW5zZWVuID0gMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>resize</text>
+        <text>count_frame</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbW92aWUnLCB0eXBlPXN0ciwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nTmFtZSBvZiBtb3ZpZSB2aXN1YWxpc2VkLicpCg==</text>
+      <register name="0" type="4">
+        <text>p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGRlZiBpbmRleF93b3Jkc19pdGVyKHRleHQpOgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvdW50X25vdF9kdGNfc2VlbiA9IDAKICAgICAgICAjIGNvdW50X3Rvb19kdGNfc2VlbiA9IDAKICAgICAgICAjIGNvdW50X25vdF9kdGNfdW5zZWVuID0gMAogICAgICAgICMgY291bnRfdG9vX2R0Y191bnNlZW4gPSAwCiAgICAgICAgIyB0b3RhbF9ib3hlc19zZWVuID0gMAogICAgICAgICMgdG90YWxfYm94ZXNfdW5zZWVuID0gMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVyYWxsX2NvdW50X25vdF9kZXRlY3RlZF9zZWVuICs9IGNvdW50X25vdF9kdGNfc2VlbgogICAgICAgIG92ZXJhbGxfY291bnRfdG9vX2RldGVjdGVkX3NlZW4gKz0gY291bnRfdG9vX2R0Y19zZWVuCiAgICAgICAgb3ZlcmFsbF9jb3VudF9ub3RfZGV0ZWN0ZWRfdW5zZWVuICs9IGNvdW50X25vdF9kdGNfdW5zZWVuCiAgICAgICAgb3ZlcmFsbF9jb3VudF90b29fZGV0ZWN0ZWRfdW5zZWVuICs9IGNvdW50X3Rvb19kdGNfdW5zZWVuCiAgICAgICAgb3ZlcmFsbF90b3RhbF9ib3hlc19zZWVuICs9IHRvdGFsX2JveGVzX3NlZW4KICAgICAgICBvdmVyYWxsX3RvdGFsX2JveGVzX3Vuc2VlbiArPSB0b3RhbF9ib3hlc191bnNlZW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBldmFsdWF0aW9uX3Jlc3VsdHNbbW92aWVfbmFtZV0gPSB7CiAgICAgICAgICAgICdub3RfZGV0ZWN0ZWRfc2Vlbic6IGNvdW50X25vdF9kdGNfc2VlbiwKICAgICAgICAgICAgJ3Rvb19kZXRlY3RlZF9zZWVuJzogY291bnRfdG9vX2R0Y19zZWVuLAogICAgICAgICAgICAnbm90X2RldGVjdGVkX3Vuc2Vlbic6IGNvdW50X25vdF9kdGNfdW5zZWVuLAogICAgICAgICAgICAndG9vX2RldGVjdGVkX3Vuc2Vlbic6IGNvdW50X3Rvb19kdGNfdW5zZWVuLAogICAgICAgICAgICAndG90YWxfYm94ZXNfc2Vlbic6IHRvdGFsX2JveGVzX3NlZW4sCiAgICAgICAgICAgICd0b3RhbF9ib3hlc191bnNlZW4nOiB0b3RhbF9ib3hlc191bnNlZW4KICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudF9mcmFtZSArPSAxCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHB5Ywo=</text>
+      <register name="5" type="8">
+        <text>overall_
+overall_
+overall_
+overall_
+overall_
+overall_</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHB5Y29jb3Rvb2xzCg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF9ib3hlc191bnNlZW4gKz0gbnAuc3VtKGlzX3Vuc2VlbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF9ib3hlc19zZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzaXplLmdldF9zaXplKGltZy5zaXplWzo6LTFdKSkK</text>
+        <text encoding="base64">ICAgICAgICByZXNpemUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW1nLnNpemUpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resize</last-search>
+      <last-search>count_frame</last-search>
       <last-offset />
-      <last-pattern>resize</last-pattern>
+      <last-pattern>count_frame</last-pattern>
       <last-replace>MovieDatasetTrain</last-replace>
       <last-substitute>MovieDataset</last-substitute>
       <last-dir>1</last-dir>
@@ -885,11 +888,6 @@
     </search>
     <history>
       <history-search>
-        <entry>evaluatio</entry>
-        <entry>output_dir</entry>
-        <entry>HE</entry>
-        <entry>args</entry>
-        <entry>args.data</entry>
         <entry>data_dir</entry>
         <entry>data_lo</entry>
         <entry>loader</entry>
@@ -905,6 +903,11 @@
         <entry>build</entry>
         <entry>cvt</entry>
         <entry>resize</entry>
+        <entry>fp</entry>
+        <entry>annots</entry>
+        <entry>label_annot</entry>
+        <entry>max_label</entry>
+        <entry>count_frame</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
