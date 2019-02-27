@@ -650,6 +650,12 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="21" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/dataset/get_high_occlusion_img.py" timestamp="1551285395126">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="43" column="43" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/extractor/__init__.py" timestamp="1549440309556">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="1" column="33" />
@@ -842,43 +848,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmbGFnX3Jlc2l6ZToKICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCB0b3JjaAo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIi0tZGF0YS1kaXIiLAogICAgICAgIGRlc3Q9ImRhdGFfZGlyIiwKICAgICAgICBoZWxwPSJQYXRoIHRvIHRoZSByb290IGRpcmVjdG9yeSBvZiBkYXRhc2V0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm94ZXMxID0gQm94TGlzdChkZWVwY29weShib3hlcyksICgzMjAsIDI0MCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmbGFnX3Jlc2l6ZToKICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCB0b3JjaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nLnNob3coKQo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZGF0YV9ub3RfZHRjX3NlZW4gPSBucC56ZXJvcygobGVuKGxzdF9yYXRpbyksIGxlbihsc3RfdGhyZXNob2xkX2Z1c2lvbikpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGFfbm90X2R0Y19zZWVuID0gbnAuemVyb3MoKGxlbihsc3RfcmF0aW8pLCBsZW4obHN0X3RocmVzaG9sZF9pb3UpKSkKICAgIGRhdGFfbm90X2R0Y191bnNlZW4gPSBucC56ZXJvcygobGVuKGxzdF9yYXRpbyksIGxlbihsc3RfdGhyZXNob2xkX2lvdSkpKQogICAgZGF0YV90b29fZHRjX3NlZW4gPSBucC56ZXJvcygobGVuKGxzdF9yYXRpbyksIGxlbihsc3RfdGhyZXNob2xkX2lvdSkpKQogICAgZGF0YV90b29fZHRjX3Vuc2VlbiA9IG5wLnplcm9zKChsZW4obHN0X3JhdGlvKSwgbGVuKGxzdF90aHJlc2hvbGRfaW91KSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXllID0gdG9yY2gudGVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
