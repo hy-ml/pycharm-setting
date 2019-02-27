@@ -607,12 +607,12 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" timestamp="1551241934285">
-        <mark key="'" line="96" column="10" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="18" column="18" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" timestamp="1551244758450">
+        <mark key="'" line="59" column="32" />
+        <mark key="[" line="68" column="38" />
+        <mark key="]" line="69" column="17" />
+        <mark key="." line="69" column="17" />
+        <mark key="^" line="69" column="17" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/model/unet.py" timestamp="1549704295207">
         <mark key="[" line="66" column="18" />
@@ -727,12 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="38" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="167" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="274" column="23" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="60" column="14" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="61" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="31" column="69" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
       <jump line="39" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
       <jump line="41" column="35" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
       <jump line="43" column="40" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
@@ -821,66 +815,67 @@
       <jump line="108" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="58" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="53" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
-      <jump line="0" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="75" column="58" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="55" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="67" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="97" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="96" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="100" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="129" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="95" column="40" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="94" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="0" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="59" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvdW50X25vdF9kdGNfc2VlbiA9IDAKICAgICAgICAjIGNvdW50X3Rvb19kdGNfc2VlbiA9IDAKICAgICAgICAjIGNvdW50X25vdF9kdGNfdW5zZWVuID0gMAogICAgICAgICMgY291bnRfdG9vX2R0Y191bnNlZW4gPSAwCiAgICAgICAgIyB0b3RhbF9ib3hlc19zZWVuID0gMAogICAgICAgICMgdG90YWxfYm94ZXNfdW5zZWVuID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>count_frame</text>
+        <text>get_siz</text>
       </register>
       <register name="0" type="4">
         <text>p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvdW50X25vdF9kdGNfc2VlbiA9IDAKICAgICAgICAjIGNvdW50X3Rvb19kdGNfc2VlbiA9IDAKICAgICAgICAjIGNvdW50X25vdF9kdGNfdW5zZWVuID0gMAogICAgICAgICMgY291bnRfdG9vX2R0Y191bnNlZW4gPSAwCiAgICAgICAgIyB0b3RhbF9ib3hlc19zZWVuID0gMAogICAgICAgICMgdG90YWxfYm94ZXNfdW5zZWVuID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyYWxsX2NvdW50X25vdF9kZXRlY3RlZF9zZWVuICs9IGNvdW50X25vdF9kdGNfc2VlbgogICAgICAgIG92ZXJhbGxfY291bnRfdG9vX2RldGVjdGVkX3NlZW4gKz0gY291bnRfdG9vX2R0Y19zZWVuCiAgICAgICAgb3ZlcmFsbF9jb3VudF9ub3RfZGV0ZWN0ZWRfdW5zZWVuICs9IGNvdW50X25vdF9kdGNfdW5zZWVuCiAgICAgICAgb3ZlcmFsbF9jb3VudF90b29fZGV0ZWN0ZWRfdW5zZWVuICs9IGNvdW50X3Rvb19kdGNfdW5zZWVuCiAgICAgICAgb3ZlcmFsbF90b3RhbF9ib3hlc19zZWVuICs9IHRvdGFsX2JveGVzX3NlZW4KICAgICAgICBvdmVyYWxsX3RvdGFsX2JveGVzX3Vuc2VlbiArPSB0b3RhbF9ib3hlc191bnNlZW4K</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmFsdWF0aW9uX3Jlc3VsdHNbbW92aWVfbmFtZV0gPSB7CiAgICAgICAgICAgICdub3RfZGV0ZWN0ZWRfc2Vlbic6IGNvdW50X25vdF9kdGNfc2VlbiwKICAgICAgICAgICAgJ3Rvb19kZXRlY3RlZF9zZWVuJzogY291bnRfdG9vX2R0Y19zZWVuLAogICAgICAgICAgICAnbm90X2RldGVjdGVkX3Vuc2Vlbic6IGNvdW50X25vdF9kdGNfdW5zZWVuLAogICAgICAgICAgICAndG9vX2RldGVjdGVkX3Vuc2Vlbic6IGNvdW50X3Rvb19kdGNfdW5zZWVuLAogICAgICAgICAgICAndG90YWxfYm94ZXNfc2Vlbic6IHRvdGFsX2JveGVzX3NlZW4sCiAgICAgICAgICAgICd0b3RhbF9ib3hlc191bnNlZW4nOiB0b3RhbF9ib3hlc191bnNlZW4KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudF9mcmFtZSArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>overall_
-overall_
-overall_
-overall_
-overall_
-overall_</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZwLmNsb3NlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF9ib3hlc191bnNlZW4gKz0gbnAuc3VtKGlzX3Vuc2VlbikK</text>
+        <text encoding="base64">ICAgICAgICAjIGNvdW50X25vdF9kdGNfc2VlbiA9IDAKICAgICAgICAjIGNvdW50X3Rvb19kdGNfc2VlbiA9IDAKICAgICAgICAjIGNvdW50X25vdF9kdGNfdW5zZWVuID0gMAogICAgICAgICMgY291bnRfdG9vX2R0Y191bnNlZW4gPSAwCiAgICAgICAgIyB0b3RhbF9ib3hlc19zZWVuID0gMAogICAgICAgICMgdG90YWxfYm94ZXNfdW5zZWVuID0gMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF9ib3hlc19zZQo=</text>
+        <text encoding="base64">ICAgICAgICBvdmVyYWxsX2NvdW50X25vdF9kZXRlY3RlZF9zZWVuICs9IGNvdW50X25vdF9kdGNfc2VlbgogICAgICAgIG92ZXJhbGxfY291bnRfdG9vX2RldGVjdGVkX3NlZW4gKz0gY291bnRfdG9vX2R0Y19zZWVuCiAgICAgICAgb3ZlcmFsbF9jb3VudF9ub3RfZGV0ZWN0ZWRfdW5zZWVuICs9IGNvdW50X25vdF9kdGNfdW5zZWVuCiAgICAgICAgb3ZlcmFsbF9jb3VudF90b29fZGV0ZWN0ZWRfdW5zZWVuICs9IGNvdW50X3Rvb19kdGNfdW5zZWVuCiAgICAgICAgb3ZlcmFsbF90b3RhbF9ib3hlc19zZWVuICs9IHRvdGFsX2JveGVzX3NlZW4KICAgICAgICBvdmVyYWxsX3RvdGFsX2JveGVzX3Vuc2VlbiArPSB0b3RhbF9ib3hlc191bnNlZW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNpemUK</text>
+        <text encoding="base64">ICAgICAgICBldmFsdWF0aW9uX3Jlc3VsdHNbbW92aWVfbmFtZV0gPSB7CiAgICAgICAgICAgICdub3RfZGV0ZWN0ZWRfc2Vlbic6IGNvdW50X25vdF9kdGNfc2VlbiwKICAgICAgICAgICAgJ3Rvb19kZXRlY3RlZF9zZWVuJzogY291bnRfdG9vX2R0Y19zZWVuLAogICAgICAgICAgICAnbm90X2RldGVjdGVkX3Vuc2Vlbic6IGNvdW50X25vdF9kdGNfdW5zZWVuLAogICAgICAgICAgICAndG9vX2RldGVjdGVkX3Vuc2Vlbic6IGNvdW50X3Rvb19kdGNfdW5zZWVuLAogICAgICAgICAgICAndG90YWxfYm94ZXNfc2Vlbic6IHRvdGFsX2JveGVzX3NlZW4sCiAgICAgICAgICAgICd0b3RhbF9ib3hlc191bnNlZW4nOiB0b3RhbF9ib3hlc191bnNlZW4KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb3VudF9mcmFtZSArPSAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>count_frame</last-search>
+      <last-search>get_siz</last-search>
       <last-offset />
-      <last-pattern>count_frame</last-pattern>
+      <last-pattern>get_siz</last-pattern>
       <last-replace>MovieDatasetTrain</last-replace>
       <last-substitute>MovieDataset</last-substitute>
       <last-dir>1</last-dir>
@@ -888,10 +883,6 @@ overall_</text>
     </search>
     <history>
       <history-search>
-        <entry>data_dir</entry>
-        <entry>data_lo</entry>
-        <entry>loader</entry>
-        <entry>img_path</entry>
         <entry>lst_img_path</entry>
         <entry>get_</entry>
         <entry>img</entry>
@@ -903,11 +894,15 @@ overall_</text>
         <entry>build</entry>
         <entry>cvt</entry>
         <entry>resize</entry>
-        <entry>fp</entry>
         <entry>annots</entry>
         <entry>label_annot</entry>
         <entry>max_label</entry>
         <entry>count_frame</entry>
+        <entry>fp</entry>
+        <entry>coco</entry>
+        <entry>eva</entry>
+        <entry>HEAD</entry>
+        <entry>get_siz</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
