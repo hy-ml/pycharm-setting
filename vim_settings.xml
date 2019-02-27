@@ -119,6 +119,10 @@
         <mark key="." line="39" column="62" />
         <mark key="^" line="39" column="62" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_movie_dataset.py" timestamp="1551249204403">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="89" column="9" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/movie_dataset.py" timestamp="1550816210927">
         <mark key="'" line="147" column="51" />
         <mark key="[" line="130" column="30" />
@@ -607,12 +611,12 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" timestamp="1551246320596">
-        <mark key="'" line="59" column="32" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="62" column="51" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" timestamp="1551249233290">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="95" column="22" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/model/unet.py" timestamp="1549704295207">
         <mark key="[" line="66" column="18" />
@@ -727,8 +731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
-      <jump line="41" column="35" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
       <jump line="43" column="40" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
       <jump line="45" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
       <jump line="38" column="68" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
@@ -822,60 +824,62 @@
       <jump line="96" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="100" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="129" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
-      <jump line="95" column="40" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="94" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="143" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="0" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
       <jump line="59" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="62" column="22" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="95" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">ICAgIGV2YWx1YXRpb25fcmVzdWx0cyA9IHt9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>get_siz</text>
+        <text>eval</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBtYXNrcmNubl9iZW5jaG1hcmsuc3RydWN0dXJlcy5ib3VuZGluZ19ib3ggaW1wb3J0IEJveExpc3QK</text>
+        <text encoding="base64">ICAgICAgICBldmFsdWF0aW9uX3Jlc3VsdHNbbW92aWVfbmFtZV0gPSB7CiAgICAgICAgICAgICdub3RfZGV0ZWN0ZWRfc2Vlbic6IGNvdW50X25vdF9kdGNfc2VlbiwKICAgICAgICAgICAgJ3Rvb19kZXRlY3RlZF9zZWVuJzogY291bnRfdG9vX2R0Y19zZWVuLAogICAgICAgICAgICAnbm90X2RldGVjdGVkX3Vuc2Vlbic6IGNvdW50X25vdF9kdGNfdW5zZWVuLAogICAgICAgICAgICAndG9vX2RldGVjdGVkX3Vuc2Vlbic6IGNvdW50X3Rvb19kdGNfdW5zZWVuLAogICAgICAgICAgICAndG90YWxfYm94ZXNfc2Vlbic6IHRvdGFsX2JveGVzX3NlZW4sCiAgICAgICAgICAgICd0b3RhbF9ib3hlc191bnNlZW4nOiB0b3RhbF9ib3hlc191bnNlZW4KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">ICAgIGV2YWx1YXRpb25fcmVzdWx0cyA9IHt9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb3VudCA+IDEwOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb3VudCA+IDEwOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_siz</last-search>
+      <last-search>eval</last-search>
       <last-offset />
-      <last-pattern>get_siz</last-pattern>
+      <last-pattern>eval</last-pattern>
       <last-replace>MovieDatasetTrain</last-replace>
       <last-substitute>MovieDataset</last-substitute>
       <last-dir>1</last-dir>
@@ -883,7 +887,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lst_img_path</entry>
         <entry>get_</entry>
         <entry>img</entry>
         <entry>MovieDataset</entry>
@@ -903,6 +906,7 @@
         <entry>eva</entry>
         <entry>HEAD</entry>
         <entry>get_siz</entry>
+        <entry>eval</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
