@@ -71,6 +71,13 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="5" column="50" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/visualization_tool/check_bbox_worse_result.py" timestamp="1551316001276">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="52" column="37" />
+        <mark key="]" line="52" column="39" />
+        <mark key="." line="52" column="39" />
+        <mark key="^" line="52" column="39" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_101_FPN_1x_640x480_2stream.yaml" timestamp="1545931427631">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="18" />
@@ -276,6 +283,9 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/convert_result_format_detector2nms.py" timestamp="1551314749540">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/configs/defaults.py" timestamp="1549693094844">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="11" column="31" />
@@ -293,6 +303,12 @@
         <mark key="]" line="18" column="33" />
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/convert_result_format_nms2detector.py" timestamp="1551315262888">
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="29" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1551252301342">
         <mark key="[" line="29" column="17" />
@@ -745,7 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="14" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="19" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="45" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
@@ -845,64 +860,64 @@
       <jump line="159" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="160" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="89" column="37" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/visualization_tool/check_bbox_worse_result.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCB0b3JjaAo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>show</text>
+        <text>img_target</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm94ZXMxID0gQm94TGlzdChkZWVwY29weShib3hlcyksICgzMjAsIDI0MCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZHhfZGV0ZWN0b3IgPSBkZXRlY3Rvcl9vdXRwdXRbJ2ltZ19wYXRoJ10uaW5kZXgoaW1nX2ZpbGUpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCB0b3JjaAo=</text>
+      <register name="1" type="8">
+        <text>source
+source</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICBib3hlc19kZXRlY3RvciA9IG5wLnJvdW5kKGRldGVjdG9yX291dHB1dFsnYmJveF9wcmVkaWN0J11bZGV0ZWN0b3JfaWR4XSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciBtb3ZpZV9uYW1lIGluIGZyYW1lcy5rZXlzKCk6CiAgICAgICAgcmVzdWx0X3NvdXJjZSA9IHJlc3VsdHNfc291cmNlW21vdmllX25hbWVdCiAgICAgICAgcmVzdWx0X3RhcmdldCA9IHJlc3VsdHNfdGFyZ2V0W21vdmllX25hbWVdCiAgICAgICAgZm9yIGZyYW1lIGluIGZyYW1lc1ttb3ZpZV9uYW1lXToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyZ3MuZGF0YV9kaXIsIG1vdmllX25hbWUsICdpbWFnZScsICdmcmFtZV8lMDRkLmpwZycgJSBmcmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXllID0gdG9yY2gudGVuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>show</last-search>
+      <last-search>img_target</last-search>
       <last-offset />
-      <last-pattern>show</last-pattern>
-      <last-replace>MovieDatasetTrain</last-replace>
-      <last-substitute>MovieDataset</last-substitute>
+      <last-pattern>img_target</last-pattern>
+      <last-replace>img_nms</last-replace>
+      <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>amin</entry>
-        <entry>main</entry>
         <entry>get_im</entry>
         <entry>buid</entry>
         <entry>build</entry>
@@ -921,10 +936,10 @@
         <entry>distr</entry>
         <entry>num_gpus</entry>
         <entry>show</entry>
+        <entry>img_source</entry>
+        <entry>img_target</entry>
       </history-search>
       <history-cmd>
-        <entry>a</entry>
-        <entry>26</entry>
         <entry>42</entry>
         <entry>%s/model/model_name/gc</entry>
         <entry>%s/model/extractor/gc</entry>
@@ -942,6 +957,8 @@
         <entry>39</entry>
         <entry>q!</entry>
         <entry>wq</entry>
+        <entry>%s/img_source/img_detector/gc</entry>
+        <entry>%s/img_target/img_nms/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
