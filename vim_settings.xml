@@ -22,6 +22,9 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms_specific_img.py" timestamp="1551409213744">
+        <mark key="'" line="157" column="37" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/build.py" timestamp="1549458963102">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -628,12 +631,12 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" timestamp="1551408184974">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="56" column="34" />
-        <mark key="]" line="56" column="32" />
-        <mark key="." line="56" column="32" />
-        <mark key="^" line="56" column="32" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" timestamp="1551409459000">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="86" column="30" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" timestamp="1551249233290">
         <mark key="'" line="34" column="0" />
@@ -759,7 +762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="7" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="1" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="191" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="27" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
@@ -859,55 +861,56 @@
       <jump line="29" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
       <jump line="26" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
       <jump line="73" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
+      <jump line="157" column="37" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms_specific_img.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGlja2xlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>pdb</text>
+        <text>frame</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHhfbWluID0gbnAubWluKG5wLmFycmF5KHhzKSkKICAgIHhfbWF4ID0gbnAubWF4KG5wLmFycmF5KHhzKSkK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoImluZGlyIiwgdHlwZT1zdHIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGlja2xlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzW2ltZ19wYXRoXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltc2hvdygiaW1nIiwgaW1nKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZV9uYW1lID0gdGVtcGxhdGUuZm9ybWF0KGZyYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxzdF9pbWdfcGF0aCA9IGdsb2Iob3MucGF0aC5qb2luKGluZGlyLCAnKicpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzW2ltZ19wYXRoXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluZGlyID0gYXJncy5pbmRpcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltc2hvdygiaW1nIiwgaW1nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMgPSB7aW5kaXJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxzdF9ib3gpCg==</text>
+        <text encoding="base64">ICAgIGxzdF9pbWdfcGF0aCA9IGdsb2Iob3MucGF0aC5qb2luKGluZGlyLCAnKicpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluZGlyID0gYXJncy5pbmRpcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pdb</last-search>
+      <last-search>frame</last-search>
       <last-offset />
-      <last-pattern>pdb</last-pattern>
+      <last-pattern>frame</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -915,7 +918,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cvt</entry>
         <entry>resize</entry>
         <entry>annots</entry>
         <entry>label_annot</entry>
@@ -935,6 +937,7 @@
         <entry>mouse_event</entry>
         <entry>dpb</entry>
         <entry>pdb</entry>
+        <entry>frame</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
