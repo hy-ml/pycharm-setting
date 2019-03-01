@@ -633,10 +633,10 @@
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" timestamp="1551411479231">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="85" column="46" />
-        <mark key="]" line="85" column="44" />
-        <mark key="." line="85" column="44" />
-        <mark key="^" line="85" column="44" />
+        <mark key="[" line="67" column="46" />
+        <mark key="]" line="67" column="44" />
+        <mark key="." line="67" column="44" />
+        <mark key="^" line="67" column="44" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" timestamp="1551249233290">
         <mark key="'" line="34" column="0" />
