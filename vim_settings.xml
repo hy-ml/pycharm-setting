@@ -72,11 +72,10 @@
         <mark key="." line="5" column="50" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/visualization_tool/check_bbox_worse_result.py" timestamp="1551316001276">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="52" column="37" />
-        <mark key="]" line="52" column="39" />
-        <mark key="." line="52" column="39" />
-        <mark key="^" line="52" column="39" />
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="39" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_101_FPN_1x_640x480_2stream.yaml" timestamp="1545931427631">
         <mark key="[" line="25" column="18" />
@@ -305,10 +304,10 @@
         <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/convert_result_format_nms2detector.py" timestamp="1551315262888">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="29" />
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="29" />
+        <mark key="^" line="32" column="29" />
+        <mark key="." line="32" column="29" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1551252301342">
         <mark key="[" line="29" column="17" />
@@ -387,12 +386,6 @@
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/evaluation/voc/voc_eval.py" timestamp="1550815385554">
-        <mark key="'" line="17" column="27" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/data/datasets/__init__.py" timestamp="1549643987217">
         <mark key="[" line="0" column="0" />
@@ -635,6 +628,13 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" timestamp="1551405062546">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="19" />
+        <mark key="." line="51" column="19" />
+        <mark key="^" line="51" column="19" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" timestamp="1551249233290">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="34" column="0" />
@@ -666,11 +666,8 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/dataset/get_high_occlusion_img.py" timestamp="1551285395126">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="43" column="43" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/dataset/get_high_occlusion_img.py" timestamp="1551406267063">
+        <mark key="^" line="3" column="43" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/extractor/__init__.py" timestamp="1549440309556">
         <mark key="[" line="0" column="26" />
@@ -696,6 +693,7 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/visualization_tool/check_bbox.py" timestamp="1551403946618" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/test.py" timestamp="1549520299709">
         <mark key="[" line="29" column="23" />
         <mark key="]" line="26" column="52" />
@@ -761,11 +759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="19" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="60" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="36" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="81" column="7" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="1" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="191" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
@@ -861,56 +854,60 @@
       <jump line="160" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="89" column="37" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
       <jump line="48" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/visualization_tool/check_bbox_worse_result.py" />
+      <jump line="25" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
+      <jump line="28" column="17" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
+      <jump line="29" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
+      <jump line="26" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>img_target</text>
+        <text>pdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZHhfZGV0ZWN0b3IgPSBkZXRlY3Rvcl9vdXRwdXRbJ2ltZ19wYXRoJ10uaW5kZXgoaW1nX2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgIHhfbWluID0gbnAubWluKG5wLmFycmF5KHhzKSkKICAgIHhfbWF4ID0gbnAubWF4KG5wLmFycmF5KHhzKSkK</text>
       </register>
-      <register name="1" type="8">
-        <text>source
-source</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KGxzdF9ib3gpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib3hlc19kZXRlY3RvciA9IG5wLnJvdW5kKGRldGVjdG9yX291dHB1dFsnYmJveF9wcmVkaWN0J11bZGV0ZWN0b3JfaWR4XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcK</text>
+        <text encoding="base64">ICAgIGxzdF9ib3ggPSBbXQogICAgZm9yIGkgaW4gcmFuZ2UoMTApOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEwKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBtb3ZpZV9uYW1lIGluIGZyYW1lcy5rZXlzKCk6CiAgICAgICAgcmVzdWx0X3NvdXJjZSA9IHJlc3VsdHNfc291cmNlW21vdmllX25hbWVdCiAgICAgICAgcmVzdWx0X3RhcmdldCA9IHJlc3VsdHNfdGFyZ2V0W21vdmllX25hbWVdCiAgICAgICAgZm9yIGZyYW1lIGluIGZyYW1lc1ttb3ZpZV9uYW1lXToK</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyZ3MuZGF0YV9kaXIsIG1vdmllX25hbWUsICdpbWFnZScsICdmcmFtZV8lMDRkLmpwZycgJSBmcmFtZSkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB0X2NvdW50ID0gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>img_target</last-search>
+      <last-search>pdb</last-search>
       <last-offset />
-      <last-pattern>img_target</last-pattern>
+      <last-pattern>pdb</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -918,9 +915,6 @@ source</text>
     </search>
     <history>
       <history-search>
-        <entry>get_im</entry>
-        <entry>buid</entry>
-        <entry>build</entry>
         <entry>cvt</entry>
         <entry>resize</entry>
         <entry>annots</entry>
@@ -938,6 +932,9 @@ source</text>
         <entry>show</entry>
         <entry>img_source</entry>
         <entry>img_target</entry>
+        <entry>mouse_event</entry>
+        <entry>dpb</entry>
+        <entry>pdb</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
