@@ -628,12 +628,12 @@
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" timestamp="1551405062546">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="51" column="19" />
-        <mark key="]" line="51" column="19" />
-        <mark key="." line="51" column="19" />
-        <mark key="^" line="51" column="19" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" timestamp="1551408184974">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="56" column="34" />
+        <mark key="]" line="56" column="32" />
+        <mark key="." line="56" column="32" />
+        <mark key="^" line="56" column="32" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_coco.py" timestamp="1551249233290">
         <mark key="'" line="34" column="0" />
@@ -861,11 +861,11 @@
       <jump line="73" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>pdb</text>
@@ -874,31 +874,31 @@
         <text encoding="base64">ICAgIHhfbWluID0gbnAubWluKG5wLmFycmF5KHhzKSkKICAgIHhfbWF4ID0gbnAubWF4KG5wLmFycmF5KHhzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxzdF9ib3gpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzW2ltZ19wYXRoXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltc2hvdygiaW1nIiwgaW1nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxzdF9ib3ggPSBbXQogICAgZm9yIGkgaW4gcmFuZ2UoMTApOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEwKToK</text>
+        <text encoding="base64">ICAgIGxzdF9pbWdfcGF0aCA9IGdsb2Iob3MucGF0aC5qb2luKGluZGlyLCAnKicpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIGluZGlyID0gYXJncy5pbmRpcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgIHJlc3VsdHMgPSB7aW5kaXJ9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB0X2NvdW50ID0gMAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxzdF9ib3gpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
