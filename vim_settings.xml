@@ -22,9 +22,6 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms_specific_img.py" timestamp="1551409213744">
-        <mark key="'" line="157" column="37" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/build.py" timestamp="1549458963102">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -74,12 +71,6 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/visualization_tool/check_bbox_worse_result.py" timestamp="1551316001276">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="39" />
-        <mark key="." line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_101_FPN_1x_640x480_2stream.yaml" timestamp="1545931427631">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="18" />
@@ -128,10 +119,6 @@
         <mark key="]" line="48" column="32" />
         <mark key="." line="96" column="5" />
         <mark key="^" line="96" column="5" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/evaluate/evaluate_nms_movie_dataset.py" timestamp="1551249204403">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="89" column="9" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/movie_dataset.py" timestamp="1550816210927">
         <mark key="'" line="147" column="51" />
@@ -213,6 +200,12 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/faster_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640_480.yaml" timestamp="1551518626760">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/sampling/build.py" timestamp="1549360243129">
         <mark key="[" line="0" column="35" />
@@ -308,9 +301,9 @@
         <mark key="^" line="32" column="29" />
         <mark key="." line="32" column="29" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1551252301342">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="18" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1551518620674">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="29" />
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="18" />
       </file>
@@ -859,44 +852,44 @@
       <jump line="102" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>labe</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>val</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfc291cmNlLCBpbWdfdGFyZ2V0LCBsYWJlbCA9IGRhdGEKICAgICAgICBpbWdfc291cmNlID0gaW1nX3NvdXJjZS50byhkZXZpY2UpCiAgICAgICAgaW1nX3RhcmdldCA9IGltZ190YXJnZXQudG8oZGV2aWNlKQogICAgICAgIGxhYmVsID0gbGFiZWwudG8oZGV2aWNlKQo=</text>
+        <text encoding="base64">REFUQVNFVFM6CiAgVFJBSU46ICgiY29jb18yMDE0X3NlZW4iLCkKICBURVNUOiAoImNvY29fMjAxNF91bnNlZW4iLCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">REFUQVNFVAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbCA9IGxhYmVsLnRvKGRldmljZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfdGFyZ2V0ID0gaW1nX3RhcmdldC50byhkZXZpY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbCA9IGxhYmVsLnRvKGRldmljZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfc291cmNlID0gaW1nX3NvdXJjZS50byhkZXZpY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdfdGFyZ2V0ID0gaW1nX3RhcmdldC50byhkZXZpY2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbWdfc291cmNlID0gaW1nX3NvdXJjZS50byhkZXZpY2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRzID0gbW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
