@@ -201,7 +201,7 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/faster_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640_480.yaml" timestamp="1551518626760">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/faster_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640_480.yaml" timestamp="1551519394725">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -273,6 +273,13 @@
         <mark key="]" line="11" column="20" />
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/ws/python/effective_python/item24.py" timestamp="1551530765629">
+        <mark key="'" line="63" column="19" />
+        <mark key="[" line="63" column="18" />
+        <mark key="]" line="63" column="19" />
+        <mark key="." line="63" column="19" />
+        <mark key="^" line="78" column="16" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/convert_result_format_detector2nms.py" timestamp="1551314749540">
         <mark key="[" line="0" column="0" />
@@ -750,7 +757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="70" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="6" column="1" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="175" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
@@ -850,55 +856,56 @@
       <jump line="60" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="101" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="102" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
+      <jump line="63" column="19" filename="$USER_HOME$/ws/python/effective_python/item24.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>A</text>
-      </register>
-      <register name="-" type="4">
-        <text>A</text>
-      </register>
-      <register name="/" type="4">
-        <text>val</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">REFUQVNFVFM6CiAgVFJBSU46ICgiY29jb18yMDE0X3NlZW4iLCkKICBURVNUOiAoImNvY29fMjAxNF91bnNlZW4iLCkK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">REFUQVNFVAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="-" type="4">
+        <text>}</text>
+      </register>
+      <register name="/" type="4">
+        <text>redule</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1hcAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbCA9IGxhYmVsLnRvKGRldmljZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfdGFyZ2V0ID0gaW1nX3RhcmdldC50byhkZXZpY2UpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfc291cmNlID0gaW1nX3NvdXJjZS50byhkZXZpY2UpCg==</text>
+        <text encoding="base64">awo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">OgogICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRocmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZvciBpbnB1dF9kYXRhIGlucHV0X2xpc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>val</last-search>
+      <last-search>redule</last-search>
       <last-offset />
-      <last-pattern>val</last-pattern>
+      <last-pattern>redule</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -906,7 +913,6 @@
     </search>
     <history>
       <history-search>
-        <entry>annots</entry>
         <entry>label_annot</entry>
         <entry>max_label</entry>
         <entry>count_frame</entry>
@@ -926,6 +932,7 @@
         <entry>pdb</entry>
         <entry>frame</entry>
         <entry>val</entry>
+        <entry>redule</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
