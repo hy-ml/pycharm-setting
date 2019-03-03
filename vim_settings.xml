@@ -711,8 +711,8 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" timestamp="1551256765380">
-        <mark key="'" line="86" column="37" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" timestamp="1551595791979">
+        <mark key="'" line="28" column="23" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
@@ -757,7 +757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="6" column="1" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="175" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="191" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
@@ -857,6 +856,7 @@
       <jump line="101" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="102" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="63" column="19" filename="$USER_HOME$/ws/python/effective_python/item24.py" />
+      <jump line="28" column="23" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -866,7 +866,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>redule</text>
+        <text>init</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgo=</text>
@@ -903,9 +903,9 @@
       </register>
     </registers>
     <search>
-      <last-search>redule</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>redule</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -913,7 +913,6 @@
     </search>
     <history>
       <history-search>
-        <entry>label_annot</entry>
         <entry>max_label</entry>
         <entry>count_frame</entry>
         <entry>fp</entry>
@@ -933,6 +932,7 @@
         <entry>frame</entry>
         <entry>val</entry>
         <entry>redule</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
