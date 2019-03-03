@@ -207,11 +207,11 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/faster_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640_480.yaml" timestamp="1551519394725">
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/faster_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640_480.yaml" timestamp="1551600171060">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="23" column="1" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/sampling/build.py" timestamp="1549360243129">
         <mark key="[" line="0" column="35" />
@@ -314,9 +314,9 @@
         <mark key="^" line="32" column="29" />
         <mark key="." line="32" column="29" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1551518620674">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="29" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1551600167511">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="13" />
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="18" />
       </file>
@@ -538,6 +538,11 @@
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1551600015742">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_shifters/box_shifter.py" timestamp="1551433132242">
         <mark key="'" line="35" column="33" />
@@ -872,7 +877,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBQRVJJT0Q6IDI1MDAKICBNQVhfSVRFUjogMTAwMAogIEVBUkxZX1NUT1BfVEhSRVNIT0xEOiA1Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -881,16 +886,16 @@
         <text>dis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgo=</text>
+        <text encoding="base64">ICBFWEVDOiBGYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBQRVJJT0Q6IDI1MDAKICBNQVhfSVRFUjogMTAwMAogIEVBUkxZX1NUT1BfVEhSRVNIT0xEOiA1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -899,16 +904,16 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAgIG1hcAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">OgogICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRocmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBpbnB1dF9kYXRhIGlucHV0X2xpc3QK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -963,9 +968,9 @@
         <entry>%s/MovieDataset/MovieDatasetTrain/gc</entry>
         <entry>39</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
         <entry>%s/img_source/img_detector/gc</entry>
         <entry>%s/img_target/img_nms/gc</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
