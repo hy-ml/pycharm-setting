@@ -146,11 +146,11 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/R_101_FPN/class_agnostic_640x480_fpn_schedule_fast_low_lr.yaml" timestamp="1551596384543">
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="14" />
-        <mark key="^" line="25" column="14" />
-        <mark key="." line="25" column="14" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/R_101_FPN/class_agnostic_640x480_fpn_schedule_fast_low_lr.yaml" timestamp="1551597899083">
+        <mark key="[" line="42" column="106" />
+        <mark key="]" line="42" column="112" />
+        <mark key="^" line="42" column="112" />
+        <mark key="." line="42" column="112" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/src/classification_net_openset.py" timestamp="1541910981601">
         <mark key="[" line="13" column="35" />
@@ -427,6 +427,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/faster_rcnn/movie_dataset_dia/R_101_FPN/class_agnostic_640_480_fpn_schedule_fast_low_lr.yaml" timestamp="1551598231401">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="14" />
+        <mark key="^" line="27" column="14" />
+        <mark key="." line="27" column="14" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/movie_dataset.py" timestamp="1549526981574">
         <mark key="'" line="18" column="32" />
