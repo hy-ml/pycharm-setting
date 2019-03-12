@@ -711,12 +711,12 @@
         <mark key="." line="66" column="19" />
         <mark key="^" line="66" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1552377378273">
-        <mark key="'" line="98" column="29" />
-        <mark key="[" line="168" column="23" />
-        <mark key="]" line="168" column="32" />
-        <mark key="^" line="168" column="32" />
-        <mark key="." line="168" column="32" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1552384743267">
+        <mark key="'" line="73" column="21" />
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="35" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/structures/bounding_box.py" timestamp="1552367541356">
         <mark key="[" line="0" column="0" />
@@ -802,12 +802,12 @@
         <mark key="^" line="81" column="3" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" timestamp="1552379058413">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="60" column="40" />
-        <mark key="]" line="62" column="26" />
-        <mark key="." line="62" column="26" />
-        <mark key="^" line="62" column="26" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" timestamp="1552385291001">
+        <mark key="'" line="45" column="59" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="45" column="59" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/projects/movie_dataset/classification/file/tmp_seen.csv" timestamp="1541679067564">
         <mark key="[" line="19" column="13" />
@@ -843,12 +843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
-      <jump line="26" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/annotate.py" />
-      <jump line="157" column="37" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms_specific_img.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
-      <jump line="13" column="51" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="18" column="13" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="23" column="21" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="24" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
@@ -882,7 +876,6 @@
       <jump line="64" column="21" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="27" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="28" column="60" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
-      <jump line="33" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="65" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="9" column="13" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="14" column="17" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
@@ -935,63 +928,70 @@
       <jump line="30" column="65" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="34" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="42" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
-      <jump line="44" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="25" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="26" column="60" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="32" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="40" column="14" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
       <jump line="94" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
       <jump line="33" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
+      <jump line="33" column="46" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
+      <jump line="38" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
+      <jump line="73" column="21" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
+      <jump line="43" column="48" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
+      <jump line="44" column="38" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
+      <jump line="39" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
+      <jump line="40" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
+      <jump line="45" column="59" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
-      </register>
-      <register name="-" type="4">
-        <text>:</text>
-      </register>
-      <register name="/" type="4">
-        <text>append_save</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4MSA9IHRvcmNoLmNhdChbaW1nX3NvdXJjZS51bnNxdWVlemUoMCkgaWYgbGVuKGltZ19zb3VyY2UpID09IDMgZWxzZSBpbWdfc291cmNlCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIKICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="-" type="4">
+        <text>_</text>
+      </register>
+      <register name="/" type="4">
+        <text>pdb</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1nX3NvdXJjZSA9IGltZ3NfY3JvcHBlZF9jcHkucG9wKHNvdXJjZV9pZCkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1nc190YXJnZXQgPSBpbWdzX2Nyb3BwZWQuY29weSgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBib3hlc19wcmVkaWN0ID0gbnAuYXJyYXkoYm94ZXNfcHJlZGljdCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1nX3NvdXJjZSA9IGltZ3NfY3JvcHBlZF9jcHkucG9wKHNvdXJjZV9pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>append_save</last-search>
+      <last-search>pdb</last-search>
       <last-offset />
-      <last-pattern>append_save</last-pattern>
+      <last-pattern>pdb</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -999,8 +999,6 @@
     </search>
     <history>
       <history-search>
-        <entry>c_p</entry>
-        <entry>print</entry>
         <entry>for</entry>
         <entry>i</entry>
         <entry>for i</entry>
@@ -1015,10 +1013,12 @@
         <entry>self.model</entry>
         <entry>transforms</entry>
         <entry>imgs_cropped</entry>
-        <entry>pdb</entry>
         <entry>cpy()</entry>
         <entry>appedn_save</entry>
         <entry>append_save</entry>
+        <entry>min_size</entry>
+        <entry>source_id</entry>
+        <entry>pdb</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dispersed/shifted/gc</entry>
