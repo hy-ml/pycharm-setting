@@ -822,11 +822,11 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/proposed_nms.py" timestamp="1552379135047">
-        <mark key="[" line="171" column="23" />
-        <mark key="]" line="171" column="23" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/proposed_nms.py" timestamp="1552380588059">
+        <mark key="[" line="171" column="29" />
+        <mark key="]" line="171" column="29" />
         <mark key="^" line="171" column="23" />
-        <mark key="." line="171" column="23" />
+        <mark key="." line="171" column="29" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/defaults.py" timestamp="1552377256586">
         <mark key="'" line="23" column="15" />
@@ -945,11 +945,11 @@
       <jump line="33" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>append_save</text>
