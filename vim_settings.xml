@@ -451,12 +451,12 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" timestamp="1552377755375">
-        <mark key="'" line="31" column="27" />
-        <mark key="[" line="40" column="78" />
-        <mark key="]" line="40" column="87" />
-        <mark key="." line="40" column="87" />
-        <mark key="^" line="40" column="87" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" timestamp="1552390265995">
+        <mark key="'" line="40" column="30" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="12" />
+        <mark key="." line="117" column="12" />
+        <mark key="^" line="40" column="36" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/loss/__init__.py" timestamp="1549684504596">
         <mark key="[" line="0" column="0" />
@@ -842,9 +842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
-      <jump line="23" column="21" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
-      <jump line="24" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="25" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="60" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="101" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
@@ -942,55 +939,58 @@
       <jump line="39" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="40" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="45" column="59" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
+      <jump line="117" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
+      <jump line="82" column="48" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
+      <jump line="40" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>pdb</text>
+        <text>reject</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nX3NvdXJjZSA9IGltZ3NfY3JvcHBlZF9jcHkucG9wKHNvdXJjZV9pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgeF9tYXggPiBpbWdfd2lkdGggLSAxOgogICAgICAgICAgICAgICAgeF9tYXggPSBpbWdfd2lkdGggLSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlfbWluID0gMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgeF9taW4gPj0gMCBhbmQgeV9taW4gPj0gMCBhbmQgeF9tYXggPD0gaW1nX3dpZHRoIGFuZCBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB5X21heCA8PSBpbWdfaGVpZ2h0Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB5X21heCA8PSBpbWdfaGVpZ2h0Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nc190YXJnZXQgPSBpbWdzX2Nyb3BwZWQuY29weSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib3hlc19wcmVkaWN0ID0gbnAuYXJyYXkoYm94ZXNfcHJlZGljdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nc190YXJnZXQgPSBpbWdzX2Nyb3BwZWQuY29weSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pdb</last-search>
+      <last-search>reject</last-search>
       <last-offset />
-      <last-pattern>pdb</last-pattern>
+      <last-pattern>reject</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -1005,7 +1005,6 @@
         <entry>data</entry>
         <entry>img -</entry>
         <entry>img =</entry>
-        <entry>reject</entry>
         <entry>suppressor</entry>
         <entry>evaluate</entry>
         <entry>model</entry>
@@ -1018,6 +1017,7 @@
         <entry>min_size</entry>
         <entry>source_id</entry>
         <entry>pdb</entry>
+        <entry>reject</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dispersed/shifted/gc</entry>
