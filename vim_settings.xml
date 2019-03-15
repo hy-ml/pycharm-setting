@@ -572,11 +572,11 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/Dockerfile" timestamp="1552659389653">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/Dockerfile" timestamp="1552662355020">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_shifters/__init__.py" timestamp="1549422751141">
         <mark key="[" line="0" column="41" />
@@ -756,11 +756,11 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/docker-compose.yml" timestamp="1552659536488">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="3" column="21" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/docker-compose.yml" timestamp="1552661686339">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/extractor/__init__.py" timestamp="1549440309556">
         <mark key="[" line="0" column="26" />
@@ -863,7 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="60" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="101" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="102" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
@@ -963,10 +962,11 @@
       <jump line="117" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
       <jump line="82" column="48" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
       <jump line="40" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -978,31 +978,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgeF9tYXggPiBpbWdfd2lkdGggLSAxOgogICAgICAgICAgICAgICAgeF9tYXggPSBpbWdfd2lkdGggLSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QUREIC4uLy4uLy4uLy4uL2RvY2tlciAvYnVpbGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC8K</text>
+        <text encoding="base64">IyBpbnN0YWxsIFNESyBvZiByZWxhc2Vuc2UKcnVuIGFwdC1nZXQgdXBkYXRlIC15ClJVTiBhcHQta2V5IGFkdiAtLWtleXNlcnZlciBrZXlzLmdudXBnLm5ldCAtLXJlY3Yta2V5IEM4QjNBNTVBNkYzRUZDREUgfHwgYXB0LWtleSBhZHYgLS1rZXlzZXJ2ZXIgaGtwOi8va2V5c2VydmVyLnVidW50dS5jb206ODAgLS1yZWN2LWtleSBDOEIzQTU1QTZGM0VGQ0RFClJVTiBhZGQtYXB0LXJlcG9zaXRvcnkgImRlYiBodHRwOi8vcmVhbHNlbnNlLWh3LXB1YmxpYy5zMy5hbWF6b25hd3MuY29tL0RlYmlhbi9hcHQtcmVwbyB4ZW5pYWwgbWFpbiIgLXUgLXkKUlVOIGFwdC1nZXQgaW5zdGFsbCBsaWJyZWFsc2Vuc2UyLWRrbXMgbGlicmVhbHNlbnNlMi11dGlscyBsaWJyZWFsc2Vuc2UyLWRldiBsaWJyZWFsc2Vuc2UyLWRiZyAteQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC8K</text>
+        <text encoding="base64">UlVOIGFwdCBpbnN0YWxsIHNvZnR3YXJlLXByb3BlcnRpZXMtY29tbW9uIHB5dGhvbi1zb2Z0d2FyZS1wcm9wZXJ0aWVzIC15Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC9idWlsZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIGNkIC93cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIGNkIC8K</text>
+        <text encoding="base64">IyAjIGluc3RhbGwgb3BlbmN2CiMgQUREIC4vb3BlbmN2CiMgUlVOIGNkIC9idWlsZCBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL29wZW5jdi9vcGVuY3YKIyBSVU4gY2QgL2J1aWxkL29wZW5jdiAmJiBta2RpciAvYnVpbGQvb3BlbmN2L2J1aWxkICYmIGNkIC9idWlsZC9vcGVuY3YvYnVpbGQgJiYgY21ha2UgLi4gJiYgbWFrZSAtaiA0ICYmIG1ha2UgaW5zdGFsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGNtYWtlIC4uICYmIG1ha2UgLWogNCAmJiBtYWtlIGluc3RhbGwK</text>
+        <text encoding="base64">IyBpbnN0YWxsIHJvcwpSVU4gYXB0LWdldCBpbnN0YWxsIC15IHJvcy1raW5ldGljLXJvcy10dXRvcmlhbHMgXAogICAgcm9zLWtpbmV0aWMtY29tbW9uLXR1dG9yaWFscyBcCiAgICAmJiBybSAtcmYgL3Zhci9saWIvYXB0L2xpc3RzLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBweXJlYWxzZW5zZTIgaW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIGltYWdlOiBvcGVuY3YtcHl0aG9uMi43Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHB5cmVhbHNlbnNlMiBhcyBycwo=</text>
+        <text encoding="base64">ICAgIGltYWdlOiBvcGVuY3YtcHl0aG9uMi43Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
