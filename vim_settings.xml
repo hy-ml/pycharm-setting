@@ -572,10 +572,11 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/Dockerfile" timestamp="1552658326052">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/Dockerfile" timestamp="1552659389653">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_shifters/__init__.py" timestamp="1549422751141">
         <mark key="[" line="0" column="41" />
@@ -755,11 +756,11 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/docker-compose.yml" timestamp="1552657895566">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="39" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="9" column="39" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/docker-compose.yml" timestamp="1552659536488">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/extractor/__init__.py" timestamp="1549440309556">
         <mark key="[" line="0" column="26" />
