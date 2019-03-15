@@ -38,7 +38,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/a.py" timestamp="1552647483682">
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/a.py" timestamp="1552674549993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="24" />
@@ -617,6 +617,12 @@
         <mark key="^" line="87" column="44" />
         <mark key="." line="87" column="44" />
       </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/requirements.txt" timestamp="1552674747298">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/build.py" timestamp="1549440067352">
         <mark key="[" line="5" column="55" />
         <mark key="]" line="9" column="20" />
@@ -757,10 +763,10 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/docker-compose.yml" timestamp="1552672632860">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/docker-compose.yml" timestamp="1552674646432">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/extractor/__init__.py" timestamp="1549440309556">
         <mark key="[" line="0" column="26" />
@@ -829,7 +835,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/run_docker_mac.sh" timestamp="1552666907136">
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/run_docker_mac.sh" timestamp="1552674633769">
         <mark key="'" line="17" column="43" />
         <mark key="[" line="11" column="2" />
         <mark key="]" line="11" column="3" />
@@ -973,7 +979,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHlyZWFsc2Vuc2UyCg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -985,31 +991,31 @@
         <text encoding="base64">RlJPTSBvcGVuY3YtcHkyLjcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHlyZWFsc2Vuc2UyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvcGVuY3Y6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBvcGVuY3YtcHkyCg==</text>
+        <text encoding="base64">ICBvcGVuY3Y6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBvcGVuY3YK</text>
+        <text encoding="base64">ICAgIGltYWdlOiBvcGVuY3YtcHkyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
+        <text encoding="base64">ICAgICAgLSBvcGVuY3YK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlIC15Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">d2dldAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">QUREIC4vb3BlbmN2Cg==</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
