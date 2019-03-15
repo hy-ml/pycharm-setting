@@ -572,6 +572,12 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="33" column="18" />
       </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/Dockerfile" timestamp="1552654942962">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="20" column="97" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_shifters/__init__.py" timestamp="1549422751141">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="35" />
@@ -954,10 +960,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBweXJlYWxzZW5zZTIgaW1wb3J0IAo=</text>
+        <text encoding="base64">UlVOIGNkIC93cwo=</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>reject</text>
@@ -966,31 +972,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgeF9tYXggPiBpbWdfd2lkdGggLSAxOgogICAgICAgICAgICAgICAgeF9tYXggPSBpbWdfd2lkdGggLSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBweXJlYWxzZW5zZTIgaW1wb3J0IAo=</text>
+        <text encoding="base64">UlVOIGNkIC93cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHB5cmVhbHNlbnNlMiBhcyBycwo=</text>
+        <text encoding="base64">UlVOIGNkIC8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGNtYWtlIC4uICYmIG1ha2UgLWogNCAmJiBtYWtlIGluc3RhbGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cnMuZGV2aWNlKCkK</text>
+        <text encoding="base64">ZnJvbSBweXJlYWxzZW5zZTIgaW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBweXJlYWxzZW5zZTIK</text>
+        <text encoding="base64">aW1wb3J0IHB5cmVhbHNlbnNlMiBhcyBycwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHB5cmVhbHNlbnNlMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">cnMuZGV2aWNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+        <text encoding="base64">ZnJvbSBweXJlYWxzZW5zZTIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5cmVhbHNlbnNlMgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
