@@ -572,12 +572,12 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/Dockerfile" timestamp="1552665896941">
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/Dockerfile" timestamp="1552669914958">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="8" column="6" />
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="30" />
         <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="6" />
+        <mark key="." line="20" column="30" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_shifters/__init__.py" timestamp="1549422751141">
         <mark key="[" line="0" column="41" />
@@ -974,10 +974,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>reject</text>
