@@ -289,6 +289,12 @@
         <mark key="^" line="0" column="79" />
         <mark key="." line="0" column="79" />
       </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/video_tools/realsense.py" timestamp="1552842292837">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="60" column="22" />
+      </file>
       <file name="$USER_HOME$/sample/scripts/annotation_multiprocess_loading.py" timestamp="1541122628045">
         <mark key="[" line="54" column="18" />
         <mark key="]" line="54" column="17" />
@@ -979,10 +985,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcl9hcnJheSA9IG5wLm5kYXJyYXkoKGNvbG9yX2ZyYW1lLmhlaWdodCwgY29sb3JfZnJhbWUud2lkdGgsIDMpLCBcCiAgICAgICAgICAgIGR0eXBlPW5wLnVpbnQ4LCBidWZmZXI9Y29sb3JfZnJhbWVfZGF0YSkKICAgICAgICBjb2xvcl9hcnJheSA9IGNvbG9yX2FycmF5WzosIDosIFsyLCAxLCAwXV0gICMgQ2hhbm5lbCBSR0IgLT4gQkdSCiAgICAgICAgZGVwdGhfYXJyYXkgPSBucC5uZGFycmF5KChkZXB0aF9mcmFtZS5oZWlnaHQsIGRlcHRoX2ZyYW1lLndpZHRoKSwgXAogICAgICAgICAgICBkdHlwZT1ucC51aW50MTYsIGJ1ZmZlcj1kZXB0aF9mcmFtZV9kYXRhKSAvIDEwMDAwLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>reject</text>
@@ -991,31 +997,31 @@
         <text encoding="base64">RlJPTSBvcGVuY3YtcHkyLjcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcl9hcnJheSA9IG5wLm5kYXJyYXkoKGNvbG9yX2ZyYW1lLmhlaWdodCwgY29sb3JfZnJhbWUud2lkdGgsIDMpLCBcCiAgICAgICAgICAgIGR0eXBlPW5wLnVpbnQ4LCBidWZmZXI9Y29sb3JfZnJhbWVfZGF0YSkKICAgICAgICBjb2xvcl9hcnJheSA9IGNvbG9yX2FycmF5WzosIDosIFsyLCAxLCAwXV0gICMgQ2hhbm5lbCBSR0IgLT4gQkdSCiAgICAgICAgZGVwdGhfYXJyYXkgPSBucC5uZGFycmF5KChkZXB0aF9mcmFtZS5oZWlnaHQsIGRlcHRoX2ZyYW1lLndpZHRoKSwgXAogICAgICAgICAgICBkdHlwZT1ucC51aW50MTYsIGJ1ZmZlcj1kZXB0aF9mcmFtZV9kYXRhKSAvIDEwMDAwLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHB5cmVhbHNlbnNlMgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHlyZWFsc2Vuc2UyCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXB0aF9mcmFtZSA9IGRlcHRoX3N0cmVhbS5yZWFkX2ZyYW1lKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcl9mcmFtZSA9IGNvbG9yX3N0cmVhbS5yZWFkX2ZyYW1lKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvcGVuY3Y6Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXB0aF9mcmFtZV9kYXRhID0gZGVwdGhfZnJhbWUuZ2V0X2J1ZmZlcl9hc191aW50MTYoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBvcGVuY3YtcHkyCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcl9mcmFtZV9kYXRhID0gY29sb3JfZnJhbWUuZ2V0X2J1ZmZlcl9hc191aW50OCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBvcGVuY3YK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlIC15Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
