@@ -686,8 +686,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" timestamp="1553070736591">
-        <mark key="'" line="93" column="27" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" timestamp="1553072342888">
+        <mark key="'" line="146" column="54" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/build.py" timestamp="1549440067352">
         <mark key="[" line="5" column="55" />
@@ -769,9 +772,6 @@
         <mark key="]" line="5" column="48" />
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="48" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/train/movie_dataset.py" timestamp="1552371818034">
-        <mark key="'" line="28" column="32" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluation/__init__.py" timestamp="1550814129768">
         <mark key="[" line="0" column="0" />
@@ -953,11 +953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/engine/inference.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/train/movie_dataset.py" />
-      <jump line="28" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/train/movie_dataset.py" />
-      <jump line="10" column="61" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/engine/inference.py" />
       <jump line="14" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/engine/inference.py" />
       <jump line="23" column="38" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
       <jump line="69" column="64" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
@@ -1053,55 +1048,60 @@
       <jump line="89" column="26" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
       <jump line="91" column="7" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
       <jump line="93" column="27" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
+      <jump line="165" column="22" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
+      <jump line="161" column="34" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
+      <jump line="143" column="30" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
+      <jump line="147" column="33" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
+      <jump line="150" column="54" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>row</text>
+        <text>seen_object_class</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguaXNkaXIocGF0aF9zYXZlX2Rpcl9kZXB0aCk6CiAgICAgICAgICAgICAgICBvcy5ta2RpcihwYXRoX3NhdmVfZGlyX2RlcHRoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdW5zZWVuX29iamVjdHNbMF0gPT0gLTE6CiAgICAgICAgICAgICAgICBwcmludCgiXG4jIyMjIyMjXG5HbyB0byBOZXh0IFN0YWdlIHt9L3t9XG4iLmZvcm1hdChpbmRleCsxLCAxMCkpCiAgICAgICAgICAgICAgICBlY2hvX2FsbF9zZWVuX29iamVjdCgKICAgICAgICAgICAgICAgICAgICBzZWVuX29iamVjdHMsIHNlZW5fb2JqZWN0X2NsYXNzLCBmbGFnX3NlZW5fb2JqZWN0KQogICAgICAgICAgICAgICAgY2hhbmdlX3NlZW5fZmxhZ3MoZmxhZ19zZWVuX29iamVjdCwgc2Vlbl9vYmplY3RzKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcHJpbnQoIlxuIyMjIyMjI1xuQWRkIHVuc2VlbiBvYmplY3Q6IHt9Ont9LCB7fS97fVxuIi5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgdW5zZWVuX29iamVjdF9jbGFzc1t1bnNlZW5fb2JqZWN0c1stMV1dLAogICAgICAgICAgICAgICAgICAgIGludChmbGFnX3Vuc2Vlbl9vYmplY3RbdW5zZWVuX29iamVjdHNbLTFdXSksIGxlbih1bnNlZW5fb2JqZWN0cyksIDEwCiAgICAgICAgICAgICAgICApKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2RlZiBvdmVyd3JpdGVfcGxhbihsaW5lcywgcm93LCBwYXRoX3BsYW5maWxlKToKIyAgICBwcmludCgib3ZlcndyaXRlIHBsYW4gZmlsZSIpCiMgICAgaWYgcm93IDwgbGVuKGxpbmVzKToKIyAgICAgICAgd2l0aCBvcGVuKHBhdGhfcGxhbmZpbGUsICJ3IikgYXMgZl9wbGFuOgojICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uocm93LCBsZW4obGluZXMpKToKIyAgICAgICAgICAgICAgICBmX3BsYW4ud3JpdGUoInt9Ii5mb3JtYXQobGluZXNbaV0pKQo=</text>
+        <text encoding="base64">ZGVmIGVjaG9fbXNnKHVuc2Vlbl9vYmplY3QsIHNlZW5fb2JqZWN0X2NsYXNzLCBmbGFnKToKICAgIGlmIHVuc2Vlbl9vYmplY3QgPT0gLTE6CiAgICAgICAgcHJpbnQoIlxuIyMjIyMjI1xuR28gdG8gTmV4dCBTdGFnZSB7fS97fVxuIi5mb3JtYXQoaW5kZXgrMSwgMTApKQogICAgICAgIGVjaG9fYWxsX3NlZW5fb2JqZWN0KAogICAgICAgICAgICBzZWVuX29iamVjdHMsIHNlZW5fb2JqZWN0X2NsYXNzLCBmbGFnX3NlZW5fb2JqZWN0KQogICAgICAgIGNoYW5nZV9zZWVuX2ZsYWdzKGZsYWdfc2Vlbl9vYmplY3QsIHNlZW5fb2JqZWN0cykKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoIlxuIyMjIyMjI1xuQWRkIHVuc2VlbiBvYmplY3Q6IHt9Ont9LCB7fS97fVxuIi5mb3JtYXQoCiAgICAgICAgICAgIHVuc2Vlbl9vYmplY3RfY2xhc3NbdW5zZWVuX29iamVjdHNbLTFdXSwKICAgICAgICAgICAgaW50KGZsYWdfdW5zZWVuX29iamVjdFt1bnNlZW5fb2JqZWN0c1stMV1dKSwgbGVuKHVuc2Vlbl9vYmplY3RzKSwgMTAKICAgICAgICApKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2lmIGxlbih1bnNlZW5fb2JqZWN0cykgPT0gMToK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHVuc2Vlbl9vYmplY3QgPT0gLTE6CiAgICAgICAgcHJpbnQoIlxuIyMjIyMjI1xuR28gdG8gTmV4dCBTdGFnZSB7fS97fVxuIi5mb3JtYXQoaW5kZXgrMSwgMTApKQogICAgICAgIGVjaG9fYWxsX3NlZW5fb2JqZWN0KAogICAgICAgICAgICBzZWVuX29iamVjdHMsIHNlZW5fb2JqZWN0X2NsYXNzLCBmbGFnX3NlZW5fb2JqZWN0KQogICAgICAgIGNoYW5nZV9zZWVuX2ZsYWdzKGZsYWdfc2Vlbl9vYmplY3QsIHNlZW5fb2JqZWN0cykKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoIlxuIyMjIyMjI1xuQWRkIHVuc2VlbiBvYmplY3Q6IHt9Ont9LCB7fS97fVxuIi5mb3JtYXQoCiAgICAgICAgICAgIHVuc2Vlbl9vYmplY3RfY2xhc3NbdW5zZWVuX29iamVjdHNbLTFdXSwKICAgICAgICAgICAgaW50KGZsYWdfdW5zZWVuX29iamVjdFt1bnNlZW5fb2JqZWN0c1stMV1dKSwgbGVuKHVuc2Vlbl9vYmplY3RzKSwgMTAKICAgICAgICApKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">I2RlZiBvdmVyd3JpdGVfcGxhbihsaW5lcywgcm93LCBwYXRoX3BsYW5maWxlKToKIyAgICBwcmludCgib3ZlcndyaXRlIHBsYW4gZmlsZSIpCiMgICAgaWYgcm93IDwgbGVuKGxpbmVzKToKIyAgICAgICAgd2l0aCBvcGVuKHBhdGhfcGxhbmZpbGUsICJ3IikgYXMgZl9wbGFuOgojICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uocm93LCBsZW4obGluZXMpKToKIyAgICAgICAgICAgICAgICBmX3BsYW4ud3JpdGUoInt9Ii5mb3JtYXQobGluZXNbaV0pKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb25fbGlzdFsiZGl2aWRlX251bV9kZXB0aCJdLCBqc29uX2xpc3RbImZwcyJdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2lmIGxlbih1bnNlZW5fb2JqZWN0cykgPT0gMToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9yZ2JkX21vdmllKHBhdGhfc2F2ZV9tb3ZpZV9yZ2IsIHBhdGhfc2F2ZV9kaXJfZGVwdGgsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>row</last-search>
+      <last-search>seen_object_class</last-search>
       <last-offset />
-      <last-pattern>row</last-pattern>
+      <last-pattern>seen_object_class</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -1109,7 +1109,6 @@
     </search>
     <history>
       <history-search>
-        <entry>img -</entry>
         <entry>img =</entry>
         <entry>suppressor</entry>
         <entry>evaluate</entry>
@@ -1129,6 +1128,7 @@
         <entry>real</entry>
         <entry>over</entry>
         <entry>row</entry>
+        <entry>seen_object_class</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dispersed/shifted/gc</entry>
