@@ -16,9 +16,6 @@
         <mark key="^" line="56" column="35" />
         <mark key="." line="56" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1552367582249">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/data/transforms/transforms.py" timestamp="1549643814179">
         <mark key="[" line="6" column="43" />
         <mark key="]" line="8" column="17" />
@@ -74,11 +71,17 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_with_control_rgbd.py" timestamp="1553066844483">
-        <mark key="[" line="77" column="20" />
-        <mark key="]" line="77" column="20" />
-        <mark key="." line="77" column="20" />
-        <mark key="^" line="67" column="32" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_with_control_rgbd.py" timestamp="1553069635699">
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="35" column="45" />
+        <mark key="." line="35" column="45" />
+        <mark key="^" line="35" column="45" />
+      </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/support_tools/compile_plan.py" timestamp="1553069217644">
+        <mark key="[" line="71" column="14" />
+        <mark key="]" line="72" column="3" />
+        <mark key="^" line="72" column="3" />
+        <mark key="." line="72" column="3" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" timestamp="1551672728355">
         <mark key="'" line="96" column="8" />
@@ -351,9 +354,6 @@
         <mark key="." line="63" column="19" />
         <mark key="^" line="78" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/support_tools/data_operation/convert_result_format_detector2nms.py" timestamp="1551314749540">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/configs/defaults.py" timestamp="1549693094844">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="11" column="31" />
@@ -377,9 +377,6 @@
         <mark key="]" line="32" column="29" />
         <mark key="^" line="32" column="29" />
         <mark key="." line="32" column="29" />
-      </file>
-      <file name="$USER_HOME$/tmp/a/tmp.py" timestamp="1552638598437">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1551600167511">
         <mark key="[" line="32" column="0" />
@@ -472,12 +469,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" timestamp="1553064859092">
-        <mark key="'" line="107" column="16" />
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" timestamp="1553069250569">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="188" column="25" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/vgg.py" timestamp="1549438785857">
         <mark key="[" line="9" column="65" />
@@ -621,10 +617,11 @@
         <mark key="." line="27" column="15" />
         <mark key="^" line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/move_around.py" timestamp="1553066054518">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/move_around.py" timestamp="1553069555940">
+        <mark key="[" line="48" column="40" />
+        <mark key="]" line="49" column="3" />
+        <mark key="." line="49" column="3" />
+        <mark key="^" line="49" column="3" />
       </file>
       <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/lib/build.py" timestamp="1553066303371">
         <mark key="[" line="8" column="29" />
@@ -739,6 +736,12 @@
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
+      </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/support_tools/make_plan_txt.py" timestamp="1553069200025">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/configs/fast_rcnn/movie_dataset_dia/e2e_fast_rcnn_R_101_FPN_1x_class_agnostic_640x480.yaml" timestamp="1544531494028">
         <mark key="[" line="37" column="74" />
@@ -944,7 +947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="46" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="203" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="122" column="65" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
       <jump line="33" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
@@ -1044,55 +1046,56 @@
       <jump line="100" column="42" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
       <jump line="107" column="16" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
       <jump line="10" column="0" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/lib/rgbd_capture.py" />
+      <jump line="89" column="31" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>real</text>
+        <text>over</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguaXNkaXIocGF0aF9zYXZlX2Rpcl9kZXB0aCk6CiAgICAgICAgICAgICAgICBvcy5ta2RpcihwYXRoX3NhdmVfZGlyX2RlcHRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb25fbGlzdFsiZGl2aWRlX251bV9kZXB0aCJdLCBqc29uX2xpc3RbImZwcyJdKQo=</text>
+        <text encoding="base64">I2RlZiBvdmVyd3JpdGVfcGxhbihsaW5lcywgcm93LCBwYXRoX3BsYW5maWxlKToKIyAgICBwcmludCgib3ZlcndyaXRlIHBsYW4gZmlsZSIpCiMgICAgaWYgcm93IDwgbGVuKGxpbmVzKToKIyAgICAgICAgd2l0aCBvcGVuKHBhdGhfcGxhbmZpbGUsICJ3IikgYXMgZl9wbGFuOgojICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2Uocm93LCBsZW4obGluZXMpKToKIyAgICAgICAgICAgICAgICBmX3BsYW4ud3JpdGUoInt9Ii5mb3JtYXQobGluZXNbaV0pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9yZ2JkX21vdmllKHBhdGhfc2F2ZV9tb3ZpZV9yZ2IsIHBhdGhfc2F2ZV9kaXJfZGVwdGgsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2lmIGxlbih1bnNlZW5fb2JqZWN0cykgPT0gMToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3RyeToKICAgICAgICAgICAgIyAgICBtb3ZpZV9jb3VudGVyICs9IDEKICAgICAgICAgICAgIyAgICBzcnZfaGFuZGxlciA9IHJvc3B5LlNlcnZpY2VQcm94eShzcnZfbmFtZSwgQ29udHJvbFF1ZSkKICAgICAgICAgICAgIyAgICByZXNwID0gc3J2X2hhbmRsZXIoanNvbl9saXN0WydzcnZfbXNnX3N0YXJ0J10pCiAgICAgICAgICAgICMgICAgcGF0aF9zYXZlX21vdmllX3JnYiA9IGpzb25fbGlzdFsncGF0aF9zYXZlX21vdmllX3JnYiddICsgJ18nIFwKICAgICAgICAgICAgIyAgICAgICAgKyBzdHIobW92aWVfY291bnRlcikgKyAiLmF2aSIKICAgICAgICAgICAgIyAgICBwYXRoX3NhdmVfbW92aWVfZGVwdGggPSBqc29uX2xpc3RbJ3BhdGhfc2F2ZV9tb3ZpZV9kZXB0aCddICsgJ18nIFwKICAgICAgICAgICAgIyAgICAgICAgKyBzdHIobW92aWVfY291bnRlcikgKyAiLmF2aSIKICAgICAgICAgICAgIyAgICBzYXZlX2tpbmVjdF9tb3ZpZV9yZ2JkKHBhdGhfc2F2ZV9tb3ZpZV9yZ2IsIHBhdGhfc2F2ZV9tb3ZpZV9kZXB0aCwKICAgICAgICAgICAgIyAgICAgICAganNvbl9saXN0WyJmcHMiXSkKICAgICAgICAgICAgIyAgICBwcmludCgiYSIpCiAgICAgICAgICAgICMgICAgcmVzcCA9IHNydl9oYW5kbGVyKGpzb25fbGlzdFsnc3J2X21zZ19zdG9wJ10pCiAgICAgICAgICAgICNleGNlcHQ6CiAgICAgICAgICAgICMgICAgcHJpbnQoIkZhaWxlZCBzZW5kaW5nIHNlcnZpY2UgbWVzc2FnZTogMShzdGFydCBtb3ZlIGFyb3VuZCkiKQoK</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb25fbGlzdFsiZGl2aWRlX251bV9kZXB0aCJdLCBqc29uX2xpc3RbImZwcyJdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9yZ2JkX21vdmllKHBhdGhfc2F2ZV9tb3ZpZV9yZ2IsIHBhdGhfc2F2ZV9kaXJfZGVwdGgsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>real</last-search>
+      <last-search>over</last-search>
       <last-offset />
-      <last-pattern>real</last-pattern>
+      <last-pattern>over</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -1100,7 +1103,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lst_score_predict</entry>
         <entry>data</entry>
         <entry>img -</entry>
         <entry>img =</entry>
@@ -1120,6 +1122,7 @@
         <entry>vel</entry>
         <entry>sys</entry>
         <entry>real</entry>
+        <entry>over</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dispersed/shifted/gc</entry>
