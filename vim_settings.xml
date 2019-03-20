@@ -74,6 +74,7 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_with_control_rgbd.py" timestamp="1553061360540" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" timestamp="1551672728355">
         <mark key="'" line="96" column="8" />
         <mark key="[" line="200" column="0" />
