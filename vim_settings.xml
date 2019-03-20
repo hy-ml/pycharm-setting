@@ -271,6 +271,13 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/lib/rgbd_capture.py" timestamp="1553058848135">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="23" column="7" />
+      </file>
       <file name="$USER_HOME$/sample/scripts/make_plan.py" timestamp="1540544216402">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="56" />
@@ -301,9 +308,9 @@
         <mark key="^" line="0" column="79" />
         <mark key="." line="0" column="79" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/video_tools/realsense.py" timestamp="1552881804799">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/video_tools/realsense.py" timestamp="1553058118034">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="138" column="26" />
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
@@ -767,6 +774,11 @@
         <mark key="^" line="33" column="35" />
         <mark key="." line="33" column="35" />
       </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/lib/exceptions.py" timestamp="1553058435943">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/structures/bounding_box.py" timestamp="1552367541356">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -903,7 +915,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="63" column="19" filename="$USER_HOME$/ws/python/effective_python/item24.py" />
       <jump line="28" column="23" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
       <jump line="192" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
@@ -1003,46 +1014,47 @@
       <jump line="7" column="4" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/docker-compose.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/docker/Dockerfile" />
       <jump line="17" column="43" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/run_docker_mac.sh" />
+      <jump line="11" column="7" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/lib/rgbd_capture.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aWYK</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>depth_array</text>
       </register>
       <register name="/" type="4">
         <text>reject</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJlbnZpcm9ubWVudCI6ICJwcmltZXNlbnNlX3ByaW1lc2Vuc2UiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltd3JpdGUoc2F2ZV9wYXRoX2RlcHRoLCBpbWdfZGVwdGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYK</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1nX25hbWVfdGVtcGxhdGUgPSAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJlbnZpcm9ubWVudCI6ICJwcmltZXNlbnNlX3ByaW1lc2Vuc2UiLAo=</text>
+        <text encoding="base64">ICAgICAgICAiIiJNYWluIG1ldGhvZCBvZiB0aGlzIGNsYXNzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SW5zdGFsbCBQcmltZXNlbnNlIGxpYmxhcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbG9yX3N0cmVhbS5zdG9wKCkKICAgIGRlcHRoX3N0cmVhbS5zdG9wKCkKICAgIG9wZW5uaTIudW5sb2FkKCkK</text>
+        <text encoding="base64">ICAgICAgICBSZXR1cm5zOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvcGVubmkyLmdldF9pbWFnZV9yZWdpc3RyYXRpb25fbW9kZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1091,7 +1103,6 @@
         <entry>q!</entry>
         <entry>%s/img_source/img_detector/gc</entry>
         <entry>%s/img_target/img_nms/gc</entry>
-        <entry>wq</entry>
         <entry>156</entry>
         <entry>70</entry>
         <entry>28</entry>
@@ -1100,6 +1111,7 @@
         <entry>170</entry>
         <entry>48</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
