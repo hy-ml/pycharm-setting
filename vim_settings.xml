@@ -686,6 +686,9 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" timestamp="1553070736591">
+        <mark key="'" line="93" column="27" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/build.py" timestamp="1549440067352">
         <mark key="[" line="5" column="55" />
         <mark key="]" line="9" column="20" />
@@ -766,6 +769,9 @@
         <mark key="]" line="5" column="48" />
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="48" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/train/movie_dataset.py" timestamp="1552371818034">
+        <mark key="'" line="28" column="32" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluation/__init__.py" timestamp="1550814129768">
         <mark key="[" line="0" column="0" />
@@ -947,13 +953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="122" column="65" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
-      <jump line="33" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
-      <jump line="34" column="42" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
-      <jump line="195" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="200" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="96" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="27" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
       <jump line="40" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/engine/inference.py" />
       <jump line="23" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/train/movie_dataset.py" />
@@ -1047,6 +1046,13 @@
       <jump line="107" column="16" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
       <jump line="10" column="0" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/lib/rgbd_capture.py" />
       <jump line="89" column="31" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
+      <jump line="149" column="37" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
+      <jump line="213" column="46" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
+      <jump line="23" column="12" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
+      <jump line="24" column="28" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
+      <jump line="89" column="26" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
+      <jump line="91" column="7" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
+      <jump line="93" column="27" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log_.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1056,7 +1062,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>over</text>
+        <text>row</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguaXNkaXIocGF0aF9zYXZlX2Rpcl9kZXB0aCk6CiAgICAgICAgICAgICAgICBvcy5ta2RpcihwYXRoX3NhdmVfZGlyX2RlcHRoKQo=</text>
@@ -1093,9 +1099,9 @@
       </register>
     </registers>
     <search>
-      <last-search>over</last-search>
+      <last-search>row</last-search>
       <last-offset />
-      <last-pattern>over</last-pattern>
+      <last-pattern>row</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -1103,7 +1109,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>img -</entry>
         <entry>img =</entry>
         <entry>suppressor</entry>
@@ -1123,6 +1128,7 @@
         <entry>sys</entry>
         <entry>real</entry>
         <entry>over</entry>
+        <entry>row</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dispersed/shifted/gc</entry>
