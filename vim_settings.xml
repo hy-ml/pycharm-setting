@@ -60,13 +60,13 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_with_control_rgbd.py" timestamp="1553522389751">
-        <mark key="'" line="37" column="44" />
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="16" column="65" />
-        <mark key="o" line="8" column="28" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_with_control_rgbd.py" timestamp="1553523177440">
+        <mark key="'" line="36" column="44" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="68" column="33" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="15" column="65" />
+        <mark key="o" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/support_tools/compile_plan.py" timestamp="1553069217644">
         <mark key="[" line="71" column="14" />
@@ -235,10 +235,10 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/lib/rgbd_capture.py" timestamp="1553066347292">
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/lib/rgbd_capture.py" timestamp="1553523720651">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="7" column="53" />
-        <mark key="]" line="7" column="59" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="38" column="51" />
         <mark key="." line="7" column="59" />
         <mark key="^" line="7" column="59" />
       </file>
@@ -386,6 +386,12 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_rgbd.py" timestamp="1553524719011">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="12" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="111" column="12" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/sampling/__init__.py" timestamp="1549360269531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="32" />
@@ -410,8 +416,8 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" timestamp="1553521777943">
-        <mark key="'" line="115" column="27" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" timestamp="1553524018224">
+        <mark key="'" line="71" column="43" />
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="25" />
         <mark key="m" line="115" column="27" />
@@ -777,7 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="45" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
       <jump line="88" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
       <jump line="73" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
       <jump line="124" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
@@ -877,55 +882,56 @@
       <jump line="110" column="4" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
       <jump line="115" column="27" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
       <jump line="35" column="44" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_with_control_rgbd.py" />
+      <jump line="71" column="43" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjYXB0dXJlLnN0b3BfZGV2aWNlKCkKICAgICAgICBjdjIuZGVzdHJveUFsbFdpbmRvd3MoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>depth_array_sho</text>
       </register>
       <register name="/" type="4">
-        <text>service_name_move</text>
+        <text>wait</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhcmdzLm1vdmVfcm9ib3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltd3JpdGUoc2F2ZV9wYXRoX3JnYiwgaW1nX3JnYikKICAgICAgICAgICAgY3YyLmltd3JpdGUoc2F2ZV9wYXRoX2RlcHRoLCBpbWdfZGVwdGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhcmdzLm1vdmVfcm9ib3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXB0dXJlLnN0b3BfZGV2aWNlKCkKICAgICAgICBjdjIuZGVzdHJveUFsbFdpbmRvd3MoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MubW92ZV9yb2JvdDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAnY29sb3Jfc3RyZWFtJyBpbiBsb2NhbHMoKToKICAgICAgICAgICAgY29sb3Jfc3RyZWFtLnN0b3AoKQogICAgICAgICAgICBkZWwgY29sb3Jfc3RyZWFtCiAgICAgICAgaWYgJ2RlcHRoX3N0cmVhbScgaW4gbG9jYWxzKCk6CiAgICAgICAgICAgIGRlcHRoX3N0cmVhbS5zdG9wKCkKICAgICAgICAgICAgZGVsIGRlcHRoX3N0cmVhbQogICAgICAgIG9wZW5uaTIudW5sb2FkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MubW92ZV9yb2JvdDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGVjaG9fbXNnKHVuc2Vlbl9vYmplY3QsIHNlZW5fb2JqZWN0X2NsYXNzLCBmbGFnKToKICAgIGlmIHVuc2Vlbl9vYmplY3QgPT0gLTE6CiAgICAgICAgcHJpbnQoIlxuIyMjIyMjI1xuR28gdG8gTmV4dCBTdGFnZSB7fS97fVxuIi5mb3JtYXQoaW5kZXgrMSwgMTApKQogICAgICAgIGVjaG9fYWxsX3NlZW5fb2JqZWN0KAogICAgICAgICAgICBzZWVuX29iamVjdHMsIHNlZW5fb2JqZWN0X2NsYXNzLCBmbGFnX3NlZW5fb2JqZWN0KQogICAgICAgIGNoYW5nZV9zZWVuX2ZsYWdzKGZsYWdfc2Vlbl9vYmplY3QsIHNlZW5fb2JqZWN0cykKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoIlxuIyMjIyMjI1xuQWRkIHVuc2VlbiBvYmplY3Q6IHt9Ont9LCB7fS97fVxuIi5mb3JtYXQoCiAgICAgICAgICAgIHVuc2Vlbl9vYmplY3RfY2xhc3NbdW5zZWVuX29iamVjdHNbLTFdXSwKICAgICAgICAgICAgaW50KGZsYWdfdW5zZWVuX29iamVjdFt1bnNlZW5fb2JqZWN0c1stMV1dKSwgbGVuKHVuc2Vlbl9vYmplY3RzKSwgMTAKICAgICAgICApKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlkZW9fd3JpdGVyX3JnYi53cml0ZShjb2xvcl9hcnJheSkKICAgICAgICAgICAgbnAuc2F2ZShvcy5wYXRoLmpvaW4oc2F2ZV9kaXJfZGVwdGgsICgiZnJhbWVfIiArIHN0cihmcmFtZV9jb3VudGVyKSArICIubnB5IikpLAogICAgICAgICAgICAgICAgZGVwdGhfYXJyYXkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltd3JpdGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHVuc2Vlbl9vYmplY3QgPT0gLTE6CiAgICAgICAgcHJpbnQoIlxuIyMjIyMjI1xuR28gdG8gTmV4dCBTdGFnZSB7fS97fVxuIi5mb3JtYXQoaW5kZXgrMSwgMTApKQogICAgICAgIGVjaG9fYWxsX3NlZW5fb2JqZWN0KAogICAgICAgICAgICBzZWVuX29iamVjdHMsIHNlZW5fb2JqZWN0X2NsYXNzLCBmbGFnX3NlZW5fb2JqZWN0KQogICAgICAgIGNoYW5nZV9zZWVuX2ZsYWdzKGZsYWdfc2Vlbl9vYmplY3QsIHNlZW5fb2JqZWN0cykKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoIlxuIyMjIyMjI1xuQWRkIHVuc2VlbiBvYmplY3Q6IHt9Ont9LCB7fS97fVxuIi5mb3JtYXQoCiAgICAgICAgICAgIHVuc2Vlbl9vYmplY3RfY2xhc3NbdW5zZWVuX29iamVjdHNbLTFdXSwKICAgICAgICAgICAgaW50KGZsYWdfdW5zZWVuX29iamVjdFt1bnNlZW5fb2JqZWN0c1stMV1dKSwgbGVuKHVuc2Vlbl9vYmplY3RzKSwgMTAKICAgICAgICApKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAuc2F2ZShvcy5wYXRoLmpvaW4oc2F2ZV9kaXJfZGVwdGgsICgiZnJhbWVfIiArIHN0cihmcmFtZV9jb3VudGVyKSArICIubnB5IikpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>service_name_move</last-search>
+      <last-search>wait</last-search>
       <last-offset />
-      <last-pattern>service_name_move</last-pattern>
+      <last-pattern>wait</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -933,7 +939,6 @@
     </search>
     <history>
       <history-search>
-        <entry>appedn_save</entry>
         <entry>append_save</entry>
         <entry>min_size</entry>
         <entry>source_id</entry>
@@ -953,6 +958,7 @@
         <entry>srv_movie</entry>
         <entry>srv_movie_</entry>
         <entry>service_name_move</entry>
+        <entry>wait</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dispersed/shifted/gc</entry>
