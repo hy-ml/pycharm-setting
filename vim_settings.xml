@@ -181,11 +181,11 @@
         <mark key="^" line="44" column="22" />
         <mark key="." line="44" column="22" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/config.json" timestamp="1553066452403">
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="5" column="36" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/config.json" timestamp="1553528638663">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="46" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/modeling/roi_heads/box_head/box_head.py" timestamp="1544532991514">
         <mark key="[" line="57" column="54" />
@@ -236,11 +236,8 @@
         <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/lib/rgbd_capture.py" timestamp="1553523720651">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="51" />
-        <mark key="." line="7" column="59" />
-        <mark key="^" line="7" column="59" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="51" />
       </file>
       <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/lib/realsense.py" timestamp="1553066365988">
         <mark key="[" line="8" column="8" />
@@ -386,11 +383,11 @@
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_rgbd.py" timestamp="1553524719011">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="12" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="111" column="12" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_rgbd.py" timestamp="1553529137050">
+        <mark key="[" line="83" column="37" />
+        <mark key="]" line="83" column="37" />
+        <mark key="^" line="80" column="61" />
+        <mark key="." line="83" column="37" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/sampling/__init__.py" timestamp="1549360269531">
         <mark key="[" line="0" column="0" />
@@ -415,14 +412,6 @@
         <mark key="]" line="12" column="21" />
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
-      </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" timestamp="1553524018224">
-        <mark key="'" line="71" column="43" />
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="25" />
-        <mark key="m" line="115" column="27" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="196" column="42" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/vgg.py" timestamp="1549438785857">
         <mark key="[" line="9" column="65" />
@@ -885,47 +874,47 @@
       <jump line="71" column="43" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYXB0dXJlLnN0b3BfZGV2aWNlKCkKICAgICAgICBjdjIuZGVzdHJveUFsbFdpbmRvd3MoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>depth_array_sho</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>wait</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltd3JpdGUoc2F2ZV9wYXRoX3JnYiwgaW1nX3JnYikKICAgICAgICAgICAgY3YyLmltd3JpdGUoc2F2ZV9wYXRoX2RlcHRoLCBpbWdfZGVwdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKHNhdmVfZGlyX3JnYik6CiAgICAgICAgICAgICAgICAgICAgb3MubWtkaXIoc2F2ZV9kaXJfcmdiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYXB0dXJlLnN0b3BfZGV2aWNlKCkKICAgICAgICBjdjIuZGVzdHJveUFsbFdpbmRvd3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzeXMuZXhpdCgxKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUGxlYXNlIG1ha2UgYSBkaXJlY3Rvcnkgc2F2ZWQgUkdCIG1vdmllIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKGpzb25fbGlzdFsicGF0aF9zYXZlX2Rpcl9yZ2IiXSk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnY29sb3Jfc3RyZWFtJyBpbiBsb2NhbHMoKToKICAgICAgICAgICAgY29sb3Jfc3RyZWFtLnN0b3AoKQogICAgICAgICAgICBkZWwgY29sb3Jfc3RyZWFtCiAgICAgICAgaWYgJ2RlcHRoX3N0cmVhbScgaW4gbG9jYWxzKCk6CiAgICAgICAgICAgIGRlcHRoX3N0cmVhbS5zdG9wKCkKICAgICAgICAgICAgZGVsIGRlcHRoX3N0cmVhbQogICAgICAgIG9wZW5uaTIudW5sb2FkKCkK</text>
+        <text encoding="base64">ICAgICJwYXRoX3NhdmVfZGlyX2RlcHRoIjogIi9ob21lL2NyZXN0L3NhdmVfbW92aWVfZGVwdGgiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwYXRoX3NhdmVfZGlyX3JnYiI6ICIvaG9tZS9jcmVzdC9zYXZlX21vdmllX3JnYiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJtb3ZpZV8iICsgbW92aWVfc3VmZml4KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlkZW9fd3JpdGVyX3JnYi53cml0ZShjb2xvcl9hcnJheSkKICAgICAgICAgICAgbnAuc2F2ZShvcy5wYXRoLmpvaW4oc2F2ZV9kaXJfZGVwdGgsICgiZnJhbWVfIiArIHN0cihmcmFtZV9jb3VudGVyKSArICIubnB5IikpLAogICAgICAgICAgICAgICAgZGVwdGhfYXJyYXkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVfZGlyX2RlcHRoID0gb3MucGF0aC5qb2luKGpzb25fbGlzdFsicGF0aF9zYXZlX2Rpcl9kZXB0aCJdLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3YyLmltd3JpdGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnAuc2F2ZShvcy5wYXRoLmpvaW4oc2F2ZV9kaXJfZGVwdGgsICgiZnJhbWVfIiArIHN0cihmcmFtZV9jb3VudGVyKSArICIubnB5IikpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5x</text>
       </register>
     </registers>
     <search>
@@ -961,8 +950,6 @@
         <entry>wait</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/dispersed/shifted/gc</entry>
-        <entry>.,.+332w</entry>
         <entry>%s/bbox/box/gc</entry>
         <entry>%s/target/anno/gc</entry>
         <entry>%s/MovieDataset/MovieDatasetEval/gc</entry>
@@ -981,6 +968,8 @@
         <entry>q!</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>e</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
