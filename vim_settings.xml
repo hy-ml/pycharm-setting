@@ -60,11 +60,13 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_with_control_rgbd.py" timestamp="1553521803969">
-        <mark key="[" line="35" column="45" />
-        <mark key="]" line="35" column="45" />
-        <mark key="." line="35" column="45" />
-        <mark key="^" line="35" column="45" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_with_control_rgbd.py" timestamp="1553522389751">
+        <mark key="'" line="37" column="44" />
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="16" column="65" />
+        <mark key="o" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/support_tools/compile_plan.py" timestamp="1553069217644">
         <mark key="[" line="71" column="14" />
@@ -775,7 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="49" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
       <jump line="36" column="45" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
       <jump line="88" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
       <jump line="73" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/train.py" />
@@ -875,16 +876,17 @@
       <jump line="198" column="24" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
       <jump line="110" column="4" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
       <jump line="115" column="27" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
+      <jump line="35" column="44" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/save_movie_with_control_rgbd.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>srv_movie_</text>
+        <text>service_name_move</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhcmdzLm1vdmVfcm9ib3Q6Cg==</text>
@@ -921,9 +923,9 @@
       </register>
     </registers>
     <search>
-      <last-search>srv_movie_</last-search>
+      <last-search>service_name_move</last-search>
       <last-offset />
-      <last-pattern>srv_movie_</last-pattern>
+      <last-pattern>service_name_move</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -931,7 +933,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cpy()</entry>
         <entry>appedn_save</entry>
         <entry>append_save</entry>
         <entry>min_size</entry>
@@ -951,6 +952,7 @@
         <entry>flag_move</entry>
         <entry>srv_movie</entry>
         <entry>srv_movie_</entry>
+        <entry>service_name_move</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dispersed/shifted/gc</entry>
