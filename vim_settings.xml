@@ -483,10 +483,10 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" timestamp="1553674146754">
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" timestamp="1553679808344">
+        <mark key="[" line="211" column="19" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/vgg.py" timestamp="1549438785857">
         <mark key="[" line="9" column="65" />
@@ -1070,7 +1070,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlcHRoID0gb3BlbjNkLiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1082,31 +1082,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKHNhdmVfZGlyX3JnYik6CiAgICAgICAgICAgICAgICAgICAgb3MubWtkaXIoc2F2ZV9kaXJfcmdiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlcHRoID0gb3BlbjNkLiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG9wZW4zZC4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBvcGVuM2QK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBrZXkgInEiIGlzIGlucHV0LCBicmVhayBmcm9tIHdoaWxlIGxvb3AK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlcHRoID0gb3BlbjNkLiAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KCkpLAogICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG9wZW4zZC4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBvcGVuM2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5ta2RpcihzYXZlX2RpcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBrZXkgInEiIGlzIGlucHV0LCBicmVhayBmcm9tIHdoaWxlIGxvb3AK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">KCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text encoding="base64">KCkpLAogICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMuZXhpdCgxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5ta2RpcihzYXZlX2RpcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
