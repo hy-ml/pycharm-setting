@@ -962,7 +962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="49" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
       <jump line="92" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
       <jump line="93" column="58" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
       <jump line="37" column="23" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
@@ -1062,6 +1061,7 @@
       <jump line="24" column="37" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/support_tools/make_plan_txt.py" />
       <jump line="34" column="28" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/support_tools/make_plan_txt.py" />
       <jump line="0" column="7" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/support_tools/make_plan_txt.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
