@@ -649,6 +649,13 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="20" column="30" />
       </file>
+      <file name="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" timestamp="1553925417077">
+        <mark key="'" line="171" column="8" />
+        <mark key="[" line="171" column="63" />
+        <mark key="]" line="173" column="22" />
+        <mark key="." line="173" column="22" />
+        <mark key="^" line="173" column="22" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_shifters/__init__.py" timestamp="1549422751141">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="1" column="35" />
@@ -967,24 +974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
-      <jump line="93" column="58" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
-      <jump line="37" column="23" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
-      <jump line="96" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
-      <jump line="103" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
-      <jump line="100" column="66" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
-      <jump line="92" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
-      <jump line="64" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
-      <jump line="63" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
-      <jump line="83" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
-      <jump line="85" column="46" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
-      <jump line="81" column="59" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
-      <jump line="36" column="58" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
-      <jump line="89" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
-      <jump line="75" column="22" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
-      <jump line="38" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
-      <jump line="22" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
       <jump line="42" column="42" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
       <jump line="93" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" />
       <jump line="79" column="48" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
@@ -1067,55 +1056,73 @@
       <jump line="34" column="28" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/support_tools/make_plan_txt.py" />
       <jump line="0" column="7" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/support_tools/make_plan_txt.py" />
       <jump line="54" column="0" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
+      <jump line="48" column="46" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="175" column="48" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="170" column="11" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="173" column="8" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="178" column="40" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="172" column="64" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="174" column="11" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="0" column="20" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="82" column="7" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="83" column="8" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="91" column="50" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="176" column="0" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="8" column="26" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="10" column="38" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="43" column="24" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="50" column="57" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="73" column="53" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="171" column="8" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>random</text>
+        <text>findH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKHNhdmVfZGlyX3JnYik6CiAgICAgICAgICAgICAgICAgICAgb3MubWtkaXIoc2F2ZV9kaXJfcmdiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcGVuM2QK</text>
+        <text encoding="base64">ICAgICAgICBjdjIuQkYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlcHRoID0gb3BlbjNkLiAK</text>
+        <text encoding="base64">ICAgICAgICAjIOODm+ODouOCsOODqeODleOCo+ihjOWIl+OBqOODnuOCueOCrwogICAgICAgIGN2Mi5CRgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjdjIuZmluZEhvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wZW4zZC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBvcGVuM2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBrZXkgInEiIGlzIGlucHV0LCBicmVhayBmcm9tIHdoaWxlIGxvb3AK</text>
+        <text encoding="base64">ICAgIGRlcHRoID0gb3BlbjNkLiAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KCkpLAogICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5ta2RpcihzYXZlX2RpcikK</text>
+        <text encoding="base64">ICAgIG9wZW4zZC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>random</last-search>
+      <last-search>findH</last-search>
       <last-offset />
-      <last-pattern>random</last-pattern>
+      <last-pattern>findH</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -1123,11 +1130,6 @@
     </search>
     <history>
       <history-search>
-        <entry>source_id</entry>
-        <entry>pdb</entry>
-        <entry>reject</entry>
-        <entry>vel</entry>
-        <entry>sys</entry>
         <entry>real</entry>
         <entry>over</entry>
         <entry>row</entry>
@@ -1143,9 +1145,13 @@
         <entry>wait</entry>
         <entry>77</entry>
         <entry>random</entry>
+        <entry>homogra</entry>
+        <entry>status</entry>
+        <entry>sift</entry>
+        <entry>H</entry>
+        <entry>findH</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/target/anno/gc</entry>
         <entry>%s/MovieDataset/MovieDatasetEval/gc</entry>
         <entry>%s/MovieDataset/MovieDatasetTrain/gc</entry>
         <entry>39</entry>
@@ -1164,6 +1170,7 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>78</entry>
+        <entry>169</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
