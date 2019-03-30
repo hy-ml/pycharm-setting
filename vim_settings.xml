@@ -649,12 +649,10 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" timestamp="1553925417077">
-        <mark key="'" line="171" column="8" />
-        <mark key="[" line="171" column="63" />
-        <mark key="]" line="173" column="22" />
-        <mark key="." line="173" column="22" />
-        <mark key="^" line="173" column="22" />
+      <file name="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" timestamp="1553926162634">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_shifters/__init__.py" timestamp="1549422751141">
         <mark key="[" line="0" column="41" />
@@ -1061,7 +1059,6 @@
       <jump line="170" column="11" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
       <jump line="173" column="8" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
       <jump line="178" column="40" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
-      <jump line="172" column="64" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
       <jump line="174" column="11" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
       <jump line="0" column="20" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
       <jump line="82" column="7" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
@@ -1074,55 +1071,56 @@
       <jump line="50" column="57" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
       <jump line="73" column="53" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
       <jump line="171" column="8" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
+      <jump line="172" column="17" filename="$USER_HOME$/ws/python/road_to_slam/hands_on_chapter3/examples/epipolar.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>findH</text>
+        <text>pdb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKHNhdmVfZGlyX3JnYik6CiAgICAgICAgICAgICAgICAgICAgb3MubWtkaXIoc2F2ZV9kaXJfcmdiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIuQkYK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIOODm+ODouOCsOODqeODleOCo+ihjOWIl+OBqOODnuOCueOCrwogICAgICAgIGN2Mi5CRgo=</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkKICAgICAgICBwcmludCgnJWQgLyAlZCAgaW5saWVycy9tYXRjaGVkJyAlIChucC5zdW0oc3RhdHVzKSwgbGVuKHN0YXR1cykpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIuZmluZEhvCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdjIuQkYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcGVuM2QK</text>
+        <text encoding="base64">ICAgICAgICAjIOODm+ODouOCsOODqeODleOCo+ihjOWIl+OBqOODnuOCueOCrwogICAgICAgIGN2Mi5CRgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlcHRoID0gb3BlbjNkLiAK</text>
+        <text encoding="base64">ICAgICAgICBjdjIuZmluZEhvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wZW4zZC4K</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcGVuM2QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>findH</last-search>
+      <last-search>pdb</last-search>
       <last-offset />
-      <last-pattern>findH</last-pattern>
+      <last-pattern>pdb</last-pattern>
       <last-replace>img_nms</last-replace>
       <last-substitute>img_target</last-substitute>
       <last-dir>1</last-dir>
@@ -1130,7 +1128,6 @@
     </search>
     <history>
       <history-search>
-        <entry>real</entry>
         <entry>over</entry>
         <entry>row</entry>
         <entry>seen_object_class</entry>
@@ -1150,6 +1147,7 @@
         <entry>sift</entry>
         <entry>H</entry>
         <entry>findH</entry>
+        <entry>pdb</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MovieDataset/MovieDatasetEval/gc</entry>
