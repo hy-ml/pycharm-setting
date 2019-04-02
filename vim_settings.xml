@@ -161,6 +161,12 @@
         <mark key="." line="96" column="5" />
         <mark key="^" line="96" column="5" />
       </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/configs/realsense_640x480_dual_sensor.yml" timestamp="1554168079221">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="50" />
+        <mark key="^" line="23" column="50" />
+        <mark key="." line="23" column="50" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/movie_dataset.py" timestamp="1550816210927">
         <mark key="'" line="147" column="51" />
         <mark key="[" line="130" column="30" />
@@ -792,6 +798,12 @@
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="48" />
       </file>
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/configs/xtion_pro_live_640x480_dual_sensor.yml" timestamp="1554168100265">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="55" />
+        <mark key="^" line="23" column="55" />
+        <mark key="." line="23" column="55" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/evaluation/__init__.py" timestamp="1550814129768">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -847,11 +859,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/configs/xtion_pro_live_dual_sensor.yml" timestamp="1554167006911">
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="55" />
-        <mark key="^" line="23" column="55" />
-        <mark key="." line="23" column="55" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/configs/xtion_pro_live_dual_sensor.yml" timestamp="1554167809557">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+        <mark key="." line="5" column="43" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_disperser/__init__.py" timestamp="1549415401087">
         <mark key="[" line="0" column="41" />
@@ -925,11 +937,11 @@
         <mark key="." line="37" column="24" />
         <mark key="^" line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/configs/realsense_dual_sensor.yml" timestamp="1554167026326">
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="50" />
-        <mark key="^" line="23" column="50" />
-        <mark key="." line="23" column="50" />
+      <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/configs/realsense_dual_sensor.yml" timestamp="1554167799427">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/structures/boxlist_ops.py" timestamp="1545650717381">
         <mark key="[" line="4" column="0" />
