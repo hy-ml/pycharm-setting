@@ -23,6 +23,12 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/data/box_samplers/box_sampler.py" timestamp="1554358120381">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="52" column="20" />
+        <mark key="^" line="52" column="20" />
+        <mark key="." line="52" column="20" />
+      </file>
       <file name="/a.dummy" timestamp="1553520403339">
         <mark key="[" line="0" column="0" />
       </file>
