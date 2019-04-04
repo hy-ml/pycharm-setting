@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" timestamp="1554391461925" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" timestamp="1554389523526" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/additional_method_config/greedy.py" timestamp="1554389894819">
         <mark key="[" line="10" column="63" />
@@ -17,36 +18,61 @@
         <mark key="." line="41" column="91" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/movie_dataset_dia/split_by_frame/classification_net/vgg.yaml" timestamp="1554388656050" />
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1554389108189">
-        <mark key="[" line="98" column="45" />
-        <mark key="]" line="98" column="45" />
-        <mark key="^" line="98" column="45" />
-        <mark key="." line="98" column="45" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1554392334120">
+        <mark key="'" line="53" column="4" />
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="3" />
+        <mark key="^" line="68" column="3" />
+        <mark key="." line="68" column="3" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" timestamp="1554392369470">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="65" column="30" />
+        <mark key="]" line="65" column="30" />
+        <mark key="." line="65" column="30" />
+        <mark key="^" line="65" column="30" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="74" column="33" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
+      <jump line="88" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
+      <jump line="102" column="49" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
+      <jump line="53" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
+    </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">bHN0X3RocmVzaG9sZF9pb3UgPSBbbnAucm91bmQoMC41ICsgMC4wMjUgKiB4LCA0KSBmb3IgeCBpbiByYW5nZSg5KV0gCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">PA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">PA==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">PA==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">PA==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>count</entry>
+        <entry>count_not_and</entry>
+        <entry encoding="base64">PA==</entry>
+      </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz44Mg==</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
