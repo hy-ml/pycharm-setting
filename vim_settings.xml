@@ -4,7 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" timestamp="1554391461925" />
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" timestamp="1554389523526" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" timestamp="1554392940119">
+        <mark key="[" line="46" column="70" />
+        <mark key="]" line="46" column="79" />
+        <mark key="." line="46" column="79" />
+        <mark key="^" line="46" column="79" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/additional_method_config/greedy.py" timestamp="1554389894819">
         <mark key="[" line="10" column="63" />
         <mark key="]" line="10" column="64" />
@@ -18,12 +23,12 @@
         <mark key="." line="41" column="91" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/movie_dataset_dia/split_by_frame/classification_net/vgg.yaml" timestamp="1554388656050" />
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1554392334120">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1554392986858">
         <mark key="'" line="53" column="4" />
-        <mark key="[" line="68" column="4" />
-        <mark key="]" line="68" column="3" />
-        <mark key="^" line="68" column="3" />
-        <mark key="." line="68" column="3" />
+        <mark key="[" line="77" column="61" />
+        <mark key="]" line="77" column="64" />
+        <mark key="^" line="77" column="64" />
+        <mark key="." line="77" column="64" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" timestamp="1554392369470">
         <mark key="'" line="50" column="0" />
@@ -42,16 +47,19 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">bHN0X3RocmVzaG9sZF9pb3UgPSBbbnAucm91bmQoMC41ICsgMC4wMjUgKiB4LCA0KSBmb3IgeCBpbiByYW5nZSg5KV0gCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS5vcGVuKHNlbGYubHN0X2ltZ19wYXRoW2lkeF0pLnJlc2l6ZSgoNjQwLCA0ODApKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS5vcGVuKHNlbGYubHN0X2ltZ19wYXRoW2lkeF0pLnJlcwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PA==</text>
