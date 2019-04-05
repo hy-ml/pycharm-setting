@@ -3,12 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/exec_proposed_nms.py" timestamp="1554391461925" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" timestamp="1554392940119">
         <mark key="[" line="46" column="70" />
         <mark key="]" line="46" column="79" />
         <mark key="." line="46" column="79" />
         <mark key="^" line="46" column="79" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/a/a.py" timestamp="1554449352722">
+        <mark key="]" line="202" column="21" />
+        <mark key="^" line="202" column="21" />
+        <mark key="." line="202" column="21" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/additional_method_config/greedy.py" timestamp="1554389894819">
         <mark key="[" line="10" column="63" />
@@ -22,7 +26,6 @@
         <mark key="^" line="42" column="93" />
         <mark key="." line="41" column="91" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/movie_dataset_dia/split_by_frame/classification_net/vgg.yaml" timestamp="1554388656050" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1554392986858">
         <mark key="'" line="53" column="4" />
         <mark key="[" line="77" column="61" />
@@ -50,43 +53,59 @@
       <jump line="102" column="49" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
       <jump line="53" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
       <jump line="50" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
+      <jump line="25" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/a/a.py" />
+      <jump line="89" column="15" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/a/a.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>s</text>
+      </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text>raise NotImplementedError</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS5vcGVuKHNlbGYubHN0X2ltZ19wYXRoW2lkeF0pLnJlc2l6ZSgoNjQwLCA0ODApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihTZWdtZW50YXRpb25Nb2RlbCwgc2VsZikuX19pbml0X18oKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS5vcGVuKHNlbGYubHN0X2ltZ19wYXRoW2lkeF0pLnJlcwo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">PA==</text>
-      </register>
     </registers>
     <search>
-      <last-search encoding="base64">PA==</last-search>
+      <last-search>raise NotImplementedError</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PA==</last-pattern>
+      <last-pattern>raise NotImplementedError</last-pattern>
+      <last-replace>return 1</last-replace>
+      <last-substitute>raise NotImplementedError</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -95,12 +114,18 @@
         <entry>count</entry>
         <entry>count_not_and</entry>
         <entry encoding="base64">PA==</entry>
+        <entry>pass</entry>
+        <entry>raise NotImplementedError</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
         <entry>wq</entry>
+        <entry>%s/pass/return 1/g</entry>
+        <entry>%s/raise NotImplementedError/return 1/g</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
