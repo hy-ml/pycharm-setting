@@ -37,6 +37,12 @@
         <mark key="." line="65" column="30" />
         <mark key="^" line="65" column="30" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/tutorial_lightning/model/segmentation_model.py" timestamp="1554448451924">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="74" column="33" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
@@ -50,10 +56,22 @@
         <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS5vcGVuKHNlbGYubHN0X2ltZ19wYXRoW2lkeF0pLnJlc2l6ZSgoNjQwLCA0ODApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS5vcGVuKHNlbGYubHN0X2ltZ19wYXRoW2lkeF0pLnJlcwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihTZWdtZW50YXRpb25Nb2RlbCwgc2VsZikuX19pbml0X18oKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS5vcGVuKHNlbGYubHN0X2ltZ19wYXRoW2lkeF0pLnJlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
