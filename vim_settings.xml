@@ -23,7 +23,7 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/suppression_network/data/box_samplers/box_sampler.py" timestamp="1554695861692">
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/data/box_samplers/box_sampler.py" timestamp="1554699948061">
         <mark key="[" line="52" column="21" />
         <mark key="]" line="52" column="20" />
         <mark key="^" line="52" column="20" />
@@ -215,11 +215,11 @@
         <mark key="^" line="1" column="116" />
         <mark key="." line="1" column="116" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/suppression_network/configs/movie_dataset_dia/split_by_frame/classification_net/vgg.yaml" timestamp="1554355699864">
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="6" column="49" />
-        <mark key="^" line="6" column="49" />
-        <mark key="." line="6" column="49" />
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/configs/movie_dataset_dia/split_by_frame/classification_net/vgg.yaml" timestamp="1554699752619">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/data/build.py" timestamp="1549644709454">
         <mark key="[" line="31" column="63" />
@@ -301,7 +301,12 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/suppression_network/configs/movie_dataset_dia/split_by_seen_unseen/classification_net/vgg.yaml" timestamp="1554696464430" />
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/configs/movie_dataset_dia/split_by_seen_unseen/classification_net/vgg.yaml" timestamp="1554699764116">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/__init__.py" timestamp="1549425637871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -717,7 +722,12 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/suppression_network/model/extractor/vgg.py" timestamp="1554696458452" />
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/model/extractor/vgg.py" timestamp="1554699718458">
+        <mark key="[" line="9" column="69" />
+        <mark key="]" line="9" column="73" />
+        <mark key="." line="9" column="73" />
+        <mark key="^" line="9" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/modeling/roi_heads/box_head/box_head.py" timestamp="1544532991514">
         <mark key="[" line="57" column="54" />
         <mark key="]" line="57" column="58" />
@@ -993,6 +1003,7 @@
         <mark key="^" line="18" column="59" />
         <mark key="." line="18" column="18" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/data/datasets/train/movie_dataset.py" timestamp="1554699941450" />
       <file name="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/lib/rgbd_capture.py" timestamp="1553523720651">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="41" column="51" />
@@ -1101,8 +1112,8 @@
       <jump line="54" column="0" filename="$USER_HOME$/ws/ros/rgbd_dataset_creator/scripts/contoller_with_log.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRvcmNoLm4K</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -1114,34 +1125,34 @@
         <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBjdjIKCgpyZXNpemVfc2l6ZSA9ICgxMjgsIDEyOCkKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBwYXJzZXIgPSBhcmdwYXJzZS5Bcmd1bWVudFBhcnNlcigpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCdpbWcxJykKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2ltZzInKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBpbWcxID0gY3YyLnJlc2l6ZShjdjIuaW1yZWFkKGFyZ3MuaW1nMSksIHJlc2l6ZV9zaXplKQogICAgaW1nMiA9IGN2Mi5yZXNpemUoY3YyLmltcmVhZChhcmdzLmltZzIpLCByZXNpemVfc2l6ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoLm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29tcGFyaW5nX2hpc3QgPSBjdjIuY2FsY0hpc3QoW2NvbXBhcmluZ19pbWddLCBbMF0sIE5vbmUsIFsyNTZdLCBbMCwgMjU2XSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29tcGFyaW5nX2hpc3QgPSBjdjIuY2FsY0hpc3QoW2NvbXBhcmluZ19pbWddLCBbMF0sIE5vbmUsIFsyNTZdLCBbMCwgMjU2XSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN2Mi53YWl0S2V5KDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN2Mi5pbXNob3coJ3JnYicsIGltZzEpCg==</text>
+        <text encoding="base64">ICAgIGN2Mi53YWl0S2V5KDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGltZzEuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIGN2Mi5pbXNob3coJ3JnYicsIGltZzEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGltZzEuc2hhcGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1191,12 +1202,12 @@
         <entry>48</entry>
         <entry>q</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>78</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
