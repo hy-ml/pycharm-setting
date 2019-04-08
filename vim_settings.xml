@@ -23,7 +23,7 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/suppression_network/data/box_samplers/box_sampler.py" timestamp="1554358120381">
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/data/box_samplers/box_sampler.py" timestamp="1554695861692">
         <mark key="[" line="52" column="21" />
         <mark key="]" line="52" column="20" />
         <mark key="^" line="52" column="20" />
@@ -186,6 +186,7 @@
         <mark key="^" line="95" column="42" />
         <mark key="." line="102" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/model/networks/classification_net.py" timestamp="1554695946938" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/box_sampler/__init__.py" timestamp="1549361256779">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="36" />
@@ -300,7 +301,7 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/suppression_network/configs/movie_dataset_dia/split_by_seen_unseen/classification_net/vgg.yaml" timestamp="1554355700200" />
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/configs/movie_dataset_dia/split_by_seen_unseen/classification_net/vgg.yaml" timestamp="1554696464430" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/configs/__init__.py" timestamp="1549425637871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -410,6 +411,7 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/model/extractor/build.py" timestamp="1554696064560" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_semsegs/data/datasets/__init__.py" timestamp="1549643987217">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
@@ -715,6 +717,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/model/extractor/vgg.py" timestamp="1554696458452" />
       <file name="$USER_HOME$/workspace/python/pytorch/pytorch-1.0/fast-rcnn/maskrcnn_benchmark/modeling/roi_heads/box_head/box_head.py" timestamp="1544532991514">
         <mark key="[" line="57" column="54" />
         <mark key="]" line="57" column="58" />
@@ -766,6 +769,7 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/suppression_network/model/classifier/fc_layers.py" timestamp="1554695981382" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/__init__.py" timestamp="1550654518113">
         <mark key="[" line="4" column="41" />
         <mark key="]" line="5" column="50" />
