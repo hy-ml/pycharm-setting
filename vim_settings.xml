@@ -72,11 +72,10 @@
         <mark key="^" line="37" column="37" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" timestamp="1555419009383">
-        <mark key="[" line="46" column="67" />
-        <mark key="]" line="47" column="7" />
-        <mark key="." line="47" column="7" />
-        <mark key="^" line="47" column="7" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" timestamp="1555419930183">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" timestamp="1555397393560">
         <mark key="[" line="57" column="75" />
@@ -103,9 +102,16 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" timestamp="1555418565592">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="34" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/utils.py" timestamp="1555419917716">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" timestamp="1555419277408">
+        <mark key="'" line="20" column="27" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="36" column="44" />
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
@@ -158,55 +164,59 @@
       <jump line="40" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
       <jump line="4" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
       <jump line="7" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" />
+      <jump line="35" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" />
+      <jump line="14" column="17" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" />
+      <jump line="20" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4K</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>key</text>
+        <text>transform</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGZyZWV6ZV9wYXJhbXMoZXh0cmFjdG9yLCBmcmVlemVfYmxvY2s9Tm9uZSk6CiAgICAiIiIgRnJlZXplIHBhcmFtZXRlcnMgb2YgbGF5ZXJzIHVwIHRvIGBmcmVlemVfYmxvY2tgCgogICAgQXJnczoKICAgICAgICBleHRyYWN0b3IgKHRvcmNoLm5uLk1vZHVsZSk6IEV4dHJhY3RvciBvZiBWR0cgYnVpbHQgYnkgdG9yY2h2aXNpb24uCiAgICAgICAgZnJlZXplX2Jsb2NrIChpbnQpOiBIb3cgbWFueSBibG9ja3MgdG8gZnJlZXplLgogICAgICAgICAgICBgYmxvY2tgIHJlZmVycyB0byB0aGUgcGFydCBvZiBuZXR3b3JrIGJldHdlZW4gTWF4UG9vbDJkLgogICAgICAgICAgICBpZiBgZnJlZXplX2Jsb2NrYCBpcyBub3Qgc3BlY2lmaWVkIG9yIE5vbmUsIGFsbCBwYXJhbWV0ZXJzIG9mCiAgICAgICAgICAgIGV4dHJhY3RvciBpcyBmcm96ZW4uCgogICAgUmV0dXJuczoKICAgICAgICB0b3JjaC5ubi5Nb2R1bGU6IEV4dHJhY3RvciBmcm96ZW4gcGFyYW1ldGVycy4KCiAgICAiIiIKICAgIG1heF9wb29sX2luZGljZXMgPSBnZXRfbWF4X3Bvb2xfaW5kaWNlcyhleHRyYWN0b3IpCgogICAgaWYgZnJlZXplX2Jsb2NrIGlzIE5vbmU6CiAgICAgICAgZnJlZXplX2luZGV4ID0gbWF4X3Bvb2xfaW5kaWNlc1stMV0KICAgIGVsc2U6CiAgICAgICAgaWYgZnJlZXplX2Jsb2NrID49IGxlbihtYXhfcG9vbF9pbmRpY2VzKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignYGZyZWV6ZV9pbmRleGAgPiBgbGVuKG1heF9wb29sX2luZGljZXMpYCcpCiAgICAgICAgZnJlZXplX2luZGV4ID0gbWF4X3Bvb2xfaW5kaWNlc1tmcmVlemVfYmxvY2tdCgogICAgZm9yIGksIGxheWVyIGluIGVudW1lcmF0ZShleHRyYWN0b3IubW9kdWxlcygpKToKICAgICAgICBpZiBpID4gZnJlZXplX2luZGV4OgogICAgICAgICAgICBicmVhawoKICAgICAgICBmb3IgcGFyYW0gaW4gbGF5ZXIucGFyYW1ldGVycygpOgogICAgICAgICAgICBwYXJhbS5yZXF1aXJlc19ncmFkID0gRmFsc2UKCiAgICByZXR1cm4gZXh0cmFjdG9yCgo=</text>
+        <text encoding="base64">ICAgICAgICBpbWdfd2lkdGgsIGltZ19oZWlnaHQgPSBpbWcuc2l6ZQogICAgICAgIGJveGVzID0gc2VsZi5fbHN0X2JveGVzW2lkeF0KICAgICAgICBib3hfc291cmNlLCBib3hfdGFyZ2V0LCBsYWJlbCA9IHNlbGYuX2JveF9zYW1wbGVyKGJveGVzKQogICAgICAgIGJveF9zb3VyY2UsIGJveF90YXJnZXQgPSBcCiAgICAgICAgICAgIFtzZWxmLl9ib3hfc2hpZnRlcihiLCBpbWdfaGVpZ2h0LCBpbWdfd2lkdGgpCiAgICAgICAgICAgICBmb3IgYiBpbiAoYm94X3NvdXJjZSwgYm94X3RhcmdldCldCiAgICAgICAgaW1nX3NvdXJjZSwgaW1nX3RhcmdldCA9IFwKICAgICAgICAgICAgW2Nyb3BfaW1nKGltZywgYikgZm9yIGIgaW4gW2JveF9zb3VyY2UsIGJveF90YXJnZXRdXQogICAgICAgIGltZ19zb3VyY2UsIGltZ190YXJnZXQgPSBcCiAgICAgICAgICAgIFtzZWxmLl90cmFuc2Zvcm1zKGltZ18pIGZvciBpbWdfIGluIChpbWdfc291cmNlLCBpbWdfdGFyZ2V0KV0KICAgICAgICByZXR1cm4gaW1nX3NvdXJjZSwgaW1nX3RhcmdldCwgbGFiZWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJveF9mb3JtYXQgPSAneHl3aCcK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhbm5vIGFuZCAia2V5cG9pbnRzIiBpbiBhbm5vWzBdOgogICAgICAgICAgICBrZXlwb2ludHMgPSBbb2JqWyJrZXlwb2ludHMiXSBmb3Igb2JqIGluIGFubm9dCiAgICAgICAgICAgIGtleXBvaW50cyA9IFBlcnNvbktleXBvaW50cyhrZXlwb2ludHMsIGltZy5zaXplKQogICAgICAgICAgICB0YXJnZXQuYWRkX2ZpZWxkKCJrZXlwb2ludHMiLCBrZXlwb2ludHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInh5d2giXS4gRGVmYXVsdCBpcyAieHl4eSIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXNrcyA9IFtvYmpbInNlZ21lbnRhdGlvbiJdIGZvciBvYmogaW4gYW5ub10KICAgICAgICBtYXNrcyA9IFNlZ21lbnRhdGlvbk1hc2sobWFza3MsIGltZy5zaXplLCBtb2RlPSdwb2x5JykKICAgICAgICB0YXJnZXQuYWRkX2ZpZWxkKCJtYXNrcyIsIG1hc2tzKQo=</text>
+        <text encoding="base64">ICAgICAgICBib3hfZm9ybWF0IChzdHIpOiBGb3JtYXQgb2YgYm91bmRpbmctYm94LiBZb3UgY2FuIGNob3NlIGZyb20gWyJ4eXh5IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMga2V5cG9pbnRzIHRhc2sgaGF2ZSBhIHNsaWdodCBkaWZmZXJlbnQgY3JpdGVyYSBmb3IgY29uc2lkZXJpbmcKICAgICMgaWYgYW4gYW5ub3RhdGlvbiBpcyB2YWxpZAogICAgaWYgImtleXBvaW50cyIgbm90IGluIGFubm9bMF06CiAgICAgICAgcmV0dXJuIFRydWUKICAgICMgZm9yIGtleXBvaW50IGRldGVjdGlvbiB0YXNrcywgb25seSBjb25zaWRlciB2YWxpZCBpbWFnZXMgdGhvc2UKICAgICMgY29udGFpbmluZyBhdCBsZWFzdCBtaW5fa2V5cG9pbnRzX3Blcl9pbWFnZQogICAgaWYgX2NvdW50X3Zpc2libGVfa2V5cG9pbnRzKGFubm8pID49IG1pbl9rZXlwb2ludHNfcGVyX2ltYWdlOgogICAgICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdW0oc3VtKDEgZm9yIHYgaW4gYW5uWyJrZXlwb2ludHMiXVsyOjozXSBpZiB2ID4gMCkgZm9yIGFubiBpbiBhbm5vKQo=</text>
+        <text encoding="base64">ICAgICAgICBib3hlcyA9IHNlbGYuX2xzdF9ib3hlc1tpZHhdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>key</last-search>
+      <last-search>transform</last-search>
       <last-offset />
-      <last-pattern>key</last-pattern>
+      <last-pattern>transform</last-pattern>
       <last-replace>return 1</last-replace>
       <last-substitute>raise NotImplementedError</last-substitute>
       <last-dir>1</last-dir>
@@ -227,6 +237,7 @@
         <entry>si_sample</entry>
         <entry>is_sample_rois</entry>
         <entry>key</entry>
+        <entry>transform</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
