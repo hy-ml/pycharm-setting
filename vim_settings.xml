@@ -27,6 +27,12 @@
         <mark key="^" line="77" column="64" />
         <mark key="." line="77" column="64" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/__init__.py" timestamp="1555421100070">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="53" />
+        <mark key="^" line="0" column="53" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" timestamp="1555418754164">
         <mark key="'" line="40" column="30" />
         <mark key="[" line="17" column="44" />
@@ -40,16 +46,16 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/support_tools/visualize/visualize_suppression_results.py" timestamp="1555397599945">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/data/__init__.py" timestamp="1554544615033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" timestamp="1555421134295">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/networks/siamesenet.py" timestamp="1555404310230" />
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/model/utils.py" timestamp="1554545193348">
@@ -57,6 +63,18 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/dataset/test_coco_train.py" timestamp="1555420985925">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+        <mark key="^" line="17" column="48" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/__init__.py" timestamp="1555421092257">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
       </file>
       <file name="$USER_HOME$/ws/tensorflow/tensorflow-2.0/semseg_bench_mark/model/utils.py" timestamp="1554542786802">
         <mark key="[" line="12" column="23" />
@@ -72,10 +90,11 @@
         <mark key="^" line="37" column="37" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" timestamp="1555419930183">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" timestamp="1555421073682">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" timestamp="1555397393560">
         <mark key="[" line="57" column="75" />
@@ -171,7 +190,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4K</text>
+        <text encoding="base64">ZnJvbSAudHJhaW4gaW1wb3J0IAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCA=</text>
@@ -183,31 +202,31 @@
         <text encoding="base64">ICAgICAgICBpbWdfd2lkdGgsIGltZ19oZWlnaHQgPSBpbWcuc2l6ZQogICAgICAgIGJveGVzID0gc2VsZi5fbHN0X2JveGVzW2lkeF0KICAgICAgICBib3hfc291cmNlLCBib3hfdGFyZ2V0LCBsYWJlbCA9IHNlbGYuX2JveF9zYW1wbGVyKGJveGVzKQogICAgICAgIGJveF9zb3VyY2UsIGJveF90YXJnZXQgPSBcCiAgICAgICAgICAgIFtzZWxmLl9ib3hfc2hpZnRlcihiLCBpbWdfaGVpZ2h0LCBpbWdfd2lkdGgpCiAgICAgICAgICAgICBmb3IgYiBpbiAoYm94X3NvdXJjZSwgYm94X3RhcmdldCldCiAgICAgICAgaW1nX3NvdXJjZSwgaW1nX3RhcmdldCA9IFwKICAgICAgICAgICAgW2Nyb3BfaW1nKGltZywgYikgZm9yIGIgaW4gW2JveF9zb3VyY2UsIGJveF90YXJnZXRdXQogICAgICAgIGltZ19zb3VyY2UsIGltZ190YXJnZXQgPSBcCiAgICAgICAgICAgIFtzZWxmLl90cmFuc2Zvcm1zKGltZ18pIGZvciBpbWdfIGluIChpbWdfc291cmNlLCBpbWdfdGFyZ2V0KV0KICAgICAgICByZXR1cm4gaW1nX3NvdXJjZSwgaW1nX3RhcmdldCwgbGFiZWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4K</text>
+        <text encoding="base64">ZnJvbSAudHJhaW4gaW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJveF9mb3JtYXQgPSAneHl3aCcK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInh5d2giXS4gRGVmYXVsdCBpcyAieHl4eSIuCg==</text>
+        <text encoding="base64">ZnJvbSAuLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib3hfZm9ybWF0IChzdHIpOiBGb3JtYXQgb2YgYm91bmRpbmctYm94LiBZb3UgY2FuIGNob3NlIGZyb20gWyJ4eXh5IiwK</text>
+        <text encoding="base64">IyBDb3B5cmlnaHQgKGMpIEZhY2Vib29rLCBJbmMuIGFuZCBpdHMgYWZmaWxpYXRlcy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJveF9mb3JtYXQgPSAneHl3aCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInh5d2giXS4gRGVmYXVsdCBpcyAieHl4eSIuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3hlcyA9IHNlbGYuX2xzdF9ib3hlc1tpZHhdCg==</text>
+        <text encoding="base64">ICAgICAgICBib3hfZm9ybWF0IChzdHIpOiBGb3JtYXQgb2YgYm91bmRpbmctYm94LiBZb3UgY2FuIGNob3NlIGZyb20gWyJ4eXh5IiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
