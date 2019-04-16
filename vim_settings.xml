@@ -79,6 +79,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/coco.py" timestamp="1555400105442">
+        <mark key="[" line="100" column="23" />
+        <mark key="]" line="101" column="3" />
+        <mark key="^" line="101" column="3" />
+        <mark key="." line="101" column="3" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/R_101_FPN/not_seen_unseen_class_agnostic_640x480_val_epoch.yaml" timestamp="1554388398598">
         <mark key="[" line="41" column="91" />
         <mark key="]" line="41" column="91" />
