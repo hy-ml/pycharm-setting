@@ -64,7 +64,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="87" column="47" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/networks/siamesenet.py" timestamp="1555404310230" />
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/model/utils.py" timestamp="1554545193348">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -110,13 +109,11 @@
         <mark key="^" line="57" column="79" />
         <mark key="." line="57" column="79" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_build_dataset.py" timestamp="1555429013658">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="24" column="28" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_build_dataset.py" timestamp="1555430729696">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/extractor/vgg.py" timestamp="1555404014866" />
       <file name="$USER_HOME$/ws/tensorflow/tensorflow-2.0/semseg_bench_mark/model/unet.py" timestamp="1554543319876">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="25" column="0" />
@@ -212,8 +209,8 @@
       <jump line="47" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>N</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="-" type="4">
         <text>N</text>
@@ -225,31 +222,31 @@
         <text encoding="base64">ICBUUkFJTjogImFubm90YXRpb25zL3NlZW5fdW5zZWVuL2luc3RhbmNlc19zZWVuMjAxNC5qc29uIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBURVNUOiAiYmJiIgo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib3hfc291cmNlLCBib3hfdGFyZ2V0ID0gW3NlbGYuX2NvbnZlcnRfYm94X2Zvcm1hdChiLCAneHl4eScpIGZvciBiIGluIHNlbGYuX2JveF9zYW1wbGVyKGJveGVzKVwK</text>
+        <text encoding="base64">ICBURVNUOiAiYmJiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib3hfc291cmNlLCBib3hfdGFyZ2V0LCBsYWJlbCA9IHNlbGYuX2JveF9zYW1wbGVyKGJveGVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFt4X21pbl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICBib3hfc291cmNlLCBib3hfdGFyZ2V0ID0gW3NlbGYuX2NvbnZlcnRfYm94X2Zvcm1hdChiLCAneHl4eScpIGZvciBiIGluIHNlbGYuX2JveF9zYW1wbGVyKGJveGVzKVwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICBib3hfc291cmNlLCBib3hfdGFyZ2V0LCBsYWJlbCA9IHNlbGYuX2JveF9zYW1wbGVyKGJveGVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFt4X21pbl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
