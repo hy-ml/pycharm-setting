@@ -27,6 +27,13 @@
         <mark key="^" line="77" column="64" />
         <mark key="." line="77" column="64" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" timestamp="1555418754164">
+        <mark key="'" line="40" column="30" />
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="43" />
+        <mark key="^" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/tutorial_lightning/model/segmentation_model.py" timestamp="1554448451924">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="32" />
@@ -65,6 +72,12 @@
         <mark key="^" line="37" column="37" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" timestamp="1555419009383">
+        <mark key="[" line="46" column="67" />
+        <mark key="]" line="47" column="7" />
+        <mark key="." line="47" column="7" />
+        <mark key="^" line="47" column="7" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" timestamp="1555397393560">
         <mark key="[" line="57" column="75" />
         <mark key="]" line="57" column="79" />
@@ -90,18 +103,24 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" timestamp="1555418565592">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/coco.py" timestamp="1555400105442">
         <mark key="[" line="100" column="23" />
         <mark key="]" line="101" column="3" />
         <mark key="^" line="101" column="3" />
         <mark key="." line="101" column="3" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" timestamp="1555417269796">
-        <mark key="'" line="93" column="29" />
-        <mark key="[" line="99" column="31" />
-        <mark key="]" line="99" column="29" />
-        <mark key="." line="99" column="29" />
-        <mark key="^" line="99" column="29" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" timestamp="1555418191073">
+        <mark key="'" line="84" column="29" />
+        <mark key="[" line="107" column="23" />
+        <mark key="]" line="107" column="30" />
+        <mark key="^" line="107" column="30" />
+        <mark key="." line="107" column="30" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/R_101_FPN/not_seen_unseen_class_agnostic_640x480_val_epoch.yaml" timestamp="1554388398598">
         <mark key="[" line="41" column="91" />
@@ -128,55 +147,66 @@
       <jump line="177" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/support_tools/visualize/visualize_suppression_results.py" />
       <jump line="90" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" />
       <jump line="93" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
+      <jump line="19" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
+      <jump line="7" column="60" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
+      <jump line="76" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
+      <jump line="78" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
+      <jump line="77" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
+      <jump line="24" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
+      <jump line="17" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
+      <jump line="40" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YmxvY2tzCiAgICAgICAgICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>key</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGZyZWV6ZV9wYXJhbXMoZXh0cmFjdG9yLCBmcmVlemVfYmxvY2s9Tm9uZSk6CiAgICAiIiIgRnJlZXplIHBhcmFtZXRlcnMgb2YgbGF5ZXJzIHVwIHRvIGBmcmVlemVfYmxvY2tgCgogICAgQXJnczoKICAgICAgICBleHRyYWN0b3IgKHRvcmNoLm5uLk1vZHVsZSk6IEV4dHJhY3RvciBvZiBWR0cgYnVpbHQgYnkgdG9yY2h2aXNpb24uCiAgICAgICAgZnJlZXplX2Jsb2NrIChpbnQpOiBIb3cgbWFueSBibG9ja3MgdG8gZnJlZXplLgogICAgICAgICAgICBgYmxvY2tgIHJlZmVycyB0byB0aGUgcGFydCBvZiBuZXR3b3JrIGJldHdlZW4gTWF4UG9vbDJkLgogICAgICAgICAgICBpZiBgZnJlZXplX2Jsb2NrYCBpcyBub3Qgc3BlY2lmaWVkIG9yIE5vbmUsIGFsbCBwYXJhbWV0ZXJzIG9mCiAgICAgICAgICAgIGV4dHJhY3RvciBpcyBmcm96ZW4uCgogICAgUmV0dXJuczoKICAgICAgICB0b3JjaC5ubi5Nb2R1bGU6IEV4dHJhY3RvciBmcm96ZW4gcGFyYW1ldGVycy4KCiAgICAiIiIKICAgIG1heF9wb29sX2luZGljZXMgPSBnZXRfbWF4X3Bvb2xfaW5kaWNlcyhleHRyYWN0b3IpCgogICAgaWYgZnJlZXplX2Jsb2NrIGlzIE5vbmU6CiAgICAgICAgZnJlZXplX2luZGV4ID0gbWF4X3Bvb2xfaW5kaWNlc1stMV0KICAgIGVsc2U6CiAgICAgICAgaWYgZnJlZXplX2Jsb2NrID49IGxlbihtYXhfcG9vbF9pbmRpY2VzKToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignYGZyZWV6ZV9pbmRleGAgPiBgbGVuKG1heF9wb29sX2luZGljZXMpYCcpCiAgICAgICAgZnJlZXplX2luZGV4ID0gbWF4X3Bvb2xfaW5kaWNlc1tmcmVlemVfYmxvY2tdCgogICAgZm9yIGksIGxheWVyIGluIGVudW1lcmF0ZShleHRyYWN0b3IubW9kdWxlcygpKToKICAgICAgICBpZiBpID4gZnJlZXplX2luZGV4OgogICAgICAgICAgICBicmVhawoKICAgICAgICBmb3IgcGFyYW0gaW4gbGF5ZXIucGFyYW1ldGVycygpOgogICAgICAgICAgICBwYXJhbS5yZXF1aXJlc19ncmFkID0gRmFsc2UKCiAgICByZXR1cm4gZXh0cmFjdG9yCgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YmxvY2tzCiAgICAgICAgICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICAgICAg</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBhbm5vIGFuZCAia2V5cG9pbnRzIiBpbiBhbm5vWzBdOgogICAgICAgICAgICBrZXlwb2ludHMgPSBbb2JqWyJrZXlwb2ludHMiXSBmb3Igb2JqIGluIGFubm9dCiAgICAgICAgICAgIGtleXBvaW50cyA9IFBlcnNvbktleXBvaW50cyhrZXlwb2ludHMsIGltZy5zaXplKQogICAgICAgICAgICB0YXJnZXQuYWRkX2ZpZWxkKCJrZXlwb2ludHMiLCBrZXlwb2ludHMpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtYXNrcyA9IFtvYmpbInNlZ21lbnRhdGlvbiJdIGZvciBvYmogaW4gYW5ub10KICAgICAgICBtYXNrcyA9IFNlZ21lbnRhdGlvbk1hc2sobWFza3MsIGltZy5zaXplLCBtb2RlPSdwb2x5JykKICAgICAgICB0YXJnZXQuYWRkX2ZpZWxkKCJtYXNrcyIsIG1hc2tzKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMga2V5cG9pbnRzIHRhc2sgaGF2ZSBhIHNsaWdodCBkaWZmZXJlbnQgY3JpdGVyYSBmb3IgY29uc2lkZXJpbmcKICAgICMgaWYgYW4gYW5ub3RhdGlvbiBpcyB2YWxpZAogICAgaWYgImtleXBvaW50cyIgbm90IGluIGFubm9bMF06CiAgICAgICAgcmV0dXJuIFRydWUKICAgICMgZm9yIGtleXBvaW50IGRldGVjdGlvbiB0YXNrcywgb25seSBjb25zaWRlciB2YWxpZCBpbWFnZXMgdGhvc2UKICAgICMgY29udGFpbmluZyBhdCBsZWFzdCBtaW5fa2V5cG9pbnRzX3Blcl9pbWFnZQogICAgaWYgX2NvdW50X3Zpc2libGVfa2V5cG9pbnRzKGFubm8pID49IG1pbl9rZXlwb2ludHNfcGVyX2ltYWdlOgogICAgICAgIHJldHVybiBUcnVlCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5ibG9ja3MgPSBmcmVlemVfYmxvY2soc2VsZi5ibG9ja3MsIGZyZWV6ZV9ibG9jaykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdW0oc3VtKDEgZm9yIHYgaW4gYW5uWyJrZXlwb2ludHMiXVsyOjozXSBpZiB2ID4gMCkgZm9yIGFubiBpbiBhbm5vKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>key</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>key</last-pattern>
       <last-replace>return 1</last-replace>
       <last-substitute>raise NotImplementedError</last-substitute>
       <last-dir>1</last-dir>
@@ -190,6 +220,13 @@
         <entry>pass</entry>
         <entry>raise NotImplementedError</entry>
         <entry>main</entry>
+        <entry>Seg</entry>
+        <entry>Segmenta</entry>
+        <entry>masks</entry>
+        <entry>remove_image</entry>
+        <entry>si_sample</entry>
+        <entry>is_sample_rois</entry>
+        <entry>key</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
