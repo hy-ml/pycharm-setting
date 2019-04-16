@@ -9,11 +9,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/ws/tensorflow/tensorflow-2.0/semseg_bench_mark/model/unet.py" timestamp="1554543319876">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/networks/classification_net.py" timestamp="1555396726846">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" timestamp="1554392940119">
         <mark key="[" line="46" column="70" />
@@ -25,11 +24,6 @@
         <mark key="[" line="12" column="23" />
         <mark key="]" line="14" column="39" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/data/__init__.py" timestamp="1554544615033">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/a/a.py" timestamp="1554449352722">
         <mark key="]" line="202" column="21" />
@@ -48,31 +42,48 @@
         <mark key="." line="10" column="64" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/R_101_FPN/not_seen_unseen_class_agnostic_640x480_val_epoch.yaml" timestamp="1554388398598">
-        <mark key="[" line="41" column="91" />
-        <mark key="]" line="41" column="91" />
-        <mark key="^" line="42" column="93" />
-        <mark key="." line="41" column="91" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1554392986858">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1555395882795">
         <mark key="'" line="53" column="4" />
         <mark key="[" line="77" column="61" />
         <mark key="]" line="77" column="64" />
         <mark key="^" line="77" column="64" />
         <mark key="." line="77" column="64" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" timestamp="1554392369470">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="65" column="30" />
-        <mark key="]" line="65" column="30" />
-        <mark key="." line="65" column="30" />
-        <mark key="^" line="65" column="30" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" timestamp="1555397393560">
+        <mark key="[" line="57" column="75" />
+        <mark key="]" line="57" column="79" />
+        <mark key="^" line="57" column="79" />
+        <mark key="." line="57" column="79" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/tutorial_lightning/model/segmentation_model.py" timestamp="1554448451924">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="32" />
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/support_tools/visualize/visualize_suppression_results.py" timestamp="1555397599945">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/tensorflow/tensorflow-2.0/semseg_bench_mark/model/unet.py" timestamp="1554543319876">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/fc_layers.py" timestamp="1555396282961" />
+      <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/data/__init__.py" timestamp="1554544615033">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/R_101_FPN/not_seen_unseen_class_agnostic_640x480_val_epoch.yaml" timestamp="1554388398598">
+        <mark key="[" line="41" column="91" />
+        <mark key="]" line="41" column="91" />
+        <mark key="^" line="42" column="93" />
+        <mark key="." line="41" column="91" />
       </file>
     </filemarks>
     <jumps>
@@ -83,55 +94,58 @@
       <jump line="50" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
       <jump line="25" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/a/a.py" />
       <jump line="89" column="15" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/a/a.py" />
+      <jump line="146" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/support_tools/visualize/visualize_suppression_results.py" />
+      <jump line="178" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/support_tools/visualize/visualize_suppression_results.py" />
+      <jump line="177" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/support_tools/visualize/visualize_suppression_results.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIHgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>raise NotImplementedError</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRlY29udnMuYXBwZW5kKERlY29udm9sdXRpb24yRChOb25lLCA1MTIsIDIsIDIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsIHgK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeC5jbwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNoYWluZXJjdgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZvciBrLCB2IGluIHJlc3VsdHMuaXRlbXMoKToKICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCiAgICAgICAgcHJpbnQoaykKICAgICAgICBwcmludCh2KQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciBrLCB2IGluIHJlc3VsdHMuaXRlbXMoKToKICAgICAgICBwcmludCgnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCiAgICAgICAgcHJpbnQoaykKICAgICAgICBwcmludCh2KQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBub3RfZGV0ZWN0ZWRfYm94ZXMsIHRvb19kZXRlY3RlZF9ib3hlcyA9IGNvdW50X25vdF9hbmRfdG9vX2RldGVjdGVkKAogICAgICAgICAgICBib3hlc19wcmVkaWN0X2tlZXAsIGJveGVzX2Fubm90KQogICAgICAgIGZvciBib3hfaWQsIGNsYXNzX2lkIGluIGVudW1lcmF0ZShsYWJlbHNfYW5ub3QpOgogICAgICAgICAgICBjb3VudF9ib3hlc1tjbGFzc19pZF0gKz0gMQogICAgICAgICAgICBjb3VudF9ub3RfZGV0ZWN0ZWRfYm94ZXNbY2xhc3NfaWRdICs9IG5vdF9kZXRlY3RlZF9ib3hlc1tib3hfaWRdCiAgICAgICAgICAgIGNvdW50X3Rvb19kZXRlY3RlZF9ib3hlc1tjbGFzc19pZF0gKz0gdG9vX2RldGVjdGVkX2JveGVzW2JveF9pZF0KCiAgICByYXRpb19ub3RfZGV0ZWN0ZWRfZWFjaF9jbGFzcyA9IFwKICAgICAgICBucC5hcnJheShjb3VudF9ub3RfZGV0ZWN0ZWRfYm94ZXMpIC8gbnAuYXJyYXkoY291bnRfYm94ZXMpCiAgICByYXRpb190b29fZGV0ZWN0ZWRfZWFjaF9jbGFzcyA9IFwKICAgICAgICBucC5hcnJheShjb3VudF90b29fZGV0ZWN0ZWRfYm94ZXMpIC8gbnAuYXJyYXkoY291bnRfYm94ZXMpCgogICAgY291bnRfYm94ZXNfc2VlbiA9IG5wLnN1bShucC5hcnJheShjb3VudF9ib3hlc1s6bWF4X3NlZW5fbGFiZWwrMV0pKQogICAgY291bnRfbm90X2RldGVjdGVkX2JveGVzX3NlZW4gPSBucC5zdW0obnAuYXJyYXkoY291bnRfbm90X2RldGVjdGVkX2JveGVzWzptYXhfc2Vlbl9sYWJlbCsxXSkpCiAgICBjb3VudF90b29fZGV0ZWN0ZWRfYm94ZXNfc2VlbiA9IG5wLnN1bShucC5hcnJheShjb3VudF90b29fZGV0ZWN0ZWRfYm94ZXNbOm1heF9zZWVuX2xhYmVsKzFdKSkKICAgIHJhdGlvX25vdF9kZXRlY3RlZF9zZWVuID0gXAogICAgICAgIG5wLmFycmF5KGNvdW50X25vdF9kZXRlY3RlZF9ib3hlc19zZWVuKSAvIG5wLmFycmF5KGNvdW50X2JveGVzX3NlZW4pCiAgICByYXRpb190b29fZGV0ZWN0ZWRfc2VlbiA9IFwKICAgICAgICBucC5hcnJheShjb3VudF90b29fZGV0ZWN0ZWRfYm94ZXNfc2VlbikgLyBucC5hcnJheShjb3VudF9ib3hlc19zZWVuKQoKICAgIGlmIG51bV9jbGFzc2VzID09IG1heF9zZWVuX2xhYmVsOgogICAgICAgIHJhdGlvX25vdF9kZXRlY3RlZF91bnNlZW4gPSAwCiAgICAgICAgcmF0aW9fdG9vX2RldGVjdGVkX3Vuc2VlbiA9IDAKICAgIGVsc2U6CiAgICAgICAgY291bnRfYm94ZXNfdW5zZWVuID0gbnAuc3VtKG5wLmFycmF5KGNvdW50X2JveGVzW21heF9zZWVuX2xhYmVsOl0pKQogICAgICAgIGNvdW50X25vdF9kZXRlY3RlZF9ib3hlc191bnNlZW4gPSBucC5zdW0obnAuYXJyYXkoY291bnRfbm90X2RldGVjdGVkX2JveGVzW21heF9zZWVuX2xhYmVsOl0pKQogICAgICAgIGNvdW50X3Rvb19kZXRlY3RlZF9ib3hlc191bnNlZW4gPSBucC5zdW0obnAuYXJyYXkoY291bnRfdG9vX2RldGVjdGVkX2JveGVzWzptYXhfc2Vlbl9sYWJlbDpdKSkKICAgICAgICByYXRpb19ub3RfZGV0ZWN0ZWRfdW5zZWVuID0gXAogICAgICAgICAgICBucC5hcnJheShjb3VudF9ub3RfZGV0ZWN0ZWRfYm94ZXNfdW5zZWVuKSAvIG5wLmFycmF5KGNvdW50X2JveGVzX3Vuc2VlbikKICAgICAgICByYXRpb190b29fZGV0ZWN0ZWRfdW5zZWVuID0gXAogICAgICAgICAgICBucC5hcnJheShjb3VudF90b29fZGV0ZWN0ZWRfYm94ZXNfdW5zZWVuKSAvIG5wLmFycmF5KGNvdW50X2JveGVzX3Vuc2VlbikKCiAgICByZXN1bHRzID0gZGljdCgKICAgICAgICByYXRpb19ub3RfZGV0ZWN0ZWRfZWFjaF9jbGFzcz1yYXRpb19ub3RfZGV0ZWN0ZWRfZWFjaF9jbGFzcywKICAgICAgICByYXRpb190b29fZGV0ZWN0ZWRfZWFjaF9jbGFzcz1yYXRpb190b29fZGV0ZWN0ZWRfZWFjaF9jbGFzcywKICAgICAgICByYXRpb19ub3RfZGV0ZWN0ZWRfc2Vlbj1yYXRpb19ub3RfZGV0ZWN0ZWRfc2VlbiwKICAgICAgICByYXRpb190b29fZGV0ZWN0ZWRfc2Vlbj1yYXRpb190b29fZGV0ZWN0ZWRfc2VlbiwKICAgICAgICByYXRpb19ub3RfZGV0ZWN0ZWRfdW5zZWVuPXJhdGlvX25vdF9kZXRlY3RlZF91bnNlZW4sCiAgICAgICAgcmF0aW9fdG9vX2RldGVjdGVkX3Vuc2Vlbj1yYXRpb190b29fZGV0ZWN0ZWRfdW5zZWVuLAogICAgKQogICAgcmV0dXJuIHJlc3VsdHMK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYucmlnaHRfYmxvY2sxID0gc2VsZi5fYnVpbGRfY29udl9ibG9jaygoNjQsIDY0KSkKICAgICAgICAjIHNlbGYucmlnaHRfYmxvY2syID0gc2VsZi5fYnVpbGRfY29udl9ibG9jaygoMTI4LCAxMjgpKQogICAgICAgICMgc2VsZi5yaWdodF9ibG9jazMgPSBzZWxmLl9idWlsZF9jb252X2Jsb2NrKCgyNTYsIDI1NikpCiAgICAgICAgIyBzZWxmLnJpZ2h0X2Jsb2NrNCA9IHNlbGYuX2J1aWxkX2NvbnZfYmxvY2soKDUxMiwgNTEyKSkKCiAgICAgICAgIyBzZWxmLmxlZnRfYmxvY2s0ID0gc2VsZi5fYnVpbGRfY29udl9ibG9jaygoNTEyLCA1MTIpKQogICAgICAgICMgc2VsZi5sZWZ0X2Jsb2NrMyA9IHNlbGYuX2J1aWxkX2NvbnZfYmxvY2soKDI1NiwgMjU2KSkKICAgICAgICAjIHNlbGYubGVmdF9ibG9jazIgPSBzZWxmLl9idWlsZF9jb252X2Jsb2NrKCgxMjgsIDEyOCkpCiAgICAgICAgIyBzZWxmLmxlZnRfYmxvY2sxID0gc2VsZi5fYnVpbGRfY29udl9ibG9jaygoNjQsIDY0KSkK</text>
+        <text encoding="base64">ICAgIGNvdW50X2JveGVzID0gWzBdICogbnVtX2NsYXNzZXMKICAgIGNvdW50X25vdF9kZXRlY3RlZF9ib3hlcyA9IFswXSAqIG51bV9jbGFzc2VzCiAgICBjb3VudF90b29fZGV0ZWN0ZWRfYm94ZXMgPSBbMF0gKiBudW1fY2xhc3Nlcwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9IGNoYWluZXIubGlua3MuTWF4b3V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm4uZnVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>raise NotImplementedError</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>raise NotImplementedError</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>return 1</last-replace>
       <last-substitute>raise NotImplementedError</last-substitute>
       <last-dir>1</last-dir>
@@ -144,6 +158,7 @@
         <entry encoding="base64">PA==</entry>
         <entry>pass</entry>
         <entry>raise NotImplementedError</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
