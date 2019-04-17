@@ -155,11 +155,12 @@
         <mark key="^" line="101" column="3" />
         <mark key="." line="101" column="3" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/networks/siamesenet.py" timestamp="1555464226352">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="16" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/networks/siamesenet.py" timestamp="1555464659467">
+        <mark key="'" line="41" column="47" />
+        <mark key="[" line="46" column="29" />
+        <mark key="]" line="46" column="38" />
+        <mark key="." line="46" column="38" />
+        <mark key="^" line="46" column="38" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" timestamp="1555418191073">
         <mark key="'" line="84" column="29" />
@@ -217,46 +218,47 @@
       <jump line="68" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
       <jump line="21" column="52" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
       <jump line="47" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
+      <jump line="41" column="47" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/networks/siamesenet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gdG9yY2guCg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>transform</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGJ1aWxkX2ZjX2xheWVycyhsc3RfZmNfZGltKToKICAgIGxzdF9tb2R1bGVzID0gW10KICAgIGZvciBpIGluIHJhbmdlKGxlbihsc3RfZmNfZGltKS0yKToKICAgICAgICBsc3RfbW9kdWxlcyArPSBbCiAgICAgICAgICAgIG5uLkxpbmVhcihsc3RfZmNfZGltW2ldLCBsc3RfZmNfZGltW2krMV0pLAogICAgICAgICAgICBubi5SZUxVKFRydWUpLAogICAgICAgICAgICBubi5Ecm9wb3V0KCldCiAgICBsc3RfbW9kdWxlcyArPSBbbm4uTGluZWFyKGxzdF9mY19kaW1bLTJdLCBsc3RfZmNfZGltWy0xXSldCgogICAgY2xhc3NpZmllciA9IG5uLlNlcXVlbnRpYWwoKmxzdF9tb2R1bGVzKQogICAgcmV0dXJuIGNsYXNzaWZpZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IHRvcmNoLmNhdCh4X2xpc3QgKyBhZGRpdGlvbmFsX2ZldHVyZXMsIGRpbT0tMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gdG9yY2guCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHkxLCB5Mgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNzaWZpZXIgPSBjbGFzc2lmaWVyCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBhZGRpdGlvbmFsX2ZldHVyZXMgaXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBhZGRpdGlvbmFsX2ZldHVyZXMgaXMgbm90IE5vbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB4ID0gdG9yY2guCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNzaWZpZXIgPSBjbGFzc2lmaWVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBURVNUOiAiYmJiIgo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3hfc291cmNlLCBib3hfdGFyZ2V0ID0gW3NlbGYuX2NvbnZlcnRfYm94X2Zvcm1hdChiLCAneHl4eScpIGZvciBiIGluIHNlbGYuX2JveF9zYW1wbGVyKGJveGVzKVwK</text>
+        <text encoding="base64">ICBURVNUOiAiYmJiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
