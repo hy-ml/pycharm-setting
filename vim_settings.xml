@@ -23,6 +23,12 @@
         <mark key="]" line="15" column="42" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/dataset/coco/tools/split_train_val.py" timestamp="1555567167697">
+        <mark key="[" line="92" column="27" />
+        <mark key="]" line="92" column="26" />
+        <mark key="." line="92" column="26" />
+        <mark key="^" line="92" column="26" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1555395882795">
         <mark key="'" line="53" column="4" />
         <mark key="[" line="77" column="61" />
@@ -240,34 +246,34 @@
         <text>transform</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9IHRvcmNoLmNhdCh4X2xpc3QgKyBhZGRpdGlvbmFsX2ZldHVyZXMsIGRpbT0tMSkK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ291dHBhdGhfdHJhaW4nLCB0eXBlPXN0ciwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nUGF0aCB0byB0aGUgb3V0cHV0IGRpcmVjdG9yeS4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmlsZV9uYW1lX3RyYWluID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQpwYXJzZXIuYWRkX2FyZ3VtZW50KCd0cmFpbicsIHR5cGU9c3RyLAogICAgICAgICAgICAgICAgICAgIGhlbHA9J1BhdGggdG8gdGhlICcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHkxLCB5Mgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhZGRpdGlvbmFsX2ZldHVyZXMgaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhZGRpdGlvbmFsX2ZldHVyZXMgaXMgbm90IE5vbmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gdG9yY2guCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNzaWZpZXIgPSBjbGFzc2lmaWVyCg==</text>
+        <text encoding="base64">ICAgIGFubgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
