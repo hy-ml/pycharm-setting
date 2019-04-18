@@ -23,11 +23,11 @@
         <mark key="]" line="15" column="42" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/tools/split_train_val.py" timestamp="1555573815337">
-        <mark key="[" line="99" column="30" />
-        <mark key="]" line="99" column="33" />
-        <mark key="." line="99" column="33" />
-        <mark key="^" line="99" column="33" />
+      <file name="$USER_HOME$/dataset/coco/tools/split_train_val.py" timestamp="1555574586650">
+        <mark key="[" line="44" column="60" />
+        <mark key="]" line="44" column="60" />
+        <mark key="." line="44" column="60" />
+        <mark key="^" line="44" column="60" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1555395882795">
         <mark key="'" line="53" column="4" />
@@ -236,11 +236,11 @@
       <jump line="41" column="47" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/networks/siamesenet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>transform</text>
