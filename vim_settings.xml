@@ -55,6 +55,12 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1555603797274">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="35" />
+        <mark key="^" line="31" column="35" />
+        <mark key="." line="31" column="35" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/classification_net/vgg_bn.yaml" timestamp="1555430479782">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="44" />
@@ -177,12 +183,16 @@
         <mark key="." line="46" column="38" />
         <mark key="^" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" timestamp="1555418191073">
-        <mark key="'" line="84" column="29" />
-        <mark key="[" line="107" column="23" />
-        <mark key="]" line="107" column="30" />
-        <mark key="^" line="107" column="30" />
-        <mark key="." line="107" column="30" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1555604570011">
+        <mark key="[" line="115" column="27" />
+        <mark key="]" line="115" column="27" />
+        <mark key="." line="115" column="27" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" timestamp="1555603710159">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/R_101_FPN/not_seen_unseen_class_agnostic_640x480_val_epoch.yaml" timestamp="1554388398598">
         <mark key="[" line="41" column="91" />
@@ -194,6 +204,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="21" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/build.py" timestamp="1555603880826">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="54" />
+        <mark key="^" line="23" column="54" />
+        <mark key="." line="23" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -234,55 +250,56 @@
       <jump line="21" column="52" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
       <jump line="47" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
       <jump line="41" column="47" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/networks/siamesenet.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>transform</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdzdGFydCBzcGxpdCB0cmFpbicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gIlRoZSBkaXJlY3RvcnkgYHt9YCBleGlzdHMuIElmIHlvdSB3YW50IHRvIG92ZXJ3cml0ZSwiIFwKICAgICAgICAgICAgICAgICAgInNwZWNpZnkgYXJncy5vdmVyd3JpdGUgaWYgVHJ1ZS4iLmZvcm1hdChjZmcuU0FWRV9ESVIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdUZXN0aW5nIHNwbGl0LicpCiAgICB0ZXN0X3NwbGl0KGFubm90LCBhbm5vdF90cmFpbiwgYW5ub3RfdmFsKQogICAgcHJpbnQoJ1N1Y2Nlc3MgdGVzdC4nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gIlRoZSBkaXJlY3RvcnkgYHt9YCBleGlzdHMuIElmIHlvdSB3YW50IHRvIG92ZXJ3cml0ZSwgc3BlY2lmeSBhcmdzLm92ZXJ3cml0ZSBpZiBUcnVlLiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iUGF0aCB0byB0aGUgY2FjaGUgZmlsZS4iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoImNhY2hlX2ZpbGUiLCB0eXBlPXN0ciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCB0aW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBudW1iYSBpbXBvcnQgaml0Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdUZXN0aW5nIHNwbGl0LicpCiAgICB0ZXN0X3NwbGl0KGFubm90LCBhbm5vdF90cmFpbiwgYW5ub3RfdmFsKQogICAgcHJpbnQoJ1N1Y2Nlc3MgdGVzdC4nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGppdAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>transform</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>transform</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>return 1</last-replace>
       <last-substitute>raise NotImplementedError</last-substitute>
       <last-dir>1</last-dir>
@@ -306,6 +323,9 @@
         <entry>cache</entry>
         <entry>build_dataset</entry>
         <entry>transform</entry>
+        <entry>buid_ex</entry>
+        <entry>buid</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
@@ -322,6 +342,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
