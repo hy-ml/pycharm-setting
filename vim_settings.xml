@@ -23,11 +23,11 @@
         <mark key="]" line="15" column="42" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/tools/split_train_val.py" timestamp="1555573094702">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="101" column="7" />
+      <file name="$USER_HOME$/dataset/coco/tools/split_train_val.py" timestamp="1555573815337">
+        <mark key="[" line="99" column="30" />
+        <mark key="]" line="99" column="33" />
+        <mark key="." line="99" column="33" />
+        <mark key="^" line="99" column="33" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1555395882795">
         <mark key="'" line="53" column="4" />
