@@ -23,11 +23,11 @@
         <mark key="]" line="15" column="42" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/tools/split_train_val.py" timestamp="1555567167697">
-        <mark key="[" line="92" column="27" />
-        <mark key="]" line="92" column="26" />
-        <mark key="." line="92" column="26" />
-        <mark key="^" line="92" column="26" />
+      <file name="$USER_HOME$/dataset/coco/tools/split_train_val.py" timestamp="1555571511019">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="3" />
+        <mark key="." line="44" column="3" />
+        <mark key="^" line="44" column="3" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1555395882795">
         <mark key="'" line="53" column="4" />
@@ -236,8 +236,8 @@
       <jump line="41" column="47" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/networks/siamesenet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -246,34 +246,34 @@
         <text>transform</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ291dHBhdGhfdHJhaW4nLCB0eXBlPXN0ciwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nUGF0aCB0byB0aGUgb3V0cHV0IGRpcmVjdG9yeS4nKQo=</text>
+        <text encoding="base64">ICAgIGZvciB2IGluIGFubm90WydpbWFnZXMnXToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmlsZV9uYW1lX3RyYWluID0gCg==</text>
+        <text encoding="base64">ZnJvbSBudW1iYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2EnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpICUgMTAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFubgo=</text>
+        <text encoding="base64">ZmlsZV9uYW1lX3RyYWluID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
