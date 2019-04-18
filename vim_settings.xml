@@ -9,6 +9,9 @@
         <mark key="." line="46" column="79" />
         <mark key="^" line="46" column="79" />
       </file>
+      <file name="/a.dummy" timestamp="1555559835444">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/additional_method_config/greedy.py" timestamp="1554389894819">
         <mark key="[" line="10" column="63" />
         <mark key="]" line="10" column="64" />
@@ -93,6 +96,12 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/mlp/fc_layers.py" timestamp="1555431790536">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/dataset/coco/tools/make_categories_each_img_id.py" timestamp="1555559781493">
+        <mark key="[" line="1" column="54" />
+        <mark key="]" line="1" column="71" />
+        <mark key="." line="1" column="71" />
+        <mark key="^" line="1" column="71" />
       </file>
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/model/unet.py" timestamp="1554547487152">
         <mark key="[" line="40" column="0" />
@@ -222,10 +231,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>transform</text>
@@ -234,31 +243,31 @@
         <text encoding="base64">ICAgICAgICAgICAgeCA9IHRvcmNoLmNhdCh4X2xpc3QgKyBhZGRpdGlvbmFsX2ZldHVyZXMsIGRpbT0tMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHkxLCB5Mgo=</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhZGRpdGlvbmFsX2ZldHVyZXMgaXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhZGRpdGlvbmFsX2ZldHVyZXMgaXMgbm90IE5vbmUK</text>
+        <text encoding="base64">cGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQpwYXJzZXIuYWRkX2FyZ3VtZW50KCd0cmFpbicsIHR5cGU9c3RyLAogICAgICAgICAgICAgICAgICAgIGhlbHA9J1BhdGggdG8gdGhlICcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gdG9yY2guCg==</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNzaWZpZXIgPSBjbGFzc2lmaWVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHkxLCB5Mgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBhZGRpdGlvbmFsX2ZldHVyZXMgaXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBhZGRpdGlvbmFsX2ZldHVyZXMgaXMgbm90IE5vbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICB4ID0gdG9yY2guCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBURVNUOiAiYmJiIgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNsYXNzaWZpZXIgPSBjbGFzc2lmaWVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
