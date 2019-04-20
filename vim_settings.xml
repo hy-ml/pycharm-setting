@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1555777150587">
-        <mark key="'" line="6" column="2" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1555777792342">
+        <mark key="'" line="9" column="67" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/datasets/evaluate/movie_dataset.py" timestamp="1554392940119">
         <mark key="[" line="46" column="70" />
@@ -12,11 +12,18 @@
         <mark key="." line="46" column="79" />
         <mark key="^" line="46" column="79" />
       </file>
-      <file name="/a.dummy" timestamp="1555559835444">
+      <file name="/a.dummy" timestamp="1555777736300">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" timestamp="1555776833769">
         <mark key="'" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/cosine_similarity_margin_loss.py" timestamp="1555777661680">
+        <mark key="'" line="4" column="27" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="31" column="30" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" timestamp="1555418754164">
         <mark key="'" line="40" column="30" />
@@ -31,7 +38,7 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1555777156767">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1555777797931">
         <mark key="'" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/model/utils.py" timestamp="1554545193348">
@@ -40,14 +47,20 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="17" column="33" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/build.py" timestamp="1555777752935">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/__init__.py" timestamp="1555421092257">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="2" column="33" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" timestamp="1555777166764">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" timestamp="1555777805850">
+        <mark key="'" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/dataset/coco/tools/make_categories_each_img_id.py" timestamp="1555559781493">
         <mark key="[" line="1" column="54" />
@@ -80,8 +93,8 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555777172244">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555777810253">
+        <mark key="'" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1555605338051">
         <mark key="[" line="86" column="71" />
@@ -196,15 +209,15 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" timestamp="1555777144395">
-        <mark key="'" line="6" column="28" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" timestamp="1555777784397">
+        <mark key="'" line="6" column="2" />
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg.yaml" timestamp="1555777137381">
-        <mark key="'" line="5" column="28" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg.yaml" timestamp="1555777776485">
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
@@ -228,12 +241,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="43" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" timestamp="1555603710159">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/R_101_FPN/not_seen_unseen_class_agnostic_640x480_val_epoch.yaml" timestamp="1554388398598">
         <mark key="[" line="41" column="91" />
@@ -296,70 +303,72 @@
       <jump line="11" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" />
       <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" />
       <jump line="11" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" />
-      <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" />
       <jump line="5" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg.yaml" />
-      <jump line="6" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" />
       <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" />
-      <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" />
-      <jump line="10" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" />
       <jump line="10" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" />
+      <jump line="4" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/cosine_similarity_margin_loss.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg.yaml" />
+      <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" />
+      <jump line="9" column="67" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" />
+      <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" />
+      <jump line="10" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" />
+      <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb3NzID0gTDFOb3JtTG9zcyhjZmcuTU9ERUwuTDFOT1JNX0xPU1NfTUFSR0lOKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>CosineSimilarityLoss</text>
+        <text>Margin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBFWFRSQUNUT1JfRlJFRVpFX0lORElDRVM6IFswLCAxLCAyLCAzLCA0XQo=</text>
+        <text encoding="base64">ICAgIGVsaWYgY2ZnLk1PREVMLkxPU1MgPT0gJ0wxTm9ybUxvc3MnOgogICAgICAgIGxvc3MgPSBMMU5vcm1Mb3NzKGNmZy5NT0RFTC5MMU5PUk1fTE9TU19NQVJHSU4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1aWwK</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gTDFOb3JtTG9zcyhjZmcuTU9ERUwuTDFOT1JNX0xPU1NfTUFSR0lOKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gIlRoZSBkaXJlY3RvcnkgYHt9YCBleGlzdHMuIElmIHlvdSB3YW50IHRvIG92ZXJ3cml0ZSwgc3BlY2lmeSBhcmdzLm92ZXJ3cml0ZSBpZiBUcnVlLiIK</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2UgPSBkaXN0YW5jZS5kZXZpY2UudHlwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iUGF0aCB0byB0aGUgY2FjaGUgZmlsZS4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9zcyA9IC0xICogKGRpc3RhbmNlICsgMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoImNhY2hlX2ZpbGUiLCB0eXBlPXN0ciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgbGFiZWwudHlwZV9hcyhkaXN0YW5jZSkgKiB0b3JjaC5tYXgodG9yY2guemVyb3MoMSkudG8oZGV2aWNlKSwgdG9yY2guc3ViKHNlbGYubWFyZ2luLCBkaXN0YW5jZSkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkCg==</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gdG9yY2gubWVhbigoMSAtIGxhYmVsLnR5cGVfYXMoZGlzdGFuY2UpKSAqIGRpc3RhbmNlICsgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBBcmdzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luIChmbG9hdCk6IE1hcmdpbi4gRGVmYXVsdCBpcyAxLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdUZXN0aW5nIHNwbGl0LicpCiAgICB0ZXN0X3NwbGl0KGFubm90LCBhbm5vdF90cmFpbiwgYW5ub3RfdmFsKQogICAgcHJpbnQoJ1N1Y2Nlc3MgdGVzdC4nKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1hcmdpbiA9IG1hcmdpbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCcnKQo=</text>
+        <text encoding="base64">ICAgIGJ1aWwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>CosineSimilarityLoss</last-search>
+      <last-search>Margin</last-search>
       <last-offset />
-      <last-pattern>CosineSimilarityLoss</last-pattern>
-      <last-replace>CosineSimilarityMarginLoss</last-replace>
-      <last-substitute>CosineSimilarityLoss</last-substitute>
+      <last-pattern>Margin</last-pattern>
+      <last-replace />
+      <last-substitute>Margin</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pass</entry>
         <entry>raise NotImplementedError</entry>
         <entry>main</entry>
         <entry>Seg</entry>
@@ -379,6 +388,7 @@
         <entry>L1Norm</entry>
         <entry>l1_norm</entry>
         <entry>CosineSimilarityLoss</entry>
+        <entry>Margin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
@@ -389,8 +399,9 @@
         <entry>%s/vgg/l1_norm\/vgg/g</entry>
         <entry>%s/L1Norm/CosineSimilarity/g</entry>
         <entry>%s/l1_norm/cosine_similarity/g</entry>
-        <entry>w</entry>
         <entry>%s/CosineSimilarityLoss/CosineSimilarityMarginLoss/g</entry>
+        <entry>w</entry>
+        <entry>%s/Margin//g</entry>
         <entry>wq</entry>
       </history-cmd>
       <history-expr />
