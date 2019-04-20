@@ -41,6 +41,12 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1555777797931">
         <mark key="'" line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/metric/metric.py" timestamp="1555789979435">
+        <mark key="[" line="103" column="39" />
+        <mark key="]" line="103" column="54" />
+        <mark key="^" line="103" column="54" />
+        <mark key="." line="103" column="54" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/model/utils.py" timestamp="1554545193348">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -52,6 +58,12 @@
         <mark key="]" line="24" column="35" />
         <mark key="." line="24" column="35" />
         <mark key="^" line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/cosine_similarity_loss.py" timestamp="1555789576763">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="54" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/__init__.py" timestamp="1555421092257">
         <mark key="[" line="1" column="44" />
@@ -316,7 +328,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gTDFOb3JtTG9zcyhjZmcuTU9ERUwuTDFOT1JNX0xPU1NfTUFSR0lOKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDA6Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -325,37 +337,37 @@
         <text>Margin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2ZnLk1PREVMLkxPU1MgPT0gJ0wxTm9ybUxvc3MnOgogICAgICAgIGxvc3MgPSBMMU5vcm1Mb3NzKGNmZy5NT0RFTC5MMU5PUk1fTE9TU19NQVJHSU4pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYWJlbC50bygnY3B1JykubnVtcHkoKVswXSA9PSAxOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gTDFOb3JtTG9zcyhjZmcuTU9ERUwuTDFOT1JNX0xPU1NfTUFSR0lOKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDA6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2UgPSBkaXN0YW5jZS5kZXZpY2UudHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAxOgogICAgICAgICAgICBsb3NzID0gMSAtIGRpc3RhbmNlCiAgICAgICAgZWxpZiBsYWJlbCA9PSAtMToKICAgICAgICAgICAgbG9zcyA9IDEgKyBkaXN0YW5jZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9zcyA9IC0xICogKGRpc3RhbmNlICsgMSkK</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gTDFOb3JtTG9zcyhjZmcuTU9ERUwuTDFOT1JNX0xPU1NfTUFSR0lOKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbGFiZWwudHlwZV9hcyhkaXN0YW5jZSkgKiB0b3JjaC5tYXgodG9yY2guemVyb3MoMSkudG8oZGV2aWNlKSwgdG9yY2guc3ViKHNlbGYubWFyZ2luLCBkaXN0YW5jZSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2UgPSBkaXN0YW5jZS5kZXZpY2UudHlwZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gdG9yY2gubWVhbigoMSAtIGxhYmVsLnR5cGVfYXMoZGlzdGFuY2UpKSAqIGRpc3RhbmNlICsgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9zcyA9IC0xICogKGRpc3RhbmNlICsgMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBcmdzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgbGFiZWwudHlwZV9hcyhkaXN0YW5jZSkgKiB0b3JjaC5tYXgodG9yY2guemVyb3MoMSkudG8oZGV2aWNlKSwgdG9yY2guc3ViKHNlbGYubWFyZ2luLCBkaXN0YW5jZSkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luIChmbG9hdCk6IE1hcmdpbi4gRGVmYXVsdCBpcyAxLgo=</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gdG9yY2gubWVhbigoMSAtIGxhYmVsLnR5cGVfYXMoZGlzdGFuY2UpKSAqIGRpc3RhbmNlICsgXAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1hcmdpbiA9IG1hcmdpbgo=</text>
+        <text encoding="base64">ICAgICAgICBBcmdzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJ1aWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luIChmbG9hdCk6IE1hcmdpbi4gRGVmYXVsdCBpcyAxLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -400,9 +412,9 @@
         <entry>%s/L1Norm/CosineSimilarity/g</entry>
         <entry>%s/l1_norm/cosine_similarity/g</entry>
         <entry>%s/CosineSimilarityLoss/CosineSimilarityMarginLoss/g</entry>
-        <entry>w</entry>
         <entry>%s/Margin//g</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
