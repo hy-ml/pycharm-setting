@@ -61,12 +61,6 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1555608714691">
-        <mark key="[" line="44" column="26" />
-        <mark key="]" line="44" column="26" />
-        <mark key="^" line="44" column="26" />
-        <mark key="." line="44" column="26" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/classification_net/vgg_bn.yaml" timestamp="1555430479782">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="44" />
@@ -79,7 +73,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" timestamp="1555605989352">
-        <mark key="'" line="80" column="14" />
         <mark key="[" line="38" column="57" />
         <mark key="]" line="38" column="59" />
         <mark key="." line="38" column="59" />
@@ -89,7 +82,7 @@
         <mark key="[" line="7" column="89" />
         <mark key="]" line="7" column="89" />
         <mark key="." line="7" column="89" />
-        <mark key="^" line="9" column="85" />
+        <mark key="^" line="7" column="85" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" timestamp="1555608643538">
         <mark key="[" line="2" column="29" />
@@ -208,10 +201,10 @@
         <mark key="^" line="46" column="38" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1555605338051">
-        <mark key="[" line="85" column="71" />
-        <mark key="]" line="85" column="71" />
-        <mark key="." line="85" column="71" />
-        <mark key="^" line="85" column="71" />
+        <mark key="[" line="86" column="71" />
+        <mark key="]" line="86" column="71" />
+        <mark key="." line="86" column="71" />
+        <mark key="^" line="86" column="71" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1555608659350">
         <mark key="[" line="3" column="0" />
