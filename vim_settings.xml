@@ -15,6 +15,11 @@
       <file name="/a.dummy" timestamp="1555777736300">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/build.py" timestamp="1555404562054">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" timestamp="1555776833769">
         <mark key="'" line="11" column="0" />
       </file>
@@ -38,6 +43,11 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1555790605473">
+        <mark key="[" line="45" column="19" />
+        <mark key="]" line="45" column="19" />
+        <mark key="." line="45" column="19" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1555777797931">
         <mark key="'" line="6" column="2" />
       </file>
@@ -46,6 +56,11 @@
         <mark key="]" line="103" column="54" />
         <mark key="^" line="103" column="54" />
         <mark key="." line="103" column="54" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/data/__init__.py" timestamp="1554544615033">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/model/utils.py" timestamp="1554545193348">
         <mark key="[" line="1" column="0" />
@@ -73,6 +88,11 @@
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" timestamp="1555777805850">
         <mark key="'" line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/ws/tensorflow/tensorflow-2.0/semseg_bench_mark/model/utils.py" timestamp="1554542786802">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dataset/coco/tools/make_categories_each_img_id.py" timestamp="1555559781493">
         <mark key="[" line="1" column="54" />
@@ -109,10 +129,10 @@
         <mark key="'" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1555605338051">
-        <mark key="[" line="86" column="71" />
-        <mark key="]" line="86" column="71" />
-        <mark key="." line="86" column="71" />
-        <mark key="^" line="86" column="71" />
+        <mark key="[" line="85" column="71" />
+        <mark key="]" line="85" column="71" />
+        <mark key="." line="85" column="71" />
+        <mark key="^" line="85" column="71" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/build.py" timestamp="1555603880826">
         <mark key="[" line="23" column="12" />
@@ -215,6 +235,11 @@
         <mark key="^" line="57" column="79" />
         <mark key="." line="57" column="79" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_build_dataset.py" timestamp="1555486960126">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/tensorflow/tensorflow-2.0/semseg_bench_mark/model/unet.py" timestamp="1554543319876">
         <mark key="[" line="22" column="22" />
         <mark key="]" line="25" column="0" />
@@ -259,6 +284,11 @@
         <mark key="]" line="41" column="91" />
         <mark key="^" line="42" column="93" />
         <mark key="." line="41" column="91" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/utils.py" timestamp="1555404009180">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -327,11 +357,11 @@
       <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDA6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Margin</text>
