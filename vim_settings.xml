@@ -171,6 +171,12 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" timestamp="1555852249294">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="5" />
+        <mark key="." line="19" column="5" />
+        <mark key="^" line="19" column="5" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/classification_net/vgg_bn.yaml" timestamp="1555430479782">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="44" />
@@ -355,55 +361,64 @@
       <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" />
       <jump line="10" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" />
       <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" />
+      <jump line="3" column="31" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" />
+      <jump line="38" column="15" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" />
+      <jump line="4" column="4" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" />
+      <jump line="10" column="19" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" />
+      <jump line="16" column="23" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" />
+      <jump line="34" column="20" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" />
+      <jump line="37" column="28" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" />
+      <jump line="19" column="34" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>Margin</text>
+        <text>wname</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiBsYWJlbC50bygnY3B1JykubnVtcHkoKVswXSA9PSAxOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDA6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAxOgogICAgICAgICAgICBsb3NzID0gMSAtIGRpc3RhbmNlCiAgICAgICAgZWxpZiBsYWJlbCA9PSAtMToKICAgICAgICAgICAgbG9zcyA9IDEgKyBkaXN0YW5jZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gTDFOb3JtTG9zcyhjZmcuTU9ERUwuTDFOT1JNX0xPU1NfTUFSR0lOKQo=</text>
+        <text encoding="base64">ICAgIGlmIGV2ZW50ID09IGN2Mi5FVkVOVF9SQlVUVE9OREJMQ0xLOgogICAgICAgIHByaW50KCdkb3VibGUgcmlnaHQgY2xpY2snKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2UgPSBkaXN0YW5jZS5kZXZpY2UudHlwZQo=</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9zcyA9IC0xICogKGRpc3RhbmNlICsgMSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwdGxpc3QuYWRkKHgsIHkpOgogICAgICAgICAgICBwcmludCgnWyVkXSAoICVkLCAlZCApJyAlIChwdGxpc3QucG9zIC0gMSwgeCwgeSkpCiAgICAgICAgICAgIGN2Mi5jaXJjbGUoaW1nLCAoeCwgeSksIDMsICgwLCAwLCAyNTUpLCAzKQogICAgICAgICAgICBjdjIuaW1zaG93KHduYW1lLCBpbWcpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQoJ0FsbCBwb2ludHMgaGF2ZSBzZWxlY3RlZC4gIFByZXNzIEVTQy1rZXkuJykKICAgICAgICBpZihwdGxpc3QucG9zID09IHB0bGlzdC5ucG9pbnRzKToKICAgICAgICAgICAgcHJpbnQocHRsaXN0LnB0bGlzdCkKICAgICAgICAgICAgY3YyLmxpbmUoaW1nLCAocHRsaXN0LnB0bGlzdFswXVswXSwgcHRsaXN0LnB0bGlzdFswXVsxXSksCiAgICAgICAgICAgICAgICAgICAgIChwdGxpc3QucHRsaXN0WzFdWzBdLCBwdGxpc3QucHRsaXN0WzFdWzFdKSwgKDAsIDI1NSwgMCksIDMpCiAgICAgICAgICAgIGN2Mi5saW5lKGltZywgKHB0bGlzdC5wdGxpc3RbMV1bMF0sIHB0bGlzdC5wdGxpc3RbMV1bMV0pLAogICAgICAgICAgICAgICAgICAgICAocHRsaXN0LnB0bGlzdFsyXVswXSwgcHRsaXN0LnB0bGlzdFsyXVsxXSksICgwLCAyNTUsIDApLCAzKQogICAgICAgICAgICBjdjIubGluZShpbWcsIChwdGxpc3QucHRsaXN0WzJdWzBdLCBwdGxpc3QucHRsaXN0WzJdWzFdKSwKICAgICAgICAgICAgICAgICAgICAgKHB0bGlzdC5wdGxpc3RbM11bMF0sIHB0bGlzdC5wdGxpc3RbM11bMV0pLCAoMCwgMjU1LCAwKSwgMykKICAgICAgICAgICAgY3YyLmxpbmUoaW1nLCAocHRsaXN0LnB0bGlzdFszXVswXSwgcHRsaXN0LnB0bGlzdFszXVsxXSksCiAgICAgICAgICAgICAgICAgICAgIChwdGxpc3QucHRsaXN0WzBdWzBdLCBwdGxpc3QucHRsaXN0WzBdWzFdKSwgKDAsIDI1NSwgMCksIDMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbGFiZWwudHlwZV9hcyhkaXN0YW5jZSkgKiB0b3JjaC5tYXgodG9yY2guemVyb3MoMSkudG8oZGV2aWNlKSwgdG9yY2guc3ViKHNlbGYubWFyZ2luLCBkaXN0YW5jZSkpKQo=</text>
+        <text encoding="base64">ICAgIGlmIGV2ZW50ID09IGN2Mi5FVkVOVF9NT1VTRU1PVkU6ICAjIOODnuOCpuOCueOBjOenu+WLleOBl+OBn+OBqOOBjeOBq3jnt5rjgah557ea44KS5pu05paw44GZ44KLCiAgICAgICAgaW1nMiA9IG5wLmNvcHkoaW1nKQogICAgICAgIGgsIHcgPSBpbWcyLnNoYXBlWzBdLCBpbWcyLnNoYXBlWzFdCiAgICAgICAgY3YyLmxpbmUoaW1nMiwgKHgsIDApLCAoeCwgaCAtIDEpLCAoMjU1LCAwLCAwKSkKICAgICAgICBjdjIubGluZShpbWcyLCAoMCwgeSksICh3IC0gMSwgeSksICgyNTUsIDAsIDApKQogICAgICAgIGN2Mi5pbXNob3cod25hbWUsIGltZzIpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gdG9yY2gubWVhbigoMSAtIGxhYmVsLnR5cGVfYXMoZGlzdGFuY2UpKSAqIGRpc3RhbmNlICsgXAo=</text>
+        <text encoding="base64">ICAgIHB0bGlzdCA9IFBvaW50TGlzdChucG9pbnRzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcmdzOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGxhYmVsID09IDA6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luIChmbG9hdCk6IE1hcmdpbi4gRGVmYXVsdCBpcyAxLgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYWJlbCA9PSAxOgogICAgICAgICAgICBsb3NzID0gMSAtIGRpc3RhbmNlCiAgICAgICAgZWxpZiBsYWJlbCA9PSAtMToKICAgICAgICAgICAgbG9zcyA9IDEgKyBkaXN0YW5jZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Margin</last-search>
+      <last-search>wname</last-search>
       <last-offset />
-      <last-pattern>Margin</last-pattern>
+      <last-pattern>wname</last-pattern>
       <last-replace />
       <last-substitute>Margin</last-substitute>
       <last-dir>1</last-dir>
@@ -411,8 +426,6 @@
     </search>
     <history>
       <history-search>
-        <entry>raise NotImplementedError</entry>
-        <entry>main</entry>
         <entry>Seg</entry>
         <entry>Segmenta</entry>
         <entry>masks</entry>
@@ -431,6 +444,8 @@
         <entry>l1_norm</entry>
         <entry>CosineSimilarityLoss</entry>
         <entry>Margin</entry>
+        <entry>params</entry>
+        <entry>wname</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
