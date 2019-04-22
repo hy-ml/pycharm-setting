@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/binomial_loss.py" timestamp="1555907261151">
-        <mark key="[" line="27" column="46" />
-        <mark key="]" line="28" column="15" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="28" column="15" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/binomial_loss.py" timestamp="1555960862627">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="38" column="24" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1555777792342">
         <mark key="'" line="9" column="67" />
@@ -18,8 +18,10 @@
         <mark key="." line="46" column="79" />
         <mark key="^" line="46" column="79" />
       </file>
-      <file name="/a.dummy" timestamp="1555860110342">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/build.py" timestamp="1555404562054">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" timestamp="1555776833769">
         <mark key="'" line="11" column="0" />
@@ -62,11 +64,16 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1555777797931">
         <mark key="'" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/metric/metric.py" timestamp="1555789979435">
-        <mark key="[" line="103" column="39" />
-        <mark key="]" line="103" column="54" />
-        <mark key="^" line="103" column="54" />
-        <mark key="." line="103" column="54" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/metric/metric.py" timestamp="1555961006621">
+        <mark key="[" line="148" column="22" />
+        <mark key="]" line="148" column="25" />
+        <mark key="." line="148" column="25" />
+        <mark key="^" line="148" column="25" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/data/__init__.py" timestamp="1554544615033">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/build.py" timestamp="1555896630886">
         <mark key="[" line="21" column="12" />
@@ -100,6 +107,11 @@
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" timestamp="1555777805850">
         <mark key="'" line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/ws/tensorflow/tensorflow-2.0/semseg_bench_mark/model/utils.py" timestamp="1554542786802">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dataset/coco/tools/make_categories_each_img_id.py" timestamp="1555559781493">
         <mark key="[" line="1" column="54" />
@@ -205,6 +217,11 @@
         <mark key="." line="57" column="34" />
         <mark key="^" line="57" column="34" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg.yaml" timestamp="1555961490345">
+        <mark key="[" line="7" column="88" />
+        <mark key="]" line="7" column="88" />
+        <mark key="." line="7" column="88" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/classification_net/vgg_bn.yaml" timestamp="1555430479782">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="44" />
@@ -266,9 +283,6 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555776869208">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/coco_seen_unseen.py" timestamp="1555403536430">
-        <mark key="[" line="5" column="18" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/model/unet.py" timestamp="1554547487152">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -302,6 +316,11 @@
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block3_freeze01234_pretrain.yaml" timestamp="1555908200288">
         <mark key="'" line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_build_dataset.py" timestamp="1555486960126">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/ws/tensorflow/tensorflow-2.0/semseg_bench_mark/model/unet.py" timestamp="1554543319876">
         <mark key="[" line="22" column="22" />
@@ -366,6 +385,11 @@
         <mark key="]" line="41" column="91" />
         <mark key="^" line="42" column="93" />
         <mark key="." line="41" column="91" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/utils.py" timestamp="1555404009180">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block4_freeze01234_pretrain.yaml" timestamp="1555908195008">
         <mark key="'" line="6" column="2" />
@@ -474,11 +498,11 @@
       <jump line="105" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmFkZF9zY2FsYXJzKCdsb3NzJywgeyd2YWwnOiB2YWxfbG9zc30sIChlcG9jaCsxKSAqIGxlbih0cmFpbl9kYXRhX2xvYWRlcikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>writer</text>
@@ -487,34 +511,34 @@
         <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmFkZF9zY2FsYXJzKCdsb3NzJywgeyd2YWwnOiB2YWxfbG9zc30sIGVwb2NoKzEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmFkZF9zY2FsYXJzKCdsb3NzJywgeyd2YWwnOiB2YWxfbG9zc30sIChlcG9jaCsxKSAqIGxlbih0cmFpbl9kYXRhX2xvYWRlcikpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gdG9yY2guZXhwKC0xICogc2VsZi5hbHBoYSAqIChzaW1pbGFyaXR5IC0gc2VsZi5iZXRhKSAqIGxhYmVsLnR5cGVfYXMoc2ltaWxhcml0eSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">YW5kCiAgICAgICAgICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeDEsIHgyID0gW25wLl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X0MK</text>
+        <text encoding="base64">ICAgICAgICB4MQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZXBvY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmFkZF9zY2FsYXJzKCdsb3NzJywgeyd2YWwnOiB2YWxfbG9zc30sIChlcG9jaCsxKSAqIGxlbih0cmFpbl9kYXRhX2xvYWRlcikpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXJfZXBvY2ggPSBBdmVyYWdlTWV0ZXIoKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">YW5kCiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbihtb2RlbCwgb3B0aW1pemVyLCB0cmFpbl9kYXRhX2xvYWRlciwgZGV2aWNlLCkK</text>
+        <text encoding="base64">X0MK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgie30gZXBvY2g6IHt9Ii5mb3JtYXQoZXBvY2grMSwgdHJhaW5fbG9zcykpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZXBvY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoJ2xvc3MnLCB7J3RyYWluJzogdHJhaW5fbG9zc30sIGVwb2NoKzEpCg==</text>
+        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXJfZXBvY2ggPSBBdmVyYWdlTWV0ZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbihtb2RlbCwgb3B0aW1pemVyLCB0cmFpbl9kYXRhX2xvYWRlciwgZGV2aWNlLCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
