@@ -52,12 +52,12 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1555907831756">
-        <mark key="'" line="97" column="19" />
-        <mark key="[" line="48" column="19" />
-        <mark key="]" line="48" column="19" />
-        <mark key="." line="48" column="19" />
-        <mark key="^" line="42" column="32" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1555925159508">
+        <mark key="'" line="98" column="19" />
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="53" column="23" />
+        <mark key="." line="53" column="23" />
+        <mark key="^" line="53" column="23" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1555777797931">
         <mark key="'" line="6" column="2" />
@@ -141,12 +141,12 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555777810253">
         <mark key="'" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1555909188909">
-        <mark key="'" line="60" column="26" />
-        <mark key="[" line="133" column="36" />
-        <mark key="]" line="133" column="54" />
-        <mark key="^" line="133" column="54" />
-        <mark key="." line="133" column="54" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1555925281636">
+        <mark key="'" line="43" column="62" />
+        <mark key="[" line="147" column="29" />
+        <mark key="]" line="147" column="33" />
+        <mark key="^" line="147" column="33" />
+        <mark key="." line="147" column="33" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/.gitignore" timestamp="1555859587254">
         <mark key="[" line="3" column="0" />
@@ -373,7 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
       <jump line="19" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
       <jump line="7" column="60" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
       <jump line="76" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
@@ -466,65 +465,66 @@
       <jump line="122" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="45" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="58" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
-      <jump line="153" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="150" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="86" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="147" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="0" column="14" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
-      <jump line="43" column="63" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="60" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="153" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="6" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="43" column="62" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXBvY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text encoding="base64">YW5kCiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>train</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZXBvY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text encoding="base64">YW5kCiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXJfZXBvY2ggPSBBdmVyYWdlTWV0ZXIoKQo=</text>
+        <text encoding="base64">X0MK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbihtb2RlbCwgb3B0aW1pemVyLCB0cmFpbl9kYXRhX2xvYWRlciwgZGV2aWNlLCkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZXBvY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgie30gZXBvY2g6IHt9Ii5mb3JtYXQoZXBvY2grMSwgdHJhaW5fbG9zcykpCg==</text>
+        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXJfZXBvY2ggPSBBdmVyYWdlTWV0ZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoJ2xvc3MnLCB7J3RyYWluJzogdHJhaW5fbG9zc30sIGVwb2NoKzEpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbihtb2RlbCwgb3B0aW1pemVyLCB0cmFpbl9kYXRhX2xvYWRlciwgZGV2aWNlLCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgie30gZXBvY2g6IHt9Ii5mb3JtYXQoZXBvY2grMSwgdHJhaW5fbG9zcykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoJ2xvc3MnLCB7J3RyYWluJzogdHJhaW5fbG9zc30sIGVwb2NoKzEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsb3NzX2Vwb2NoCg==</text>
+        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvc3NfbWV0ZXIucmVzZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>train</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>train</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>cosine_similarity\/binomial_loss</last-replace>
       <last-substitute>cosine_similarity</last-substitute>
       <last-dir>1</last-dir>
@@ -532,8 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>l1_norm</entry>
-        <entry>Margin</entry>
         <entry>params</entry>
         <entry>wname</entry>
         <entry>if</entry>
@@ -552,6 +550,8 @@
         <entry>train()</entry>
         <entry>print</entry>
         <entry>train</entry>
+        <entry>cfg</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
