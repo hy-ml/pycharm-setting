@@ -23,6 +23,14 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" timestamp="1555776833769">
         <mark key="'" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" timestamp="1555896308655">
+        <mark key="e" line="58" column="16" />
+        <mark key="i" line="58" column="16" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="32" column="80" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/cosine_similarity_margin_loss.py" timestamp="1555777661680">
         <mark key="'" line="4" column="27" />
         <mark key="[" line="28" column="0" />
@@ -61,6 +69,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/build.py" timestamp="1555896630886">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="22" column="56" />
+        <mark key="." line="22" column="56" />
+        <mark key="^" line="22" column="56" />
       </file>
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/model/utils.py" timestamp="1554545193348">
         <mark key="[" line="1" column="0" />
@@ -227,6 +241,12 @@
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" timestamp="1555896925957">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="155" column="52" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/dataset/test_coco_train.py" timestamp="1555420985925">
         <mark key="[" line="17" column="14" />
@@ -413,46 +433,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBhbm5vdAo=</text>
+        <text encoding="base64">ICAgIGxpc3RfcGFyYW1zID0gW2xpc3QobW9kZWwubWxwW2ldLnBhcmFtZXRlcnMoKSkgZm9yIGkgaW4gcmFuZ2UoNildCg==</text>
       </register>
       <register name="-" type="4">
-        <text>save_path</text>
+        <text>distance</text>
       </register>
       <register name="/" type="4">
         <text>if</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3YyLnNldE1vdXNlQ2FsbGJhY2sod25hbWUsIG9uX21vdXNlLCBbd25hbWUsIGltZywgcG9pbnRfbGlzdF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZHNfdGhyZXNob2xkMiA9IG5wLndoZXJlKG92ciAtIHNlbGYucmF0aW8gKiBtZXRyaWNfb3V0cHV0IDw9IHNlbGYudGhyZXNob2xkMilbMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBhbm5vdAo=</text>
+        <text encoding="base64">ICAgIGxpc3RfcGFyYW1zID0gW2xpc3QobW9kZWwubWxwW2ldLnBhcmFtZXRlcnMoKSkgZm9yIGkgaW4gcmFuZ2UoNildCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBhbm5vdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNhdmVfcGF0aCA9IHNhdmVfcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBpbnB1dHMgPSBkaWN0KGltZ3NfY3JvcHBlZD1pbWdzX2Nyb3BwZWQsIGJveGVzX3ByZWRpY3Q9Ym94ZXNfcHJlZGljdCwKICAgICAgICAgICAgICAgICAgICAgc2NvcmVzX3ByZWRpY3Q9c2NvcmVzX3ByZWRpY3QpCiAgICAgICAgYm94ZXNfcHJlZGljdF9rZWVwID0gc3VwcHJlc3NvcihpbnB1dHMpCiAgICAgICAgYm94ZXNfcHJlZGljdF9rZWVwLCBib3hlc19hbm5vdCA9IHByZXByb2Nlc3NfYm94ZXMoCiAgICAgICAgICAgIGJveGVzX3ByZWRpY3Rfa2VlcCwgYm94ZXNfYW5ub3QsIGluZm9bJ2ltZ19zaXplJ10sIGluZm9bJ2ltZ19zaXplX29yZyddLAogICAgICAgICAgICBtYXhfc2l6ZV9hdF9kZXRlY3RvciwgbWluX3NpemVfYXRfZGV0ZWN0b3IsIGluZm9bJ2JveF9mb3JtYXQnXSkKICAgICAgICAiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICIiIiIiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvYWRfYW5ub3QocGF0aF9hbm5vdCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAuLnV0aWxzIGltcG9ydCAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfbG9hZF9hbm5vdChzZWxmLCApOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
