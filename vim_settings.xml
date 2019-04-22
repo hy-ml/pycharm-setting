@@ -141,12 +141,11 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555777810253">
         <mark key="'" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1555925281636">
-        <mark key="'" line="43" column="62" />
-        <mark key="[" line="147" column="29" />
-        <mark key="]" line="147" column="33" />
-        <mark key="^" line="147" column="33" />
-        <mark key="." line="147" column="33" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1555926603492">
+        <mark key="'" line="105" column="12" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="93" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/.gitignore" timestamp="1555859587254">
         <mark key="[" line="3" column="0" />
@@ -373,14 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
-      <jump line="7" column="60" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
-      <jump line="76" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
-      <jump line="78" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
-      <jump line="77" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
-      <jump line="24" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
-      <jump line="17" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
-      <jump line="40" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
       <jump line="4" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
       <jump line="7" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
       <jump line="23" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" />
@@ -454,8 +445,6 @@
       <jump line="11" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block2_freeze01234_pretrain.yaml" />
       <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block1_freeze01234_pretrain.yaml" />
       <jump line="5" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg.yaml" />
-      <jump line="59" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="134" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="94" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="102" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
@@ -468,63 +457,73 @@
       <jump line="150" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="86" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="147" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
-      <jump line="0" column="14" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
-      <jump line="60" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="153" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="6" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
-      <jump line="43" column="62" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="39" column="45" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="60" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="142" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="74" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="137" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="145" column="14" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="44" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="0" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="43" column="49" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="131" column="72" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="106" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="105" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YW5kCiAgICAgICAgICAgICAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmFkZF9zY2FsYXJzKCdsb3NzJywgeyd2YWwnOiB2YWxfbG9zc30sIChlcG9jaCsxKSAqIGxlbih0cmFpbl9kYXRhX2xvYWRlcikpCg==</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>writer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmFkZF9zY2FsYXJzKCdsb3NzJywgeyd2YWwnOiB2YWxfbG9zc30sIGVwb2NoKzEpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YW5kCiAgICAgICAgICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmFkZF9zY2FsYXJzKCdsb3NzJywgeyd2YWwnOiB2YWxfbG9zc30sIChlcG9jaCsxKSAqIGxlbih0cmFpbl9kYXRhX2xvYWRlcikpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">YW5kCiAgICAgICAgICAgICAgICA=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">X0MK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ZXBvY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXJfZXBvY2ggPSBBdmVyYWdlTWV0ZXIoKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0cmFpbihtb2RlbCwgb3B0aW1pemVyLCB0cmFpbl9kYXRhX2xvYWRlciwgZGV2aWNlLCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgie30gZXBvY2g6IHt9Ii5mb3JtYXQoZXBvY2grMSwgdHJhaW5fbG9zcykpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoJ2xvc3MnLCB7J3RyYWluJzogdHJhaW5fbG9zc30sIGVwb2NoKzEpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>writer</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>writer</last-pattern>
       <last-replace>cosine_similarity\/binomial_loss</last-replace>
       <last-substitute>cosine_similarity</last-substitute>
       <last-dir>1</last-dir>
@@ -543,7 +542,6 @@
         <entry>:%s</entry>
         <entry>cosine_similarity</entry>
         <entry>tensor</entry>
-        <entry>writer</entry>
         <entry>loss_meter</entry>
         <entry>loss_me</entry>
         <entry>triain()</entry>
@@ -552,6 +550,7 @@
         <entry>train</entry>
         <entry>cfg</entry>
         <entry>main</entry>
+        <entry>writer</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
