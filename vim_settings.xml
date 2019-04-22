@@ -166,6 +166,12 @@
         <mark key="^" line="23" column="54" />
         <mark key="." line="23" column="54" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate_multi_process.py" timestamp="1555901270954">
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="81" column="30" />
+        <mark key="^" line="81" column="30" />
+        <mark key="." line="81" column="30" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/nms/additional_method_config/greedy.py" timestamp="1554389894819">
         <mark key="[" line="10" column="63" />
         <mark key="]" line="10" column="64" />
@@ -242,11 +248,12 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" timestamp="1555896925957">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-        <mark key="^" line="155" column="52" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" timestamp="1555901071639">
+        <mark key="'" line="153" column="4" />
+        <mark key="[" line="91" column="31" />
+        <mark key="]" line="92" column="48" />
+        <mark key="." line="92" column="48" />
+        <mark key="^" line="92" column="48" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/dataset/test_coco_train.py" timestamp="1555420985925">
         <mark key="[" line="17" column="14" />
@@ -303,7 +310,7 @@
         <mark key="." line="56" column="7" />
         <mark key="^" line="56" column="7" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" timestamp="1555777784397">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" timestamp="1555901179931">
         <mark key="'" line="6" column="2" />
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="28" />
@@ -430,46 +437,52 @@
       <jump line="8" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/a.py" />
       <jump line="17" column="23" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/a.py" />
       <jump line="4" column="13" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/a.py" />
+      <jump line="85" column="63" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" />
+      <jump line="95" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" />
+      <jump line="127" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" />
+      <jump line="159" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" />
+      <jump line="151" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpc3RfcGFyYW1zID0gW2xpc3QobW9kZWwubWxwW2ldLnBhcmFtZXRlcnMoKSkgZm9yIGkgaW4gcmFuZ2UoNildCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>distance</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>if</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZHNfdGhyZXNob2xkMiA9IG5wLndoZXJlKG92ciAtIHNlbGYucmF0aW8gKiBtZXRyaWNfb3V0cHV0IDw9IHNlbGYudGhyZXNob2xkMilbMF0K</text>
+        <text encoding="base64">ICAgIHJlc3VsdHMgPSBldmFsdWF0ZShzdXBwcmVzc29yLCBkYXRhc2V0LCBjZmcuVEVTVC5OVU1fQ0xBU1NFUywgY2ZnLlRFU1QuTUFYX0xBQkVMX1NFRU4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpc3RfcGFyYW1zID0gW2xpc3QobW9kZWwubWxwW2ldLnBhcmFtZXRlcnMoKSkgZm9yIGkgaW4gcmFuZ2UoNildCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3t9LCB7fSwge306IHt9L3t9Jy5mb3JtYXQoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBpbnB1dHMgPSBkaWN0KGltZ3NfY3JvcHBlZD1pbWdzX2Nyb3BwZWQsIGJveGVzX3ByZWRpY3Q9Ym94ZXNfcHJlZGljdCwKICAgICAgICAgICAgICAgICAgICAgc2NvcmVzX3ByZWRpY3Q9c2NvcmVzX3ByZWRpY3QpCiAgICAgICAgYm94ZXNfcHJlZGljdF9rZWVwID0gc3VwcHJlc3NvcihpbnB1dHMpCiAgICAgICAgYm94ZXNfcHJlZGljdF9rZWVwLCBib3hlc19hbm5vdCA9IHByZXByb2Nlc3NfYm94ZXMoCiAgICAgICAgICAgIGJveGVzX3ByZWRpY3Rfa2VlcCwgYm94ZXNfYW5ub3QsIGluZm9bJ2ltZ19zaXplJ10sIGluZm9bJ2ltZ19zaXplX29yZyddLAogICAgICAgICAgICBtYXhfc2l6ZV9hdF9kZXRlY3RvciwgbWluX3NpemVfYXRfZGV0ZWN0b3IsIGluZm9bJ2JveF9mb3JtYXQnXSkKICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -479,9 +492,9 @@
       </register>
     </registers>
     <search>
-      <last-search>if</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>if</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace />
       <last-substitute>Margin</last-substitute>
       <last-dir>1</last-dir>
@@ -489,9 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Segmenta</entry>
-        <entry>masks</entry>
-        <entry>remove_image</entry>
         <entry>si_sample</entry>
         <entry>is_sample_rois</entry>
         <entry>key</entry>
@@ -509,6 +519,9 @@
         <entry>params</entry>
         <entry>wname</entry>
         <entry>if</entry>
+        <entry>device</entry>
+        <entry>evaluate</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
@@ -535,6 +548,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
