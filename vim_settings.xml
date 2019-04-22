@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/binomial_loss.py" timestamp="1555907261151">
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1555777792342">
         <mark key="'" line="9" column="67" />
       </file>
@@ -14,11 +20,6 @@
       </file>
       <file name="/a.dummy" timestamp="1555860110342">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/build.py" timestamp="1555404562054">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="42" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" timestamp="1555776833769">
         <mark key="'" line="11" column="0" />
@@ -51,10 +52,12 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1555790605473">
-        <mark key="[" line="45" column="19" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1555907831756">
+        <mark key="'" line="97" column="19" />
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+        <mark key="^" line="42" column="32" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1555777797931">
         <mark key="'" line="6" column="2" />
@@ -64,11 +67,6 @@
         <mark key="]" line="103" column="54" />
         <mark key="^" line="103" column="54" />
         <mark key="." line="103" column="54" />
-      </file>
-      <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/data/__init__.py" timestamp="1554544615033">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/build.py" timestamp="1555896630886">
         <mark key="[" line="21" column="12" />
@@ -82,11 +80,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/build.py" timestamp="1555777752935">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="35" />
-        <mark key="." line="24" column="35" />
-        <mark key="^" line="24" column="35" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/build.py" timestamp="1555908495703">
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="55" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/cosine_similarity_loss.py" timestamp="1555789576763">
         <mark key="[" line="28" column="0" />
@@ -102,11 +100,6 @@
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" timestamp="1555777805850">
         <mark key="'" line="10" column="9" />
-      </file>
-      <file name="$USER_HOME$/ws/tensorflow/tensorflow-2.0/semseg_bench_mark/model/utils.py" timestamp="1554542786802">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="14" column="39" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/dataset/coco/tools/make_categories_each_img_id.py" timestamp="1555559781493">
         <mark key="[" line="1" column="54" />
@@ -148,11 +141,12 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555777810253">
         <mark key="'" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1555605338051">
-        <mark key="[" line="85" column="71" />
-        <mark key="]" line="85" column="71" />
-        <mark key="." line="85" column="71" />
-        <mark key="^" line="85" column="71" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1555909188909">
+        <mark key="'" line="60" column="26" />
+        <mark key="[" line="133" column="36" />
+        <mark key="]" line="133" column="54" />
+        <mark key="^" line="133" column="54" />
+        <mark key="." line="133" column="54" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/.gitignore" timestamp="1555859587254">
         <mark key="[" line="3" column="0" />
@@ -190,6 +184,9 @@
         <mark key="." line="9" column="81" />
         <mark key="^" line="9" column="81" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block1_freeze01234_pretrain.yaml" timestamp="1555908212320">
+        <mark key="'" line="6" column="2" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1555395882795">
         <mark key="'" line="53" column="4" />
         <mark key="[" line="77" column="61" />
@@ -221,6 +218,9 @@
         <mark key="." line="38" column="59" />
         <mark key="^" line="38" column="59" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555908184225">
+        <mark key="'" line="8" column="68" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg.yaml" timestamp="1555776811808">
         <mark key="'" line="6" column="14" />
         <mark key="[" line="7" column="89" />
@@ -234,6 +234,9 @@
         <mark key="]" line="6" column="38" />
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block2_freeze01234_pretrain.yaml" timestamp="1555908206678">
+        <mark key="'" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" timestamp="1555776860631">
         <mark key="'" line="10" column="86" />
@@ -273,6 +276,11 @@
         <mark key="^" line="37" column="37" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/l1_norm_loss.py" timestamp="1555907209552">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="1" />
+        <mark key="." line="33" column="1" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" timestamp="1555486938046">
         <mark key="'" line="48" column="27" />
         <mark key="[" line="100" column="0" />
@@ -293,10 +301,8 @@
         <mark key="^" line="57" column="79" />
         <mark key="." line="57" column="79" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_build_dataset.py" timestamp="1555486960126">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block3_freeze01234_pretrain.yaml" timestamp="1555908200288">
+        <mark key="'" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/ws/tensorflow/tensorflow-2.0/semseg_bench_mark/model/unet.py" timestamp="1554543319876">
         <mark key="[" line="22" column="22" />
@@ -349,31 +355,24 @@
         <mark key="." line="46" column="38" />
         <mark key="^" line="46" column="38" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg.yaml" timestamp="1555908222233">
+        <mark key="'" line="5" column="16" />
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/movie_dataset_dia/R_101_FPN/not_seen_unseen_class_agnostic_640x480_val_epoch.yaml" timestamp="1554388398598">
         <mark key="[" line="41" column="91" />
         <mark key="]" line="41" column="91" />
         <mark key="^" line="42" column="93" />
         <mark key="." line="41" column="91" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/utils.py" timestamp="1555404009180">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block4_freeze01234_pretrain.yaml" timestamp="1555908195008">
+        <mark key="'" line="6" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="33" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
-      <jump line="88" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
-      <jump line="102" column="49" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
-      <jump line="53" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/suppressor/suppressor.py" />
-      <jump line="25" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/a/a.py" />
-      <jump line="89" column="15" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/a/a.py" />
-      <jump line="146" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/support_tools/visualize/visualize_suppression_results.py" />
-      <jump line="178" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/support_tools/visualize/visualize_suppression_results.py" />
-      <jump line="177" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/support_tools/visualize/visualize_suppression_results.py" />
-      <jump line="90" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" />
-      <jump line="93" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" />
       <jump line="10" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
       <jump line="19" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
       <jump line="7" column="60" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco_seen_unseen.py" />
@@ -443,85 +442,116 @@
       <jump line="159" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" />
       <jump line="74" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" />
       <jump line="151" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" />
+      <jump line="17" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" />
+      <jump line="97" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block1_freeze01234_pretrain.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block2_freeze01234_pretrain.yaml" />
+      <jump line="11" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block3_freeze01234_pretrain.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block4_freeze01234_pretrain.yaml" />
+      <jump line="11" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block24_freeze01234_pretrain.yaml" />
+      <jump line="8" column="68" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block24_freeze01234_pretrain.yaml" />
+      <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block4_freeze01234_pretrain.yaml" />
+      <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block3_freeze01234_pretrain.yaml" />
+      <jump line="11" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block2_freeze01234_pretrain.yaml" />
+      <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block1_freeze01234_pretrain.yaml" />
+      <jump line="5" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg.yaml" />
+      <jump line="59" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="134" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="102" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="48" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="129" column="15" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="101" column="32" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="122" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="45" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="58" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="153" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="86" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="147" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="0" column="14" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="43" column="63" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="60" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UHJvY2VzcygpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZXBvY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHMgPSBldmFsdWF0ZShzdXBwcmVzc29yLCBkYXRhc2V0LCBjZmcuVEVTVC5OVU1fQ0xBU1NFUywgY2ZnLlRFU1QuTUFYX0xBQkVMX1NFRU4pCg==</text>
+        <text encoding="base64">ICAgIGxvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">UHJvY2VzcygpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZXBvY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXJfZXBvY2ggPSBBdmVyYWdlTWV0ZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFBvb2wK</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbihtb2RlbCwgb3B0aW1pemVyLCB0cmFpbl9kYXRhX2xvYWRlciwgZGV2aWNlLCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoLm11bHRpcHJvY2Vzc2luZyBhcyBtbHAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgie30gZXBvY2g6IHt9Ii5mb3JtYXQoZXBvY2grMSwgdHJhaW5fbG9zcykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWxwLgo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoJ2xvc3MnLCB7J3RyYWluJzogdHJhaW5fbG9zc30sIGVwb2NoKzEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBsb3NzX2Vwb2NoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3t9LCB7fSwge306IHt9L3t9Jy5mb3JtYXQoKSkK</text>
+        <text encoding="base64">ICAgIGxvc3NfbWV0ZXIucmVzZXQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>train</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-replace />
-      <last-substitute>Margin</last-substitute>
+      <last-pattern>train</last-pattern>
+      <last-replace>cosine_similarity\/binomial_loss</last-replace>
+      <last-substitute>cosine_similarity</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>si_sample</entry>
-        <entry>is_sample_rois</entry>
-        <entry>key</entry>
-        <entry>cache</entry>
-        <entry>build_dataset</entry>
-        <entry>transform</entry>
-        <entry>buid_ex</entry>
-        <entry>buid</entry>
-        <entry>build</entry>
-        <entry>vgg</entry>
-        <entry>L1Norm</entry>
         <entry>l1_norm</entry>
-        <entry>CosineSimilarityLoss</entry>
         <entry>Margin</entry>
         <entry>params</entry>
         <entry>wname</entry>
         <entry>if</entry>
         <entry>device</entry>
         <entry>evaluate</entry>
+        <entry>LOSS</entry>
+        <entry>BATCH</entry>
+        <entry>CosineSimilarityLoss</entry>
+        <entry>:%s</entry>
+        <entry>cosine_similarity</entry>
+        <entry>tensor</entry>
+        <entry>writer</entry>
+        <entry>loss_meter</entry>
+        <entry>loss_me</entry>
+        <entry>triain()</entry>
+        <entry>train()</entry>
         <entry>print</entry>
+        <entry>train</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
@@ -536,6 +566,12 @@
         <entry>%s/Margin//g</entry>
         <entry>wh</entry>
         <entry>ws</entry>
+        <entry>B</entry>
+        <entry>qq</entry>
+        <entry>%s/CosineSimilarityLoss/BinomialLoss/g</entry>
+        <entry>%s/cosine_similarity/cosine_similarity\/binomial_loss/gc</entry>
+        <entry>weq</entry>
+        <entry>%s/cosine_similarity/cosine_similarity\/binomial_loss/g</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
