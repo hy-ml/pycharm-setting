@@ -198,6 +198,12 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/binomial_loss/vgg_block1_freeze01234_pretrain.yaml" timestamp="1555908212320">
         <mark key="'" line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/support_tools/make_subset_detection_result.py" timestamp="1556047801841">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="43" column="37" />
+        <mark key="." line="43" column="37" />
+        <mark key="^" line="43" column="37" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1555395882795">
         <mark key="'" line="53" column="4" />
         <mark key="[" line="77" column="61" />
@@ -498,47 +504,47 @@
       <jump line="105" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpdGggCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>writer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmFkZF9zY2FsYXJzKCdsb3NzJywgeyd2YWwnOiB2YWxfbG9zc30sIGVwb2NoKzEpCg==</text>
+        <text encoding="base64">ICAgIGJib3hfYW5ub3Rfc3Vic2V0ID0gW10KICAgIGxhYmVsX2Fubm90X3N1YnNldCA9IFtdCiAgICBiYm94X3ByZWRpY3Rfc3Vic2V0ID0gW10KICAgIGxhYmVsX3ByZWRpY3Rfc3Vic2V0ID0gW10KICAgIGltZ19wYXRoX3N1YnNldCA9IFtdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gdG9yY2guZXhwKC0xICogc2VsZi5hbHBoYSAqIChzaW1pbGFyaXR5IC0gc2VsZi5iZXRhKSAqIGxhYmVsLnR5cGVfYXMoc2ltaWxhcml0eSkpCg==</text>
+        <text encoding="base64">ICAgIHdpdGggCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeDEsIHgyID0gW25wLl0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4MQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmFkZF9zY2FsYXJzKCdsb3NzJywgeyd2YWwnOiB2YWxfbG9zc30sIChlcG9jaCsxKSAqIGxlbih0cmFpbl9kYXRhX2xvYWRlcikpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">YW5kCiAgICAgICAgICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdHNfc3Vic2V0ID0gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">X0MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZXBvY2gKICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxfYW5ub3Rfc3Vic2V0ID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2xvc3NfbWV0ZXJfZXBvY2ggPSBBdmVyYWdlTWV0ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmJveF9hbm5vdF9zdWJzZXQuYXBwZW5kKHJlc3VsdHNbJ2Jib3hfYW5ub3QnXVtpXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbihtb2RlbCwgb3B0aW1pemVyLCB0cmFpbl9kYXRhX2xvYWRlciwgZGV2aWNlLCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmJveF9hbm5vdF9zdWJzZXQuYXBwZW5kKHJlc3VsdHNbJ2Jib3hfYW5ub3QnXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
