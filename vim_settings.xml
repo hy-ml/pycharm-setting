@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1555777792342">
         <mark key="'" line="9" column="67" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/desk_303_1.sh" timestamp="1556105539162">
+        <mark key="[" line="2" column="155" />
+        <mark key="]" line="2" column="171" />
+        <mark key="." line="2" column="171" />
+        <mark key="^" line="2" column="171" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555777810253">
         <mark key="'" line="6" column="2" />
       </file>
@@ -134,6 +140,12 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/desk_303_2.sh" timestamp="1556105555403">
+        <mark key="[" line="2" column="175" />
+        <mark key="]" line="2" column="191" />
+        <mark key="^" line="2" column="191" />
+        <mark key="." line="2" column="191" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block5_freeze01234_pretrain.yaml" timestamp="1555608487895">
         <mark key="[" line="7" column="80" />
         <mark key="]" line="9" column="81" />
@@ -146,6 +158,12 @@
         <mark key="m" line="16" column="29" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/db_303.sh" timestamp="1556105508603">
+        <mark key="[" line="2" column="189" />
+        <mark key="]" line="2" column="205" />
+        <mark key="^" line="2" column="205" />
+        <mark key="." line="2" column="205" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/utils.py" timestamp="1555860451608">
         <mark key="[" line="1" column="31" />
@@ -189,6 +207,7 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/desk_303.sh" timestamp="1556105199391" />
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" timestamp="1556080897364">
         <mark key="'" line="21" column="42" />
         <mark key="[" line="96" column="26" />
@@ -325,6 +344,12 @@
         <mark key="]" line="2" column="33" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/db_305.sh" timestamp="1556105526906">
+        <mark key="[" line="2" column="189" />
+        <mark key="]" line="2" column="205" />
+        <mark key="." line="2" column="205" />
+        <mark key="^" line="2" column="205" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg.yaml" timestamp="1555776811808">
         <mark key="'" line="6" column="14" />
@@ -483,11 +508,11 @@
       <jump line="13" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+      <register name="&quot;" type="8">
+        <text>configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>100</text>
@@ -495,35 +520,35 @@
       <register name="0" type="2">
         <text encoding="base64">Q1VEQV9WSVNJQkxFX0RFVklDRVM9MSBweXRob24gdHJhaW4ucHkgfi9kYXRhc2V0L2NvY28vIC4uL2NvbmZpZ3MvY29jby9zcGxpdF9ieV9zZWVuX3Vuc2Vlbi9zaWFtZXNlX25ldC9sMV9ub3JtL25vX2FkZGl0aW9uYWxfZmVhdXJlL3ZnZ19ibG9jazNfZnJlZXplMDEyMzRfcHJldHJhaW4ueWFtbAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+      <register name="1" type="8">
+        <text>configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="8">
+        <text>configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">L2hvbWUveW9zaGlha2kvd3MvcHl0b3JjaC9ubXNfd2l0aF9mZWF0dXJlL2NvbmZpZ3MvZGVmYXVsdHMucHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQogICAgCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXRlciArIDEpICUgMTAwID09IDA6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeDEsIHgyID0gWzEuMCAvICgxLjAgKyBucC5leHAoLXgpKSBmb3IgeCBpbiBbeDEsIHgyXV0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB4MSwgeDIgPSBbdG9yY2gubm4uZnVuY3Rpb25hbC5zaWdtb2lkKHgpIGZvciB4IGluIFt4MSwgeDJdXQo=</text>
+        <text encoding="base64">ICAgIGxvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeDEsIHgyID0gW3RvcmNoLnNpZ21vaWQoeCkgZm9yIHggaW4gW3gxLCB4Ml1dCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXRlciArIDEpICUgMTAwID09IDA6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsb3NzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeDEsIHgyID0gWzEuMCAvICgxLjAgKyBucC5leHAoLXgpKSBmb3IgeCBpbiBbeDEsIHgyXV0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -595,6 +620,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
