@@ -140,11 +140,11 @@
         <mark key="." line="9" column="81" />
         <mark key="^" line="9" column="81" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/fix_label_annot.py" timestamp="1556084549531">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-        <mark key="^" line="21" column="10" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/fix_label_annot.py" timestamp="1556087677408">
+        <mark key="[" line="39" column="104" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="41" column="18" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_build_dataset.py" timestamp="1555486960126">
         <mark key="[" line="22" column="0" />
@@ -450,47 +450,47 @@
       <jump line="49" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxhYmVscwo=</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>labels_annot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzID0gZ3VhcmRfbm9uX2V4aXN0X2NsYXNzKHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzLCBjb3VudF9ib3hlc1ttYXhfc2Vlbl9sYWJlbF0pCg==</text>
+        <text encoding="base64">ICAgIGJveGVzX2Fubm90ID0gW25wLmFycmF5KFt0YXJnZXRbJ2Jib3gnXSBmb3IgdGFyZ2V0IGluIHRhcmdldHNdKSBmb3IgdGFyZ2V0cyBpbiBsaXN0X3RhcmdldHNdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxhYmVscwo=</text>
+        <text encoding="base64">ICAgIGZvciB0YXJnZXRzIGluIGxpc3RfdGFyZ2V0czoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ampqCg==</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFyc2tra2sK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBweWNvCg==</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGpzbwo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -553,6 +553,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
