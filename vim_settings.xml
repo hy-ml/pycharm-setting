@@ -27,7 +27,7 @@
         <mark key="^" line="42" column="93" />
         <mark key="." line="41" column="91" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" timestamp="1556098765310">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" timestamp="1556103856937">
         <mark key="'" line="15" column="26" />
         <mark key="[" line="46" column="10" />
         <mark key="]" line="46" column="10" />
@@ -168,7 +168,11 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" timestamp="1556095538661" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/sample.sh" timestamp="1556103873766">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/build.py" timestamp="1555603880826">
         <mark key="[" line="23" column="12" />
         <mark key="]" line="23" column="54" />
@@ -479,8 +483,8 @@
       <jump line="13" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -489,10 +493,10 @@
         <text>100</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2ZnLk1PREVMLk1FVFJJQyA9PSAnTDFOb3JtJzoKICAgICAgICBtZXRyaWMgPSBMMU5vcm0oKQo=</text>
+        <text encoding="base64">Q1VEQV9WSVNJQkxFX0RFVklDRVM9MSBweXRob24gdHJhaW4ucHkgfi9kYXRhc2V0L2NvY28vIC4uL2NvbmZpZ3MvY29jby9zcGxpdF9ieV9zZWVuX3Vuc2Vlbi9zaWFtZXNlX25ldC9sMV9ub3JtL25vX2FkZGl0aW9uYWxfZmVhdXJlL3ZnZ19ibG9jazNfZnJlZXplMDEyMzRfcHJldHJhaW4ueWFtbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -501,25 +505,25 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQogICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXRlciArIDEpICUgMTAwID09IDA6Cg==</text>
+        <text encoding="base64">ICAgIGxvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeDEsIHgyID0gWzEuMCAvICgxLjAgKyBucC5leHAoLXgpKSBmb3IgeCBpbiBbeDEsIHgyXV0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXRlciArIDEpICUgMTAwID09IDA6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB4MSwgeDIgPSBbdG9yY2gubm4uZnVuY3Rpb25hbC5zaWdtb2lkKHgpIGZvciB4IGluIFt4MSwgeDJdXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeDEsIHgyID0gWzEuMCAvICgxLjAgKyBucC5leHAoLXgpKSBmb3IgeCBpbiBbeDEsIHgyXV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeDEsIHgyID0gW3RvcmNoLnNpZ21vaWQoeCkgZm9yIHggaW4gW3gxLCB4Ml1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB4MSwgeDIgPSBbdG9yY2gubm4uZnVuY3Rpb25hbC5zaWdtb2lkKHgpIGZvciB4IGluIFt4MSwgeDJdXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsb3NzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeDEsIHgyID0gW3RvcmNoLnNpZ21vaWQoeCkgZm9yIHggaW4gW3gxLCB4Ml1dCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsb3NzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
