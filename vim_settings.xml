@@ -184,11 +184,12 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" timestamp="1556079102984">
-        <mark key="'" line="67" column="4" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" timestamp="1556080897364">
+        <mark key="'" line="21" column="42" />
+        <mark key="[" line="96" column="26" />
+        <mark key="]" line="96" column="22" />
+        <mark key="." line="96" column="22" />
+        <mark key="^" line="96" column="22" />
       </file>
       <file name="$USER_HOME$/dataset/coco/tools/split_train_val.py" timestamp="1555574586650">
         <mark key="[" line="44" column="60" />
@@ -318,10 +319,9 @@
         <mark key="^" line="17" column="48" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate.py" timestamp="1556078965944">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="141" column="52" />
-        <mark key="." line="144" column="0" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555776869208">
         <mark key="'" line="0" column="0" />
@@ -426,58 +426,62 @@
       <jump line="59" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" />
       <jump line="65" column="29" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" />
       <jump line="67" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" />
+      <jump line="95" column="13" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" />
+      <jump line="8" column="5" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" />
+      <jump line="20" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" />
+      <jump line="21" column="42" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBkZGsK</text>
+        <text encoding="base64">ICAgIGZpbGVfbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUoYXJncy5yZXN1bHRzX2RldGVjdGlvbikK</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>results</text>
+        <text>confi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzID0gZ3VhcmRfbm9uX2V4aXN0X2NsYXNzKHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzLCBjb3VudF9ib3hlc1ttYXhfc2Vlbl9sYWJlbF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBkZGsK</text>
+        <text encoding="base64">ICAgIGZpbGVfbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUoYXJncy5yZXN1bHRzX2RldGVjdGlvbikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzID0gZ3VhcmRfbm9uX2V4aXN0X2NsYXNzKHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzLCBjb3VudF9ib3hlc1ttYXhfc2Vlbl9sYWJlbF0pCg==</text>
+        <text encoding="base64">ICAgIHBkZGsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzID0gZ3VhcmRfbm9uX2V4aXN0X2NsYXNzKHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzLCBjb3VudF9ib3hlc1ttYXhfc2Vlbl9sYWJlbF0pCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudGRka2trCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzID0gZ3VhcmRfbm9uX2V4aXN0X2NsYXNzKHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzLCBjb3VudGRkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzID0gZ3VhcmRfbm9uX2V4aXN0X2NsYXNzKHJhdGlvX25vdF9kZXRlY3RlZF9lYWNoX2NsYXNzLCBjb3VudF9ib3hlc1ttYXhfc2Vlbl9sYWJlbF0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>results</last-search>
+      <last-search>confi</last-search>
       <last-offset />
-      <last-pattern>results</last-pattern>
+      <last-pattern>confi</last-pattern>
       <last-replace />
       <last-substitute>Margin</last-substitute>
       <last-dir>1</last-dir>
@@ -485,7 +489,6 @@
     </search>
     <history>
       <history-search>
-        <entry>masks</entry>
         <entry>remove_image</entry>
         <entry>si_sample</entry>
         <entry>is_sample_rois</entry>
@@ -505,6 +508,7 @@
         <entry>wname</entry>
         <entry>if</entry>
         <entry>results</entry>
+        <entry>confi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
