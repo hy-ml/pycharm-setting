@@ -153,8 +153,8 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555777810253">
         <mark key="'" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1555926603492">
-        <mark key="'" line="105" column="12" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1556051570289">
+        <mark key="'" line="118" column="4" />
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="93" />
         <mark key="." line="137" column="0" />
@@ -402,12 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" />
-      <jump line="35" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" />
-      <jump line="14" column="17" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" />
-      <jump line="20" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" />
       <jump line="62" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" />
       <jump line="87" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" />
       <jump line="8" column="6" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" />
@@ -499,9 +493,15 @@
       <jump line="0" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="43" column="49" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="59" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
-      <jump line="131" column="72" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="106" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
       <jump line="105" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="76" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="78" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="130" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="131" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="119" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
+      <jump line="118" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -511,7 +511,7 @@
         <text>[]</text>
       </register>
       <register name="/" type="4">
-        <text>writer</text>
+        <text>train</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJib3hfYW5ub3Rfc3Vic2V0ID0gW10KICAgIGxhYmVsX2Fubm90X3N1YnNldCA9IFtdCiAgICBiYm94X3ByZWRpY3Rfc3Vic2V0ID0gW10KICAgIGxhYmVsX3ByZWRpY3Rfc3Vic2V0ID0gW10KICAgIGltZ19wYXRoX3N1YnNldCA9IFtdCg==</text>
@@ -551,9 +551,9 @@
       </register>
     </registers>
     <search>
-      <last-search>writer</last-search>
+      <last-search>train</last-search>
       <last-offset />
-      <last-pattern>writer</last-pattern>
+      <last-pattern>train</last-pattern>
       <last-replace>cosine_similarity\/binomial_loss</last-replace>
       <last-substitute>cosine_similarity</last-substitute>
       <last-dir>1</last-dir>
@@ -561,7 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry>params</entry>
         <entry>wname</entry>
         <entry>if</entry>
         <entry>device</entry>
@@ -577,10 +576,11 @@
         <entry>triain()</entry>
         <entry>train()</entry>
         <entry>print</entry>
-        <entry>train</entry>
         <entry>cfg</entry>
         <entry>main</entry>
         <entry>writer</entry>
+        <entry>epoch</entry>
+        <entry>train</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
