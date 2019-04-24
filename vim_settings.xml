@@ -140,11 +140,12 @@
         <mark key="." line="9" column="81" />
         <mark key="^" line="9" column="81" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/fix_label_annot.py" timestamp="1556087677408">
-        <mark key="[" line="39" column="104" />
-        <mark key="]" line="41" column="18" />
-        <mark key="." line="41" column="18" />
-        <mark key="^" line="41" column="18" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/fix_label_annot.py" timestamp="1556090047174">
+        <mark key="k" line="16" column="29" />
+        <mark key="[" line="43" column="0" />
+        <mark key="m" line="16" column="29" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_build_dataset.py" timestamp="1555486960126">
         <mark key="[" line="22" column="0" />
@@ -209,6 +210,13 @@
         <mark key="." line="85" column="71" />
         <mark key="^" line="85" column="71" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" timestamp="1556089156536">
+        <mark key="'" line="70" column="24" />
+        <mark key="[" line="101" column="37" />
+        <mark key="]" line="101" column="50" />
+        <mark key="^" line="101" column="50" />
+        <mark key="." line="101" column="50" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" timestamp="1555486938046">
         <mark key="'" line="48" column="27" />
         <mark key="[" line="100" column="0" />
@@ -231,6 +239,12 @@
         <mark key="]" line="77" column="64" />
         <mark key="^" line="77" column="64" />
         <mark key="." line="77" column="64" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" timestamp="1556089491079">
+        <mark key="[" line="122" column="82" />
+        <mark key="]" line="122" column="93" />
+        <mark key="^" line="122" column="93" />
+        <mark key="." line="122" column="93" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/model/classifier/fc_layers.py" timestamp="1555404048902">
         <mark key="[" line="0" column="1" />
@@ -448,37 +462,40 @@
       <jump line="104" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate.py" />
       <jump line="117" column="42" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate.py" />
       <jump line="49" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" />
+      <jump line="85" column="36" filename="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="33" column="46" filename="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="70" column="24" filename="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>labels_annot</text>
+        <text>json_category</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJveGVzX2Fubm90ID0gW25wLmFycmF5KFt0YXJnZXRbJ2Jib3gnXSBmb3IgdGFyZ2V0IGluIHRhcmdldHNdKSBmb3IgdGFyZ2V0cyBpbiBsaXN0X3RhcmdldHNdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciB0YXJnZXRzIGluIGxpc3RfdGFyZ2V0czoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciB0YXJnZXRzIGluIGxpc3RfdGFyZ2V0czoK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -487,19 +504,19 @@
         <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>labels_annot</last-search>
+      <last-search>json_category</last-search>
       <last-offset />
-      <last-pattern>labels_annot</last-pattern>
+      <last-pattern>json_category</last-pattern>
       <last-replace />
       <last-substitute>Margin</last-substitute>
       <last-dir>1</last-dir>
@@ -507,8 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cache</entry>
-        <entry>build_dataset</entry>
         <entry>transform</entry>
         <entry>buid_ex</entry>
         <entry>buid</entry>
@@ -527,6 +542,8 @@
         <entry>count_not_and</entry>
         <entry>label_annot</entry>
         <entry>labels_annot</entry>
+        <entry>classes</entry>
+        <entry>json_category</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
