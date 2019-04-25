@@ -124,13 +124,6 @@
         <mark key="." line="9" column="81" />
         <mark key="^" line="9" column="81" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/fix_label_annot.py" timestamp="1556090047174">
-        <mark key="k" line="16" column="29" />
-        <mark key="[" line="43" column="0" />
-        <mark key="m" line="16" column="29" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/db_303.sh" timestamp="1556105508603">
         <mark key="[" line="2" column="189" />
         <mark key="]" line="2" column="205" />
@@ -210,8 +203,11 @@
         <mark key="^" line="37" column="37" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" timestamp="1556083935166">
-        <mark key="'" line="49" column="44" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" timestamp="1556174010541">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" timestamp="1556089491079">
         <mark key="[" line="122" column="82" />
@@ -318,12 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" />
-      <jump line="8" column="6" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" />
-      <jump line="9" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" />
-      <jump line="77" column="14" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" />
-      <jump line="67" column="33" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
-      <jump line="68" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
       <jump line="21" column="52" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
       <jump line="47" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/coco.py" />
       <jump line="41" column="47" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/networks/siamesenet.py" />
@@ -418,58 +408,64 @@
       <jump line="100" column="3" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" />
       <jump line="89" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" />
       <jump line="20" column="38" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" />
+      <jump line="23" column="42" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" />
+      <jump line="76" column="20" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" />
+      <jump line="106" column="45" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" />
+      <jump line="27" column="15" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" />
+      <jump line="29" column="13" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2xhc3NfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>L1_NORM_WITH_REGULARIZATION</text>
       </register>
       <register name="/" type="4">
-        <text>METRIC</text>
+        <text>min_size</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdMMV9OT1JNX1dJVEhfUkVHVUxBUklaQVRJT04nOiBbMC4xICsgMC4xICogaSBmb3IgaSBpbiByYW5nZSg1KV0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2xhc3NfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgne30ve30nLmZvcm1hdChpKzEsIGxlbihkYXRhc2V0KSkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpID49IDIwMDoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2xhc3NfaWQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgne30ve30nLmZvcm1hdChpKzEsIGxlbihkYXRhc2V0KSkpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxzdF9yYXRpbyA9IFswLjEgKiB4IGZvciB4IGluIHJhbmdlKDYpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxzdF90aHJlc2hvbGQyID0gWzAuNV0K</text>
+        <text encoding="base64">ICAgICAgICBpZiBpID49IDIwMDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxzdF90aHJlc2hvbGQxID0gWzAuNV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGxzdF9yYXRpbyA9IFswLjEgKiB4IGZvciB4IGluIHJhbmdlKDYpXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>METRIC</last-search>
+      <last-search>min_size</last-search>
       <last-offset />
-      <last-pattern>METRIC</last-pattern>
+      <last-pattern>min_size</last-pattern>
       <last-replace>l1_norm_regularization</last-replace>
       <last-substitute>l1_norm</last-substitute>
       <last-dir>1</last-dir>
@@ -477,7 +473,6 @@
     </search>
     <history>
       <history-search>
-        <entry>results</entry>
         <entry>confi</entry>
         <entry>count_not_an</entry>
         <entry>count_not_and</entry>
@@ -497,6 +492,7 @@
         <entry>lst_threshold1</entry>
         <entry>print</entry>
         <entry>METRIC</entry>
+        <entry>min_size</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
