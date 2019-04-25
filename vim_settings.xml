@@ -191,11 +191,11 @@
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_regularization/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1556097012519">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" timestamp="1556164287483">
-        <mark key="'" line="15" column="34" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" timestamp="1556168479929">
+        <mark key="'" line="96" column="3" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/model/unet.py" timestamp="1554547487152">
         <mark key="[" line="40" column="0" />
@@ -284,8 +284,12 @@
         <mark key="." line="17" column="48" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate.py" timestamp="1556163771558">
-        <mark key="'" line="93" column="4" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate.py" timestamp="1556168586631">
+        <mark key="'" line="101" column="4" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555776869208">
         <mark key="'" line="0" column="0" />
@@ -307,8 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="17" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" />
-      <jump line="20" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" />
       <jump line="62" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" />
       <jump line="87" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" />
       <jump line="8" column="6" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" />
@@ -407,58 +409,60 @@
       <jump line="136" column="7" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate.py" />
       <jump line="92" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate.py" />
       <jump line="93" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate.py" />
+      <jump line="94" column="13" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" />
+      <jump line="100" column="3" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAK</text>
+      <register name="&quot;" type="4">
+        <text>L1_NORM_WITH_REGULARAZATION</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>L1_NORM_WITH_REGULARAZATION</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>EVAL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1VEQV9WSVNJQkxFX0RFVklDRVM9MSBweXRob24gdHJhaW4ucHkgfi9kYXRhc2V0L2NvY28vIC4uL2NvbmZpZ3MvY29jby9zcGxpdF9ieV9zZWVuX3Vuc2Vlbi9zaWFtZXNlX25ldC9sMV9ub3JtL25vX2FkZGl0aW9uYWxfZmVhdXJlL3ZnZ19ibG9jazNfZnJlZXplMDEyMzRfcHJldHJhaW4ueWFtbAo=</text>
+        <text encoding="base64">ICAgICdMMV9OT1JNX1dJVEhfUkVHVUxBUkFaQVRJT04nOiBbMC41XSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBjb2NvCg==</text>
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIEV2YWx1YXRpb24gcGFyYW1ldGVycwpfQy5FVkFMID0gQ04oKQpfQy5FVkFMLlRIUkVTSE9MRDEgPSAwLjUKX0MuRVZBTC5USFJFU0hPTEQyID0gewogICAgIkwxX05PUk0iOiBbMC41XSwKICAgICJMMV9OT1JNX1dJVEhfUkVHVUxBUklaQVRJT04iOiBbMC41XSwKICAgICJDT1NJTkVfU0lNSUxBUklUWSI6IFswLjVdLAp9Cl9DLkVWQUwuUkFUSU8gPSB7CiAgICAiTDFfTk9STSI6IGxpc3QocmFuZ2UoKSkKICAgICJMMV9OT1JNX1dJVEhfUkVHVUxBUklaQVRJT04iOiBbMC41XSwKICAgICJDT1NJTkVfU0lNSUxBUklUWSI6IFswLjVdLAp9Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L2hvbWUveW9zaGlha2kvd3MvcHl0b3JjaC9ubXNfd2l0aF9mZWF0dXJlL2NvbmZpZ3MvZGVmYXVsdHMucHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">IyBPbmx5IHVzZSB3aGVuIGV2YWx1YXRpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">X0MuTU9ERUwuTDFOT1JNX1RIUkVTSE9MRDIgPSBbMC41XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">X0MuTU9ERUwuTDFOT1JNX1dJVEhfUkVHVV9USFJFU0hPTEQyID0gWzAuNV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvc3NfbWV0ZXIgPSBBdmVyYWdlTWV0ZXIoKQogICAgCg==</text>
+        <text encoding="base64">X0MuTU9ERUwuTDFOT1JNX1RIUkVTSE9MRDIgPSBbMC41XQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>EVAL</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>EVAL</last-pattern>
       <last-replace>l1_norm_regularization</last-replace>
       <last-substitute>l1_norm</last-substitute>
       <last-dir>1</last-dir>
@@ -466,7 +470,6 @@
     </search>
     <history>
       <history-search>
-        <entry>params</entry>
         <entry>wname</entry>
         <entry>if</entry>
         <entry>results</entry>
@@ -486,6 +489,7 @@
         <entry>num_classes</entry>
         <entry>evaluate</entry>
         <entry>print</entry>
+        <entry>EVAL</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
