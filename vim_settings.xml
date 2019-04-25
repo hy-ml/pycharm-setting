@@ -65,10 +65,10 @@
         <mark key="'" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/metric/metric.py" timestamp="1555961006621">
-        <mark key="[" line="148" column="22" />
-        <mark key="]" line="148" column="25" />
-        <mark key="." line="148" column="25" />
-        <mark key="^" line="148" column="25" />
+        <mark key="[" line="185" column="22" />
+        <mark key="]" line="185" column="25" />
+        <mark key="." line="185" column="25" />
+        <mark key="^" line="185" column="25" />
       </file>
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/data/__init__.py" timestamp="1554544615033">
         <mark key="[" line="0" column="0" />
@@ -154,10 +154,10 @@
         <mark key="'" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/train.py" timestamp="1556051570289">
-        <mark key="'" line="118" column="4" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="93" />
-        <mark key="." line="137" column="0" />
+        <mark key="'" line="120" column="4" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="93" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/.gitignore" timestamp="1555859587254">
         <mark key="[" line="3" column="0" />
@@ -199,10 +199,10 @@
         <mark key="'" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/support_tools/make_subset_detection_result.py" timestamp="1556047801841">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="43" column="37" />
-        <mark key="." line="43" column="37" />
-        <mark key="^" line="43" column="37" />
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="44" column="37" />
+        <mark key="." line="44" column="37" />
+        <mark key="^" line="44" column="37" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1555395882795">
         <mark key="'" line="53" column="4" />
@@ -274,11 +274,7 @@
         <mark key="." line="0" column="29" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" timestamp="1555901071639">
-        <mark key="'" line="153" column="4" />
-        <mark key="[" line="91" column="31" />
-        <mark key="]" line="92" column="48" />
-        <mark key="." line="92" column="48" />
-        <mark key="^" line="92" column="48" />
+        <mark key="'" line="175" column="4" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/dataset/test_coco_train.py" timestamp="1555420985925">
         <mark key="[" line="17" column="14" />
