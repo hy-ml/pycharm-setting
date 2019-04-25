@@ -9,6 +9,12 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
+      <file name="$USER_HOME$/ws/python/box_share_tool/a.py" timestamp="1556198830968">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/python/box_share_tool/tmp.py" timestamp="1556189660034">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -19,23 +25,44 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">YXV0aCA9IEpXVEF1dGguZnJvbV9zZXR0aW5nc19maWxlKCcuL2EuanNvbicpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXV0aCA9IEpXVEF1dGguZnJvbV9zZXR0aW5nc19maWxlKCcuL2EuanNvbicpCg==</text>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">YmFzZV9kaXIgPSByb290X2ZvbGRlci5jcmVhdGVfc3ViZm9sZGVyKCdhYWEvYmJiL2NjYycpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">YmFzZV9kaXIgPSByb290X2ZvbGRlci5jcmVhdGVfc3ViZm9sZGVyKCdhYWEnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoSldUQXV0aCkK</text>
+        <text encoding="base64">YmFzZV9kaXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQoJ1RoZSBjdXJyZW50IHVzZXIgSUQgaXMgezB9Jy5mb3JtYXQodXNlci5pZCkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlciA9IGNsaWVudC51c2VyKCkuZ2V0KCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlciA9IGNsaWVudC51c2VyKCkuZ2V0KCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">YXV0aCA9IEpXVEF1dGguZnJvbV9zZXR0aW5nc19maWxlKCcuL2EuanNvbicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>h</text>
       </register>
     </registers>
     <search>
