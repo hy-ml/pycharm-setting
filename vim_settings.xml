@@ -251,12 +251,12 @@
         <mark key="^" line="37" column="37" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" timestamp="1556183026531">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" timestamp="1556183208532">
         <mark key="'" line="33" column="41" />
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="26" />
-        <mark key="^" line="27" column="26" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1555395882795">
         <mark key="'" line="53" column="4" />
@@ -319,7 +319,7 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556183035881">
+      <file name="/Dummy.txt" timestamp="1556183073189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/coco.py" timestamp="1555400105442">
@@ -409,7 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" />
       <jump line="9" column="67" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" />
       <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" />
       <jump line="10" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" />
@@ -509,10 +508,11 @@
       <jump line="112" column="75" filename="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
       <jump line="121" column="42" filename="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
       <jump line="125" column="39" filename="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGF0aGxpYgo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -524,34 +524,34 @@
         <text encoding="base64">ICAgICdMMV9OT1JNX1dJVEhfUkVHVUxBUklaQVRJT04nOiBbMC4xICsgMC4xICogaSBmb3IgaSBpbiByYW5nZSg1KV0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGF0aGxpYgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2xhc3NfaWQpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgne30ve30nLmZvcm1hdChpKzEsIGxlbihkYXRhc2V0KSkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpID49IDIwMDoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2xhc3NfaWQpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgne30ve30nLmZvcm1hdChpKzEsIGxlbihkYXRhc2V0KSkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpID49IDIwMDoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxzdF9yYXRpbyA9IFswLjEgKiB4IGZvciB4IGluIHJhbmdlKDYpXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -632,6 +632,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
