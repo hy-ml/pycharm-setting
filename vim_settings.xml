@@ -90,7 +90,6 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/collate_batch.py" timestamp="1556175076665" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg.yaml" timestamp="1555777776485">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="5" column="19" />
@@ -201,7 +200,6 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/desk_303.sh" timestamp="1556105199391" />
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" timestamp="1556172951646">
         <mark key="'" line="20" column="38" />
         <mark key="[" line="92" column="36" />
@@ -253,11 +251,12 @@
         <mark key="^" line="37" column="37" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" timestamp="1556174700793">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" timestamp="1556183026531">
         <mark key="'" line="33" column="41" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/scripts/evaluate.py" timestamp="1555395882795">
         <mark key="'" line="53" column="4" />
@@ -319,6 +318,9 @@
         <mark key="]" line="36" column="44" />
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556183035881">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/suppression_network/data/dataset/coco.py" timestamp="1555400105442">
         <mark key="[" line="100" column="23" />
@@ -627,6 +629,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
