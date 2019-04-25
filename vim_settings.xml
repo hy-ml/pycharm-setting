@@ -34,10 +34,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/lib/upload.py" timestamp="1556213478141">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/ws/python/box_share_tool/lib/upload.py" timestamp="1556214751712">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/ws/python/box_share_tool/push.py" timestamp="1556211713383">
         <mark key="'" line="83" column="39" />
@@ -75,7 +75,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJvb3RfZm9sZGVyLmZpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihjdXJyZW50X2Rpci5nZXRfaXRlbXMoKSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -87,31 +87,31 @@
         <text encoding="base64">ICAgIHByaW50KCdTdWNjZXNzIHVwbG9hZDoge30nLmZvcm1hdChsb2NhbF9maWxlX3BhdGgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJvb3RfZm9sZGVyLmZpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihjdXJyZW50X2Rpci5nZXRfaXRlbXMoKSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5mCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpdGVtKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgIGZvciBpdGVtIGluIGN1cnJlbnRfZGlyLmdldF9pdGVtcygpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZvbGRlcl9pZCkK</text>
+        <text encoding="base64">ICAgIHJvb3RfZm9sZGVyLmZpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgIGNsaWVudC5mCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50X3N0cmVhbSA9IG9wZW4odGVzdF9maWxlX3BhdGgsICdyYicpCg==</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdGaWxlICJ7MH0iIHVwbG9hZGVkIHRvIEJveCB3aXRoIGZpbGUgSUQgezF9Jy5mb3JtYXQodXBsb2FkZWRfZmlsZS5uYW1lLCB1cGxvYWRlZF9maWxlLmlkKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGZvbGRlcl9pZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnc3VjY2VzcycpCg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50X3N0cmVhbSA9IG9wZW4odGVzdF9maWxlX3BhdGgsICdyYicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
