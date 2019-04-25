@@ -416,7 +416,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>evaluate</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1VEQV9WSVNJQkxFX0RFVklDRVM9MSBweXRob24gdHJhaW4ucHkgfi9kYXRhc2V0L2NvY28vIC4uL2NvbmZpZ3MvY29jby9zcGxpdF9ieV9zZWVuX3Vuc2Vlbi9zaWFtZXNlX25ldC9sMV9ub3JtL25vX2FkZGl0aW9uYWxfZmVhdXJlL3ZnZ19ibG9jazNfZnJlZXplMDEyMzRfcHJldHJhaW4ueWFtbAo=</text>
@@ -456,9 +456,9 @@
       </register>
     </registers>
     <search>
-      <last-search>evaluate</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>evaluate</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>l1_norm_regularization</last-replace>
       <last-substitute>l1_norm</last-substitute>
       <last-dir>1</last-dir>
@@ -478,7 +478,6 @@
         <entry>classes</entry>
         <entry>json_category</entry>
         <entry>sigmo</entry>
-        <entry>print</entry>
         <entry>20</entry>
         <entry>L1Norm</entry>
         <entry>l1_norm</entry>
@@ -486,6 +485,7 @@
         <entry>max_seen_label</entry>
         <entry>num_classes</entry>
         <entry>evaluate</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz44Mg==</entry>
