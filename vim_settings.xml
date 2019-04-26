@@ -9,6 +9,21 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1556210107812">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/python/box_share_tool/upload.py" timestamp="1556210121013">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/python/box_share_tool/lib/authenticate.py" timestamp="1556210762087">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="51" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/ws/python/box_share_tool/auth.json" timestamp="1556185209503" />
       <file name="$USER_HOME$/ws/python/box_share_tool/a.py" timestamp="1556201048467">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="9" />
@@ -45,21 +60,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1556210107812">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/upload.py" timestamp="1556210121013">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/lib/authenticate.py" timestamp="1556210762087">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="51" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/auth.json" timestamp="1556185209503" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/ws/python/box_share_tool/a.py" />
