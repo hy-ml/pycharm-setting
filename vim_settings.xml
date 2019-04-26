@@ -33,10 +33,10 @@
         <mark key="^" line="42" column="93" />
         <mark key="." line="41" column="91" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" timestamp="1556103856937">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" timestamp="1556244847183">
         <mark key="'" line="15" column="26" />
-        <mark key="[" line="46" column="10" />
-        <mark key="]" line="46" column="10" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="34" />
         <mark key="." line="46" column="10" />
         <mark key="^" line="46" column="23" />
       </file>
@@ -90,7 +90,6 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/collate_batch.py" timestamp="1556187456575" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg.yaml" timestamp="1555777776485">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="5" column="19" />
@@ -103,6 +102,12 @@
         <mark key="]" line="56" column="7" />
         <mark key="." line="56" column="7" />
         <mark key="^" line="56" column="7" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/evaluation/make_csv.py" timestamp="1556247051398">
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="46" column="17" />
+        <mark key="." line="46" column="17" />
+        <mark key="^" line="46" column="17" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/cosine_similarity_loss.py" timestamp="1555789576763">
         <mark key="[" line="28" column="0" />
@@ -201,13 +206,6 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" timestamp="1556172951646">
-        <mark key="'" line="20" column="38" />
-        <mark key="[" line="92" column="36" />
-        <mark key="]" line="92" column="41" />
-        <mark key="^" line="92" column="41" />
-        <mark key="." line="92" column="41" />
-      </file>
       <file name="$USER_HOME$/dataset/coco/tools/split_train_val.py" timestamp="1555574586650">
         <mark key="[" line="44" column="60" />
         <mark key="]" line="44" column="60" />
@@ -252,7 +250,7 @@
         <mark key="^" line="37" column="37" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" timestamp="1556187128909">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" timestamp="1556244541493">
         <mark key="'" line="33" column="41" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -378,9 +376,9 @@
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate.py" timestamp="1556173280832">
         <mark key="'" line="93" column="4" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="16" />
-        <mark key="." line="117" column="16" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="16" />
+        <mark key="." line="116" column="16" />
         <mark key="^" line="115" column="15" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" timestamp="1555776869208">
@@ -410,7 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" />
       <jump line="6" column="2" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feaure/vgg_block24_freeze01234_pretrain.yaml" />
       <jump line="3" column="31" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" />
       <jump line="38" column="15" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotate.py" />
@@ -510,67 +507,66 @@
       <jump line="18" column="44" filename="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
       <jump line="104" column="20" filename="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
       <jump line="110" column="22" filename="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
+      <jump line="22" column="18" filename="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/evaluation/make_csv.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>results_reshaped</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>results_reshaped</text>
       </register>
       <register name="/" type="4">
-        <text>lod</text>
+        <text>make</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdMMV9OT1JNX1dJVEhfUkVHVUxBUklaQVRJT04nOiBbMC4xICsgMC4xICogaSBmb3IgaSBpbiByYW5nZSg1KV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmF0aW9fbm90X3NlZW5fZGV0ZWN0ZWQgPSByZXN1bHRzX3Jlc2hhcGVkW3RocmVzaG9sZDJdW3JhdGlvXVsnbm90X2RldGVjdGVkX3NlZW4nXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGF0aGxpYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmF0aW8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2xhc3NfaWQpCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdHNfcmVzaGFwZWQgPSB7fQogICAgZm9yIGV2YWxfcmVzdWx0IGluIGxpc3RfZXZhbF9yZXN1bHQ6CiAgICAgICAgdGhyZXNob2xkMiA9IHJvdW5kKGV2YWxfcmVzdWx0Wyd0aHJlc2hvbGQyJ10sIDIpCiAgICAgICAgcmF0aW8gPSByb3VuZChldmFsX3Jlc3VsdFsncmF0aW8nXSwgMikKCiAgICAgICAgaWYgdGhyZXNob2xkMiBub3QgaW4gcmVzdWx0c19yZXNoYXBlZC5rZXlzKCk6CiAgICAgICAgICAgIHJlc3VsdHNfcmVzaGFwZWRbdGhyZXNob2xkMl0gPSB7fQoKICAgICAgICByZXN1bHRzX3Jlc2hhcGVkW3RocmVzaG9sZDJdW3JhdGlvXSA9IGRpY3QoCiAgICAgICAgICAgIG5vdF9kZXRlY3RlZF9zZWVuPWV2YWxfcmVzdWx0WydyYXRpb19ub3RfZGV0ZWN0ZWRfc2VlbiddLAogICAgICAgICAgICB0b29fZGV0ZWN0ZWRfc2Vlbj0gZXZhbF9yZXN1bHRbJ3JhdGlvX3Rvb19kZXRlY3RlZF9zZWVuJ10sCiAgICAgICAgICAgIG5vdF9kZXRlY3RlZF91bnNlZW49ZXZhbF9yZXN1bHRbJ3JhdGlvX25vdF9kZXRlY3RlZF91bnNlZW4nXSwKICAgICAgICAgICAgdG9vX2RldGVjdGVkX3Vuc2Vlbj1ldmFsX3Jlc3VsdFsncmF0aW9fdG9vX2RldGVjdGVkX3Vuc2VlbiddLAogICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgne30ve30nLmZvcm1hdChpKzEsIGxlbihkYXRhc2V0KSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGlybnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpID49IDIwMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmF0aW8pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmF0aW8gPSByb3VuZChyYXRpbywgMikK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lod</last-search>
+      <last-search>make</last-search>
       <last-offset />
-      <last-pattern>lod</last-pattern>
-      <last-replace>l1_norm_regularization</last-replace>
-      <last-substitute>l1_norm</last-substitute>
+      <last-pattern>make</last-pattern>
+      <last-replace>results_reshaped</last-replace>
+      <last-substitute>results_sorted</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>l1_norm</entry>
-        <entry>100</entry>
         <entry>max_seen_label</entry>
         <entry>num_classes</entry>
         <entry>evaluate</entry>
@@ -589,10 +585,10 @@
         <entry>eval</entry>
         <entry>model</entry>
         <entry>lod</entry>
+        <entry>results_sorted</entry>
+        <entry>make</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/pass/return 1/g</entry>
-        <entry>%s/raise NotImplementedError/return 1/g</entry>
         <entry>e</entry>
         <entry>60</entry>
         <entry>%s/vgg/l1_norm\/vgg/g</entry>
@@ -608,9 +604,11 @@
         <entry>w'</entry>
         <entry>.,.+33332w</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>86</entry>
         <entry>wq</entry>
+        <entry>27</entry>
+        <entry>%s/results_sorted/results_reshaped/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -636,6 +634,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
