@@ -9,6 +9,12 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate_multi_process.py" timestamp="1556239834851">
+        <mark key="[" line="69" column="59" />
+        <mark key="]" line="70" column="26" />
+        <mark key="." line="70" column="26" />
+        <mark key="^" line="70" column="26" />
+      </file>
       <file name="/a.dummy" timestamp="1556210107812">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,44 +80,44 @@
       <jump line="65" column="39" filename="$USER_HOME$/ws/python/box_share_tool/push.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihjdXJyZW50X2Rpci5nZXRfaXRlbXMoKSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>save_path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>save_path</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdTdWNjZXNzIHVwbG9hZDoge30nLmZvcm1hdChsb2NhbF9maWxlX3BhdGgpKQo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihzYXZlX3BhdGgsICd3YicpIGFzIGZwOgogICAgICAgIHBpY2tsZS5kdW1wKHJlc3VsdHMsIGZwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihjdXJyZW50X2Rpci5nZXRfaXRlbXMoKSkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpdGVtKQo=</text>
+        <text encoding="base64">ZnJvbSB0aW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBpdGVtIGluIGN1cnJlbnRfZGlyLmdldF9pdGVtcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvb3RfZm9sZGVyLmZpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5mCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihjdXJyZW50X2Rpci5nZXRfaXRlbXMoKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpdGVtKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGZvbGRlcl9pZCkK</text>
+        <text encoding="base64">ICAgIGZvciBpdGVtIGluIGN1cnJlbnRfZGlyLmdldF9pdGVtcygpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgIHJvb3RfZm9sZGVyLmZpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50X3N0cmVhbSA9IG9wZW4odGVzdF9maWxlX3BhdGgsICdyYicpCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudC5mCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
