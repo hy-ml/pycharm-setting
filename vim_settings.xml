@@ -235,13 +235,6 @@
         <mark key="." line="100" column="0" />
         <mark key="^" line="65" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/model/suppressor/suppressor.py" timestamp="1556251970364">
-        <mark key="'" line="162" column="8" />
-        <mark key="[" line="133" column="56" />
-        <mark key="]" line="133" column="58" />
-        <mark key="^" line="133" column="58" />
-        <mark key="." line="133" column="58" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" timestamp="1556168479929">
         <mark key="'" line="96" column="3" />
         <mark key="[" line="92" column="0" />
