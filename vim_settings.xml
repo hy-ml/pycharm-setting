@@ -253,12 +253,19 @@
         <mark key="." line="100" column="0" />
         <mark key="^" line="65" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/model/suppressor/suppressor.py" timestamp="1556273053130">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/model/suppressor/suppressor.py" timestamp="1556274594088">
         <mark key="'" line="42" column="25" />
         <mark key="[" line="152" column="38" />
         <mark key="]" line="154" column="22" />
         <mark key="." line="154" column="22" />
         <mark key="^" line="154" column="22" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" timestamp="1556275188907">
+        <mark key="'" line="96" column="3" />
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="23" />
+        <mark key="^" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/model/unet.py" timestamp="1554547487152">
         <mark key="[" line="40" column="0" />
@@ -323,6 +330,12 @@
         <mark key="]" line="103" column="54" />
         <mark key="^" line="103" column="54" />
         <mark key="." line="103" column="54" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/model/mlp/fc_layers.py" timestamp="1556275120048">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="44" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" timestamp="1555419277408">
         <mark key="'" line="20" column="27" />
@@ -534,11 +547,11 @@
       <jump line="42" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_feature/model/suppressor/suppressor.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>pdb</text>
