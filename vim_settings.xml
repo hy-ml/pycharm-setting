@@ -3,157 +3,57 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/python/box_share_tool/config.json" timestamp="1556183014318">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate_multi_process.py" timestamp="1556239834851">
-        <mark key="[" line="69" column="59" />
-        <mark key="]" line="70" column="26" />
-        <mark key="." line="70" column="26" />
-        <mark key="^" line="70" column="26" />
-      </file>
-      <file name="/a.dummy" timestamp="1556210107812">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/upload.py" timestamp="1556210121013">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/lib/authenticate.py" timestamp="1556210762087">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="51" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/auth.json" timestamp="1556185209503" />
-      <file name="$USER_HOME$/ws/python/box_share_tool/a.py" timestamp="1556201048467">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/b.py" timestamp="1556208920529">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-      </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/sample.yml" timestamp="1556210935082">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/tmp.py" timestamp="1556189660034">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="4" column="42" />
-      </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/lib/upload.py" timestamp="1556214751712">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/python/box_share_tool/push.py" timestamp="1556211713383">
-        <mark key="'" line="83" column="39" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556428524105">
+        <mark key="'" line="3" column="7" />
+        <mark key="[" line="38" column="62" />
+        <mark key="]" line="38" column="62" />
+        <mark key="." line="38" column="62" />
+        <mark key="^" line="38" column="62" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/ws/python/box_share_tool/a.py" />
-      <jump line="6" column="30" filename="$USER_HOME$/ws/python/box_share_tool/push.py" />
-      <jump line="24" column="28" filename="$USER_HOME$/ws/python/box_share_tool/push.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/ws/python/box_share_tool/push.py" />
-      <jump line="45" column="4" filename="$USER_HOME$/ws/python/box_share_tool/push.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/ws/python/box_share_tool/push.py" />
-      <jump line="10" column="4" filename="$USER_HOME$/ws/python/box_share_tool/push.py" />
-      <jump line="27" column="22" filename="$USER_HOME$/ws/python/box_share_tool/push.py" />
-      <jump line="52" column="59" filename="$USER_HOME$/ws/python/box_share_tool/push.py" />
-      <jump line="65" column="39" filename="$USER_HOME$/ws/python/box_share_tool/push.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" />
+      <jump line="3" column="7" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>save_path</text>
-      </register>
-      <register name="-" type="4">
-        <text>save_path</text>
-      </register>
-      <register name="/" type="4">
-        <text>print</text>
-      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihzYXZlX3BhdGgsICd3YicpIGFzIGZwOgogICAgICAgIHBpY2tsZS5kdW1wKHJlc3VsdHMsIGZwKQo=</text>
+        <text encoding="base64">ICAgICAgICBjZmcgPSB5YW1sLmxvYWQoZnAsIExvYWRlcj15YW1sLkZ1bGxMb2FkZXIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>)</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihjdXJyZW50X2Rpci5nZXRfaXRlbXMoKSkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpdGVtKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBpdGVtIGluIGN1cnJlbnRfZGlyLmdldF9pdGVtcygpOgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJvb3RfZm9sZGVyLmZpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5mCg==</text>
+        <text encoding="base64">ICAgIGltZ18K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+      <register name="/" type="4">
+        <text>yaml</text>
+      </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>yaml</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>yaml</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>file_path</entry>
-        <entry>upload</entry>
-        <entry>upload_file</entry>
-        <entry>pdb</entry>
-        <entry>print</entry>
+        <entry>yaml</entry>
       </history-search>
       <history-cmd>
-        <entry>29</entry>
-        <entry>26</entry>
         <entry>wq</entry>
-        <entry>34</entry>
-        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
 </application>
