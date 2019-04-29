@@ -3,31 +3,54 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556524525976">
-        <mark key="[" line="40" column="32" />
-        <mark key="]" line="40" column="32" />
-        <mark key="^" line="40" column="32" />
-        <mark key="." line="40" column="32" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556529087003">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="36" column="32" />
+        <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" timestamp="1556523355882">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" timestamp="1556526225588">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556524598734">
-        <mark key="'" line="58" column="29" />
-        <mark key="[" line="42" column="69" />
-        <mark key="]" line="42" column="69" />
-        <mark key="." line="42" column="69" />
-        <mark key="^" line="42" column="69" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556528111654">
+        <mark key="'" line="78" column="41" />
+        <mark key="[" line="79" column="38" />
+        <mark key="]" line="79" column="56" />
+        <mark key="." line="79" column="56" />
+        <mark key="^" line="79" column="56" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556519420528">
-        <mark key="'" line="3" column="7" />
-        <mark key="[" line="44" column="44" />
-        <mark key="]" line="44" column="55" />
-        <mark key="." line="44" column="55" />
-        <mark key="^" line="44" column="55" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/21pts.yml" timestamp="1556528350458">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="9" column="22" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/guide/21pts.csv" timestamp="1556528338825">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556528233491">
+        <mark key="'" line="15" column="18" />
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="15" column="57" />
+        <mark key="^" line="15" column="57" />
+        <mark key="." line="15" column="57" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/guide/14pts.csv" timestamp="1556528798566">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/14pts.yml" timestamp="1556528875440">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="10" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -40,57 +63,73 @@
       <jump line="65" column="16" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
       <jump line="51" column="29" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="50" column="24" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
+      <jump line="80" column="18" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="46" column="26" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" />
+      <jump line="4" column="22" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" />
+      <jump line="32" column="18" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="33" column="16" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="79" column="12" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="15" column="19" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" />
+      <jump line="15" column="18" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" />
+      <jump line="90" column="28" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="23" column="12" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="20" column="30" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="86" column="17" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="13" column="25" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="83" column="28" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="75" column="41" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwWzBdIDwgMCBvciBwWzFdIDwgMDoK</text>
-      </register>
-      <register name="-" type="4">
-        <text>[</text>
-      </register>
-      <register name="/" type="4">
-        <text>print</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2FtcGxlX2ltZzogImltZ18xNi5wbmciCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwWzBdIDwgMCBvciBwWzFdIDwgMDoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwWzBdIDwgMCBvciBwcmV2X3BbMF0gPCAwOgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text>des</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">MTY1LDU0Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHBbMF0gPCAwIG9yIHByZXZfcFswXSA8IDA6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgIHByaW50KCdzYXZlJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIHNhdmVfa2V5cG9pbnRzKCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>des</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-replace>keypoints</last-replace>
-      <last-substitute>point_list</last-substitute>
+      <last-pattern>des</last-pattern>
+      <last-replace>guide</last-replace>
+      <last-substitute>example</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -101,15 +140,34 @@
         <entry>draw</entry>
         <entry>prev_p</entry>
         <entry>pdb</entry>
-        <entry>point_list</entry>
         <entry>print</entry>
+        <entry>point_list</entry>
+        <entry>Anno</entry>
+        <entry>mouse</entry>
+        <entry>imshow</entry>
+        <entry>_show_ex</entry>
+        <entry>sample</entry>
+        <entry>example</entry>
+        <entry>self.guide_wname</entry>
+        <entry>update_w</entry>
+        <entry>updata_ex</entry>
+        <entry>update</entry>
+        <entry>Annotation</entry>
+        <entry>des</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>%s/i/idx/gc</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry>%s/point_list/keypoints/gc</entry>
+        <entry>s</entry>
+        <entry>56</entry>
+        <entry>%s/sample/guide/gc</entry>
+        <entry>18</entry>
+        <entry>%s/example/guide/gc</entry>
+        <entry>qw</entry>
+        <entry encoding="base64">IHc=</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
