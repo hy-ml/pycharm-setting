@@ -13,10 +13,11 @@
       <file name="/a.dummy" timestamp="1556541177673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" timestamp="1556539118680">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" timestamp="1556543273554">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="32" column="26" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/21pts.yml" timestamp="1556530352405">
         <mark key="[" line="10" column="20" />
@@ -59,11 +60,12 @@
         <mark key="^" line="36" column="32" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556541967134">
-        <mark key="[" line="64" column="39" />
-        <mark key="]" line="66" column="47" />
-        <mark key="^" line="66" column="47" />
-        <mark key="." line="66" column="47" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556543297800">
+        <mark key="'" line="8" column="16" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="54" column="31" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" timestamp="1556526225588">
         <mark key="'" line="11" column="0" />
@@ -116,13 +118,14 @@
       <jump line="83" column="28" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="75" column="41" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="14" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/guide/14pts.csv" />
+      <jump line="8" column="16" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfLCBoLCB3ID0gaW1nLnNoYXBlCg==</text>
+        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>des</text>
@@ -131,31 +134,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmltZ19wYXRocyA9IHNvcnRlZChnbG9iKG9zLnBhdGguam9pbihpbWdfZGlyLCAnKicpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfLCBoLCB3ID0gaW1nLnNoYXBlCg==</text>
+        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWF0bWFwID0gbnAuemVyb3MoKCkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfdHJhbnNmb3JtKHNlbGYsIGltZywga2V5cG9pbnRzKToKICAgICAgICBzY2FsZV93ID0gc2VsZi5pbWdfc2l6ZVswXSAvIGltZy5zaXplWzBdCiAgICAgICAgc2NhbGVfaCA9IHNlbGYuaW1nX3NpemVbMV0gLyBpbWcuc2l6ZVsxXQogICAgICAgIGtleXBvaW50c19yZXNpemVkID0gbnAuaW50KGtleXBvaW50cyAqIG5wLmFycmF5KFtzY2FsZV93LCBzY2FsZV9oXSkpCgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgPSBucC50cmFuc3Bvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAuYXNhcnJheShpbWcsIGR0eXBlPW5wLmZsb2F0MzIpLCBrZXlwb2ludHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoLCB3ID0gaW1nLnNoYXBlW10K</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnAuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUb0hlYXRtYXAoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhdG1hcFtpLCB5LCB4XSA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
