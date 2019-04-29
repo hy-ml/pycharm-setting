@@ -76,11 +76,10 @@
         <mark key="." line="35" column="19" />
         <mark key="^" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556550725376">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556552213697">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
         <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" timestamp="1556526225588">
@@ -150,7 +149,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhLnRyYW5zZm9ybXMgaW1wb3J0IGJ1aWxkX3RyYW5zZm9ybXMK</text>
+        <text encoding="base64">Y2xhc3MgTm9ybWFsaXplKG9iamVjdCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgbWVhbj1Ob25lKToKICAgICAgICBzZWxmLm1lYW4gPSBtZWFuCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsIGltZywga2V5cG9pbnRzKToKICAgICAgICBpZiBzZWxmLm1lYW4gaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGltZyAtPSBzZWxmLm1lYW4KICAgICAgICBpbWcgLz0gMjU1LgogICAgICAgIHJldHVybiBpbWcsIGtleXBvaW50cwoKCg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -162,16 +161,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1NpemUgb2YgaW1hZ2UgYW5kIG1lYW4gc2hvdWxkIGJlIHNhbWUuJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhLnRyYW5zZm9ybXMgaW1wb3J0IGJ1aWxkX3RyYW5zZm9ybXMK</text>
+        <text encoding="base64">Y2xhc3MgTm9ybWFsaXplKG9iamVjdCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgbWVhbj1Ob25lKToKICAgICAgICBzZWxmLm1lYW4gPSBtZWFuCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsIGltZywga2V5cG9pbnRzKToKICAgICAgICBpZiBzZWxmLm1lYW4gaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGltZyAtPSBzZWxmLm1lYW4KICAgICAgICBpbWcgLz0gMjU1LgogICAgICAgIHJldHVybiBpbWcsIGtleXBvaW50cwoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl90cmFuc2Zvcm1zIGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">ZnJvbSBkYXRhLnRyYW5zZm9ybXMgaW1wb3J0IGJ1aWxkX3RyYW5zZm9ybXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl90cmFuc2Zvcm1zIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -180,13 +179,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgb3MucGF0aC5qb2luKCcuLi8uLicsIGNmZ1snbWVhbiddKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEtleXBvaW50c0RhdGFzZXQoaW1nX2Rpciwga2V5cG9pbnRzX2RpciwgKDIyNCwgMjI0KSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgb3MucGF0aC5qb2luKCcuLi8uLicsIGNmZ1snbWVhbiddKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBOb3JtYWxpemUobWVhbiksCg==</text>
+        <text encoding="base64">ICAgIEtleXBvaW50c0RhdGFzZXQoaW1nX2Rpciwga2V5cG9pbnRzX2RpciwgKDIyNCwgMjI0KSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
