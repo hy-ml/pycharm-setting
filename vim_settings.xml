@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556511070819">
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556428524105">
         <mark key="'" line="3" column="7" />
         <mark key="[" line="38" column="62" />
@@ -20,12 +25,15 @@
         <text encoding="base64">ICAgICAgICBjZmcgPSB5YW1sLmxvYWQoZnAsIExvYWRlcj15YW1sLkZ1bGxMb2FkZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpbWcK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBpbWcK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGltZ18K</text>
       </register>
       <register name=":" type="4">
