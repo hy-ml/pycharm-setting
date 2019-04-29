@@ -13,11 +13,10 @@
       <file name="/a.dummy" timestamp="1556532918358">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" timestamp="1556533288195">
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="24" column="11" />
-        <mark key="^" line="24" column="11" />
-        <mark key="." line="24" column="11" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" timestamp="1556539118680">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/21pts.yml" timestamp="1556530352405">
         <mark key="[" line="10" column="20" />
@@ -47,6 +46,12 @@
         <mark key="]" line="10" column="29" />
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transform.py" timestamp="1556540215917">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="31" column="34" />
+        <mark key="^" line="31" column="34" />
+        <mark key="." line="31" column="34" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556529087003">
         <mark key="[" line="80" column="0" />
@@ -107,11 +112,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/guide/14pts.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>des</text>
@@ -120,31 +125,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmltZ19wYXRocyA9IHNvcnRlZChnbG9iKG9zLnBhdGguam9pbihpbWdfZGlyLCAnKicpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5wb2ludHMgPSBucG9pbnRzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIHRvX251bXB5KGltZyk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBucC5hc2FycmF5KGltZywgZHR5cGU9bnAuZmxvYXQzMikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICByZXRyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIG5vcm1hbGl6ZShpbWcsKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ZGVmIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
