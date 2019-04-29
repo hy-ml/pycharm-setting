@@ -10,14 +10,24 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/pose_estimation/sample.yml.py" timestamp="1556548941060">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_transforms.py" timestamp="1556548657824">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1556541177673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" timestamp="1556543273554">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="32" column="26" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" timestamp="1556549530506">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/21pts.yml" timestamp="1556530352405">
         <mark key="[" line="10" column="20" />
@@ -25,15 +35,21 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_keypoints_dataset.py" timestamp="1556549414837">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/guide/21pts.csv" timestamp="1556528338825">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="6" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556528233491">
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556547010039">
         <mark key="'" line="15" column="18" />
-        <mark key="[" line="15" column="59" />
-        <mark key="]" line="15" column="57" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="27" />
         <mark key="^" line="15" column="57" />
         <mark key="." line="15" column="57" />
       </file>
@@ -42,11 +58,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/14pts.yml" timestamp="1556530330983">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="29" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/14pts.yml" timestamp="1556548843919">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
         <mark key="^" line="10" column="29" />
-        <mark key="." line="10" column="29" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transform.py" timestamp="1556540980620">
         <mark key="[" line="52" column="39" />
@@ -54,18 +70,18 @@
         <mark key="^" line="53" column="11" />
         <mark key="." line="53" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556529087003">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="36" column="32" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556548423867">
+        <mark key="[" line="35" column="20" />
+        <mark key="]" line="35" column="19" />
+        <mark key="." line="35" column="19" />
+        <mark key="^" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556543297800">
-        <mark key="'" line="8" column="16" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="54" column="31" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556548221407">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="71" column="19" />
+        <mark key="." line="71" column="19" />
+        <mark key="^" line="71" column="19" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" timestamp="1556526225588">
         <mark key="'" line="11" column="0" />
@@ -89,6 +105,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="33" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/pose_estimation/defaults.yml" timestamp="1556549297343">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -119,55 +141,59 @@
       <jump line="75" column="41" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="14" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/guide/14pts.csv" />
       <jump line="8" column="16" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" />
+      <jump line="9" column="32" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" />
+      <jump line="10" column="17" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" />
+      <jump line="27" column="26" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_keypoints_dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>des</text>
+        <text>mean</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmltZ19wYXRocyA9IHNvcnRlZChnbG9iKG9zLnBhdGguam9pbihpbWdfZGlyLCAnKicpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1NpemUgb2YgaW1hZ2UgYW5kIG1lYW4gc2hvdWxkIGJlIHNhbWUuJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZyA9ICdTaXplIG9mIGltYWdlIGFuZCBtZWFuIHNob3VsZCBiZSBzYW1lLiBHb3QgaW1hZ2U6ICcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfdHJhbnNmb3JtKHNlbGYsIGltZywga2V5cG9pbnRzKToKICAgICAgICBzY2FsZV93ID0gc2VsZi5pbWdfc2l6ZVswXSAvIGltZy5zaXplWzBdCiAgICAgICAgc2NhbGVfaCA9IHNlbGYuaW1nX3NpemVbMV0gLyBpbWcuc2l6ZVsxXQogICAgICAgIGtleXBvaW50c19yZXNpemVkID0gbnAuaW50KGtleXBvaW50cyAqIG5wLmFycmF5KFtzY2FsZV93LCBzY2FsZV9oXSkpCgogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZyA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAnbGl0dGxlX2ZpbmdlciddCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsCg==</text>
+        <text encoding="base64">ZmluZ2VycyA9IFsndGh1bWInLCAncG9pbnRlcl9maW5nZXInLCAnbWlkZGxlX2ZpbmdlcicsICdyaW5nX2ZpbmdlcicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhdG1hcFtpLCB5LCB4XSA9IAo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>des</last-search>
+      <last-search>mean</last-search>
       <last-offset />
-      <last-pattern>des</last-pattern>
+      <last-pattern>mean</last-pattern>
       <last-replace>guide</last-replace>
       <last-substitute>example</last-substitute>
       <last-dir>1</last-dir>
@@ -175,11 +201,9 @@
     </search>
     <history>
       <history-search>
-        <entry>yaml</entry>
         <entry>i</entry>
         <entry>draw</entry>
         <entry>prev_p</entry>
-        <entry>pdb</entry>
         <entry>print</entry>
         <entry>point_list</entry>
         <entry>Anno</entry>
@@ -194,6 +218,9 @@
         <entry>update</entry>
         <entry>Annotation</entry>
         <entry>des</entry>
+        <entry>pdb</entry>
+        <entry>path_mean</entry>
+        <entry>mean</entry>
       </history-search>
       <history-cmd>
         <entry>%s/i/idx/gc</entry>
@@ -207,11 +234,18 @@
         <entry>qw</entry>
         <entry encoding="base64">IHc=</entry>
         <entry>q!</entry>
+        <entry>58</entry>
+        <entry>:w</entry>
         <entry>q</entry>
+        <entry>71</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
