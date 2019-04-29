@@ -22,12 +22,12 @@
       <file name="/a.dummy" timestamp="1556541177673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" timestamp="1556549530506">
-        <mark key="'" line="9" column="17" />
-        <mark key="[" line="20" column="50" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="30" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" timestamp="1556550768620">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="8" column="56" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/21pts.yml" timestamp="1556530352405">
         <mark key="[" line="10" column="20" />
@@ -35,11 +35,11 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_keypoints_dataset.py" timestamp="1556549414837">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="16" column="7" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_keypoints_dataset.py" timestamp="1556550805084">
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+        <mark key="." line="21" column="54" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/guide/21pts.csv" timestamp="1556528338825">
         <mark key="[" line="20" column="0" />
@@ -76,12 +76,12 @@
         <mark key="." line="35" column="19" />
         <mark key="^" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556548221407">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="71" column="15" />
-        <mark key="]" line="71" column="19" />
-        <mark key="." line="71" column="19" />
-        <mark key="^" line="71" column="19" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556550725376">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" timestamp="1556526225588">
         <mark key="'" line="11" column="0" />
@@ -93,7 +93,7 @@
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/guide/14pts.csv" timestamp="1556530334437">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556528111654">
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556550900355">
         <mark key="'" line="78" column="41" />
         <mark key="[" line="79" column="38" />
         <mark key="]" line="79" column="56" />
@@ -145,13 +145,15 @@
       <jump line="9" column="32" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" />
       <jump line="10" column="17" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" />
       <jump line="27" column="26" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_keypoints_dataset.py" />
+      <jump line="20" column="8" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" />
+      <jump line="24" column="8" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+        <text encoding="base64">ZnJvbSBkYXRhLnRyYW5zZm9ybXMgaW1wb3J0IGJ1aWxkX3RyYW5zZm9ybXMK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>mean</text>
@@ -160,16 +162,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ1NpemUgb2YgaW1hZ2UgYW5kIG1lYW4gc2hvdWxkIGJlIHNhbWUuJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+        <text encoding="base64">ZnJvbSBkYXRhLnRyYW5zZm9ybXMgaW1wb3J0IGJ1aWxkX3RyYW5zZm9ybXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZyA9ICdTaXplIG9mIGltYWdlIGFuZCBtZWFuIHNob3VsZCBiZSBzYW1lLiBHb3QgaW1hZ2U6ICcK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl90cmFuc2Zvcm1zIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZyA9IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -178,13 +180,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAnbGl0dGxlX2ZpbmdlciddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgb3MucGF0aC5qb2luKCcuLi8uLicsIGNmZ1snbWVhbiddKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmluZ2VycyA9IFsndGh1bWInLCAncG9pbnRlcl9maW5nZXInLCAnbWlkZGxlX2ZpbmdlcicsICdyaW5nX2ZpbmdlcicsCg==</text>
+        <text encoding="base64">ICAgIEtleXBvaW50c0RhdGFzZXQoaW1nX2Rpciwga2V5cG9pbnRzX2RpciwgKDIyNCwgMjI0KSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICBOb3JtYWxpemUobWVhbiksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -236,9 +238,9 @@
         <entry>q!</entry>
         <entry>58</entry>
         <entry>:w</entry>
-        <entry>q</entry>
         <entry>71</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
