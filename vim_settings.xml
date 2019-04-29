@@ -3,24 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556520273451">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556524525976">
+        <mark key="[" line="40" column="32" />
+        <mark key="]" line="40" column="32" />
+        <mark key="^" line="40" column="32" />
+        <mark key="." line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" timestamp="1556519403165">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="4" column="2" />
-        <mark key="^" line="4" column="2" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" timestamp="1556523355882">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556520242448">
-        <mark key="'" line="50" column="29" />
-        <mark key="[" line="49" column="18" />
-        <mark key="]" line="49" column="23" />
-        <mark key="." line="49" column="23" />
-        <mark key="^" line="49" column="23" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556524598734">
+        <mark key="'" line="58" column="29" />
+        <mark key="[" line="42" column="69" />
+        <mark key="]" line="42" column="69" />
+        <mark key="." line="42" column="69" />
+        <mark key="^" line="42" column="69" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556519420528">
         <mark key="'" line="3" column="7" />
@@ -43,43 +43,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwWzBdIDwgMCBvciBwWzFdIDwgMDoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyYXdfZWRnZShpbWcsIGtleXBvaW50cywgc2VsZi5lZGdlX3RhYmxlKQo=</text>
+        <text encoding="base64">c2FtcGxlX2ltZzogImltZ18xNi5wbmciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwWzBdIDwgMCBvciBwWzFdIDwgMDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwWzBdIDwgMCBvciBwcmV2X3BbMF0gPCAwOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwLCBwcmV2X3ApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyYXcK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHBbMF0gPCAwIG9yIHByZXZfcFswXSA8IDA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwKQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
