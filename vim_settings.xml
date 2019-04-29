@@ -9,6 +9,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="49" column="42" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556512269473">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556428524105">
         <mark key="'" line="3" column="7" />
         <mark key="[" line="38" column="62" />
@@ -32,12 +37,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpbWcK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGltZ18K</text>
       </register>
       <register name=":" type="4">
