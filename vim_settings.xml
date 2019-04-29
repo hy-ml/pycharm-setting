@@ -3,91 +3,113 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556518632175">
-        <mark key="[" line="52" column="54" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556520273451">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" timestamp="1556518239764">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="25" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" timestamp="1556519403165">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="4" column="2" />
+        <mark key="^" line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556512269473">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556520242448">
+        <mark key="'" line="50" column="29" />
+        <mark key="[" line="49" column="18" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+        <mark key="^" line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556428524105">
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556519420528">
         <mark key="'" line="3" column="7" />
-        <mark key="[" line="38" column="62" />
-        <mark key="]" line="38" column="62" />
-        <mark key="." line="38" column="62" />
-        <mark key="^" line="38" column="62" />
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="44" column="55" />
+        <mark key="." line="44" column="55" />
+        <mark key="^" line="44" column="55" />
       </file>
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" />
       <jump line="3" column="7" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" />
+      <jump line="53" column="11" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
+      <jump line="74" column="16" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
+      <jump line="75" column="12" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
+      <jump line="7" column="23" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="65" column="16" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
+      <jump line="51" column="29" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="50" column="24" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>yaml</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjZmcgPSB5YW1sLmxvYWQoZnAsIExvYWRlcj15YW1sLkZ1bGxMb2FkZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyYXdfZWRnZShpbWcsIGtleXBvaW50cywgc2VsZi5lZGdlX3RhYmxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBpbmRpY2VzIGluIGxzdF9pbmRpY2VzOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwLCBwcmV2X3ApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bl9rZXlwb2ludHNfcGFsbTogMQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyYXcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFsbTogWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGh1bWI6IFsxLCAyLCAzXQo=</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>yaml</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>yaml</last-pattern>
+      <last-pattern>print</last-pattern>
+      <last-replace>keypoints</last-replace>
+      <last-substitute>point_list</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>yaml</entry>
+        <entry>i</entry>
+        <entry>draw</entry>
+        <entry>prev_p</entry>
+        <entry>pdb</entry>
+        <entry>point_list</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
+        <entry>%s/i/idx/gc</entry>
+        <entry>q</entry>
+        <entry>W</entry>
+        <entry>%s/point_list/keypoints/gc</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
