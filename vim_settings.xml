@@ -50,6 +50,12 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/pose_estimation/defaults.yml" timestamp="1556623554288">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" timestamp="1555605989352">
         <mark key="[" line="38" column="57" />
         <mark key="]" line="38" column="59" />
@@ -591,10 +597,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpdGVyX2NvdW50ZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>def train</text>
@@ -603,37 +609,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bV93b3JrZXJzPTQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpdGVyX2NvdW50ZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bV93b3JrZXJzPTApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpdGVyX2NvdW50ZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG51bV93b3JrZXJzPTQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bV93b3JrZXJzPTApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG51bV93b3JrZXJzPTQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBpbWcgaW4gbHN0X2ltZ19zb3VyY2VfdHJhaW46CiAgICAgICAgYXNzZXJ0IG5wLmFsbChpbWcgIT0gbHN0X2ltZ19zb3VyY2VfdHJhaW5bMF0pCiAgICBmb3IgaW1nIGluIGxzdF9pbWdfdGFyZ2V0X3RyYWluOgogICAgICAgIGFzc2VydCBucC5hbGwoaW1nICE9IGxzdF9pbWdfdGFyZ2V0X3RyYWluWzBdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbnAuYWxsKGltZyA9PSBsc3RfaW1nX3RhcmdldF92YWxbMF0pCg==</text>
+        <text encoding="base64">ICAgIGZvciBpbWcgaW4gbHN0X2ltZ19zb3VyY2VfdHJhaW46CiAgICAgICAgYXNzZXJ0IG5wLmFsbChpbWcgIT0gbHN0X2ltZ19zb3VyY2VfdHJhaW5bMF0pCiAgICBmb3IgaW1nIGluIGxzdF9pbWdfdGFyZ2V0X3RyYWluOgogICAgICAgIGFzc2VydCBucC5hbGwoaW1nICE9IGxzdF9pbWdfdGFyZ2V0X3RyYWluWzBdKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgbnAuYWxsKGltZyA9PSBsc3RfaW1nX3RhcmdldF92YWxbMF0pCg==</text>
       </register>
-      <register name="8" type="8">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbnAuYWxsKGltZyA9PSBsc3RfaW1nX3RhcmdldF92YWxbMF0pCg==</text>
+      </register>
+      <register name="9" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -687,8 +693,8 @@
         <entry>BATCH</entry>
         <entry>%s/SHUFFLE/NUM_WORKERS/gc</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
