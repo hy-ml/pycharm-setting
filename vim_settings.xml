@@ -38,8 +38,8 @@
         <mark key="^" line="42" column="93" />
         <mark key="." line="41" column="91" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" timestamp="1556244847183">
-        <mark key="'" line="15" column="26" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" timestamp="1556606699698">
+        <mark key="'" line="48" column="36" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="9" column="34" />
         <mark key="." line="46" column="10" />
@@ -458,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" />
       <jump line="15" column="34" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" />
       <jump line="5" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_regularization/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_regularization/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" />
@@ -558,6 +557,7 @@
       <jump line="43" column="32" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/evaluate_multi_process.py" />
       <jump line="42" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_feature/model/suppressor/suppressor.py" />
       <jump line="25" column="24" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="48" column="36" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
