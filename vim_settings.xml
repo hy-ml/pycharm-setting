@@ -440,11 +440,11 @@
         <mark key="^" line="184" column="50" />
         <mark key="." line="184" column="50" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/test/test_build_dataset_val.py" timestamp="1556613129083">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="8" />
-        <mark key="." line="35" column="8" />
-        <mark key="^" line="25" column="22" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/test/test_build_dataset_val.py" timestamp="1556615089237">
+        <mark key="[" line="75" column="19" />
+        <mark key="]" line="75" column="26" />
+        <mark key="^" line="75" column="26" />
+        <mark key="." line="75" column="26" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/dataset/test_coco_train.py" timestamp="1555420985925">
         <mark key="[" line="17" column="14" />
@@ -588,44 +588,44 @@
       <jump line="48" column="36" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="&quot;" type="4">
+        <text>Validation</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>Validation</text>
       </register>
       <register name="/" type="4">
         <text>max</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNmZy5EQVRBX0xPQURFUi5UUkFJTl9CQVRDSCA9IDIK</text>
+        <text encoding="base64">ICAgIGZvciBlcG9jaCwgaW1nIGluIGVudW1lcmF0ZShsc3RfaW1nX3NvdXJjZV92YWwpOgogICAgICAgIGlmIG5wLmFsbChpbWcgPT0gbHN0X2ltZ19zb3VyY2VfdmFsWzBdKToKICAgICAgICAgICAgcHJpbnQoJ1ZhbGlkYXRpb24gU291cmNlIHt9IGVwb2NoOiBFcXVhbCcuZm9ybWF0KGVwb2NoKzEpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KCdWYWxpZGF0aW9uIFNvdXJjZSB7fSBlcG9jaDogRXF1YWwnLmZvcm1hdChlcG9jaCsxKSkKICAgIGZvciBlcG9jaCwgaW1nIGluIGVudW1lcmF0ZShsc3RfaW1nX3RhcmdldF92YWwpOgogICAgICAgIGlmIG5wLmFsbChpbWcgPT0gbHN0X2ltZ190YXJnZXRfdmFsWzBdKToKICAgICAgICAgICAgcHJpbnQoJ1ZhbGlkYXRpb24gVGFyZ2V0IHt9IGVwb2NoOiBFcXVhbCcuZm9ybWF0KGVwb2NoKzEpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KCdWYWxpZGF0aW9uIFRhcmdldCB7fSBlcG9jaDogRXF1YWwnLmZvcm1hdChlcG9jaCsxKSkK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZvciBpbWcgaW4gbHN0X2ltZ19zb3VyY2VfdHJhaW46CiAgICAgICAgYXNzZXJ0IG5wLmFsbChpbWcgIT0gbHN0X2ltZ19zb3VyY2VfdHJhaW5bMF0pCiAgICBmb3IgaW1nIGluIGxzdF9pbWdfdGFyZ2V0X3RyYWluOgogICAgICAgIGFzc2VydCBucC5hbGwoaW1nICE9IGxzdF9pbWdfdGFyZ2V0X3RyYWluWzBdKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbnAuYWxsKGltZyA9PSBsc3RfaW1nX3RhcmdldF92YWxbMF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJUcmFpbmluZzoge30gZXBvY2gsIHt9IGl0ZXJhdGlvbi4iLmZvcm1hdChlcG9jaCwgaikpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbnAuYWxsKGltZyA9PSBsc3RfaW1nX3RhcmdldF92YWxbMF0pCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRXBvY2g6IHt9Ii5mb3JtYXQoZXBvY2gpKQo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNoYWluZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJUcmFpbmluZzoge30gZXBvY2gsIHt9IGl0ZXJhdGlvbi4iLmZvcm1hdChlcG9jaCwgaikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRXBvY2g6IHt9Ii5mb3JtYXQoZXBvY2gpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3NkCg==</text>
+        <text encoding="base64">aW1wb3J0IGNoYWluZXIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
