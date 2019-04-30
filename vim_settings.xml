@@ -211,12 +211,6 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556283056564">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="49" />
-        <mark key="." line="33" column="49" />
-        <mark key="^" line="33" column="49" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/build.py" timestamp="1555603880826">
         <mark key="[" line="23" column="12" />
         <mark key="]" line="23" column="54" />
@@ -346,13 +340,6 @@
         <mark key="]" line="103" column="54" />
         <mark key="^" line="103" column="54" />
         <mark key="." line="103" column="54" />
-      </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556283266377">
-        <mark key="'" line="30" column="24" />
-        <mark key="[" line="36" column="30" />
-        <mark key="]" line="36" column="29" />
-        <mark key="." line="36" column="29" />
-        <mark key="^" line="36" column="29" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/model/mlp/fc_layers.py" timestamp="1556275120048">
         <mark key="[" line="3" column="40" />
