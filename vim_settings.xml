@@ -27,11 +27,11 @@
         <mark key="^" line="130" column="26" />
         <mark key="." line="130" column="26" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/.gitignore" timestamp="1556280608682">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="4" column="6" />
-        <mark key="^" line="4" column="6" />
-        <mark key="." line="4" column="6" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/.gitignore" timestamp="1556619288811">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/transforms/build.py" timestamp="1556273111636">
         <mark key="[" line="23" column="0" />
