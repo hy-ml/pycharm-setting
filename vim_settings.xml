@@ -44,12 +44,11 @@
         <mark key="^" line="42" column="93" />
         <mark key="." line="41" column="91" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" timestamp="1556606699698">
-        <mark key="'" line="48" column="36" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="46" column="10" />
-        <mark key="^" line="46" column="23" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" timestamp="1556620921534">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" timestamp="1555605989352">
         <mark key="[" line="38" column="57" />
@@ -188,6 +187,9 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/test/test_build_dataset_train.py" timestamp="1556621074386">
+        <mark key="'" line="36" column="43" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/db_303.sh" timestamp="1556105508603">
         <mark key="[" line="2" column="189" />
         <mark key="]" line="2" column="205" />
@@ -217,11 +219,11 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/build.py" timestamp="1556610758336">
-        <mark key="[" line="96" column="63" />
-        <mark key="]" line="96" column="64" />
-        <mark key="." line="96" column="64" />
-        <mark key="^" line="96" column="63" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/build.py" timestamp="1556620861709">
+        <mark key="'" line="56" column="36" />
+        <mark key="[" line="90" column="34" />
+        <mark key="]" line="90" column="34" />
+        <mark key="." line="90" column="34" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/test/test_build_dataset_eval.py" timestamp="1556613070976">
         <mark key="[" line="25" column="41" />
@@ -287,12 +289,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" timestamp="1556613062880">
-        <mark key="'" line="96" column="3" />
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="30" />
-        <mark key="^" line="13" column="30" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" timestamp="1556620876916">
+        <mark key="'" line="17" column="19" />
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/ws/chainer/semeg_bench_mark/model/unet.py" timestamp="1554547487152">
         <mark key="[" line="40" column="0" />
@@ -440,11 +442,11 @@
         <mark key="^" line="184" column="50" />
         <mark key="." line="184" column="50" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/test/test_build_dataset_val.py" timestamp="1556618042318">
-        <mark key="[" line="75" column="45" />
-        <mark key="]" line="75" column="53" />
-        <mark key="^" line="75" column="53" />
-        <mark key="." line="75" column="53" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/test/test_build_dataset_val.py" timestamp="1556620472655">
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="30" />
+        <mark key="^" line="24" column="4" />
+        <mark key="." line="42" column="30" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/dataset/test_coco_train.py" timestamp="1555420985925">
         <mark key="[" line="17" column="14" />
@@ -486,12 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="34" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" />
-      <jump line="5" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_regularization/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_regularization/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" />
-      <jump line="11" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_regularization/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_regularization/no_additional_feaure/vgg_block4_freeze.yaml" />
-      <jump line="11" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_regularization/no_additional_feaure/vgg_block1_freeze01234_pretrain.yaml" />
       <jump line="5" column="2" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_regularization/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" />
       <jump line="5" column="2" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_regularization/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" />
       <jump line="4" column="2" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_regularization/no_additional_feaure/vgg_block4_freeze.yaml" />
@@ -586,70 +582,71 @@
       <jump line="42" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_feature/model/suppressor/suppressor.py" />
       <jump line="25" column="24" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="48" column="36" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" />
+      <jump line="26" column="30" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" />
+      <jump line="17" column="19" filename="$USER_HOME$/ws/pytorch/nms_with_feature/configs/defaults.py" />
+      <jump line="56" column="36" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/build.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" />
+      <jump line="36" column="43" filename="$USER_HOME$/ws/pytorch/nms_with_feature/test/test_build_dataset_train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Equal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpdGVyX2NvdW50ZXIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Equal</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text>def train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciBlcG9jaCwgaW1nIGluIGVudW1lcmF0ZShsc3RfaW1nX3NvdXJjZV92YWwpOgogICAgICAgIGlmIG5wLmFsbChpbWcgPT0gbHN0X2ltZ19zb3VyY2VfdmFsWzBdKToKICAgICAgICAgICAgcHJpbnQoJ1ZhbGlkYXRpb24gU291cmNlIHt9IGVwb2NoOiBFcXVhbCcuZm9ybWF0KGVwb2NoKzEpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KCdWYWxpZGF0aW9uIFNvdXJjZSB7fSBlcG9jaDogRXF1YWwnLmZvcm1hdChlcG9jaCsxKSkKICAgIGZvciBlcG9jaCwgaW1nIGluIGVudW1lcmF0ZShsc3RfaW1nX3RhcmdldF92YWwpOgogICAgICAgIGlmIG5wLmFsbChpbWcgPT0gbHN0X2ltZ190YXJnZXRfdmFsWzBdKToKICAgICAgICAgICAgcHJpbnQoJ1ZhbGlkYXRpb24gVGFyZ2V0IHt9IGVwb2NoOiBFcXVhbCcuZm9ybWF0KGVwb2NoKzEpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KCdWYWxpZGF0aW9uIFRhcmdldCB7fSBlcG9jaDogRXF1YWwnLmZvcm1hdChlcG9jaCsxKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bV93b3JrZXJzPTQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBpbWcgaW4gbHN0X2ltZ19zb3VyY2VfdHJhaW46CiAgICAgICAgYXNzZXJ0IG5wLmFsbChpbWcgIT0gbHN0X2ltZ19zb3VyY2VfdHJhaW5bMF0pCiAgICBmb3IgaW1nIGluIGxzdF9pbWdfdGFyZ2V0X3RyYWluOgogICAgICAgIGFzc2VydCBucC5hbGwoaW1nICE9IGxzdF9pbWdfdGFyZ2V0X3RyYWluWzBdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpdGVyX2NvdW50ZXIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbnAuYWxsKGltZyA9PSBsc3RfaW1nX3RhcmdldF92YWxbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bV93b3JrZXJzPTApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbnAuYWxsKGltZyA9PSBsc3RfaW1nX3RhcmdldF92YWxbMF0pCg==</text>
+        <text encoding="base64">ICAgIG51bV93b3JrZXJzPTQpCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJUcmFpbmluZzoge30gZXBvY2gsIHt9IGl0ZXJhdGlvbi4iLmZvcm1hdChlcG9jaCwgaikpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiRXBvY2g6IHt9Ii5mb3JtYXQoZXBvY2gpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNoYWluZXIK</text>
-      </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZvciBpbWcgaW4gbHN0X2ltZ19zb3VyY2VfdHJhaW46CiAgICAgICAgYXNzZXJ0IG5wLmFsbChpbWcgIT0gbHN0X2ltZ19zb3VyY2VfdHJhaW5bMF0pCiAgICBmb3IgaW1nIGluIGxzdF9pbWdfdGFyZ2V0X3RyYWluOgogICAgICAgIGFzc2VydCBucC5hbGwoaW1nICE9IGxzdF9pbWdfdGFyZ2V0X3RyYWluWzBdKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbnAuYWxsKGltZyA9PSBsc3RfaW1nX3RhcmdldF92YWxbMF0pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbnAuYWxsKGltZyA9PSBsc3RfaW1nX3RhcmdldF92YWxbMF0pCg==</text>
+      </register>
+      <register name="8" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search>def train</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
-      <last-replace>keypoints</last-replace>
-      <last-substitute>point_list</last-substitute>
+      <last-pattern>def train</last-pattern>
+      <last-replace>NUM_WORKERS</last-replace>
+      <last-substitute>SHUFFLE</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>results_sorted</entry>
-        <entry>make</entry>
-        <entry>method</entry>
-        <entry>base_id</entry>
-        <entry>cfg</entry>
         <entry>brak</entry>
         <entry>break</entry>
         <entry>calc_iou</entry>
@@ -665,9 +662,13 @@
         <entry>pdb</entry>
         <entry>point_list</entry>
         <entry>max</entry>
+        <entry>MIN</entry>
+        <entry>NUM</entry>
+        <entry>SHUFFLE</entry>
+        <entry>num_worker</entry>
+        <entry>def train</entry>
       </history-search>
       <history-cmd>
-        <entry>wh</entry>
         <entry>ws</entry>
         <entry>%s/L1Norm/L1NormWithRegularization/g</entry>
         <entry>%s/L1Norm/L1NormWithRegularization/gc</entry>
@@ -684,9 +685,10 @@
         <entry>%s/point_list/keypoints</entry>
         <entry>48</entry>
         <entry>BATCH</entry>
-        <entry>wq</entry>
+        <entry>%s/SHUFFLE/NUM_WORKERS/gc</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
