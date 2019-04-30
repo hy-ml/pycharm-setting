@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="BaseOnThisFunction" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
@@ -19,6 +23,7 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="QuickChangeScheme" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
   </action>
