@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" timestamp="1556642778789">
-        <mark key="'" line="16" column="42" />
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="74" />
-        <mark key="." line="16" column="74" />
-        <mark key="^" line="16" column="74" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/model/test_extractor.py" timestamp="1556694441012">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="13" column="0" />
@@ -18,7 +11,7 @@
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/pose_estimation/sample.yml.py" timestamp="1556548941060">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test_code/test_extractor.py" timestamp="1556700688291">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test_code/test_extractor.py" timestamp="1556703557216">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="12" />
         <mark key="^" line="56" column="24" />
@@ -45,6 +38,9 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="48" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1556703417403">
+        <mark key="'" line="101" column="24" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/defaults.yml" timestamp="1556639266023">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="8" />
@@ -56,13 +52,6 @@
         <mark key="]" line="999" column="53" />
         <mark key="^" line="999" column="53" />
         <mark key="." line="999" column="53" />
-      </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556550900355">
-        <mark key="'" line="78" column="41" />
-        <mark key="[" line="79" column="38" />
-        <mark key="]" line="79" column="56" />
-        <mark key="." line="79" column="56" />
-        <mark key="^" line="79" column="56" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/utils.py" timestamp="1556694938904">
         <mark key="[" line="0" column="0" />
@@ -94,13 +83,7 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" timestamp="1556550768620">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="8" column="56" />
-      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/data/transforms.py" timestamp="1556703163310" />
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/21pts.yml" timestamp="1556530352405">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="29" />
@@ -117,13 +100,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="6" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556547010039">
-        <mark key="'" line="15" column="18" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="27" />
-        <mark key="^" line="15" column="57" />
-        <mark key="." line="15" column="57" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/guide/14pts.csv" timestamp="1556528798566">
         <mark key="[" line="14" column="0" />
@@ -148,13 +124,6 @@
         <mark key="^" line="53" column="11" />
         <mark key="." line="53" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/model/test_build_estimator.py" timestamp="1556639567367">
-        <mark key="'" line="7" column="13" />
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556548423867">
         <mark key="[" line="35" column="20" />
         <mark key="]" line="35" column="19" />
@@ -167,19 +136,8 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml" timestamp="1556526225588">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/__init__.py" timestamp="1556641043478">
-        <mark key="'" line="1" column="49" />
-        <mark key="[" line="1" column="49" />
-        <mark key="]" line="1" column="49" />
-        <mark key="^" line="1" column="49" />
-        <mark key="." line="1" column="49" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/guide/14pts.csv" timestamp="1556530334437">
+        <mark key="'" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.py" timestamp="1556694243766">
         <mark key="[" line="0" column="0" />
@@ -268,6 +226,7 @@
       <jump line="65" column="32" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/imagenet_categories.py" />
       <jump line="75" column="16" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/imagenet_categories.py" />
       <jump line="217" column="6" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/imagenet_categories.py" />
+      <jump line="101" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -277,7 +236,7 @@
         <text>R</text>
       </register>
       <register name="/" type="4">
-        <text>golden</text>
+        <text>NUM</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgne30gOiB7fScuZm9ybWF0KGNhdGVnb3J5X2Fubm90LCBjYXRlZ29yaWVzX3ByZWRpY3QpKQo=</text>
@@ -310,13 +269,13 @@
         <text encoding="base64">ICAgICAgICAgICAgeCA9IHgudG8oKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>golden</last-search>
+      <last-search>NUM</last-search>
       <last-offset />
-      <last-pattern>golden</last-pattern>
+      <last-pattern>NUM</last-pattern>
       <last-replace>estimator</last-replace>
       <last-substitute>detector</last-substitute>
       <last-dir>1</last-dir>
@@ -324,7 +283,6 @@
     </search>
     <history>
       <history-search>
-        <entry>imshow</entry>
         <entry>_show_ex</entry>
         <entry>sample</entry>
         <entry>example</entry>
@@ -344,6 +302,7 @@
         <entry>gold</entry>
         <entry>gold_fish</entry>
         <entry>golden</entry>
+        <entry>NUM</entry>
       </history-search>
       <history-cmd>
         <entry>%s/i/idx/gc</entry>
@@ -361,9 +320,9 @@
         <entry>:w</entry>
         <entry>71</entry>
         <entry>%s/detector/estimator/g</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
