@@ -20,6 +20,12 @@
       <file name="/a.dummy" timestamp="1556698547834">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/coco_train.py" timestamp="1556728508704">
+        <mark key="[" line="71" column="17" />
+        <mark key="]" line="71" column="53" />
+        <mark key="." line="71" column="53" />
+        <mark key="^" line="71" column="53" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_extractor.py" timestamp="1556699391331">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="65" column="10" />
@@ -235,11 +241,11 @@
       <jump line="101" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>NUM</text>
@@ -248,31 +254,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgne30gOiB7fScuZm9ybWF0KGNhdGVnb3J5X2Fubm90LCBjYXRlZ29yaWVzX3ByZWRpY3QpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm94ZXNfc2hpZnRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIAo=</text>
+        <text encoding="base64">ICAgICAgICBib2V4cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfYWRkX2JveGVzID0gZGVlcGNvcHkoaW1nKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9ib3hfc2FtcGxlciA9IGJveF9zYW1wbGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJvCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IGNvbnZlcnQgZm9ybWF0ICh4eXdoKSBpbnRvICh4eXh5KQogICAgICAgICMgYm94ZXMgPSBzZWxmLl9jb252ZXJ0X2JveF9mb3JtYXQobnAuYXJyYXkoYm94ZXMpLCAneHl4eScpCgogICAgICAgIGltZ193aWR0aCwgaW1nX2hlaWdodCA9IGltZy5zaXplCgogICAgICAgIGJveF9zb3VyY2UsIGJveF90YXJnZXQsIGxhYmVsID0gc2VsZi5fYm94X3NhbXBsZXIoYm94ZXMpCiAgICAgICAgYm94X3NvdXJjZSwgYm94X3RhcmdldCA9IFwKICAgICAgICAgICAgW3NlbGYuX2NvbnZlcnRfYm94X2Zvcm1hdChiLCAneHl4eScpIGZvciBiIGluIFtib3hfc291cmNlLCBib3hfdGFyZ2V0XV0KICAgICAgICBib3hfc291cmNlLCBib3hfdGFyZ2V0ID0gXAogICAgICAgICAgICBbc2VsZi5fYm94X3NoaWZ0ZXIoYiwgaW1nX2hlaWdodCwgaW1nX3dpZHRoKQogICAgICAgICAgICAgZm9yIGIgaW4gKGJveF9zb3VyY2UsIGJveF90YXJnZXQpXQoKICAgICAgICBpbWdfc291cmNlLCBpbWdfdGFyZ2V0ID0gXAogICAgICAgICAgICBbY3JvcF9pbWcoaW1nLCBiKSBmb3IgYiBpbiBbYm94X3NvdXJjZSwgYm94X3RhcmdldF1dCiAgICAgICAgaWYgc2VsZi5fdHJhbnNmb3JtcyBpcyBub3QgTm9uZToKICAgICAgICAgICAgaW1nX3NvdXJjZSwgaW1nX3RhcmdldCA9IFwKICAgICAgICAgICAgICAgIFtzZWxmLl90cmFuc2Zvcm1zKGltZ18pIGZvciBpbWdfIGluIChpbWdfc291cmNlLCBpbWdfdGFyZ2V0KV0KICAgICAgICByZXR1cm4gaW1nX3NvdXJjZSwgaW1nX3RhcmdldCwgbGFiZWwsIGJveF9zb3VyY2UsIGJveF90YXJnZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm94ZXNfc2hpZnRlZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbWdfYWRkX2JveGVzID0gZGVlcGNvcHkoaW1nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nX2FkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
