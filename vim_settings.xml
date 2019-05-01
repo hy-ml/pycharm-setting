@@ -178,6 +178,12 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test_code/dataset/test_box_shifter.py" timestamp="1556723046528">
+        <mark key="[" line="43" column="65" />
+        <mark key="]" line="44" column="31" />
+        <mark key="." line="44" column="31" />
+        <mark key="^" line="44" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" />
@@ -230,10 +236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm94ZXNfc2hpZnRlZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>NUM</text>
@@ -242,31 +248,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgne30gOiB7fScuZm9ybWF0KGNhdGVnb3J5X2Fubm90LCBjYXRlZ29yaWVzX3ByZWRpY3QpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm94ZXNfc2hpZnRlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbWdfYWRkX2JveGVzID0gZGVlcGNvcHkoaW1nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgYXJncy5jcHU6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB5ID0gbnAuc3F1ZWV6ZShjbGFzc2lmaWVyKHgpWydwcm9iJ10uZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nX2FkZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9IHgudG8oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
