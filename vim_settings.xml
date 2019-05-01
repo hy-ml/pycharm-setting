@@ -18,10 +18,22 @@
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/pose_estimation/sample.yml.py" timestamp="1556548941060">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test_code/test_extractor.py" timestamp="1556700688291">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="12" />
+        <mark key="^" line="56" column="24" />
+        <mark key="." line="71" column="12" />
+      </file>
       <file name="/a.dummy" timestamp="1556698547834">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/keypoints_detector.py" timestamp="1556698558395">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_extractor.py" timestamp="1556699391331">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="65" column="10" />
+        <mark key="^" line="65" column="10" />
+        <mark key="." line="65" column="10" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/keypoints_detector.py" timestamp="1556699830971">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="10" column="23" />
         <mark key="." line="10" column="23" />
@@ -118,6 +130,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/imagenet_categories.py" timestamp="1556699353335">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1024" column="1" />
+        <mark key="^" line="1024" column="1" />
+        <mark key="." line="1024" column="1" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/14pts.yml" timestamp="1556548843919">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="18" />
@@ -180,20 +198,21 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/model/test_extractor.py" timestamp="1556698429818">
-        <mark key="[" line="64" column="26" />
-        <mark key="]" line="64" column="7" />
-        <mark key="." line="64" column="7" />
-        <mark key="^" line="64" column="7" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/model/test_extractor.py" timestamp="1556699833421">
+        <mark key="[" line="53" column="29" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" timestamp="1556699622199" />
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/build.py" timestamp="1556641006436">
         <mark key="[" line="65" column="60" />
         <mark key="]" line="65" column="60" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="65" column="60" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/imagenet_categories.py" timestamp="1556697914879">
-        <mark key="'" line="217" column="6" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/imagenet_categories.py" timestamp="1556699330929">
+        <mark key="[" line="1025" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/__init__.py" timestamp="1556641069539">
         <mark key="[" line="0" column="37" />
@@ -252,10 +271,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1haW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text>golden</text>
@@ -264,31 +283,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgne30gOiB7fScuZm9ybWF0KGNhdGVnb3J5X2Fubm90LCBjYXRlZ29yaWVzX3ByZWRpY3QpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1haW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdTdWNjZXNzIFRlc3QnKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgY2F0ZWdvcnlfYW5ub3QgaW4gY2F0ZWdvcmllc19wcmVkaWN0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgYXJncy5jcHU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgICAgICB5ID0gbnAuc3F1ZWV6ZShjbGFzc2lmaWVyKHgpWydwcm9iJ10uZGF0YSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgY2F0ZWdvcnlfYW5ub3QgPT0gY2F0ZWdvcmllc19wcmVkaWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeCA9IHgudG8oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -342,8 +361,8 @@
         <entry>:w</entry>
         <entry>71</entry>
         <entry>%s/detector/estimator/g</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
