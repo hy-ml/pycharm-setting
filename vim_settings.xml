@@ -638,6 +638,12 @@
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/meta_architecture/baseline.py" timestamp="1556627330154">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/support_tools/separate_hand.py" timestamp="1556794683658">
+        <mark key="[" line="26" column="49" />
+        <mark key="]" line="24" column="60" />
+        <mark key="." line="24" column="60" />
+        <mark key="^" line="24" column="60" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/build.py" timestamp="1555777752935">
         <mark key="[" line="24" column="18" />
         <mark key="]" line="24" column="35" />
@@ -686,46 +692,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhcCA9IGN2Mi5WaWRlb0NhcHR1cmUoYXJncykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>pdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbm5vLCBhbm5faWRzID0gWyhvYmosIGFubl9pZCkgZm9yIG9iaiwgYW5uX2lkIGluIHppcChhbm5vLCBhbm5faWRzKSBpZiBvYmpbImlzY3Jvd2QiXSA9PSAwXQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWdfYl9zID0gbnAud2hlcmUoaW1nX2IgPiAxNjUsIGltZ19iLCAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhcCA9IGN2Mi5WaWRlb0NhcHR1cmUoYXJncykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbWdkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdfcyA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdfcyA9IG5wLmNvbmNhdGVuYXRlKGkpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">IyAKIyA=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">c3RyCiAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbWdfYl9zZXAgPSBucC53aGVyZShpbWdfYiA+IDE2NSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdfc2VwID0gbnAud2hlcmUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgX19uYW1lZGQK</text>
+        <text encoding="base64">ICAgICAgICBmaWcgPSBwbHQuZmlndXJlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBheCA9IGZpZy5hZGRfc3VicAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -764,7 +770,6 @@
         <entry>pdb</entry>
       </history-search>
       <history-cmd>
-        <entry>ws</entry>
         <entry>%s/L1Norm/L1NormWithRegularization/g</entry>
         <entry>%s/L1Norm/L1NormWithRegularization/gc</entry>
         <entry>%s/l1_norm/l1_norm_regularization/g</entry>
@@ -773,7 +778,6 @@
         <entry>86</entry>
         <entry>27</entry>
         <entry>%s/results_sorted/results_reshaped/gc</entry>
-        <entry>:w</entry>
         <entry>61</entry>
         <entry>%s/ovr/iou/gc</entry>
         <entry>158</entry>
@@ -781,8 +785,10 @@
         <entry>48</entry>
         <entry>BATCH</entry>
         <entry>%s/SHUFFLE/NUM_WORKERS/gc</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
+        <entry>:w</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
