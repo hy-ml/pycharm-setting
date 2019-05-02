@@ -175,11 +175,11 @@
         <mark key="^" line="23" column="54" />
         <mark key="." line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/predict.py" timestamp="1556838129684">
-        <mark key="[" line="13" column="71" />
-        <mark key="]" line="13" column="70" />
-        <mark key="^" line="13" column="70" />
-        <mark key="." line="13" column="114" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/predict.py" timestamp="1556838557241">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="23" column="26" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/meta_architecture/baseline_net.py" timestamp="1556837740856">
         <mark key="'" line="6" column="12" />
@@ -711,10 +711,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LicpCiAgIA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>pdb</text>
@@ -807,8 +807,8 @@
         <entry>wq</entry>
         <entry>222</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
