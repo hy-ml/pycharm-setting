@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_keypoints_dataset.py" timestamp="1556550805084">
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="21" column="54" />
-        <mark key="^" line="21" column="54" />
-        <mark key="." line="21" column="54" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_keypoints_dataset.py" timestamp="1556819584184">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/desk_303_1.sh" timestamp="1556105539162">
         <mark key="[" line="2" column="155" />
@@ -15,14 +14,11 @@
         <mark key="." line="2" column="171" />
         <mark key="^" line="2" column="171" />
       </file>
-      <file name="/a.dummy" timestamp="1556541177673">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_transforms.py" timestamp="1556548657824">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_transforms.py" timestamp="1556820225374">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="32" column="35" />
+        <mark key="^" line="32" column="35" />
+        <mark key="." line="32" column="35" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/.gitignore" timestamp="1556619288811">
         <mark key="[" line="9" column="0" />
@@ -35,11 +31,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/pose_estimation/defaults.yml" timestamp="1556549297343">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="19" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/pose_estimation/defaults.yml" timestamp="1556819208202">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="71" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" timestamp="1555605989352">
         <mark key="[" line="38" column="57" />
@@ -95,9 +91,6 @@
         <mark key="^" line="28" column="54" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/guide/14pts.csv" timestamp="1556530334437">
-        <mark key="'" line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/__init__.py" timestamp="1555421100070">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="53" />
@@ -130,12 +123,11 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" timestamp="1556550768620">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="8" column="56" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/keypoints_dataset.py" timestamp="1556819710168">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/16pts.yml" timestamp="1556802856916">
         <mark key="[" line="1" column="59" />
@@ -200,6 +192,12 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="20" column="33" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/evaluate/coco.py" timestamp="1556610331622">
+        <mark key="'" line="33" column="41" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yaml" timestamp="1556281822431">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="15" />
@@ -238,17 +236,17 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556552213697">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="10" column="20" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556820025502">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map.py" timestamp="1556817488601">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="73" column="31" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map.py" timestamp="1556818482229">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/train/movie_dataset.py" timestamp="1555419277408">
         <mark key="'" line="20" column="27" />
@@ -276,18 +274,12 @@
         <mark key="." line="46" column="38" />
         <mark key="^" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/sample.yml.py" timestamp="1556281705559">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/no_additional_feaure/vgg.yaml" timestamp="1555776811808">
         <mark key="'" line="6" column="14" />
         <mark key="[" line="7" column="89" />
         <mark key="]" line="7" column="89" />
         <mark key="." line="7" column="89" />
         <mark key="^" line="7" column="85" />
-      </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/pose_estimation/sample.yml.py" timestamp="1556548941060">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/model/metric/metric.py" timestamp="1556273991079">
         <mark key="[" line="184" column="42" />
@@ -356,6 +348,12 @@
         <mark key="]" line="41" column="91" />
         <mark key="^" line="42" column="93" />
         <mark key="." line="41" column="91" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" timestamp="1556620921534">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/__init__.py" timestamp="1556627093732">
         <mark key="[" line="0" column="50" />
@@ -449,9 +447,6 @@
         <mark key="]" line="2" column="191" />
         <mark key="^" line="2" column="191" />
         <mark key="." line="2" column="191" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/test/test_build_dataset_train.py" timestamp="1556621074386">
-        <mark key="'" line="36" column="43" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/db_303.sh" timestamp="1556105508603">
         <mark key="[" line="2" column="189" />
@@ -628,9 +623,6 @@
         <mark key="^" line="24" column="4" />
         <mark key="." line="42" column="30" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/meta_architecture/baseline.py" timestamp="1556627330154">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/support_tools/separate_hand.py" timestamp="1556808312087">
         <mark key="'" line="29" column="39" />
         <mark key="[" line="29" column="55" />
@@ -690,58 +682,60 @@
       <jump line="29" column="30" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="53" column="59" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="54" column="59" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
+      <jump line="5" column="8" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>pdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4ocCkgPT0gMzoKICAgICAgICAgICAgcCA9IHBbOjJdCg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlwb2ludHMgPSBrZXlwb2ludHNbOiwgOjJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGNlcHQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZl9tYXBzID0gW1tdLCBbXSwgW10sIFtdXQo=</text>
+        <text encoding="base64">ICAgICAgICBSZXNpemVLZXlwb2ludHMocmVzaXplX3NpemUpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIHNlbGYuc3RsaXN0Wy0xXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnYScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIHNlbGYuc3RsaXN0Wy0xXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2EnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIHNlbGYuc3RsaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2EnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXR1cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2EnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>pdb</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>pdb</last-pattern>
       <last-replace>guide</last-replace>
       <last-substitute>example</last-substitute>
       <last-dir>1</last-dir>
@@ -766,9 +760,9 @@
         <entry>SHUFFLE</entry>
         <entry>num_worker</entry>
         <entry>def train</entry>
-        <entry>pdb</entry>
         <entry>add</entry>
         <entry>save</entry>
+        <entry>pdb</entry>
       </history-search>
       <history-cmd>
         <entry>%s/L1Norm/L1NormWithRegularization/g</entry>
@@ -831,6 +825,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
