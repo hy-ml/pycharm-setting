@@ -560,12 +560,12 @@
         <mark key="^" line="103" column="54" />
         <mark key="." line="103" column="54" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556811630604">
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1556813164223">
         <mark key="'" line="54" column="59" />
-        <mark key="[" line="67" column="39" />
-        <mark key="]" line="67" column="39" />
-        <mark key="." line="67" column="39" />
-        <mark key="^" line="67" column="39" />
+        <mark key="[" line="57" column="34" />
+        <mark key="]" line="57" column="35" />
+        <mark key="." line="57" column="35" />
+        <mark key="^" line="57" column="35" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/model/mlp/fc_layers.py" timestamp="1556275120048">
         <mark key="[" line="3" column="40" />
