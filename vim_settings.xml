@@ -644,12 +644,12 @@
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/meta_architecture/baseline.py" timestamp="1556627330154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/support_tools/separate_hand.py" timestamp="1556801503288">
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/support_tools/separate_hand.py" timestamp="1556805675715">
         <mark key="'" line="27" column="39" />
-        <mark key="[" line="27" column="39" />
-        <mark key="]" line="27" column="39" />
-        <mark key="^" line="27" column="39" />
-        <mark key="." line="27" column="39" />
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="38" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/build.py" timestamp="1555777752935">
         <mark key="[" line="24" column="18" />
@@ -699,8 +699,10 @@
       <jump line="24" column="39" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/support_tools/separate_hand.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="8">
+        <text>10
+10
+10</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -711,35 +713,37 @@
       <register name="0" type="2">
         <text encoding="base64">aW1nX2RpcjogL2hvbWUveW9zaGlha2kvZGF0YXNldC9teV9oYW5kX2RhdGFzZXQvaW1nc19zYW1wbGVkCnNhdmVfZGlyOiAvaG9tZS95b3NoaWFraS9kYXRhc2V0L215X2hhbmRfZGF0YXNldC9rZXlwb2ludHNfMjFqb2ludAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>10
+10
+10</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2F2ZV9kaXI6IGNzdgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1nX2RpcjogaW1nCg==</text>
+        <text encoding="base64">c2F2ZV9kaXI6IGNzdgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1nX2RpcjogaW1nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5jZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5jZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihzYW1wbGVkX2ltZ19wYXRocykpCg==</text>
+        <text encoding="base64">ICAgICAgICAKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihpbWdfcGF0aHMpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihzYW1wbGVkX2ltZ19wYXRocykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihpbWdfcGF0aHMpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
