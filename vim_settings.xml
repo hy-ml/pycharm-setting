@@ -181,12 +181,12 @@
         <mark key="^" line="23" column="54" />
         <mark key="." line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/predict.py" timestamp="1556851341606">
-        <mark key="'" line="8" column="29" />
-        <mark key="[" line="63" column="29" />
-        <mark key="]" line="63" column="33" />
-        <mark key="." line="63" column="33" />
-        <mark key="^" line="63" column="33" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/predict.py" timestamp="1556860514294">
+        <mark key="'" line="9" column="29" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/meta_architecture/baseline_net.py" timestamp="1556842432707">
         <mark key="'" line="6" column="12" />
@@ -720,8 +720,8 @@
       <jump line="8" column="29" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/predict.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -733,34 +733,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHcgPSB4cC53aGVyZShGLmZsYXR0ZW4oaGVhdG1hcCkuZGF0YSA9PSAwLCBzZWxmLncwLCBzZWxmLncxKS5hc3R5cGUoCiAgICAgICAgICAgICAgICAgICAgeHAuZmxvYXQzMikucmVzaGFwZSgoYiwgLTEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgb3B0aW1pemVyID0gY2hhaW5lci5vcHRpbWl6ZXJzLkFkYW0oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWzcsIDQwOTYsIDMsICdyJ10sIFsxLCA0MDk2LCAwLCAnciddLCBbMSwgMjEsIDAsICdzJ11dCg==</text>
+        <text encoding="base64">ICAgIGVkZ2VfdGFibGUgPSBtYWtlX2VkZ2VfdGFibGUocGFsbV9pbmRpY2VzLCBsc3RfZmluZ2VyX2luZGljZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5ID0gRi5yZXNoYXBlKGhlYXRtYXAsIChiLCAtMSkpCg==</text>
+        <text encoding="base64">ICAgb3B0aW1pemVyID0gY2hhaW5lci5vcHRpbWl6ZXJzLkFkYW0oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeSwgeCA9IHB0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWzcsIDQwOTYsIDMsICdyJ10sIFsxLCA0MDk2LCAwLCAnciddLCBbMSwgMjEsIDAsICdzJ11dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpTlRkZAo=</text>
+        <text encoding="base64">ICAgICAgICB5ID0gRi5yZXNoYXBlKGhlYXRtYXAsIChiLCAtMSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeSwgeCA9IHB0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBjdWRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpTlRkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGJhY2tlbmQuY3VkYS5nZXRfZGV2aWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBjdWRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
