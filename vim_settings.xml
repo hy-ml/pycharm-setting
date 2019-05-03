@@ -55,12 +55,12 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/train.py" timestamp="1556851245080">
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/train.py" timestamp="1556852837160">
         <mark key="'" line="25" column="38" />
-        <mark key="[" line="34" column="58" />
-        <mark key="]" line="34" column="58" />
-        <mark key="." line="34" column="58" />
-        <mark key="^" line="34" column="58" />
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+        <mark key="^" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/build.py" timestamp="1556835831853">
         <mark key="[" line="46" column="0" />
@@ -137,6 +137,12 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
         <mark key="^" line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/pose_estimation/easy.yml" timestamp="1556852498949">
+        <mark key="[" line="9" column="52" />
+        <mark key="]" line="9" column="53" />
+        <mark key="." line="9" column="53" />
+        <mark key="^" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/16pts.yml" timestamp="1556802856916">
         <mark key="[" line="1" column="59" />
@@ -397,11 +403,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/loss/weighted_mae.py" timestamp="1556843927370">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="44" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="22" column="12" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/loss/weighted_mae.py" timestamp="1556852405241">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+        <mark key="^" line="28" column="16" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/classification_net/vgg_bn.yaml" timestamp="1555430479782">
         <mark key="[" line="10" column="43" />
@@ -715,10 +721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cuda</text>
@@ -727,34 +733,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHcgPSB4cC53aGVyZShGLmZsYXR0ZW4oaGVhdG1hcCkuZGF0YSA9PSAwLCBzZWxmLncwLCBzZWxmLncxKS5hc3R5cGUoCiAgICAgICAgICAgICAgICAgICAgeHAuZmxvYXQzMikucmVzaGFwZSgoYiwgLTEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeSwgeCA9IHB0Cg==</text>
+        <text encoding="base64">ICAgb3B0aW1pemVyID0gY2hhaW5lci5vcHRpbWl6ZXJzLkFkYW0oKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpTlRkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWzcsIDQwOTYsIDMsICdyJ10sIFsxLCA0MDk2LCAwLCAnciddLCBbMSwgMjEsIDAsICdzJ11dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB5ID0gRi5yZXNoYXBlKGhlYXRtYXAsIChiLCAtMSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBjdWRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeSwgeCA9IHB0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIGJhY2tlbmQuY3VkYS5nZXRfZGV2aWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpTlRkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBjdWRhCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIGJhY2tlbmQuY3VkYS5nZXRfZGV2aWNlKCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmV4dHJhY3RvciA9IGV4dHJhY3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
