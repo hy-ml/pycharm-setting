@@ -43,11 +43,31 @@
         <mark key="." line="13" column="44" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/data/transforms.py" timestamp="1556703163310" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" timestamp="1556907868587">
+        <mark key="[" line="128" column="59" />
+        <mark key="]" line="128" column="68" />
+        <mark key="^" line="128" column="68" />
+        <mark key="." line="128" column="68" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transform.py" timestamp="1556540980620">
         <mark key="[" line="52" column="39" />
         <mark key="]" line="53" column="11" />
         <mark key="^" line="53" column="11" />
         <mark key="." line="53" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/model/test_build_estimator.py" timestamp="1556639567367">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" timestamp="1556907522298">
+        <mark key="'" line="173" column="26" />
+        <mark key="[" line="109" column="37" />
+        <mark key="]" line="109" column="46" />
+        <mark key="." line="109" column="46" />
+        <mark key="^" line="109" column="46" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556552213697">
         <mark key="[" line="63" column="0" />
@@ -64,11 +84,6 @@
         <mark key="." line="1024" column="1" />
         <mark key="^" line="1024" column="1" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/tests/model/test_extractor.py" timestamp="1556694534943">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/model/test_extractor.py" timestamp="1556729046311">
         <mark key="[" line="53" column="29" />
         <mark key="]" line="50" column="0" />
@@ -81,10 +96,12 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="65" column="60" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/model/test_extractor.py" timestamp="1556694441012">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" timestamp="1556642778789">
+        <mark key="'" line="16" column="42" />
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="74" />
+        <mark key="." line="16" column="74" />
+        <mark key="^" line="16" column="74" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test_code/test_extractor.py" timestamp="1556721113067">
         <mark key="[" line="37" column="42" />
@@ -145,16 +162,6 @@
         <mark key="]" line="21" column="54" />
         <mark key="^" line="21" column="54" />
         <mark key="." line="21" column="54" />
-      </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/guide/21pts.csv" timestamp="1556528338825">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="6" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/guide/14pts.csv" timestamp="1556528798566">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/imagenet_categories.py" timestamp="1556699353335">
         <mark key="[" line="0" column="0" />
@@ -249,57 +256,61 @@
       <jump line="75" column="16" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/imagenet_categories.py" />
       <jump line="217" column="6" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/imagenet_categories.py" />
       <jump line="101" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="102" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="164" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="166" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZV9jb3VudGVyICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICBpbWdfc2l6ZSA9IAo=</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>NUM</text>
+        <text>idx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJveF9zaGlmdGVyID0gUmFuZG9tQm94U2hpZnRlcigyMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZV9jb3VudGVyICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICBpbWdfc2l6ZSA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZV9jb3VudGVyICs9IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdjIuaW1zaG93KCdmcmFtZScsIGZyYW1lKQogICAgICAgIGlmIGN2Mi53YWl0S2V5KDEpICYgMHhGRiA9PSBvcmQoJ3EnKToKICAgICAgICAgICAgYnJlYWsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmcmFtZS5zaGFwZSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjdjIuaW1zaG93KCdmcmFtZScsIGZyYW1lKQogICAgICAgIGlmIGN2Mi53YWl0S2V5KDEpICYgMHhGRiA9PSBvcmQoJ3EnKToKICAgICAgICAgICAgYnJlYWsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChmcmFtZS5zaGFwZSkK</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAjIGdyYXkgPSBjdjIuY3Z0Q29sb3IoZnJhbWUsIGN2Mi5DT0xPUl9CR1IyR1JBWSkK</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">IAogCiA=</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>#
 #
 #</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZSA9IGN2Mi5yZXNpemUoZnJhbWUsICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NUM</last-search>
+      <last-search>idx</last-search>
       <last-offset />
-      <last-pattern>NUM</last-pattern>
+      <last-pattern>idx</last-pattern>
       <last-replace>estimator</last-replace>
       <last-substitute>detector</last-substitute>
       <last-dir>1</last-dir>
@@ -307,7 +318,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_show_ex</entry>
         <entry>sample</entry>
         <entry>example</entry>
         <entry>self.guide_wname</entry>
@@ -327,6 +337,7 @@
         <entry>gold_fish</entry>
         <entry>golden</entry>
         <entry>NUM</entry>
+        <entry>idx</entry>
       </history-search>
       <history-cmd>
         <entry>%s/i/idx/gc</entry>
