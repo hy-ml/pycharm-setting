@@ -31,11 +31,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/pose_estimation/defaults.yml" timestamp="1556837949425">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="39" />
-        <mark key="^" line="2" column="39" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/pose_estimation/defaults.yml" timestamp="1556842302119">
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="9" column="47" />
+        <mark key="." line="9" column="47" />
+        <mark key="^" line="9" column="47" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" timestamp="1555605989352">
         <mark key="[" line="38" column="57" />
@@ -55,12 +55,12 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/train.py" timestamp="1556837900132">
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/train.py" timestamp="1556842545168">
         <mark key="'" line="25" column="38" />
-        <mark key="[" line="41" column="50" />
-        <mark key="]" line="41" column="50" />
-        <mark key="." line="41" column="50" />
-        <mark key="^" line="41" column="50" />
+        <mark key="[" line="31" column="46" />
+        <mark key="]" line="31" column="46" />
+        <mark key="." line="31" column="46" />
+        <mark key="^" line="31" column="46" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/build.py" timestamp="1556835831853">
         <mark key="[" line="46" column="0" />
@@ -144,10 +144,10 @@
         <mark key="^" line="1" column="60" />
         <mark key="." line="1" column="60" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556809867881">
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" timestamp="1556841285504">
         <mark key="'" line="15" column="18" />
-        <mark key="[" line="53" column="52" />
-        <mark key="]" line="55" column="19" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="27" />
         <mark key="^" line="55" column="19" />
         <mark key="." line="55" column="19" />
       </file>
@@ -175,18 +175,19 @@
         <mark key="^" line="23" column="54" />
         <mark key="." line="23" column="54" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/predict.py" timestamp="1556838557241">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="26" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/predict.py" timestamp="1556841690296">
+        <mark key="'" line="8" column="29" />
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="54" column="29" />
+        <mark key="^" line="62" column="28" />
+        <mark key="." line="54" column="29" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/meta_architecture/baseline_net.py" timestamp="1556837740856">
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/meta_architecture/baseline_net.py" timestamp="1556842432707">
         <mark key="'" line="6" column="12" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="34" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="38" />
         <mark key="^" line="10" column="62" />
-        <mark key="." line="7" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/model/suppressor/suppressor.py" timestamp="1556274594088">
         <mark key="'" line="42" column="25" />
@@ -245,12 +246,12 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556835245873">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="65" column="46" />
-        <mark key="]" line="66" column="7" />
-        <mark key="." line="66" column="7" />
-        <mark key="^" line="66" column="7" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556839525728">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="12" />
+        <mark key="." line="68" column="12" />
+        <mark key="^" line="67" column="35" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map.py" timestamp="1556838152902">
         <mark key="[" line="14" column="15" />
@@ -335,10 +336,10 @@
         <mark key="^" line="53" column="11" />
         <mark key="." line="53" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/keypoints_detector.py" timestamp="1556835285766">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/keypoints_detector.py" timestamp="1556841886844">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="10" column="35" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/train2.py" timestamp="1556835093803">
@@ -396,10 +397,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/loss/weighted_mae.py" timestamp="1556837802130">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="4" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/loss/weighted_mae.py" timestamp="1556842814838">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/classification_net/vgg_bn.yaml" timestamp="1555430479782">
         <mark key="[" line="10" column="43" />
@@ -708,58 +710,60 @@
       <jump line="42" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" />
       <jump line="24" column="38" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/train.py" />
       <jump line="8" column="12" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/model/meta_architecture/baseline_net.py" />
+      <jump line="62" column="24" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/predict.py" />
+      <jump line="8" column="29" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/predict.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>pdb</text>
+        <text>cuda</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB3MD0wLjAwMSwgdzE9MS4sIGRldmljZT1Ob25lKToK</text>
+        <text encoding="base64">ZmluZ2VycyA9IFsndGh1bWInLCAncG9pbnRlcl9maW5nZXInLCAnbWlkZGxlX2ZpbmdlcicsICdyaW5nX2ZpbmdlcicsCiAgICAgICAgICAgJ2xpdHRsZV9maW5nZXInXQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LicpCiAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmV4dHJhY3RvciA9IGV4dHJhY3Rvcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgogICB0cmFuc2Zvcm1zID0gYnVpbGRfdHJhbnNmb3JtcygoMjI0LCAyMjQpLCAoNTYsIDU2KSwgY2ZnWydleHRyYWN0b3InXSkKICAgZGF0YXNldCA9IEtleXBvaW50c0RhdGFzZXQoY2ZnWydpbWdfZGlyJ10sIGNmZ1sna2V5cG9pbnRzX2RpciddLCB0cmFuc2Zvcm1zKQoKICAgb3B0aW1pemVyID0gY2hhaW5lci5vcHRpbWl6ZXJzLlNHRChscj0wLjAwMDEpCiAgIG9wdGltaXplci5zZXR1cChtb2RlbCkKCiAgIHRyYWluX2l0ZXIgPSBjaGFpbmVyLml0ZXJhdG9ycy5TZXJpYWxJdGVyYXRvcihkYXRhc2V0LCA2KQoKICAgd2hpbGUgdHJhaW5faXRlci5lcG9jaCA8IDEwMDAwOgogICAgICAgdHJhaW5fYmF0Y2ggPSB0cmFpbl9pdGVyLm5leHQoKQogICAgICAgaW1ncywgaGVhdG1hcHMgPSBjb25jYXRfZXhhbXBsZXModHJhaW5fYmF0Y2gsIGFyZ3MuZ3B1KQogICAgICAgaW1ncyA9IGNoYWluZXIuVmFyaWFibGUoaW1ncykKICAgICAgIGhlYXRtYXBzID0gY2hhaW5lci5WYXJpYWJsZShoZWF0bWFwcykKICAgICAgIGxvc3MgPSBtb2RlbChpbWdzLCBoZWF0bWFwcykKICAgICAgIHByaW50KGxvc3MpCiAgICAgICBtb2RlbC5jbGVhcmdyYWRzKCkKICAgICAgIGxvc3MuYmFja3dhcmQoKQogICAgICAgaW1wb3J0IHBkYgogICAgICAgcGRiLnNldF90cmFjZSgpCiAgICAgICBvcHRpbWl6ZXIudXBkYXRlKCkKCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvc3MgPSBjaGFpbmVyLmZ1bmN0aW9ucy5tZWFuX2Fic29sdXRlX2Vycm9yKHNlbGYueSwgaGVhdG1hcCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgbW9kZWwudG9fZ3B1KGFyZ3MuZ3B1KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChrZXlwb2ludHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgbW9kZWwgPSBLZXlwb2ludHNEZXRlY3RvcihkZXRlY3RvciwgbG9zcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgbG9zcyA9IFdlaWdodGVkTUFFKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbWcuc2hvdygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnb3V0JywgdHlwZT1zdHIpCg==</text>
+        <text encoding="base64">ICAgIGVkZ2VfdGFibGUgPSBtYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB3MD0xLCB3MT0xMDAwMDAwMC4sIGRldmljZT1Ob25lKToK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihjZmdbJ2Fubm90YXRpb25fY29uZmlnJ10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5leHRyYWN0b3IgPSBleHRyYWN0b3IK</text>
+        <text encoding="base64">ICAgIGVkZ2VfdGFibGUgPSBtYWtlX2VkZ2VfdGFibGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgZnJlZXplX2V4dHJhY3Rvcihtb2RlbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pdb</last-search>
+      <last-search>cuda</last-search>
       <last-offset />
-      <last-pattern>pdb</last-pattern>
+      <last-pattern>cuda</last-pattern>
       <last-replace>guide</last-replace>
       <last-substitute>example</last-substitute>
       <last-dir>1</last-dir>
@@ -773,7 +777,6 @@
         <entry>base_ids</entry>
         <entry>to</entry>
         <entry>device</entry>
-        <entry>cuda</entry>
         <entry>exit</entry>
         <entry>point_list</entry>
         <entry>max</entry>
@@ -787,10 +790,9 @@
         <entry>trains</entry>
         <entry>trans</entry>
         <entry>pdb</entry>
+        <entry>cuda</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/l1_norm/l1_norm_regularization/g</entry>
-        <entry>w'</entry>
         <entry>.,.+33332w</entry>
         <entry>86</entry>
         <entry>27</entry>
@@ -806,8 +808,10 @@
         <entry encoding="base64">IHc=</entry>
         <entry>wq</entry>
         <entry>222</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>68</entry>
+        <entry>q</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
