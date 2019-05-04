@@ -25,12 +25,12 @@
         <mark key="^" line="999" column="53" />
         <mark key="." line="999" column="53" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map.py" timestamp="1556977194005">
-        <mark key="'" line="79" column="41" />
-        <mark key="[" line="95" column="66" />
-        <mark key="]" line="96" column="11" />
-        <mark key="^" line="96" column="11" />
-        <mark key="." line="96" column="11" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map.py" timestamp="1556979059445">
+        <mark key="'" line="123" column="9" />
+        <mark key="[" line="110" column="74" />
+        <mark key="]" line="111" column="38" />
+        <mark key="^" line="111" column="38" />
+        <mark key="." line="111" column="38" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/model/build.py" timestamp="1556972780315">
         <mark key="[" line="12" column="38" />
@@ -38,8 +38,9 @@
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/collate_batch.py" timestamp="1556962658410">
-        <mark key="[" line="27" column="49" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/collate_batch.py" timestamp="1556977890855">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="30" column="51" />
         <mark key="]" line="27" column="58" />
         <mark key="." line="27" column="58" />
         <mark key="^" line="27" column="58" />
@@ -125,6 +126,9 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" timestamp="1556977742338">
+        <mark key="'" line="103" column="40" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test_code/test_extractor.py" timestamp="1556721113067">
         <mark key="[" line="37" column="42" />
         <mark key="]" line="37" column="41" />
@@ -162,6 +166,12 @@
         <mark key="]" line="79" column="56" />
         <mark key="." line="79" column="56" />
         <mark key="^" line="79" column="56" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/batch_colator.py" timestamp="1556977955114">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/pose_estimation/defaults.yml" timestamp="1556549297343">
         <mark key="[" line="2" column="48" />
@@ -334,55 +344,60 @@
       <jump line="11" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map.py" />
       <jump line="63" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map.py" />
       <jump line="72" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
+      <jump line="103" column="40" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/collate_batch.py" />
+      <jump line="12" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/collate_batch.py" />
+      <jump line="125" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLnN0YXJ0KCkK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>dataset</text>
+        <text>data_lo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZV9wYXRocyA9IFsKICAgICAgICAgICAgICAgIG9zLnBhdGguam9pbihzZWxmLmZlYXVyZV9kaXIsIHN0cihpbWdfaWQpLCBzb3VyY2VfYW5uX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICdmZWF0dXJlX3t9Lm5weicuZm9ybWF0KGkpKSBmb3IgaSBpbiByYW5nZSgyKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLnN0YXJ0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBwIGluIHByb2Nlc3NlczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbnAuc2F2ZXpfY29tcHJlc3NlZChzYXZlX3BhdGgsIGZfbWFwc19zYW1lX2JveF9ibG9ja1tmX2lkXSkK</text>
+        <text encoding="base64">ICAgICMgY2ZnLlRSQU5TRk9STVMuUkVTSVpFX1NJWkUgPSAoMTI4LCAxMjgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9wYXRocy5hcHBlbmQoc2F2ZV9wYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZl9tYXBzX3NhdmUuYXBwZW5kKGZfbWFwc19zYW1lX2JveF9ibG9ja1tmX2lkXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1ncywgc2hpZnRlZF9ib3hlcywgaW1nX2lkLCBhbm5faWRzID0gW3ZbMF0gZm9yIHYgaW4gZGF0YV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZl9tYXBzX3NhdmUuYXBwZW5kKGZfbWFwc19zYW1lX2JveF9ibG9ja1tmX2lkXSkK</text>
+        <text encoding="base64">ZnJvbSBkYXRhLmRhdGFzZXRzLmNhY2hlX2ZlYXR1cmVfbWFwIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVfcGF0aHMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSB0b19pbWFnZV9saXN0KHRyYW5zcG9zZWRfYmF0Y2hbMF0sIHNlbGYuc2l6ZV9kaXZpc2libGUpCiAgICAgICAgdGFyZ2V0cyA9IHRyYW5zcG9zZWRfYmF0Y2hbMV0KICAgICAgICBpbWdfaWRzID0gdHJhbnNwb3NlZF9iYXRjaFsyXQogICAgICAgIGlmIGxlbih0cmFuc3Bvc2VkX2JhdGNoKSA9PSAzOgogICAgICAgICAgICByZXR1cm4gaW1hZ2VzLCB0YXJnZXRzLCBpbWdfaWRzCiAgICAgICAgZWxpZiBsZW4odHJhbnNwb3NlZF9iYXRjaCkgPT0gNDoKICAgICAgICAgICAgcm9pcyA9IHRyYW5zcG9zZWRfYmF0Y2hbM10KICAgICAgICAgICAgcmV0dXJuIGltYWdlcywgdGFyZ2V0cywgaW1nX2lkcywgcm9pcwogICAgICAgIGVsaWYgbGVuKHRyYW5zcG9zZWRfYmF0Y2gpID09IDU6CiAgICAgICAgICAgIHJvaXMgPSB0cmFuc3Bvc2VkX2JhdGNoWzNdCiAgICAgICAgICAgIGltZ19pbmZvID0gdHJhbnNwb3NlZF9iYXRjaFs0XQogICAgICAgICAgICByZXR1cm4gaW1hZ2VzLCB0YXJnZXRzLCBpbWdfaWRzLCByb2lzLCBpbWdfaW5mbwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICAnVGhlIG51bWJlciBvZiBlbGVtZW50cyBpbiBhIGJhdGNoIHNob3VkIGJlIDMgb3IgNC4gR290IHt9LicuZm9ybWF0KGxlbih0cmFuc3Bvc2VkX2JhdGNoKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dataset</last-search>
+      <last-search>data_lo</last-search>
       <last-offset />
-      <last-pattern>dataset</last-pattern>
+      <last-pattern>data_lo</last-pattern>
       <last-replace>estimator</last-replace>
       <last-substitute>detector</last-substitute>
       <last-dir>1</last-dir>
@@ -390,10 +405,6 @@
     </search>
     <history>
       <history-search>
-        <entry>path_mean</entry>
-        <entry>mean</entry>
-        <entry>detector</entry>
-        <entry>cuda</entry>
         <entry>tiger</entry>
         <entry>shark</entry>
         <entry>gold</entry>
@@ -410,6 +421,10 @@
         <entry>getitem</entry>
         <entry>shifted_boxes</entry>
         <entry>dataset</entry>
+        <entry>Batch</entry>
+        <entry>BatchCol</entry>
+        <entry>self.size_divisible</entry>
+        <entry>data_lo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/i/idx/gc</entry>
