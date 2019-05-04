@@ -25,12 +25,12 @@
         <mark key="^" line="999" column="53" />
         <mark key="." line="999" column="53" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map.py" timestamp="1556979059445">
-        <mark key="'" line="123" column="9" />
-        <mark key="[" line="110" column="74" />
-        <mark key="]" line="111" column="38" />
-        <mark key="^" line="111" column="38" />
-        <mark key="." line="111" column="38" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map.py" timestamp="1556982441410">
+        <mark key="'" line="122" column="9" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="110" column="38" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/model/build.py" timestamp="1556972780315">
         <mark key="[" line="12" column="38" />
@@ -128,6 +128,12 @@
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" timestamp="1556977742338">
         <mark key="'" line="103" column="40" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" timestamp="1556981864909">
+        <mark key="'" line="22" column="27" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test_code/test_extractor.py" timestamp="1556721113067">
         <mark key="[" line="37" column="42" />
@@ -349,63 +355,63 @@
       <jump line="31" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/collate_batch.py" />
       <jump line="12" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/collate_batch.py" />
       <jump line="125" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map.py" />
+      <jump line="22" column="27" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLnN0YXJ0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>data_lo</text>
+        <text>heatmap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZV9wYXRocyA9IFsKICAgICAgICAgICAgICAgIG9zLnBhdGguam9pbihzZWxmLmZlYXVyZV9kaXIsIHN0cihpbWdfaWQpLCBzb3VyY2VfYW5uX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICdmZWF0dXJlX3t9Lm5weicuZm9ybWF0KGkpKSBmb3IgaSBpbiByYW5nZSgyKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLnN0YXJ0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBwIGluIHByb2Nlc3NlczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9zcyA9IGNoYWluZXIuVmFyaWFibGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgY2ZnLlRSQU5TRk9STVMuUkVTSVpFX1NJWkUgPSAoMTI4LCAxMjgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvc3MgPSB4cAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB3X21hcCA9IHhwLndoZXJlKGhlYXRtYXAgPCBzZWxmLm1pbl93LCBzZWxmLm1pbl93LCBoZWF0bWFwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1ncywgc2hpZnRlZF9ib3hlcywgaW1nX2lkLCBhbm5faWRzID0gW3ZbMF0gZm9yIHYgaW4gZGF0YV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgd19tYXAgPSB4cC53aGVyZShoZWF0bWFwIDwgc2VsZi5taW5fdywgc2VsZi5taW5fdywgaGVhdG1hcCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhLmRhdGFzZXRzLmNhY2hlX2ZlYXR1cmVfbWFwIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgd19tYXAgPSB4cC53aGVyZShoZWF0bWFwIDwgc2VsZi5taW5fdywgc2VsZi5taW5fdywgaGVhdG1hcCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLnN0YXJ0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSB0b19pbWFnZV9saXN0KHRyYW5zcG9zZWRfYmF0Y2hbMF0sIHNlbGYuc2l6ZV9kaXZpc2libGUpCiAgICAgICAgdGFyZ2V0cyA9IHRyYW5zcG9zZWRfYmF0Y2hbMV0KICAgICAgICBpbWdfaWRzID0gdHJhbnNwb3NlZF9iYXRjaFsyXQogICAgICAgIGlmIGxlbih0cmFuc3Bvc2VkX2JhdGNoKSA9PSAzOgogICAgICAgICAgICByZXR1cm4gaW1hZ2VzLCB0YXJnZXRzLCBpbWdfaWRzCiAgICAgICAgZWxpZiBsZW4odHJhbnNwb3NlZF9iYXRjaCkgPT0gNDoKICAgICAgICAgICAgcm9pcyA9IHRyYW5zcG9zZWRfYmF0Y2hbM10KICAgICAgICAgICAgcmV0dXJuIGltYWdlcywgdGFyZ2V0cywgaW1nX2lkcywgcm9pcwogICAgICAgIGVsaWYgbGVuKHRyYW5zcG9zZWRfYmF0Y2gpID09IDU6CiAgICAgICAgICAgIHJvaXMgPSB0cmFuc3Bvc2VkX2JhdGNoWzNdCiAgICAgICAgICAgIGltZ19pbmZvID0gdHJhbnNwb3NlZF9iYXRjaFs0XQogICAgICAgICAgICByZXR1cm4gaW1hZ2VzLCB0YXJnZXRzLCBpbWdfaWRzLCByb2lzLCBpbWdfaW5mbwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoCiAgICAgICAgICAgICAgICAnVGhlIG51bWJlciBvZiBlbGVtZW50cyBpbiBhIGJhdGNoIHNob3VkIGJlIDMgb3IgNC4gR290IHt9LicuZm9ybWF0KGxlbih0cmFuc3Bvc2VkX2JhdGNoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBwIGluIHByb2Nlc3NlczoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>data_lo</last-search>
+      <last-search>heatmap</last-search>
       <last-offset />
-      <last-pattern>data_lo</last-pattern>
-      <last-replace>estimator</last-replace>
-      <last-substitute>detector</last-substitute>
+      <last-pattern>heatmap</last-pattern>
+      <last-replace>y</last-replace>
+      <last-substitute>heatmap</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tiger</entry>
         <entry>shark</entry>
         <entry>gold</entry>
         <entry>gold_fish</entry>
@@ -425,9 +431,9 @@
         <entry>BatchCol</entry>
         <entry>self.size_divisible</entry>
         <entry>data_lo</entry>
+        <entry>heatmap</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/i/idx/gc</entry>
         <entry>%s/point_list/keypoints/gc</entry>
         <entry>s</entry>
         <entry>56</entry>
@@ -446,6 +452,7 @@
         <entry>e</entry>
         <entry>wq</entry>
         <entry>88</entry>
+        <entry>%s/heatmap/y/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
