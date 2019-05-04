@@ -10,6 +10,12 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/multi_stage_net.py" timestamp="1556984108306">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+        <mark key="^" line="41" column="27" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1556703417403">
         <mark key="'" line="101" column="24" />
       </file>
@@ -129,11 +135,17 @@
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" timestamp="1556977742338">
         <mark key="'" line="103" column="40" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" timestamp="1556981864909">
-        <mark key="'" line="22" column="27" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/build.py" timestamp="1556984406544">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" timestamp="1556983317195">
+        <mark key="'" line="47" column="13" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test_code/test_extractor.py" timestamp="1556721113067">
         <mark key="[" line="37" column="42" />
@@ -356,55 +368,62 @@
       <jump line="12" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/collate_batch.py" />
       <jump line="125" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map.py" />
       <jump line="22" column="27" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" />
+      <jump line="2" column="20" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" />
+      <jump line="67" column="28" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" />
+      <jump line="61" column="29" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" />
+      <jump line="53" column="13" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/weighted_mae.py" />
+      <jump line="8" column="27" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/multi_stage_net.py" />
+      <jump line="10" column="12" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/multi_stage_net.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsZmkK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>heatmap</text>
+        <text>self.conv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZV9wYXRocyA9IFsKICAgICAgICAgICAgICAgIG9zLnBhdGguam9pbihzZWxmLmZlYXVyZV9kaXIsIHN0cihpbWdfaWQpLCBzb3VyY2VfYW5uX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICdmZWF0dXJlX3t9Lm5weicuZm9ybWF0KGkpKSBmb3IgaSBpbiByYW5nZSgyKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgd19tYXAgPSB4cC53aGVyZSh5LCBzZWxmLncwLCBzZWxmLncxKS5hc3R5cGUoeHAuZmxvYXQzMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsZmkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9zcyA9IGNoYWluZXIuVmFyaWFibGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvc3MgPSB4cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBkZXZpY2UgaXMgTm9uZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB3X21hcCA9IHhwLndoZXJlKGhlYXRtYXAgPCBzZWxmLm1pbl93LCBzZWxmLm1pbl93LCBoZWF0bWFwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgd19tYXAgPSB4cC53aGVyZShoZWF0bWFwIDwgc2VsZi5taW5fdywgc2VsZi5taW5fdywgaGVhdG1hcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlID0gMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgd19tYXAgPSB4cC53aGVyZShoZWF0bWFwIDwgc2VsZi5taW5fdywgc2VsZi5taW5fdywgaGVhdG1hcCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBkZXZpY2UgaXMgTm9uZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLnN0YXJ0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBwIGluIHByb2Nlc3NlczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>heatmap</last-search>
+      <last-search>self.conv</last-search>
       <last-offset />
-      <last-pattern>heatmap</last-pattern>
+      <last-pattern>self.conv</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>heatmap</last-substitute>
       <last-dir>1</last-dir>
@@ -412,8 +431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shark</entry>
-        <entry>gold</entry>
         <entry>gold_fish</entry>
         <entry>golden</entry>
         <entry>NUM</entry>
@@ -432,6 +449,8 @@
         <entry>self.size_divisible</entry>
         <entry>data_lo</entry>
         <entry>heatmap</entry>
+        <entry>b</entry>
+        <entry>self.conv</entry>
       </history-search>
       <history-cmd>
         <entry>%s/point_list/keypoints/gc</entry>
