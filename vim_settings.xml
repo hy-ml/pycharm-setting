@@ -10,9 +10,14 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/keypoints_detector.py" timestamp="1556699830971" />
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1556703417403">
         <mark key="'" line="101" column="24" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/model/networks/siamesenet.py" timestamp="1556972742707">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.json" timestamp="1556693958142">
         <mark key="[" line="0" column="0" />
@@ -26,11 +31,24 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/model/build.py" timestamp="1556972780315">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/collate_batch.py" timestamp="1556962658410">
         <mark key="[" line="27" column="49" />
         <mark key="]" line="27" column="58" />
         <mark key="." line="27" column="58" />
         <mark key="^" line="27" column="58" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/data/datasets/train/coco.py" timestamp="1556974391204">
+        <mark key="'" line="42" column="36" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="72" column="51" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_transforms.py" timestamp="1556548657824">
         <mark key="[" line="72" column="0" />
@@ -180,6 +198,12 @@
         <mark key="^" line="1024" column="1" />
         <mark key="." line="1024" column="1" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/configs/defaults.py" timestamp="1556972832653">
+        <mark key="'" line="30" column="6" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/14pts.yml" timestamp="1556548843919">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="18" />
@@ -212,7 +236,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/vgg.py" timestamp="1556699622199" />
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/movie_to_img.py" timestamp="1556808675650">
         <mark key="[" line="25" column="45" />
         <mark key="]" line="26" column="47" />
@@ -294,55 +317,58 @@
       <jump line="108" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="109" column="39" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="107" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="30" column="6" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/configs/defaults.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="42" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/data/datasets/train/coco.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfaW1nX2luZm8oc2VsZiwgaW5kZXgpOgogICAgICAgIGltZ19pZCA9IHNlbGYuaWRfdG9faW1nX21hcFtpbmRleF0KICAgICAgICBpbWdfZGF0YSA9IHNlbGYuY29jby5pbWdzW2ltZ19pZF0KICAgICAgICByZXR1cm4gaW1nX2RhdGEKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2NvbnZlcnRfYm94X2Zvcm1hdChib3gsIHRhcmdldF9mb3JtYXQ9J3h5eHknKToKICAgICAgICAiIiIgQ29udmVydCBmb3JtYXQgb2YgYm91bmRpbmctYm94IGZyb20gYHh5d2hgIGludG8gYHRhcmdldF9mb3JtYXRgLgoKICAgICAgICBBcmdzOgogICAgICAgICAgICBib3ggKGFycmF5LWxpa2UpOgogICAgICAgICAgICB0YXJnZXRfZm9ybWF0IChzdHIpOgoKICAgICAgICBSZXR1cm5zOgoKICAgICAgICAiIiIKICAgICAgICB4X21pbiwgeV9taW4sIHcsIGggPSBib3gKICAgICAgICBpZiB0YXJnZXRfZm9ybWF0ID09ICd4eXh5JzoKICAgICAgICAgICAgeF9tYXggPSB4X21pbiArIHcKICAgICAgICAgICAgeV9tYXggPSB5X21pbiArIGgKICAgICAgICAgICAgcmV0dXJuIFt4X21pbiwgeV9taW4sIHhfbWF4LCB5X21heF0KICAgICAgICBlbHNlOgogICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCdOb3Qgc3VwcG9ydCBge31gLicuZm9ybWF0KHRhcmdldF9mb3JtYXQpKQoK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>img_info</text>
+        <text>getitem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4odHJhbnNwb3NlZF9iYXRjaCkgPT0gNDoKICAgICAgICAgICAgcm9pcyA9IHRyYW5zcG9zZWRfYmF0Y2hbM10KICAgICAgICAgICAgcmV0dXJuIGltYWdlcywgdGFyZ2V0cywgaW1nX2lkcywgcm9pcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmVhdHVyZV9wYXRocyA9IFsKICAgICAgICAgICAgICAgIG9zLnBhdGguam9pbihzZWxmLmZlYXVyZV9kaXIsIHN0cihpbWdfaWQpLCBzb3VyY2VfYW5uX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICdmZWF0dXJlX3t9Lm5weicuZm9ybWF0KGkpKSBmb3IgaSBpbiByYW5nZSgyKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfaW1nX2luZm8oc2VsZiwgaW5kZXgpOgogICAgICAgIGltZ19pZCA9IHNlbGYuaWRfdG9faW1nX21hcFtpbmRleF0KICAgICAgICBpbWdfZGF0YSA9IHNlbGYuY29jby5pbWdzW2ltZ19pZF0KICAgICAgICByZXR1cm4gaW1nX2RhdGEKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2NvbnZlcnRfYm94X2Zvcm1hdChib3gsIHRhcmdldF9mb3JtYXQ9J3h5eHknKToKICAgICAgICAiIiIgQ29udmVydCBmb3JtYXQgb2YgYm91bmRpbmctYm94IGZyb20gYHh5d2hgIGludG8gYHRhcmdldF9mb3JtYXRgLgoKICAgICAgICBBcmdzOgogICAgICAgICAgICBib3ggKGFycmF5LWxpa2UpOgogICAgICAgICAgICB0YXJnZXRfZm9ybWF0IChzdHIpOgoKICAgICAgICBSZXR1cm5zOgoKICAgICAgICAiIiIKICAgICAgICB4X21pbiwgeV9taW4sIHcsIGggPSBib3gKICAgICAgICBpZiB0YXJnZXRfZm9ybWF0ID09ICd4eXh5JzoKICAgICAgICAgICAgeF9tYXggPSB4X21pbiArIHcKICAgICAgICAgICAgeV9tYXggPSB5X21pbiArIGgKICAgICAgICAgICAgcmV0dXJuIFt4X21pbiwgeV9taW4sIHhfbWF4LCB5X21heF0KICAgICAgICBlbHNlOgogICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCdOb3Qgc3VwcG9ydCBge31gLicuZm9ybWF0KHRhcmdldF9mb3JtYXQpKQoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfZmVhdHVyZSwgdGFyZ2V0X2ZlYXR1cmUgPSBzZWxmLl9sb2FkX2ZlYXR1cmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfYW5uX2lkLCB0YXJnZXRfYW5uX2lkID0gc2VsZi5fc2FtcGxlX2Fubl9pZHMoYW5uX2lkcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfaWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHYpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2NvID0gc2VsZi5jb2NvCiAgICAgICAgaW1nX2lkID0gc2VsZi5pZHNbaWR4XQogICAgICAgIGFubl9pZHMgPSBjb2NvLmdldEFubklkcyhpbWdJZHM9aW1nX2lkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwgPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNoYW5nZSBncmF5IHNjYWxlIGltYWdlIGludG8gcmdiIGltYWdlCiAgICAgICAgaWYgbGVuKG5wLmFycmF5KGltZykuc2hhcGUpID09IDI6CiAgICAgICAgICAgIGltZyA9IG5wLmFycmF5KGltZykKICAgICAgICAgICAgaW1nID0gbnAuZXhwYW5kX2RpbXMoaW1nLCBheGlzPS0xKQogICAgICAgICAgICBpbWcgPSBucC5jb25jYXRlbmF0ZSgoaW1nLCBpbWcsIGltZyksIGF4aXM9LTEpCiAgICAgICAgICAgIGltZyA9IEltYWdlLmZyb21hcnJheShpbWcpCgogICAgICAgICMgZmlsdGVyIGNyb3dkIGFubm90YXRpb25zCiAgICAgICAgIyBUT0RPIG1pZ2h0IGJlIGJldHRlciB0byBhZGQgYW4gZXh0cmEgZmllbGQKICAgICAgICBhbm5vID0gW29iaiBmb3Igb2JqIGluIGFubm8gaWYgb2JqWyJpc2Nyb3dkIl0gPT0gMF0KCiAgICAgICAgYm94ZXMgPSBbb2JqWyJiYm94Il0gZm9yIG9iaiBpbiBhbm5vXQogICAgICAgICMgVE9ETzogY29udmVydCBmb3JtYXQgKHh5d2gpIGludG8gKHh5eHkpCiAgICAgICAgIyBib3hlcyA9IHNlbGYuX2NvbnZlcnRfYm94X2Zvcm1hdChucC5hcnJheShib3hlcyksICd4eXh5JykKCiAgICAgICAgaW1nX3dpZHRoLCBpbWdfaGVpZ2h0ID0gaW1nLnNpemUKCiAgICAgICAgYm94X3NvdXJjZSwgYm94X3RhcmdldCwgbGFiZWwgPSBzZWxmLl9ib3hfc2FtcGxlcihib3hlcykKICAgICAgICBib3hfc291cmNlLCBib3hfdGFyZ2V0ID0gXAogICAgICAgICAgICBbc2VsZi5fY29udmVydF9ib3hfZm9ybWF0KGIsICd4eXh5JykgZm9yIGIgaW4gW2JveF9zb3VyY2UsIGJveF90YXJnZXRdXQogICAgICAgIGJveF9zb3VyY2UsIGJveF90YXJnZXQgPSBcCiAgICAgICAgICAgIFtzZWxmLl9ib3hfc2hpZnRlcihiLCBpbWdfaGVpZ2h0LCBpbWdfd2lkdGgpCiAgICAgICAgICAgICBmb3IgYiBpbiAoYm94X3NvdXJjZSwgYm94X3RhcmdldCldCgogICAgICAgIGltZ19zb3VyY2UsIGltZ190YXJnZXQgPSBcCiAgICAgICAgICAgIFtjcm9wX2ltZyhpbWcsIGIpIGZvciBiIGluIFtib3hfc291cmNlLCBib3hfdGFyZ2V0XV0KICAgICAgICBpZiBzZWxmLl90cmFuc2Zvcm1zIGlzIG5vdCBOb25lOgogICAgICAgICAgICBpbWdfc291cmNlLCBpbWdfdGFyZ2V0ID0gXAogICAgICAgICAgICAgICAgW3NlbGYuX3RyYW5zZm9ybXMoaW1nXykgZm9yIGltZ18gaW4gKGltZ19zb3VyY2UsIGltZ190YXJnZXQpXQogICAgICAgIHJldHVybiBpbWdfc291cmNlLCBpbWdfdGFyZ2V0LCBsYWJlbCwgYm94X3NvdXJjZSwgYm94X3RhcmdldAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>img_info</last-search>
+      <last-search>getitem</last-search>
       <last-offset />
-      <last-pattern>img_info</last-pattern>
+      <last-pattern>getitem</last-pattern>
       <last-replace>estimator</last-replace>
       <last-substitute>detector</last-substitute>
       <last-dir>1</last-dir>
@@ -350,11 +376,6 @@
     </search>
     <history>
       <history-search>
-        <entry>example</entry>
-        <entry>self.guide_wname</entry>
-        <entry>update_w</entry>
-        <entry>updata_ex</entry>
-        <entry>update</entry>
         <entry>Annotation</entry>
         <entry>des</entry>
         <entry>path_mean</entry>
@@ -370,6 +391,11 @@
         <entry>idx</entry>
         <entry>pdb</entry>
         <entry>img_info</entry>
+        <entry>extractor</entry>
+        <entry>EXTR</entry>
+        <entry>get</entry>
+        <entry>get_item</entry>
+        <entry>getitem</entry>
       </history-search>
       <history-cmd>
         <entry>%s/i/idx/gc</entry>
@@ -386,10 +412,10 @@
         <entry>71</entry>
         <entry>%s/detector/estimator/g</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>:w</entry>
         <entry>e</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -398,6 +424,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
