@@ -29,6 +29,12 @@
         <mark key="." line="10" column="34" />
         <mark key="^" line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/residual_multi_stage_net.py" timestamp="1557072326626">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator_freeze.yml" timestamp="1557071074279">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="19" column="8" />
@@ -119,6 +125,12 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze.yml" timestamp="1557072566902">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/single_stage_net.py" timestamp="1556993203775">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="16" />
@@ -168,12 +180,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/build.py" timestamp="1556993567379">
-        <mark key="'" line="125" column="61" />
-        <mark key="[" line="125" column="54" />
-        <mark key="]" line="125" column="76" />
-        <mark key="^" line="125" column="76" />
-        <mark key="." line="125" column="76" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/build.py" timestamp="1557072380059">
+        <mark key="'" line="126" column="61" />
+        <mark key="[" line="131" column="16" />
+        <mark key="]" line="131" column="23" />
+        <mark key="^" line="131" column="23" />
+        <mark key="." line="131" column="23" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/model/test_extractor.py" timestamp="1556694441012">
         <mark key="[" line="8" column="21" />
@@ -313,17 +325,23 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1557072557209">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556548423867">
         <mark key="[" line="35" column="20" />
         <mark key="]" line="35" column="19" />
         <mark key="." line="35" column="19" />
         <mark key="^" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/__init__.py" timestamp="1556984433077">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="42" />
-        <mark key="^" line="1" column="42" />
-        <mark key="." line="1" column="42" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/__init__.py" timestamp="1557072340037">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="2" column="58" />
+        <mark key="^" line="2" column="58" />
+        <mark key="." line="2" column="58" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/dataset.py" timestamp="1556532874407">
         <mark key="[" line="21" column="0" />
@@ -458,8 +476,8 @@
       <jump line="13" column="13" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVsaWYgY2ZnWydtZXRhX2FyY2hpdGVjdHVyZSddID09ICdNdWx0aVN0YWdlTmV0JzoKICAgICAgICBpZiBsZW4obHN0X2VzdGltYXRvcikgPCAyOgogICAgICAgICAgICB3YXJuX21zZyA9ICdFeHBlY3RlZCBudW1iZXIgb2YgZXN0aW1hdG9yIGlzIG1vcmUgdGhhbiBvbmUuJwogICAgICAgICAgICB3YXJuaW5ncy53YXJuKHdhcm5fbXNnKQogICAgICAgIG1vZGVsID0gTXVsdGlTdGFnZU5ldChleHRyYWN0b3IsIGxzdF9lc3RpbWF0b3IsIGNmZ1snZXh0cmFjdG9yX2ZyZWV6ZSddKQo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -468,7 +486,7 @@
         <text>background</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHNfY3Z0WydiYm94X3ByZWRpY3QnXSA9IGxhYmVsc19wcmVkaWN0Cg==</text>
+        <text encoding="base64">ICAgIGVsaWYgY2ZnWydtZXRhX2FyY2hpdGVjdHVyZSddID09ICdNdWx0aVN0YWdlTmV0JzoKICAgICAgICBpZiBsZW4obHN0X2VzdGltYXRvcikgPCAyOgogICAgICAgICAgICB3YXJuX21zZyA9ICdFeHBlY3RlZCBudW1iZXIgb2YgZXN0aW1hdG9yIGlzIG1vcmUgdGhhbiBvbmUuJwogICAgICAgICAgICB3YXJuaW5ncy53YXJuKHdhcm5fbXNnKQogICAgICAgIG1vZGVsID0gTXVsdGlTdGFnZU5ldChleHRyYWN0b3IsIGxzdF9lc3RpbWF0b3IsIGNmZ1snZXh0cmFjdG9yX2ZyZWV6ZSddKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -498,7 +516,7 @@
         <text encoding="base64">ICAgICAgICBhbGxfbGFiZWxzX2N2dC5hcHBlbmQoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -552,8 +570,8 @@
         <entry>%s/heatmap/y/gc</entry>
         <entry>e</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
