@@ -65,6 +65,12 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="72" column="51" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/resize.py" timestamp="1557051582920">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/train.py" timestamp="1556987128498">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="5" />
@@ -166,6 +172,12 @@
         <mark key="]" line="30" column="18" />
         <mark key="^" line="30" column="18" />
         <mark key="." line="30" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/add_backgound.py" timestamp="1557051202225">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test_code/test_extractor.py" timestamp="1556721113067">
         <mark key="[" line="37" column="42" />
@@ -292,11 +304,6 @@
         <mark key="]" line="35" column="19" />
         <mark key="." line="35" column="19" />
         <mark key="^" line="35" column="19" />
-      </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/loss/__init__.py" timestamp="1556985967161">
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="28" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/__init__.py" timestamp="1556984433077">
         <mark key="[" line="0" column="0" />
@@ -431,8 +438,8 @@
       <jump line="125" column="61" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbQo=</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -441,34 +448,34 @@
         <text>extract</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfYl9zID0gbnAud2hlcmUoKGltZ19yX2YgPiA4MCkgJiAoaW1nX2dfZiA+IDIwKSwgaW1nX2IsIDApCiAgICAgICAgaW1nX2dfcyA9IG5wLndoZXJlKChpbWdfcl9mID4gODApICYgKGltZ19nX2YgPiAyMCksIGltZ19nLCAwKQogICAgICAgIGltZ19yX3MgPSBucC53aGVyZSgoaW1nX3JfZiA+IDgwKSAmIChpbWdfZ19mID4gMjApLCBpbWdfciwgMCkK</text>
+        <text encoding="base64">ICAgICAgICByZXNpemVfaCA9IGludChoICogcmVzaXplX3NpemUgLyB3KQogICAgICAgIHJlc2l6ZV93ID0gcmVzaXplX3NpemUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICBpbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGltZ19wYWh0cyA9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF9wYXRoID0gb3V0cGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICByZXNpemVfaCA9IHJlc2l6ZV9zaXplCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfbmFtZV90Cg==</text>
+        <text encoding="base64">ICAgICAgICBlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltZwo=</text>
+        <text encoding="base64">ICAgICAgICBzY2FsZSA9IGludAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcmdzLm91dGRpciwgKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF9wYXRoID0gb3MucGF0aC5qb2luKAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN2Mi53YWl0S2V5KDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
