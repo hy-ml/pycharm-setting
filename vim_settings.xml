@@ -340,6 +340,12 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/split_data.py" timestamp="1557090453281">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+        <mark key="^" line="42" column="13" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1557072557209">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="27" />
@@ -486,41 +492,41 @@
       <jump line="32" column="21" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/augment_keypoints.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cos</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMga2V5cG9pbnRzX2F1ZyA9IFwKICAgICAgICAgICAgICAgICMgICAgIG5wLm1hdG11bChyb3QsIGtleXBvaW50c19hdWcpLnRyYW5zcG9zZSgoMSwgMCkpICsgY2VudGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9pbWdfcGF0aCA9IG9zLnBhdGguam9pbihpbWdfZGlyLCBvcy5wYXRoLmJhc2VuYW1lKGltZ19wYXRoc1tpXSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleXBvaW50c19hdWcgPSBrZXlwb2ludHNfbm9ybSAqIHNjYWxlCiAgICAgICAgICAgICAgICBrZXlwb2ludHNfYXVnID0gbnAudHJhbnNwb3NlKGtleXBvaW50c19hdWcsICgxLCAwKSkK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHQgPSAoeCwgeSkK</text>
+        <text encoding="base64">ICAgICAgICBrZXlwb2ludHNfcGF0aHNfID0gW2tleXBvaW50c19wYXRoc1tpXSBmb3IgaSBpbiBpZHNdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeSwgeCA9IFtpbnQocCkgZm9yIHAgaW4gcHRdCg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlwb2ludHNfX3BhdGhzXyA9IFtvcy5wYXRoLmpvaW4oa2V5cG9pbnRzX2Rpciwgb3MucGF0aC5iYXNlbmFtZShrZXlwb2ludHNfcGF0aHNbaV0pKSBmb3IgaSBpbiBpZHNdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtbLW5wLnNpbihhbmdsZV9waSksIG5wLmNvcyhhbmdsZV9waSldLAo=</text>
+        <text encoding="base64">ICAgICAgICBpbWdfcGF0aHNfID0gW29zLnBhdGguam9pbihpbWdfZGlyLCBvcy5wYXRoLmJhc2VuYW1lKGltZ19wYXRoc1tpXSkpIGZvciBpIGluIGlkc10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgIFtucC5jb3MoYW5nbGVfcGkpLCAtbnAuc2luKGFuZ2xlX3BpKV1dKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgW1tucC5zaW4oYW5nbGVfcGkpLCBucC5jb3MoYW5nbGVfcGkpXSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlwb2ludHMgPSBrZXlwb2ludHNbOiw6LC0xXQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -562,8 +568,6 @@
         <entry>cos</entry>
       </history-search>
       <history-cmd>
-        <entry>56</entry>
-        <entry>%s/sample/guide/gc</entry>
         <entry>18</entry>
         <entry>%s/example/guide/gc</entry>
         <entry>qw</entry>
@@ -581,6 +585,8 @@
         <entry>wq</entry>
         <entry>%s/angle/angle_pi/gc</entry>
         <entry>i</entry>
+        <entry>dd</entry>
+        <entry>27</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
