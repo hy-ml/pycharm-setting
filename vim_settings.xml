@@ -16,11 +16,12 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" timestamp="1557049703099">
-        <mark key="[" line="37" column="59" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="59" />
-        <mark key="^" line="37" column="61" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" timestamp="1557061047240">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="15" column="14" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/multi_stage_net.py" timestamp="1556993174021">
         <mark key="[" line="10" column="25" />
@@ -58,6 +59,12 @@
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/visualize_img.py" timestamp="1557064436450">
+        <mark key="[" line="12" column="58" />
+        <mark key="]" line="12" column="58" />
+        <mark key="^" line="12" column="58" />
+        <mark key="." line="12" column="58" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/data/datasets/train/coco.py" timestamp="1556974391204">
         <mark key="'" line="42" column="36" />
         <mark key="[" line="74" column="0" />
@@ -65,11 +72,10 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="72" column="51" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/resize.py" timestamp="1557051582920">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/resize.py" timestamp="1557064394979">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/train.py" timestamp="1556987128498">
         <mark key="[" line="9" column="5" />
@@ -173,11 +179,12 @@
         <mark key="^" line="30" column="18" />
         <mark key="." line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/add_backgound.py" timestamp="1557051202225">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/add_backgound.py" timestamp="1557061446839">
+        <mark key="'" line="24" column="30" />
+        <mark key="[" line="53" column="48" />
+        <mark key="]" line="53" column="49" />
+        <mark key="." line="53" column="49" />
+        <mark key="^" line="53" column="48" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test_code/test_extractor.py" timestamp="1556721113067">
         <mark key="[" line="37" column="42" />
@@ -336,12 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" />
-      <jump line="3" column="7" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotate.py" />
-      <jump line="53" column="11" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
-      <jump line="74" column="16" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
-      <jump line="75" column="12" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
-      <jump line="7" column="23" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="65" column="16" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
       <jump line="51" column="29" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="50" column="24" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" />
@@ -436,55 +437,61 @@
       <jump line="119" column="31" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/build.py" />
       <jump line="120" column="41" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/build.py" />
       <jump line="125" column="61" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/build.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/add_backgound.py" />
+      <jump line="24" column="30" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/add_backgound.py" />
+      <jump line="36" column="25" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" />
+      <jump line="37" column="55" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" />
+      <jump line="51" column="33" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" />
+      <jump line="13" column="13" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbQo=</text>
+        <text encoding="base64">ICAgICAgICBjdjIud2FpdEtleSgwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>extract</text>
+        <text>background</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXNpemVfaCA9IGludChoICogcmVzaXplX3NpemUgLyB3KQogICAgICAgIHJlc2l6ZV93ID0gcmVzaXplX3NpemUK</text>
+        <text encoding="base64">ICAgICAgICBtZXJnZWRfaW1nID0gY3YyLm1lZGlhbkJsdXIobWVyZ2VkX2ltZywgMykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbQo=</text>
+        <text encoding="base64">ICAgICAgICBjdjIud2FpdEtleSgwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltZ19wYWh0cyA9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNpemVfaCA9IHJlc2l6ZV9zaXplCg==</text>
+        <text encoding="base64">ICAgICAgICBoYW5kX2ltZyA9IGN2Mi5tZWRpYW5CbHVyKGhhbmRfaW1nLCA3KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlCg==</text>
+        <text encoding="base64">ICAgICAgICBoYW5kX2ltZyA9IGN2Mi5tZWRpYW5CbHVyKGhhbmRfaW1nLCA3KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FsZSA9IGludAo=</text>
+        <text encoding="base64">ICAgICAgICBtZXJnZWRfaW1nID0gY3YyLm1lZGlhbkJsdXIobWVyZ2VkX2ltZywgNSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtZXJnZWRfaW1nID0gY3YyLm1lZGlhbkJsdXIobWVyZ2VkX2ltZywgMykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjdjIuZGVzdHJveUFsbFdpbmRvd3MoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>extract</last-search>
+      <last-search>background</last-search>
       <last-offset />
-      <last-pattern>extract</last-pattern>
+      <last-pattern>background</last-pattern>
       <last-replace>y</last-replace>
       <last-substitute>heatmap</last-substitute>
       <last-dir>1</last-dir>
@@ -492,9 +499,6 @@
     </search>
     <history>
       <history-search>
-        <entry>idx</entry>
-        <entry>pdb</entry>
-        <entry>img_info</entry>
         <entry>extractor</entry>
         <entry>EXTR</entry>
         <entry>get</entry>
@@ -512,6 +516,9 @@
         <entry>Weighted</entry>
         <entry>print</entry>
         <entry>extract</entry>
+        <entry>img</entry>
+        <entry>pdb</entry>
+        <entry>background</entry>
       </history-search>
       <history-cmd>
         <entry>%s/point_list/keypoints/gc</entry>
