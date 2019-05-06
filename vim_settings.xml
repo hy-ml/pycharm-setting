@@ -156,11 +156,11 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="32" column="37" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator.yml" timestamp="1557071064526">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="9" />
-        <mark key="." line="19" column="9" />
-        <mark key="^" line="19" column="9" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator.yml" timestamp="1557143728520">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/utils.py" timestamp="1557093265812">
         <mark key="[" line="24" column="39" />
