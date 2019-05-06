@@ -297,10 +297,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage5_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557138540936">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage5_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557139879024">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/loss/loss.py" timestamp="1556993438752">
         <mark key="'" line="88" column="8" />
@@ -468,7 +469,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MuZGV2aWNlID49IDA6CiAgICAgICAgY2hhaW5lci5jdWRhLmdldF9kZXZpY2VfZnJvbV9pZChhcmdzLmRldmljZSkudXNlKCkgICMgTWFrZSBhIHNwZWNpZmllZCBHUFUgY3VycmVudAo=</text>
+        <text encoding="base64">cGF0aWFuY2U9MTAK</text>
       </register>
       <register name="-" type="4">
         <text>u</text>
@@ -480,31 +481,31 @@
         <text encoding="base64">ICAgIGlmIGFyZ3MuZGV2aWNlID49IDA6CiAgICAgICAgY2hhaW5lci5jdWRhLmdldF9kZXZpY2VfZnJvbV9pZChhcmdzLmRldmljZSkudXNlKCkgICMgTWFrZSBhIHNwZWNpZmllZCBHUFUgY3VycmVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBoZWF0bWFwcyA9IGhlYXRtYXBzLmdldCgpCg==</text>
+        <text encoding="base64">cGF0aWFuY2U9MTAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIGFyZ3MuZ3B1ID49IDA6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3V0cGF0aF9hZGRpdGlvbmFsOiAnYXVnJwo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBoZWF0bWFwcyA9IGhlYXRtYXBzLmdldCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltZyA9IGN2Mi5jdnRDb2xvcihucC5hc2FycmF5KGltZywgZHR5cGU9bnAudWludDgpdjIuQ09MT1JfQkdSMlJHQikK</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIGFyZ3MuZ3B1ID49IDA6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltZyA9IGN2Mi5jdnRDb2xvcihucC5hc2FycmF5KGltZywgZHR5cGU9bnAudWludDgpdjIuQ09MT1JfQkdSMlJHQikK</text>
+        <text encoding="base64">b3V0cGF0aF9hZGRpdGlvbmFsOiAnYXVnJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBicmVha2sK</text>
+        <text encoding="base64">ICAgIGltZyA9IGN2Mi5jdnRDb2xvcihucC5hc2FycmF5KGltZywgZHR5cGU9bnAudWludDgpdjIuQ09MT1JfQkdSMlJHQikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsaWYga2V5ID09IG9yZCgnbicpOgo=</text>
+        <text encoding="base64">ICAgIGltZyA9IGN2Mi5jdnRDb2xvcihucC5hc2FycmF5KGltZywgZHR5cGU9bnAudWludDgpdjIuQ09MT1JfQkdSMlJHQikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBicmVha2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgIGVsaWYga2V5ID09IG9yZCgnbicpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
