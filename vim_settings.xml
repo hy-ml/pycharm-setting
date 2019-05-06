@@ -51,11 +51,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/21pts.yml" timestamp="1556530352405">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="29" />
-        <mark key="^" line="10" column="29" />
-        <mark key="." line="10" column="29" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/21pts.yml" timestamp="1557141831182">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/separate_hand.py" timestamp="1557046527488">
         <mark key="[" line="17" column="0" />
@@ -280,6 +280,12 @@
         <mark key="." line="1024" column="1" />
         <mark key="^" line="1024" column="1" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" timestamp="1557142937543">
+        <mark key="[" line="83" column="44" />
+        <mark key="]" line="84" column="15" />
+        <mark key="." line="84" column="15" />
+        <mark key="^" line="84" column="15" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator.yml" timestamp="1556993093420">
         <mark key="[" line="19" column="7" />
         <mark key="]" line="19" column="8" />
@@ -469,10 +475,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGF0aWFuY2U9MTAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2xlZnQgY2xpY2snKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>args.gpu</text>
@@ -481,31 +487,31 @@
         <text encoding="base64">ICAgIGlmIGFyZ3MuZGV2aWNlID49IDA6CiAgICAgICAgY2hhaW5lci5jdWRhLmdldF9kZXZpY2VfZnJvbV9pZChhcmdzLmRldmljZSkudXNlKCkgICMgTWFrZSBhIHNwZWNpZmllZCBHUFUgY3VycmVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGF0aWFuY2U9MTAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2xlZnQgY2xpY2snKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYga2V5cG9pbnRzLmFkZCh4LCB5LCAxKToKICAgICAgICAgICAgICAgIGRyYXdfcG9pbnRzKGltZywga2V5cG9pbnRzKQogICAgICAgICAgICAgICAgZHJhd19lZGdlKGltZywga2V5cG9pbnRzLCBzZWxmLmVkZ2VfdGFibGUpCiAgICAgICAgICAgICAgICBzZWxmLl91cGRhdGVfZ3VpZGUoa2V5cG9pbnRzLmxlbl9wdGxpc3QoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBoZWF0bWFwcyA9IGhlYXRtYXBzLmdldCgpCg==</text>
+        <text encoding="base64">cGF0aWFuY2U9MTAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIGFyZ3MuZ3B1ID49IDA6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3V0cGF0aF9hZGRpdGlvbmFsOiAnYXVnJwo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBoZWF0bWFwcyA9IGhlYXRtYXBzLmdldCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltZyA9IGN2Mi5jdnRDb2xvcihucC5hc2FycmF5KGltZywgZHR5cGU9bnAudWludDgpdjIuQ09MT1JfQkdSMlJHQikK</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIGFyZ3MuZ3B1ID49IDA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltZyA9IGN2Mi5jdnRDb2xvcihucC5hc2FycmF5KGltZywgZHR5cGU9bnAudWludDgpdjIuQ09MT1JfQkdSMlJHQikK</text>
+        <text encoding="base64">b3V0cGF0aF9hZGRpdGlvbmFsOiAnYXVnJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBicmVha2sK</text>
+        <text encoding="base64">ICAgIGltZyA9IGN2Mi5jdnRDb2xvcihucC5hc2FycmF5KGltZywgZHR5cGU9bnAudWludDgpdjIuQ09MT1JfQkdSMlJHQikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsaWYga2V5ID09IG9yZCgnbicpOgo=</text>
+        <text encoding="base64">ICAgIGltZyA9IGN2Mi5jdnRDb2xvcihucC5hc2FycmF5KGltZywgZHR5cGU9bnAudWludDgpdjIuQ09MT1JfQkdSMlJHQikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
