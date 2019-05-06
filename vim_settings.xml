@@ -124,12 +124,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/train.py" timestamp="1557100724581">
-        <mark key="'" line="48" column="22" />
-        <mark key="[" line="69" column="48" />
-        <mark key="]" line="69" column="62" />
-        <mark key="." line="69" column="62" />
-        <mark key="^" line="69" column="62" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/train.py" timestamp="1557107549177">
+        <mark key="'" line="50" column="22" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="8" />
+        <mark key="^" line="45" column="82" />
+        <mark key="." line="48" column="8" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_transforms.py" timestamp="1556548657824">
         <mark key="[" line="72" column="0" />
