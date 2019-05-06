@@ -480,6 +480,12 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_ksize7.yml" timestamp="1557174876358">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556548423867">
         <mark key="[" line="35" column="20" />
         <mark key="]" line="35" column="19" />
@@ -620,10 +626,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>gui</text>
