@@ -472,14 +472,13 @@
         <mark key="^" line="47" column="39" />
         <mark key="." line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/check_feature_dif.py" timestamp="1557214350794">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/check_feature_dif.py" timestamp="1557215316641">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="28" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="75" column="41" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="14" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/guide/14pts.csv" />
       <jump line="8" column="16" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" />
@@ -579,10 +578,11 @@
       <jump line="39" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test.py" />
       <jump line="13" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/cache_feature_map/coco_test.py" />
       <jump line="24" column="43" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/cache_feature_map/coco_test.py" />
+      <jump line="15" column="29" filename="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/check_feature_dif.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -594,31 +594,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGlmZiA9IG5wLm51bShucC5hYnMoc291cmNlX2YgLSB0YXJnZXRfZikpCiAgICAgICAgICAgIGRpZmZzLmFwcGVuZChkaWZmKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdAo=</text>
+        <text encoding="base64">ICAgIGJsb2NrcyA9IFtvcy5iYXNlbmFtZShibG9jaykgZm9yIGluIGJsb2NrIGluIGJsb2Nrc10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSBpbnB1dCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBrZXkgPSBpbnB1dCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
