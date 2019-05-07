@@ -49,6 +49,12 @@
         <mark key="^" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/train/coco.py" timestamp="1557212311162">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/utils.py" timestamp="1557093265812">
         <mark key="[" line="24" column="39" />
         <mark key="]" line="24" column="50" />
@@ -206,7 +212,7 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/build.py" timestamp="1557211654022" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/build.py" timestamp="1557212223355" />
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/multi_stage_net.py" timestamp="1557150485257">
         <mark key="[" line="11" column="42" />
         <mark key="]" line="12" column="15" />
@@ -260,6 +266,13 @@
         <mark key="]" line="36" column="42" />
         <mark key="." line="36" column="42" />
         <mark key="^" line="36" column="42" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test.py" timestamp="1557212571278">
+        <mark key="'" line="39" column="44" />
+        <mark key="[" line="67" column="48" />
+        <mark key="]" line="67" column="51" />
+        <mark key="." line="67" column="51" />
+        <mark key="^" line="67" column="51" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1556987066294">
         <mark key="[" line="7" column="54" />
@@ -317,6 +330,13 @@
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage5_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_aug.yml" timestamp="1557148973373">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="72" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/cache_feature_map/coco_test.py" timestamp="1557213523807">
+        <mark key="'" line="24" column="43" />
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="46" column="22" />
+        <mark key="^" line="46" column="22" />
+        <mark key="." line="46" column="22" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.py" timestamp="1556694243766">
         <mark key="[" line="0" column="0" />
@@ -452,11 +472,13 @@
         <mark key="^" line="47" column="39" />
         <mark key="." line="47" column="39" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/check_feature_dif.py" timestamp="1557214350794">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="30" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
-      <jump line="86" column="17" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
-      <jump line="13" column="25" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="83" column="28" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="75" column="41" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/annotator.py" />
       <jump line="14" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/guide/14pts.csv" />
@@ -554,55 +576,58 @@
       <jump line="62" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/train.py" />
       <jump line="65" column="37" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/train.py" />
       <jump line="47" column="44" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/train.py" />
+      <jump line="39" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/cache_feature_map/coco_test.py" />
+      <jump line="24" column="43" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/cache_feature_map/coco_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>loss</text>
+        <text>scores</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2ZnWydtZXRhX2FyY2hpdGVjdHVyZSddID09ICdSZXNpZHVhbE11bHRpU3RhZ2VOZXQnOgogICAgICAgIGlmIGxlbihsc3RfZXN0aW1hdG9yKSA8IDI6CiAgICAgICAgICAgIHdhcm5fbXNnID0gJ0V4cGVjdGVkIG51bWJlciBvZiBlc3RpbWF0b3IgaXMgbW9yZSB0aGFuIG9uZS4nCiAgICAgICAgICAgIHdhcm5pbmdzLndhcm4od2Fybl9tc2cpCiAgICAgICAgbW9kZWwgPSBSZXNpZHVhbE11bHRpU3RhZ2VOZXQoZXh0cmFjdG9yLCBsc3RfZXN0aW1hdG9yLCBjZmdbJ2V4dHJhY3Rvcl9mcmVlemUnXSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlmZiA9IG5wLm51bShucC5hYnMoc291cmNlX2YgLSB0YXJnZXRfZikpCiAgICAgICAgICAgIGRpZmZzLmFwcGVuZChkaWZmKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sc3RfZXN0aW1hdG9yID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXh0cmFjdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHN0YWdlLCBlc3QgaW4gZW51bWVyYXRlKGxzdF9lc3RpbWF0b3IpOgogICAgICAgICAgICAgICAgc2VsZi5hZGRfbGluaygnZXN0aW1hdG9ye30nLmZvcm1hdChzdGFnZSksIGVzdCkKICAgICAgICAgICAgICAgIHNlbGYubHN0X2VzdGltYXRvci5hcHBlbmQoZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICBrZXkgPSBpbnB1dCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWRkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWRkZ3JhZHMoZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loss</last-search>
+      <last-search>scores</last-search>
       <last-offset />
-      <last-pattern>loss</last-pattern>
+      <last-pattern>scores</last-pattern>
       <last-replace>angle_pi</last-replace>
       <last-substitute>angle</last-substitute>
       <last-dir>1</last-dir>
@@ -610,8 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data_lo</entry>
-        <entry>heatmap</entry>
         <entry>b</entry>
         <entry>self.conv</entry>
         <entry>Weighted</entry>
@@ -626,14 +649,14 @@
         <entry>cos</entry>
         <entry>Earl</entry>
         <entry>save</entry>
-        <entry>img_dir</entry>
         <entry>flip</entry>
         <entry>Progre</entry>
         <entry>loss</entry>
+        <entry>img_dir</entry>
+        <entry>np.arra</entry>
+        <entry>scores</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/example/guide/gc</entry>
-        <entry>qw</entry>
         <entry encoding="base64">IHc=</entry>
         <entry>q!</entry>
         <entry>58</entry>
@@ -643,7 +666,6 @@
         <entry>:w</entry>
         <entry>88</entry>
         <entry>%s/heatmap/y/gc</entry>
-        <entry>e</entry>
         <entry>q</entry>
         <entry>%s/angle/angle_pi/gc</entry>
         <entry>i</entry>
@@ -651,6 +673,9 @@
         <entry>27</entry>
         <entry>h:w</entry>
         <entry>wq</entry>
+        <entry>40</entry>
+        <entry>e</entry>
+        <entry>46</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -662,6 +687,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
