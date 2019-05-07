@@ -74,6 +74,12 @@
         <mark key="^" line="44" column="13" />
         <mark key="." line="44" column="13" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/test_code/model/test_extractor.py" timestamp="1557196866828">
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="26" />
+        <mark key="." line="38" column="26" />
+        <mark key="^" line="38" column="18" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/support_tools/convert.py" timestamp="1557068231720">
         <mark key="[" line="25" column="38" />
         <mark key="]" line="25" column="46" />
@@ -779,16 +785,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>freeze</text>
+        <text>37</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGV2ZW50ID09IGN2Mi5FVkVOVF9NQlVUVE9ORE9XTjoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBhcmdzLmdwdSA+PSAwOgogICAgICAgICAgICB4ID0gY3VkYS50b19ncHUoeCwgZGV2aWNlPWFyZ3MuZ3B1KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -818,13 +824,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>freeze</last-search>
+      <last-search>37</last-search>
       <last-offset />
-      <last-pattern>freeze</last-pattern>
+      <last-pattern>37</last-pattern>
       <last-replace />
       <last-substitute>, cfg['extractor_freeze']</last-substitute>
       <last-dir>1</last-dir>
@@ -832,7 +838,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ba</entry>
         <entry>rot</entry>
         <entry>angle</entry>
         <entry>cos</entry>
@@ -852,9 +857,9 @@
         <entry>cfg</entry>
         <entry>extractor_fre</entry>
         <entry>freeze</entry>
+        <entry>37</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
         <entry>58</entry>
         <entry>71</entry>
         <entry>%s/detector/estimator/g</entry>
@@ -872,8 +877,9 @@
         <entry>170</entry>
         <entry>129</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>37</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
