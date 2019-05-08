@@ -272,6 +272,13 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/convert.py" timestamp="1557302100227">
+        <mark key="'" line="43" column="28" />
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="5" />
+        <mark key="." line="58" column="5" />
+        <mark key="^" line="58" column="5" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" timestamp="1557086213744">
         <mark key="'" line="12" column="13" />
         <mark key="[" line="49" column="0" />
@@ -511,7 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="6" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/imagenet_categories.py" />
       <jump line="101" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" />
       <jump line="101" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="102" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
@@ -611,13 +617,14 @@
       <jump line="40" column="46" filename="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/check_box.py" />
       <jump line="37" column="30" filename="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/cache_feature_map/coco_test.py" />
       <jump line="74" column="30" filename="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/check_box.py" />
+      <jump line="43" column="28" filename="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/convert.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>main()</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>main()</text>
       </register>
       <register name="/" type="4">
         <text>0.5</text>
