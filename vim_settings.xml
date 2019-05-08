@@ -397,7 +397,6 @@
         <mark key="^" line="26" column="11" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" timestamp="1557305557730">
-        <mark key="'" line="115" column="37" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="2" column="17" />
@@ -536,12 +535,12 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="84" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" timestamp="1557306482330">
-        <mark key="'" line="45" column="26" />
-        <mark key="[" line="110" column="28" />
-        <mark key="]" line="110" column="33" />
-        <mark key="^" line="110" column="33" />
-        <mark key="." line="110" column="33" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" timestamp="1557312705405">
+        <mark key="'" line="102" column="26" />
+        <mark key="[" line="166" column="74" />
+        <mark key="]" line="167" column="30" />
+        <mark key="^" line="167" column="30" />
+        <mark key="." line="167" column="30" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/visualize_data.py" timestamp="1557088824787">
         <mark key="[" line="35" column="42" />
@@ -554,6 +553,11 @@
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" timestamp="1557312594690">
+        <mark key="[" line="183" column="8" />
+        <mark key="]" line="183" column="8" />
+        <mark key="." line="183" column="8" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/support_tools/movie_to_img.py" timestamp="1557195991382">
         <mark key="[" line="1" column="0" />
@@ -734,8 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="55" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" />
-      <jump line="51" column="33" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" />
       <jump line="13" column="13" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" />
       <jump line="12" column="17" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" />
       <jump line="32" column="21" filename="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/augment_keypoints.py" />
@@ -834,55 +836,57 @@
       <jump line="172" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="110" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="45" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="153" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
+      <jump line="102" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm51bV9yb2lzID0gMTI4Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>idx</text>
+        <text>sample</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cyA9IG1vZGVsKGltYWdlcywgdGFyZ2V0cywgcm9pcykKICAgICAgICAgICAgY2xhc3NfbG9naXRzID0gcmVzdWx0c1snY2xhc3NfbG9naXRzJ10KICAgICAgICAgICAgbGFiZWxzX3ByZWRpY3QgPSBbRi5zb2Z0bWF4KHRvcmNoLlRlbnNvcihjKSwgZGltPS0xKS50bygnY3B1JykubnVtcHkoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgYyBpbiBjbGFzc19sb2dpdHNdCiAgICAgICAgICAgIGJib3hfcmVncmVzc2lvbiA9IHJlc3VsdHNbJ2JveF9yZWdyZXNzaW9uJ10KICAgICAgICAgICAgIyBpZiBGYXN0IFItQ05OLCByb2lzIGlzIHNhbWUgYXMgb25lIGJlZm9yZQogICAgICAgICAgICAjIGlmIEZhc3RlciBSLUNOTiwgcm9pcyBpcyBvdXRwdXQgYnkgUlBOCiAgICAgICAgICAgIHJvaXMgPSByZXN1bHRzWydyb2lzJ10KICAgICAgICAgICAgYmJveF9wcmVkaWN0ID0gW2JveF9jb2Rlci5kZWNvZGUodG9yY2guVGVuc29yKGIpLnRvKGRldmljZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvcmNoLlRlbnNvcihyKS50byhkZXZpY2UpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIGIsIHIgaW4gemlwKGJib3hfcmVncmVzc2lvbiwgcm9pcyldCiAgICAgICAgICAgIGJib3hfcHJlZGljdCA9IFtiX3AudG8oJ2NwdScpLm51bXB5KCkgZm9yIGJfcCBpbiBiYm94X3ByZWRpY3RdCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm51bV9yb2lzID0gMTI4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nUGF0aCB0byB0aGUgb3V0cHV0IGZpbGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhc2V0X2xpc3QgPSBjZmcuREFUQVNFVFMuVFJBSU4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tb3V0cGF0aCIsIHR5cGU9c3RyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0nUGF0aCB0byB0aGUgb3V0cHV0IGZpbGUnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tb3V0cGF0aCIsIHR5cGU9c3RyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltZyA9IEltYWdlLm9wZW4oCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5wYXRoLmpvaW4oYXJncy5kYXRhX2RpciwgImltYWdlcyIsIHNwbGl0LCBmaWxlX25hbWUpKS5jb252ZXJ0KCdSR0InKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltZyA9IEltYWdlLm9wZW4oCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5wYXRoLmpvaW4oYXJncy5kYXRhX2RpciwgImltYWdlcyIsIHNwbGl0LCBmaWxlX25hbWUpKS5jb252ZXJ0KCdSR0InKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltZyA9IEltYWdlLm9wZW4oCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5wYXRoLmpvaW4oYXJncy5kYXRhX2RpciwgImltYWdlcyIsIHNwbGl0LCBmaWxlX25hbWUpKS5jb252ZXJ0KCdSR0InKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>idx</last-search>
+      <last-search>sample</last-search>
       <last-offset />
-      <last-pattern>idx</last-pattern>
+      <last-pattern>sample</last-pattern>
       <last-replace />
       <last-substitute>..\/</last-substitute>
       <last-dir>1</last-dir>
@@ -890,8 +894,6 @@
     </search>
     <history>
       <history-search>
-        <entry>buid</entry>
-        <entry>build</entry>
         <entry>build_data</entry>
         <entry>EXTRACOTR</entry>
         <entry>BLOCK</entry>
@@ -910,6 +912,8 @@
         <entry>return</entry>
         <entry>resize</entry>
         <entry>idx</entry>
+        <entry>128</entry>
+        <entry>sample</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
