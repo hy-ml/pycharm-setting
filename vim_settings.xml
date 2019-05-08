@@ -80,8 +80,8 @@
         <mark key="^" line="999" column="53" />
         <mark key="." line="999" column="53" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" timestamp="1557318939973">
-        <mark key="'" line="175" column="4" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" timestamp="1557333622622">
+        <mark key="'" line="49" column="20" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1557252044041">
         <mark key="[" line="1" column="12" />
@@ -702,12 +702,12 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" timestamp="1557254924257">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" timestamp="1557333161144">
         <mark key="'" line="82" column="55" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="82" column="70" />
-        <mark key="." line="84" column="0" />
+        <mark key="[" line="110" column="49" />
+        <mark key="]" line="110" column="56" />
+        <mark key="^" line="110" column="56" />
+        <mark key="." line="110" column="56" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1556987066294">
         <mark key="[" line="7" column="54" />
@@ -739,12 +739,12 @@
         <mark key="." line="35" column="19" />
         <mark key="^" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train.py" timestamp="1557255012619">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train.py" timestamp="1557333950669">
         <mark key="'" line="122" column="10" />
-        <mark key="[" line="73" column="21" />
-        <mark key="]" line="73" column="21" />
-        <mark key="." line="73" column="21" />
-        <mark key="^" line="58" column="52" />
+        <mark key="[" line="78" column="55" />
+        <mark key="]" line="78" column="56" />
+        <mark key="." line="78" column="56" />
+        <mark key="^" line="78" column="56" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/__init__.py" timestamp="1557152195702">
         <mark key="[" line="4" column="32" />
@@ -779,9 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map_test.py" />
-      <jump line="9" column="5" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map_test.py" />
-      <jump line="76" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train.py" />
       <jump line="73" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train.py" />
       <jump line="45" column="52" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" />
       <jump line="64" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" />
@@ -879,6 +876,9 @@
       <jump line="53" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tests/test_coco.py" />
       <jump line="26" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tests/test_coco.py" />
       <jump line="39" column="23" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/transforms/transforms.py" />
+      <jump line="50" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="78" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
+      <jump line="49" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -888,7 +888,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>Flip</text>
+        <text>optimizer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzcGxpdCA9IGZpbGVfbmFtZS5zcGxpdCgiXyIpWzFdICAjdHJhaW4yMDE0LCB2YWwyMDE0CiAgICAgICAgaW1nX3BhdGggPSBvcy5wYXRoLmpvaW4oImltYWdlcyIsIHNwbGl0LCBmaWxlX25hbWUpCg==</text>
@@ -921,13 +921,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNfZGVidWc9VHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Flip</last-search>
+      <last-search>optimizer</last-search>
       <last-offset />
-      <last-pattern>Flip</last-pattern>
+      <last-pattern>optimizer</last-pattern>
       <last-replace />
       <last-substitute>..\/</last-substitute>
       <last-dir>1</last-dir>
@@ -935,9 +935,6 @@
     </search>
     <history>
       <history-search>
-        <entry>128</entry>
-        <entry>sample</entry>
-        <entry>raise</entry>
         <entry>256</entry>
         <entry>do_train</entry>
         <entry>num</entry>
@@ -955,6 +952,9 @@
         <entry>cache_file</entry>
         <entry>Frip</entry>
         <entry>Flip</entry>
+        <entry>vlew</entry>
+        <entry>view</entry>
+        <entry>optimizer</entry>
       </history-search>
       <history-cmd>
         <entry>%s/angle/angle_pi/gc</entry>
@@ -974,9 +974,9 @@
         <entry>%s/..\//g</entry>
         <entry>%s/..\///g</entry>
         <entry>42</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
