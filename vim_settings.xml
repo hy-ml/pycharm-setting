@@ -326,6 +326,9 @@
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="47" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" timestamp="1557379711672">
+        <mark key="'" line="138" column="16" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557160331079">
         <mark key="[" line="34" column="11" />
         <mark key="]" line="34" column="11" />
@@ -487,12 +490,12 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="32" column="69" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_sigmoid/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" timestamp="1557373956065">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_sigmoid/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" timestamp="1557380152951">
         <mark key="'" line="6" column="50" />
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="20" />
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
         <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="20" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/__init__.py" timestamp="1557152195702">
         <mark key="[" line="4" column="32" />
@@ -572,12 +575,12 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_sigmoid/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1557378243121">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_sigmoid/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1557380389168">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="34" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
         <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="0" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/augment_keypoints.py" timestamp="1557098870800">
         <mark key="'" line="32" column="21" />
@@ -924,9 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train.py" />
-      <jump line="122" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train.py" />
-      <jump line="77" column="40" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" />
       <jump line="82" column="55" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" />
       <jump line="6" column="88" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" />
       <jump line="9" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze.yaml" />
@@ -1024,16 +1024,19 @@
       <jump line="82" column="38" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
       <jump line="65" column="32" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
       <jump line="40" column="22" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet.py" />
+      <jump line="73" column="27" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
+      <jump line="139" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
+      <jump line="138" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHhfbGlzdCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBGQ19ESU1TOiBbNjU1MzYsIDQwOTYsIDQwOTYsIDUwXQo=</text>
@@ -1070,9 +1073,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>block2_freeze_high_weight_decay</last-replace>
       <last-substitute>block2_freeze</last-substitute>
       <last-dir>1</last-dir>
@@ -1080,8 +1083,6 @@
     </search>
     <history>
       <history-search>
-        <entry>num_wor</entry>
-        <entry>num_worker</entry>
         <entry>dataset</entry>
         <entry>33k</entry>
         <entry>remove</entry>
@@ -1100,6 +1101,8 @@
         <entry>random</entry>
         <entry>prob</entry>
         <entry>print</entry>
+        <entry>cfg['log</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
