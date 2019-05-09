@@ -499,6 +499,13 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" timestamp="1557412223155">
+        <mark key="'" line="30" column="23" />
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="34" />
+        <mark key="^" line="39" column="34" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557094042509">
         <mark key="[" line="32" column="17" />
         <mark key="]" line="32" column="18" />
@@ -943,9 +950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="42" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
-      <jump line="15" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_high_lr.yaml" />
       <jump line="175" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="146" column="1" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="193" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
@@ -1043,55 +1047,58 @@
       <jump line="31" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="176" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="33" column="6" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/defaults.py" />
+      <jump line="136" column="66" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" />
+      <jump line="166" column="44" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" />
+      <jump line="30" column="23" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>LR</text>
+        <text>save_path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb3NzID0gdG9yY2gubWVhbigoMSAtIGxhYmVsLnR5cGVfYXMoZGlzdGFuY2UpKSAqIGRpc3RhbmNlICsgXAogICAgICAgICAgICAgICBsYWJlbC50eXBlX2FzKGRpc3RhbmNlKSAqIHRvcmNoLm1heCh0b3JjaC56ZXJvcygxKS50byhkZXZpY2UpLCB0b3JjaC5zdWIoc2VsZi5tYXJnaW4sIGRpc3RhbmNlKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBfQy5EQVRBX0xPQURFUi5WQUxfQkFUQ0ggPSAxMjgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3YyLmRlc3Ryb3lBbGxXaW5kb3dzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBfQy5EQVRBX0xPQURFUi5UUkFJTl9CQVRDSCA9IDEyOAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IF9DLkRBVEFfTE9BREVSLlRSQUlOX0JBVENIID0gMjU2Cg==</text>
+        <text encoding="base64">JycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBkZWZhdWx0IGlzIG5vdCBlYXJseSBzdG9wCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tZW5kIiAsdHlwZT1pbnQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tc3RhcnQiLCB0eXBlPWludCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IGFyZ3Muc3RhcnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoaykK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmV4Cg==</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3Muc3RhcnQgaXMgTm9uZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LR</last-search>
+      <last-search>save_path</last-search>
       <last-offset />
-      <last-pattern>LR</last-pattern>
+      <last-pattern>save_path</last-pattern>
       <last-replace />
       <last-substitute>..\/</last-substitute>
       <last-dir>1</last-dir>
@@ -1099,8 +1106,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Frip</entry>
-        <entry>Flip</entry>
         <entry>vlew</entry>
         <entry>view</entry>
         <entry>optimizer</entry>
@@ -1119,6 +1124,8 @@
         <entry>dist</entry>
         <entry>ea</entry>
         <entry>LR</entry>
+        <entry>num_sample</entry>
+        <entry>save_path</entry>
       </history-search>
       <history-cmd>
         <entry>%s/angle/angle_pi/gc</entry>
