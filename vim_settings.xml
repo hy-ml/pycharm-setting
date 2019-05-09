@@ -256,6 +256,12 @@
         <mark key="^" line="15" column="52" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/loss/binomial_loss.py" timestamp="1557395839049">
+        <mark key="[" line="27" column="74" />
+        <mark key="]" line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/keypoints_detector.py" timestamp="1557106768625">
         <mark key="[" line="28" column="28" />
         <mark key="]" line="28" column="28" />
@@ -273,6 +279,12 @@
         <mark key="]" line="42" column="57" />
         <mark key="." line="42" column="57" />
         <mark key="^" line="42" column="57" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/cosine_similarity/no_additional_feature/binomial_loss/vgg_block2_freeze01234.yaml" timestamp="1557395836945">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="6" column="111" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/convert.py" timestamp="1557302100227">
         <mark key="'" line="43" column="28" />
@@ -490,7 +502,7 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="32" column="69" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_sigmoid/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" timestamp="1557380152951">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_sigmoid/no_additional_feaure/vgg_block4_freeze01234_pretrain.yaml" timestamp="1557395247171">
         <mark key="'" line="6" column="50" />
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="11" />
@@ -773,7 +785,7 @@
         <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1557375936032">
-        <mark key="'" line="75" column="18" />
+        <mark key="'" line="73" column="18" />
         <mark key="[" line="7" column="19" />
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
@@ -1030,10 +1042,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -1042,34 +1054,34 @@
         <text encoding="base64">ICBGQ19ESU1TOiBbNjU1MzYsIDQwOTYsIDQwOTYsIDUwXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHhfbGlzdCkpCg==</text>
+        <text encoding="base64">ICBFWFRSQUNUT1JfRlJPWkVOX0lORElDRVM6IFswLCAxLCAyLCAzLCA0XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBFWFRSQUNUT1JfRlJPWkVOX0lORElDRVM6IFswLCAxLCAyLCAzLCA0XQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBGQ19ESU1TOiBbNjU1MzYsIDQwOTYsIDQwOTYsIDUwXQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICBFWFRSQUNUT1I6ICJWR0ciCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHhfbGlzdCkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBFWFRSQUNUT1JfRlJPWkVOX0lORElDRVM6IFswLCAxLCAyLCAzLCA0XQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBGQ19ESU1TOiBbNjU1MzYsIDQwOTYsIDQwOTYsIDUwXQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBFWFRSQUNUT1I6ICJWR0ciCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBFWFRSQUNUT1I6ICJWR0ciCg==</text>
+        <text encoding="base64">ICBFWFRSQUNUT1JfRlJPWkVOX0lORElDRVM6IFswLCAxLCAyLCAzLCA0XQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1123,8 +1135,8 @@
         <entry>%s/l1_norm/l1_norm_sigmoid/gc</entry>
         <entry>%s/l1_norm/l1_norm_sigmoid/g</entry>
         <entry>%s/block2_freeze/block2_freeze_high_weight_decay/gc</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
