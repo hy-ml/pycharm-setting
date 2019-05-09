@@ -499,12 +499,12 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" timestamp="1557412223155">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" timestamp="1557412824914">
         <mark key="'" line="30" column="23" />
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
-        <mark key="^" line="39" column="34" />
+        <mark key="[" line="145" column="40" />
+        <mark key="]" line="145" column="42" />
+        <mark key="." line="145" column="42" />
+        <mark key="^" line="145" column="42" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557094042509">
         <mark key="[" line="32" column="17" />
@@ -1053,16 +1053,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>save_path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gdG9yY2gubWVhbigoMSAtIGxhYmVsLnR5cGVfYXMoZGlzdGFuY2UpKSAqIGRpc3RhbmNlICsgXAogICAgICAgICAgICAgICBsYWJlbC50eXBlX2FzKGRpc3RhbmNlKSAqIHRvcmNoLm1heCh0b3JjaC56ZXJvcygxKS50byhkZXZpY2UpLCB0b3JjaC5zdWIoc2VsZi5tYXJnaW4sIGRpc3RhbmNlKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgb2JqX2lkcyA9IG5wLndoZXJlKG5wLmFyZ21heChjbCwgYXhpcz0tMSkgPT0gMSlbMF0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3YyLmRlc3Ryb3lBbGxXaW5kb3dzKCkK</text>
@@ -1092,7 +1092,7 @@
         <text encoding="base64">ICAgIGlmIGFyZ3Muc3RhcnQgaXMgTm9uZToK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>130</text>
       </register>
     </registers>
     <search>
@@ -1128,7 +1128,6 @@
         <entry>save_path</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/angle/angle_pi/gc</entry>
         <entry>i</entry>
         <entry>dd</entry>
         <entry>27</entry>
@@ -1148,6 +1147,7 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>130</entry>
       </history-cmd>
       <history-expr />
       <history-input />
