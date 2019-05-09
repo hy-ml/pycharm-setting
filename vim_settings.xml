@@ -185,9 +185,6 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/solver/lr_scheduler.py" timestamp="1557366943483">
-        <mark key="'" line="31" column="26" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/__init__.py" timestamp="1557252279584">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
@@ -242,6 +239,10 @@
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1557378239311">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/annotation/21pts.yml" timestamp="1557166869043">
         <mark key="[" line="3" column="10" />
@@ -337,6 +338,10 @@
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="84" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage5_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_aug.yml" timestamp="1557148973373">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="72" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/coco_test.py" timestamp="1557294956638">
         <mark key="[" line="49" column="52" />
@@ -495,9 +500,6 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" timestamp="1557367835358">
-        <mark key="'" line="181" column="64" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transform.py" timestamp="1556540980620">
         <mark key="[" line="52" column="39" />
         <mark key="]" line="53" column="11" />
@@ -570,12 +572,12 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_sigmoid/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1557373943746">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="20" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm_with_sigmoid/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1557378243121">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="34" />
         <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/augment_keypoints.py" timestamp="1557098870800">
         <mark key="'" line="32" column="21" />
@@ -608,10 +610,11 @@
         <mark key="^" line="12" column="58" />
         <mark key="." line="12" column="58" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet.py" timestamp="1557374300056">
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet.py" timestamp="1557378372888">
+        <mark key="'" line="39" column="22" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/test_code/model/test_extractor.py" timestamp="1557196866828">
@@ -779,6 +782,11 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/build.py" timestamp="1557377835244">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/support_tools/convert.py" timestamp="1557068231720">
         <mark key="[" line="25" column="38" />
         <mark key="]" line="25" column="46" />
@@ -916,7 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="15" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train.py" />
       <jump line="71" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train.py" />
       <jump line="122" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train.py" />
       <jump line="77" column="40" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" />
@@ -1016,55 +1023,56 @@
       <jump line="79" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
       <jump line="82" column="38" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
       <jump line="65" column="32" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="40" column="22" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHhfbGlzdCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>prob</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">X0MuREFUQV9MT0FERVIuVkFMX0JBVENIID0gMTI4Cg==</text>
+        <text encoding="base64">ICBGQ19ESU1TOiBbNjU1MzYsIDQwOTYsIDQwOTYsIDUwXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHhfbGlzdCkpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBFWFRSQUNUT1JfRlJPWkVOX0lORElDRVM6IFswLCAxLCAyLCAzLCA0XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBGQ19ESU1TOiBbNjU1MzYsIDQwOTYsIDQwOTYsIDUwXQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBFWFRSQUNUT1I6ICJWR0ciCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICBFWFRSQUNUT1JfRlJPWkVOX0lORElDRVM6IFswLCAxLCAyLCAzLCA0XQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICBGQ19ESU1TOiBbNjU1MzYsIDQwOTYsIDQwOTYsIDUwXQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBFWFRSQUNUT1I6ICJWR0ciCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBFWFRSQUNUT1JfRlJPWkVOX0lORElDRVM6IFswLCAxLCAyLCAzLCA0XQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBFWFRSQUNUT1I6ICJWR0ciCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBFWFRSQUNUT1JfRlJPWkVOX0lORElDRVM6IFswLCAxLCAyLCAzLCA0XQo=</text>
+        <text encoding="base64">ICBFWFRSQUNUT1I6ICJWR0ciCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>prob</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>prob</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>block2_freeze_high_weight_decay</last-replace>
       <last-substitute>block2_freeze</last-substitute>
       <last-dir>1</last-dir>
@@ -1072,7 +1080,6 @@
     </search>
     <history>
       <history-search>
-        <entry>open</entry>
         <entry>num_wor</entry>
         <entry>num_worker</entry>
         <entry>dataset</entry>
@@ -1092,6 +1099,7 @@
         <entry>rati</entry>
         <entry>random</entry>
         <entry>prob</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -1112,8 +1120,8 @@
         <entry>%s/l1_norm/l1_norm_sigmoid/gc</entry>
         <entry>%s/l1_norm/l1_norm_sigmoid/g</entry>
         <entry>%s/block2_freeze/block2_freeze_high_weight_decay/gc</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
