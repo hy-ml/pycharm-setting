@@ -815,8 +815,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" timestamp="1557222707687">
-        <mark key="'" line="1" column="13" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" timestamp="1557475317092">
+        <mark key="'" line="76" column="7" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_extractor.py" timestamp="1556699391331">
         <mark key="[" line="0" column="0" />
@@ -1087,10 +1090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
-      <jump line="98" column="18" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
-      <jump line="175" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
-      <jump line="47" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="49" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="94" column="22" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="53" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tests/test_coco.py" />
@@ -1187,64 +1186,66 @@
       <jump line="87" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="25" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" />
       <jump line="25" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/build.py" />
+      <jump line="196" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="74" column="20" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="188" column="28" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="76" column="7" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>RANGE</text>
+        <text>load_img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gbW9kZWwoW3NvdXJjZV9mX21hcHNdLCBbdGFyZ2V0X2ZfbWFwc10sIGxhYmVsLAogICAgICAgICAgICAgICAgICAgICBzb3VyY2VfYWRkaXRpb25hbF9mZWF0dXJlLCB0YXJnZXRfYWRkaXRpb25hbF9mZWF0dXJlKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbm5faWRzID0gY29jby5nZXRhbm5pZHMoaW1naWRzPWltZ19pZCkKICAgICAgICBhbm5vID0gY29jby5sb2FkYW5ucyhhbm5faWRzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgK</text>
+        <text encoding="base64">ICAgIGRlZiBfbG9hZF9pbWcoc2VsZiwgaW1nX2lkKToKICAgICAgICBjb2NvID0gc2VsZi5jb2NvCiAgICAgICAgZmlsZV9uYW1lID0gY29jby5sb2FkSW1ncyhpbWdfaWQpWzBdWydmaWxlX25hbWUnXQogICAgICAgIHNwbGl0ID0gZmlsZV9uYW1lLnNwbGl0KCJfIilbMV0gICN0cmFpbjIwMTQsIHZhbDIwMTQKCiAgICAgICAgaW1nID0gSW1hZ2Uub3BlbigKICAgICAgICAgICAgb3MucGF0aC5qb2luKHNlbGYucm9vdCwgImltYWdlcyIsIHNwbGl0LCBmaWxlX25hbWUpKS5jb252ZXJ0KCdSR0InKQogICAgICAgIHJldHVybiBpbWcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGltcG9ydCBwZGIKICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxzdF9ib3hlcyA9IGNhY2hlX2luZm9fZmlsZVsnc2hpZnRlZF9ib3hlcyddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNhY2hlX2ltZ19pZHMgPSBjYWNoZV9pbmZvX2ZpbGVbJ2ltZ19pZCddCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZ2V0X2ltZ19hbm5vKHNlbGYsIGlkeCk6CiAgICAgICAgY29jbyA9IHNlbGYuY29jbwogICAgICAgIGltZ19pZCA9IHNlbGYuaWRzW2lkeF0KICAgICAgICBhbm5faWRzID0gY29jby5nZXRhbm5pZHMoaW1naWRzPWltZ19pZCkKICAgICAgICBhbm5vID0gY29jby5sb2FkYW5ucyhhbm5faWRzKQoKICAgICAgICBmaWxlX25hbWUgPSBjb2NvLmxvYWRJbWdzKGltZ19pZClbMF1bJ2ZpbGVfbmFtZSddCiAgICAgICAgc3BsaXQgPSBmaWxlX25hbWUuc3BsaXQoIl8iKVsxXSAgIyB0cmFpbjIwMTQsIHZhbDIwMTQKCiAgICAgICAgaW1nID0gSW1hZ2Uub3BlbigKICAgICAgICAgICAgb3MucGF0aC5qb2luKHNlbGYucm9vdCwgImltYWdlcyIsIHNwbGl0LCBmaWxlX25hbWUpKS5jb252ZXJ0KCdSR0InKQogICAgICAgIHJldHVybiBpbWcsIGFubm8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVfaW5mb19maWxlID0gcGlja2xlLmxvYWQoZnApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>RANGE</last-search>
+      <last-search>load_img</last-search>
       <last-offset />
-      <last-pattern>RANGE</last-pattern>
-      <last-replace />
-      <last-substitute>..\/</last-substitute>
+      <last-pattern>load_img</last-pattern>
+      <last-replace>self.coco</last-replace>
+      <last-substitute>coco</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dataset</entry>
-        <entry>33k</entry>
         <entry>remove</entry>
         <entry>0.5</entry>
         <entry>make</entry>
@@ -1263,9 +1264,10 @@
         <entry>print</entry>
         <entry>cfg['log</entry>
         <entry>log</entry>
+        <entry>coco</entry>
+        <entry>load_img</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
         <entry>88</entry>
         <entry>%s/heatmap/y/gc</entry>
         <entry>q</entry>
@@ -1284,6 +1286,7 @@
         <entry>%s/l1_norm/l1_norm_sigmoid/g</entry>
         <entry>%s/block2_freeze/block2_freeze_high_weight_decay/gc</entry>
         <entry>wq</entry>
+        <entry>%s/coco/self.coco</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
