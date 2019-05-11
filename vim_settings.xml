@@ -3,12 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_aug.yml" timestamp="1557180671928">
+        <mark key="[" line="3" column="72" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/build.py" timestamp="1557454366823">
         <mark key="'" line="50" column="8" />
         <mark key="[" line="36" column="42" />
         <mark key="]" line="37" column="11" />
         <mark key="^" line="37" column="11" />
         <mark key="." line="37" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/separate_hand.py" timestamp="1557046527488">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="30" column="60" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/annotator/annotator.py" timestamp="1557195597284">
+        <mark key="[" line="86" column="32" />
+        <mark key="]" line="86" column="33" />
+        <mark key="." line="86" column="33" />
+        <mark key="^" line="32" column="69" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" timestamp="1557086213744">
         <mark key="'" line="12" column="13" />
@@ -17,12 +35,48 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="15" column="14" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/residual_multi_stage_net.py" timestamp="1557162220751">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/__init__.py" timestamp="1557252279584">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_ksize7.yml" timestamp="1557168656819">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/model/build.py" timestamp="1557181595170">
         <mark key="'" line="119" column="0" />
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="^" line="127" column="57" />
         <mark key="." line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/WeightedMAE_vgg16_conv3_3_stage1_estimator_freeze.yml" timestamp="1557071095336">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator_with_val_aug.yml" timestamp="1557152629705">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator_with_val_aug.yml" timestamp="1557180785722">
+        <mark key="[" line="3" column="72" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/check_box.py" timestamp="1557300833159">
         <mark key="'" line="74" column="30" />
@@ -31,12 +85,102 @@
         <mark key="." line="76" column="50" />
         <mark key="^" line="64" column="16" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.json" timestamp="1556693958142">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="999" column="53" />
+        <mark key="^" line="999" column="53" />
+        <mark key="." line="999" column="53" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1557252044041">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/annotator/utils.py" timestamp="1557087251215">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="49" column="44" />
+        <mark key="^" line="44" column="13" />
+        <mark key="." line="44" column="13" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480_high_lr.yaml" timestamp="1557331189031">
+        <mark key="[" line="39" column="84" />
+        <mark key="]" line="39" column="89" />
+        <mark key="." line="39" column="89" />
+        <mark key="^" line="39" column="89" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/test_code/model/test_extractor.py" timestamp="1557196866828">
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="26" />
+        <mark key="." line="38" column="26" />
+        <mark key="^" line="38" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach.yaml" timestamp="1557256168398">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/support_tools/convert.py" timestamp="1557068231720">
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="46" />
+        <mark key="." line="25" column="46" />
+        <mark key="^" line="25" column="46" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_with_val.yml" timestamp="1557094034005">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="18" />
+        <mark key="." line="32" column="18" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet.py" timestamp="1557219464817">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="21" column="23" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/annotation/21pts.yml" timestamp="1557166869043">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557163931279">
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/sample/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_ksize7.yml" timestamp="1557188921877">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/defaults.py" timestamp="1557431413099">
         <mark key="'" line="32" column="6" />
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="11" />
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/model/test_loss.py" timestamp="1556642852954">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator.yml" timestamp="1557143728520">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/SingleStageNet/WeightedMAE_vgg16_conv3_3_stage1_estimator.yml" timestamp="1557181830998">
+        <mark key="[" line="1" column="65" />
+        <mark key="]" line="1" column="70" />
+        <mark key="^" line="1" column="70" />
+        <mark key="." line="1" column="70" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/networks/siamesenet.py" timestamp="1557456520301">
         <mark key="'" line="55" column="16" />
@@ -45,12 +189,36 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="43" column="26" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" timestamp="1557388943572">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/utils.py" timestamp="1557168809812">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/3stage_net.py" timestamp="1557150646230">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/train.py" timestamp="1557195159317">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="61" column="6" />
         <mark key="]" line="61" column="11" />
         <mark key="." line="61" column="11" />
         <mark key="^" line="61" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_aug.yml" timestamp="1557095070527">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_high_lr.yaml" timestamp="1557316334444">
         <mark key="'" line="15" column="16" />
@@ -59,12 +227,90 @@
         <mark key="." line="22" column="15" />
         <mark key="^" line="22" column="15" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transform.py" timestamp="1556540980620">
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="53" column="11" />
+        <mark key="^" line="53" column="11" />
+        <mark key="." line="53" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transforms.py" timestamp="1556552213697">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.py" timestamp="1556694243766">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1024" column="1" />
+        <mark key="." line="1024" column="1" />
+        <mark key="^" line="1024" column="1" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557180654994">
+        <mark key="[" line="3" column="68" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator_with_val.yml" timestamp="1557180764396">
+        <mark key="[" line="3" column="68" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_with_val.yml" timestamp="1557160621910">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="39" column="8" />
+        <mark key="." line="22" column="33" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/sample/ResidualStage3_GaussianWeightedMAE_vgg16_conv3_3_ksize7.yml" timestamp="1557193038648">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_ksize7.yml" timestamp="1557171129637">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="4" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="35" column="4" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test_code/model/test_extractor.py" timestamp="1556729046311">
+        <mark key="[" line="53" column="29" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/test_code/model/test_build_estimator.py" timestamp="1557195864332">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/build.py" timestamp="1557428640168">
         <mark key="'" line="24" column="12" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="22" column="63" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" timestamp="1557372293867">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/model/meta_architecture/residual_stage3_net.py" timestamp="1557195267873">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
+        <mark key="^" line="47" column="17" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze.yml" timestamp="1557093922240">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/transforms/transforms.py" timestamp="1557322015601">
         <mark key="'" line="39" column="23" />
@@ -73,12 +319,66 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="39" column="7" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/WeightedMAE_vgg16_conv3_3_stage1_estimator.yml" timestamp="1557071101756">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="19" column="8" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/coco_train.py" timestamp="1557427561198">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="124" column="79" />
         <mark key="." line="89" column="0" />
         <mark key="^" line="86" column="33" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_aug.yml" timestamp="1557168146852">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/annotation_/14pts.yml" timestamp="1557179233310">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/test_net.py" timestamp="1557414210512">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="69" />
+        <mark key="^" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/defaults.yml" timestamp="1556639266023">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/annotate.py" timestamp="1557179108390">
+        <mark key="[" line="49" column="70" />
+        <mark key="]" line="49" column="71" />
+        <mark key="^" line="49" column="71" />
+        <mark key="." line="49" column="71" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/support_tools/sampling_img.py" timestamp="1557196003837">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/pose_estimation/defaults.yml" timestamp="1556549297343">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1557389369723">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="29" column="18" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/tools/train_net.py" timestamp="1557368077905">
         <mark key="'" line="40" column="16" />
@@ -87,6 +387,12 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" timestamp="1557552266543">
+        <mark key="[" line="71" column="68" />
+        <mark key="]" line="72" column="26" />
+        <mark key="^" line="72" column="26" />
+        <mark key="." line="72" column="26" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/coco_test.py" timestamp="1557431084100">
         <mark key="'" line="49" column="55" />
         <mark key="[" line="59" column="8" />
@@ -94,17 +400,61 @@
         <mark key="." line="59" column="8" />
         <mark key="^" line="59" column="8" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3WeightedMAE_vgg16_conv3_3.yml" timestamp="1557171015458">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/21pts.yml" timestamp="1556530352405">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_keypoints_dataset.py" timestamp="1556550805084">
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1557252030959">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_with_val_aug.yml" timestamp="1557180721989">
+        <mark key="[" line="3" column="72" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/imagenet_categories.py" timestamp="1556699353335">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1024" column="1" />
+        <mark key="^" line="1024" column="1" />
+        <mark key="." line="1024" column="1" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/stage3_net.py" timestamp="1557162189538">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="45" column="30" />
+        <mark key="." line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/14pts.yml" timestamp="1556548843919">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/split_data.py" timestamp="1557090453281">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+        <mark key="^" line="42" column="13" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" timestamp="1557466121915">
         <mark key="'" line="0" column="8" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="55" />
-        <mark key="." line="58" column="55" />
-        <mark key="^" line="58" column="55" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test.py" timestamp="1557299561289">
         <mark key="'" line="71" column="29" />
@@ -112,6 +462,24 @@
         <mark key="]" line="84" column="25" />
         <mark key="." line="84" column="25" />
         <mark key="^" line="84" column="25" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage5_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_aug.yml" timestamp="1557100872317">
+        <mark key="[" line="38" column="6" />
+        <mark key="]" line="38" column="5" />
+        <mark key="." line="38" column="5" />
+        <mark key="^" line="38" column="5" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/support_tools/visualize_data.py" timestamp="1557196022527">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/__init__.py" timestamp="1556985623481">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/augment_keypoints.py" timestamp="1557098870800">
         <mark key="'" line="32" column="21" />
@@ -126,12 +494,57 @@
         <mark key="." line="35" column="54" />
         <mark key="^" line="35" column="54" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/multi_stage_net.py" timestamp="1557162237874">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/tools/test_net.py" timestamp="1557367929049">
+        <mark key="'" line="90" column="96" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_with_val.yml" timestamp="1557154523911">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+        <mark key="^" line="26" column="11" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" timestamp="1557418666568">
         <mark key="'" line="153" column="42" />
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="66" />
         <mark key="^" line="175" column="0" />
         <mark key="." line="175" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557094042509">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="18" />
+        <mark key="^" line="31" column="9" />
+        <mark key="." line="32" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator_freeze.yml" timestamp="1557071074279">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" timestamp="1557416020717">
+        <mark key="'" line="65" column="3" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/solver/lr_scheduler.py" timestamp="1557366943483">
+        <mark key="'" line="31" column="26" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/keypoints_detector.py" timestamp="1557106768625">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="28" />
+        <mark key="^" line="29" column="25" />
+        <mark key="." line="28" column="28" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/annotation/14pts.yml" timestamp="1557180289024">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1557426112368">
         <mark key="'" line="25" column="19" />
@@ -140,12 +553,78 @@
         <mark key="^" line="63" column="35" />
         <mark key="." line="63" column="35" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/model/networks/siamesenet.py" timestamp="1556972742707">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1557372276427">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_5.yml" timestamp="1557164134184">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="25" />
+        <mark key="^" line="33" column="24" />
+        <mark key="." line="33" column="25" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/model/build.py" timestamp="1556972780315">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/build.py" timestamp="1557298747101">
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
+        <mark key="^" line="35" column="26" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/annotation/16pts.yml" timestamp="1557179434899">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/visualize_img.py" timestamp="1557064436450">
+        <mark key="[" line="12" column="58" />
+        <mark key="]" line="12" column="58" />
+        <mark key="^" line="12" column="58" />
+        <mark key="." line="12" column="58" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/train.py" timestamp="1557163423743">
         <mark key="'" line="47" column="44" />
         <mark key="[" line="29" column="50" />
         <mark key="]" line="30" column="25" />
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/model/meta_architecture/utils.py" timestamp="1557178655978">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="7" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_transforms.py" timestamp="1556548657824">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/MultiStageNet/GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1556986646808">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="2" />
+        <mark key="^" line="16" column="2" />
+        <mark key="." line="16" column="2" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/predict.py" timestamp="1557178330575">
+        <mark key="[" line="79" column="64" />
+        <mark key="]" line="79" column="68" />
+        <mark key="." line="79" column="68" />
+        <mark key="^" line="79" column="68" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/data/transforms.py" timestamp="1557098596809">
         <mark key="'" line="43" column="26" />
@@ -154,17 +633,47 @@
         <mark key="^" line="40" column="37" />
         <mark key="." line="40" column="37" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/sample/Single1GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator.yml" timestamp="1557189299076">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="1" column="49" />
+        <mark key="^" line="1" column="49" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" timestamp="1557419283581">
         <mark key="[" line="136" column="16" />
         <mark key="]" line="136" column="18" />
         <mark key="." line="136" column="18" />
         <mark key="^" line="136" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1557255592439">
-        <mark key="'" line="6" column="88" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/residual_stage3_net.py" timestamp="1557162200044">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze.yml" timestamp="1557072566902">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/model/meta_architecture/stage3_net.py" timestamp="1557195274644">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="^" line="33" column="49" />
+        <mark key="." line="28" column="24" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/test_code/model/test_loss.py" timestamp="1557195705370">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/single_stage_net.py" timestamp="1557162157980">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="18" column="48" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block1_freeze.yaml" timestamp="1557255580272">
         <mark key="'" line="7" column="0" />
@@ -192,6 +701,18 @@
         <mark key="." line="104" column="42" />
         <mark key="^" line="104" column="42" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/train/coco.py" timestamp="1557212311162">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/visualize_data.py" timestamp="1557088824787">
+        <mark key="[" line="35" column="42" />
+        <mark key="]" line="36" column="42" />
+        <mark key="." line="36" column="42" />
+        <mark key="^" line="36" column="42" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze.yaml" timestamp="1557455097954">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="2" column="2" />
@@ -199,11 +720,11 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/build.py" timestamp="1557416100622">
-        <mark key="'" line="193" column="45" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/support_tools/movie_to_img.py" timestamp="1557195991382">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/build.py" timestamp="1557150820257">
         <mark key="'" line="126" column="61" />
@@ -212,6 +733,36 @@
         <mark key="^" line="132" column="43" />
         <mark key="." line="132" column="43" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/support_tools/visualize_heatmap.py" timestamp="1557195961510">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_with_val_aug.yml" timestamp="1557093896434">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/__init__.py" timestamp="1557252262814">
+        <mark key="[" line="0" column="80" />
+        <mark key="]" line="0" column="80" />
+        <mark key="^" line="0" column="80" />
+        <mark key="." line="0" column="80" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test_code/test_extractor.py" timestamp="1556721113067">
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="37" column="41" />
+        <mark key="^" line="37" column="41" />
+        <mark key="." line="37" column="41" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/cp_annotated_img.py" timestamp="1557082432200">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="47" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" timestamp="1557392049953">
         <mark key="'" line="176" column="19" />
         <mark key="[" line="188" column="0" />
@@ -219,12 +770,18 @@
         <mark key="." line="188" column="0" />
         <mark key="^" line="175" column="44" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze_with_additional_feature.yaml" timestamp="1557455127107">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_extractor.py" timestamp="1556699391331">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="65" column="10" />
+        <mark key="^" line="65" column="10" />
+        <mark key="." line="65" column="10" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze_with_additional_feature.yaml" timestamp="1557552007850">
         <mark key="'" line="7" column="84" />
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/datasets/cache_feature_map/coco_test.py" timestamp="1557300817508">
         <mark key="'" line="37" column="30" />
@@ -233,12 +790,60 @@
         <mark key="^" line="49" column="57" />
         <mark key="." line="49" column="57" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/my_test/model/test_extractor.py" timestamp="1556694623547">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" timestamp="1557222840111">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557160331079">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="11" />
+        <mark key="^" line="34" column="11" />
+        <mark key="." line="34" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/sample/Stage3_GaussianWeightedMAE_vgg16_conv3_3_ksize7.yml" timestamp="1557191183557">
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/batch_colator.py" timestamp="1557210540778">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/loss/loss.py" timestamp="1557178712784">
+        <mark key="[" line="29" column="38" />
+        <mark key="]" line="29" column="38" />
+        <mark key="." line="29" column="38" />
+        <mark key="^" line="29" column="38" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/data/keypoints_dataset.py" timestamp="1557195462895">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="15" column="52" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/convert.py" timestamp="1557302100227">
         <mark key="'" line="43" column="28" />
         <mark key="[" line="58" column="4" />
         <mark key="]" line="58" column="5" />
         <mark key="." line="58" column="5" />
         <mark key="^" line="58" column="5" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_with_val.yml" timestamp="1557180705127">
+        <mark key="[" line="3" column="68" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/coco.py" timestamp="1557209795455">
         <mark key="'" line="9" column="0" />
@@ -247,12 +852,17 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" timestamp="1557454317767">
-        <mark key="'" line="117" column="92" />
-        <mark key="[" line="121" column="48" />
-        <mark key="]" line="121" column="45" />
-        <mark key="." line="121" column="45" />
-        <mark key="^" line="121" column="45" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/16pts.yml" timestamp="1556530372577">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1556987066294">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="62" />
+        <mark key="." line="7" column="62" />
+        <mark key="^" line="7" column="62" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/l1_norm_loss.py" timestamp="1557424191653">
         <mark key="[" line="32" column="8" />
@@ -260,17 +870,55 @@
         <mark key="^" line="32" column="8" />
         <mark key="." line="32" column="8" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train.py" timestamp="1557455081486">
-        <mark key="'" line="79" column="42" />
-        <mark key="[" line="59" column="12" />
-        <mark key="]" line="59" column="39" />
-        <mark key="." line="59" column="39" />
-        <mark key="^" line="59" column="39" />
+      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" timestamp="1557367835358">
+        <mark key="'" line="181" column="64" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1557072557209">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_ksize7.yml" timestamp="1557169432883">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_ksize7.yml" timestamp="1557175595288">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/annotator/utils.py" timestamp="1556548423867">
+        <mark key="[" line="35" column="20" />
+        <mark key="]" line="35" column="19" />
+        <mark key="." line="35" column="19" />
+        <mark key="^" line="35" column="19" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/__init__.py" timestamp="1557152195702">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="49" />
+        <mark key="^" line="4" column="49" />
+        <mark key="." line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/dataset.py" timestamp="1556532874407">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/networks/siamesenet.py" timestamp="1557425831756">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="31" column="29" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/WeightedMAE_conv3_3_complecated_estimator.yml" timestamp="1557071085269">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map_test.py" timestamp="1557430166942">
         <mark key="'" line="92" column="44" />
@@ -279,15 +927,14 @@
         <mark key="." line="97" column="23" />
         <mark key="^" line="97" column="23" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/movie_to_img.py" timestamp="1556808675650">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="86" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="256" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="22" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="23" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="24" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="25" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="26" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="27" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
@@ -381,55 +1028,62 @@
       <jump line="44" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/networks/siamesenet.py" />
       <jump line="56" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/networks/siamesenet.py" />
       <jump line="0" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" />
+      <jump line="34" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
+      <jump line="47" column="17" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
+      <jump line="48" column="17" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
+      <jump line="53" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
+      <jump line="54" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
+      <jump line="56" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
+      <jump line="163" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmZWF0dXJlLCBhZGRpdGlvbmFsX2ZlYXR1cmVzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>img, ann</text>
+        <text>calc_iou</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBGQ19ESU1TOiBbNjU1MzYsIDQwOTYsIDQwOTYsIDUwXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmZWF0dXJlLCBhZGRpdGlvbmFsX2ZlYXR1cmVzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJveGVzID0gdG9yY2guYXNfdGVuc29yKGJveGVzKS5yZXNoYXBlKC0xLCA0KSAgIyBndWFyZCBhZ2FpbnN0IG5vIGJveGVzCiAgICAgICAgIyBpbWcgPSBzZWxmLl9sb2FkX2ltZyhpbWdfaWQpCiAgICAgICAgIyBjYWNoZV9pbmZvX2lkID0gc2VsZi5jYWNoZV9pbWdfaWRzLmluZGV4KGltZ19pZCkKICAgICAgICAjIGJveGVzID0gc2VsZi5sc3RfYm94ZXNbY2FjaGVfaW5mb19pZF0KICAgICAgICBzb3VyY2VfZl9tYXBzID0gW10KICAgICAgICB0YXJnZXRfZl9tYXBzID0gW10KICAgICAgICBmb3IgaSwgYmxvY2sgaW4gZW51bWVyYXRlKHNlbGYuYmxvY2tzKToKICAgICAgICAgICAgY2FjaGVfZGF0YV9kaXJfZWFjaF9hbm5vdCA9IGdsb2Iob3MucGF0aC5qb2luKAogICAgICAgICAgICAgICAgc2VsZi5jYXRjaF9kYXRhX2RpciwgYmxvY2ssIHN0cihpbWdfaWQpLCAnKicpKQogICAgICAgICAgICBzb3VyY2VfaWR4ID0gcmFuZG9tLnJhbmRpbnQoMCwgbGVuKGJveGVzKSAvIDIgLSAxKQogICAgICAgICAgICBzb3VyY2VfYW5uX2Rpcl9lYWNoX2Fubm90ID0gY2FjaGVfZGF0YV9kaXJfZWFjaF9hbm5vdFtzb3VyY2VfaWR4XQoKICAgICAgICAgICAgIyBkaWZmZXJlbnQgb2JqZWN0CiAgICAgICAgICAgIGlmIHJhbmRvbS5yYW5kb20oKSA+IHNlbGYucHJvYl9zYW1lX29iamVjdCBhbmQgbGVuKGJveGVzKS8yID4gMToKICAgICAgICAgICAgICAgIGNhY2hlX2RhdGFfZGlyX2VhY2hfYW5ub3QucmVtb3ZlKHNvdXJjZV9hbm5fZGlyX2VhY2hfYW5ub3QpCiAgICAgICAgICAgICAgICB0YXJnZXRfaWR4ID0gcmFuZG9tLnJhbmRpbnQoMCwgbGVuKGJveGVzKSAvIDIgLSAyKQoKICAgICAgICAgICAgICAgIHRhcmdldF9hbm5fZGlyX2VhY2hfYW5ub3QgPSBjYWNoZV9kYXRhX2Rpcl9lYWNoX2Fubm90W3RhcmdldF9pZHhdCiAgICAgICAgICAgICAgICBzb3VyY2VfZl9tYXAsIHNvdXJjZV9mX2lkID0gc2VsZi5yYW5kb21fbG9hZChzb3VyY2VfYW5uX2Rpcl9lYWNoX2Fubm90KQogICAgICAgICAgICAgICAgdGFyZ2V0X2ZfbWFwLCB0YXJnZXRfZl9pZCA9IHNlbGYucmFuZG9tX2xvYWQodGFyZ2V0X2Fubl9kaXJfZWFjaF9hbm5vdCkKICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICBzb3VyY2VfYm94ID0gYm94ZXNbMiAqIHNvdXJjZV9pZHggKyBzb3VyY2VfZl9pZF0KICAgICAgICAgICAgICAgICAgICB0YXJnZXRfYm94ID0gYm94ZXNbMiAqIHRhcmdldF9pZHggKyB0YXJnZXRfZl9pZF0KICAgICAgICAgICAgICAgICAgICBsYWJlbCA9IDAKICAgICAgICAgICAgIyBzYW1lIG9iamVjdAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgc291cmNlX3BhdGggPSBvcy5wYXRoLmpvaW4oc291cmNlX2Fubl9kaXJfZWFjaF9hbm5vdCwgc2VsZi5maWxlX25hbWVfdGVtcGxhdGUuZm9ybWF0KDApKQogICAgICAgICAgICAgICAgdGFyZ2V0X3BhdGggPSBvcy5wYXRoLmpvaW4oc291cmNlX2Fubl9kaXJfZWFjaF9hbm5vdCwgc2VsZi5maWxlX25hbWVfdGVtcGxhdGUuZm9ybWF0KDEpKQogICAgICAgICAgICAgICAgc291cmNlX2ZfbWFwID0gc2VsZi5sb2FkX2RhdGEoc291cmNlX3BhdGgpCiAgICAgICAgICAgICAgICB0YXJnZXRfZl9tYXAgPSBzZWxmLmxvYWRfZGF0YSh0YXJnZXRfcGF0aCkKICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICBzb3VyY2VfYm94ID0gYm94ZXNbMiAqIHNvdXJjZV9pZHggKyAwXQogICAgICAgICAgICAgICAgICAgIHRhcmdldF9ib3ggPSBib3hlc1syICogc291cmNlX2lkeCArIDFdCiAgICAgICAgICAgICAgICAgICAgbGFiZWwgPSAxCgogICAgICAgICAgICAjIFRPRE86IG11bHRpLWJsb2NrIHN1cHBvcnQKICAgICAgICAgICAgc291cmNlX2ZfbWFwcy5hcHBlbmQoc291cmNlX2ZfbWFwKQogICAgICAgICAgICB0YXJnZXRfZl9tYXBzLmFwcGVuZCh0YXJnZXRfZl9tYXApCgogICAgICAgICAgICBzb3VyY2VfZl9tYXAgPSB0b3JjaC5UZW5zb3Ioc291cmNlX2ZfbWFwc1swXSkKICAgICAgICAgICAgdGFyZ2V0X2ZfbWFwID0gdG9yY2guVGVuc29yKHRhcmdldF9mX21hcHNbMF0pCiAgICAgICAgICAgIHNvdXJjZV9ib3ggPSB0b3JjaC5UZW5zb3Ioc291cmNlX2JveCkudmlldygtMSkKICAgICAgICAgICAgdGFyZ2V0X2JveCA9IHRvcmNoLlRlbnNvcih0YXJnZXRfYm94KS52aWV3KC0xKQogICAgICAgICAgICBpZiBzZWxmLmZsYWdfYWRkaXRvbmFsX2ZlYXR1cmU6CiAgICAgICAgICAgICAgICBzb3VyY2VfYWRkaXRpb25hbF9mZWF0dXJlID0gc2VsZi5fbWFrZV9hZGRpdG9uYWxfZmVhdHVyZShzb3VyY2VfYm94LCBpbWcuc2l6ZSkKICAgICAgICAgICAgICAgIHRhcmdldF9hZGRpdGlvbmFsX2ZlYXR1cmUgPSBzZWxmLl9tYWtlX2FkZGl0b25hbF9mZWF0dXJlKHRhcmdldF9ib3gsIGltZy5zaXplKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgc291cmNlX2FkZGl0aW9uYWxfZmVhdHVyZSA9IFtdCiAgICAgICAgICAgICAgICB0YXJnZXRfYWRkaXRpb25hbF9mZWF0dXJlID0gW10KCiAgICAgICAgcmV0dXJuIHNvdXJjZV9mX21hcCwgdGFyZ2V0X2ZfbWFwLCBzb3VyY2VfYWRkaXRpb25hbF9mZWF0dXJlLCB0YXJnZXRfYWRkaXRpb25hbF9mZWF0dXJlLCBsYWJlbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0cmljX291dHB1dCA9IG5wLmFycmF5KFtzZWxmLm1vZGVsLm1ldHJpYyhmZWF0dXJlc1tpXSwgZl90YXJnZXQpIGZvciBmX3RhcmdldCBpbiBmZWF0dXJlc1tvcmRlclsxOl1dXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb2Jfc2FtZV9vYmplY3QgPSBwcm9iX3NhbWVfb2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfY2FsY19mZWF0dXJlcyhzZWxmLCBpbWdzKToKICAgICAgICBmZWF0dXJlcyA9IFtdCiAgICAgICAgZm9yIGltZyBpbiBpbWdzOgogICAgICAgICAgICBpZiBsZW4oaW1nLnNoYXBlKSA9PSAzOgogICAgICAgICAgICAgICAgaW1nID0gaW1nLnVuc3F1ZWV6ZSgwKQogICAgICAgICAgICAjIFRPRE86IEZpeCBmb3Igbm90IHVzaW5nIGRldGFjaCgpCiAgICAgICAgICAgIGZlYXR1cmUgPSBzZWxmLm1vZGVsLmZvcndhcmRfb25jZShpbWcpLmRldGFjaCgpLnRvKCdjcHUnKS5udW1weSgpCiAgICAgICAgICAgIGZlYXR1cmVzLmFwcGVuZChmZWF0dXJlKQogICAgICAgIHJldHVybiBucC5jb25jYXRlbmF0ZSh0dXBsZShmZWF0dXJlcyksIGF4aXM9MCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBkZWYgX2NhbGNfYWRkaXRpb25hbF9tZXRyaWMoc2VsZiwgZl9tYXBzLCBhZGRpdGlvbmFsX2ZlYXR1cmVzLCBvcmRlciwgYmFzZV9pZHMpOgogICAgZl9tYXBzX3NvdXJjZSA9IHRvcmNoLmNhdChbZl9tYXBzW29yZGVyWzBdOm9yZGVyWzBdKzFdCiAgICBmb3IgXyBpbiByYW5nZShsZW4oYmFzZV9pZHMpKV0pCiAgICBmX21hcHNfdGFyZ2V0ID0gdG9yY2guY2F0KFtmX21hcHNbb3JkZXJbaWRfXTpvcmRlcltpZF8rMV1dCiAgICBmb3IgaWRfIGluIGJhc2VfaWRzXSkKICAgIGFkZGl0b25hbF9mZWF0dXJlc19zb3VyY2UgPSB0b3JjaC5jYXQoW2FkZGl0aW9uYWxfZmVhdHVyZXNbb3JkZXJbMF1dCiAgICBmb3IgXyBpbiByYW5nZShiYXNlX2lkcyldKQogICAgYWRkdGlvbmFsX2ZlYXR1cmVzX3RhcmdldCA9IHRvcmNoLmNhdChbZl9tYXBzW29yZGVyW2lkX11dCiAgICBmb3IgaWRfIGluIGJhc2VfaWRzXSkKICAgIG1ldHJpY19vdXRwdXQgPSBcCiAgICBzZWxmLm1vZGVsKGZfbWFwc19zb3VyY2UsIGZfbWFwc190YXJnZXQsIE5vbmUsCiAgICBhZGRpdG9uYWxfZmVhdHVyZXNfc291cmNlLCBhZGR0aW9uYWxfZmVhdHVyZXNfdGFyZ2V0KQogICAgbWV0cmljX291dHB1dCA9IHNlbGYueHAuYXNhcnJheShtZXRyaWNfb3V0cHV0LnRvKCdjcHUnKS5udW1weSgpKQogICAgcmV0dXJuIG1ldHJpY19vdXRwdXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Y2xhc3MgTk1TV2l0aG91dE5ldG93cmsoU3VwcHJlc3Nvcik6CiAgICBkZWYgX19pbml0X18oc2VsZiwgdGhyZXNob2xkMT0wLjUsIHRocmVzaG9sZDI9MC41LCByYXRpbz1Ob25lLAogICAgICAgICAgICAgICAgIG1ldHJpY190eXBlPSdzaW1pbGFyaXR5Jyk6CiAgICAgICAgc3VwZXIoTk1TV2l0aG91dE5ldG93cmssIHNlbGYpLl9faW5pdF9fKE5vbmUpCiAgICAgICAgc2VsZi50aHJlc2hvbGQxID0gdGhyZXNob2xkMQogICAgICAgIHNlbGYudGhyZXNob2xkMiA9IHRocmVzaG9sZDIKICAgICAgICBzZWxmLnJhdGlvID0gcmF0aW8KICAgICAgICBpZiBtZXRyaWNfdHlwZSBpbiBbJ3NpbWlsYXJpdHknLCAnZGlzdGFuY2UnXToKICAgICAgICAgICAgc2VsZi5tZXRyaWNfdHlwZSA9IG1ldHJpY190eXBlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignYG1ldHJpY190eXBlYCBzaG91bGQgYmUgYHNpbWlsYXJpdHlgIG9yIGBkaXN0YW5jZWAuJykKICAgICAgICBzZWxmLnhwID0gbnAKCiAgICBkZWYgX19jYWxsX18oc2VsZiwgYm94ZXMsIHNjb3JlcywgZl9tYXBzLCBhZGRpdGlvbmFsX2ZlYXR1cmVzKToKICAgICAgICB4MSA9IHNlbGYueHAuYXNhcnJheShib3hlc1s6LCAwXSkKICAgICAgICB5MSA9IHNlbGYueHAuYXNhcnJheShib3hlc1s6LCAxXSkKICAgICAgICB4MiA9IHNlbGYueHAuYXNhcnJheShib3hlc1s6LCAyXSkKICAgICAgICB5MiA9IHNlbGYueHAuYXNhcnJheShib3hlc1s6LCAzXSkKCiAgICAgICAgYXJlYXMgPSAoeDIgLSB4MSArIDEpICogKHkyIC0geTEgKyAxKQoKICAgICAgICBvcmRlciA9IHNjb3Jlcy5hcmdzb3J0KClbOjotMV0KCiAgICAgICAga2VlcCA9IFtdCiAgICAgICAgd2hpbGUgb3JkZXIuc2l6ZSA+IDA6CiAgICAgICAgICAgIGkgPSBvcmRlci5pdGVtKDApCiAgICAgICAgICAgIGtlZXAuYXBwZW5kKGkpCiAgICAgICAgICAgIGlvdSA9IGNhbGNfaW91KHgxLCB5MSwgeDIsIHkyLCBvcmRlciwgYXJlYXMsIGkpCiAgICAgICAgICAgIGlmIHNlbGYubWV0cmljIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBpbmRzID0gbnAud2hlcmUoaW91IDw9IHNlbGYudGhyZXNob2xkMSlbMF0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGJhc2VfaWRzID0gbnAud2hlcmUoaW91ID49IHNlbGYudGhyZXNob2xkMSlbMF0gKyAxCiAgICAgICAgICAgICAgICAjIHdoZW4gbm8gYm91bmRpbmcgYm94IHdpdGggaW91ID4gdGhyZXNob2xkMQogICAgICAgICAgICAgICAgaWYgbGVuKGJhc2VfaWRzKSA9PSAwOgogICAgICAgICAgICAgICAgICAgIGluZHMgPSBzZWxmLnhwLndoZXJlKGlvdSA8PSBzZWxmLnRocmVzaG9sZDEpWzBdCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIG1ldHJpY19vdXRwdXQgPSBzZWxmLl9jYWxjX2FkZGl0aW9uYWxfbWV0cmljKAogICAgICAgICAgICAgICAgICAgICAgICBmX21hcHMsIGFkZGl0aW9uYWxfZmVhdHVyZXMsIG9yZGVyLCBiYXNlX2lkcykKCiAgICAgICAgICAgICAgICAgICAgaWYgc2VsZi5tZXRyaWNfdHlwZSA9PSAnc2ltaWxhcml0eSc6CiAgICAgICAgICAgICAgICAgICAgICAgICMgaW5kc190aHJlc2hvbGQyID0gbnAud2hlcmUoaW91ICsgc2VsZi5yYXRpbyAqIG1ldHJpY19vdXRwdXQgPD0gc2VsZi50aHJlc2hvbGQyKVswXQogICAgICAgICAgICAgICAgICAgICAgICBpbmRzID0gbnAud2hlcmUobnAuYW55KCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlvdSA8PSBzZWxmLnRocmVzaG9sZDEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpb3UgKyBzZWxmLnJhdGlvICogbWV0cmljX291dHB1dCA8IHNlbGYudGhyZXNob2xkMiksIGF4aXM9MCkpWzBdCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgIyBpbmRzX3RocmVzaG9sZDIgPSBucC53aGVyZShpb3UgLSBzZWxmLnJhdGlvICogbWV0cmljX291dHB1dCA8PSBzZWxmLnRocmVzaG9sZDIpWzBdCiAgICAgICAgICAgICAgICAgICAgICAgIGluZHMgPSBucC53aGVyZShucC5hbnkoKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW91IDw9IHNlbGYudGhyZXNob2xkMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlvdSArIHNlbGYucmF0aW8gKiBtZXRyaWNfb3V0cHV0WzE6XSA8IHNlbGYudGhyZXNob2xkMiksIGF4aXM9MCkpWzBdCiAgICAgICAgICAgIG9yZGVyID0gb3JkZXJbaW5kcyArIDFdCgogICAgICAgICMgcmV0dXJuIHRvcmNoLkludFRlbnNvcihrZWVwKQogICAgICAgIGtlZXBfYm94ZXMgPSBib3hlc1trZWVwXQogICAgICAgIGtlZXBfc2NvcmVzID0gc2NvcmVzW2tlZXBdCiAgICAgICAgcmV0dXJuIGtlZXBfYm94ZXMsIGtlZXBfc2NvcmVzCgogICAgZGVmIF9jYWxjX2FkZGl0aW9uYWxfbWV0cmljKHNlbGYsIGZfbWFwcywgYWRkaXRvbmFsX2ZlYXR1cmVzLCBvcmRlciwgYmFzZV9pZHMpOgogICAgICAgIGZfbWFwc19zb3VyY2UgPSB0b3JjaC5jYXQoW2ZfbWFwc1tvcmRlclswXTpvcmRlclswXSsxXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIF8gaW4gcmFuZ2UobGVuKGJhc2VfaWRzKSldKQogICAgICAgIGZfbWFwc190YXJnZXQgPSB0b3JjaC5jYXQoW2ZfbWFwc1tvcmRlcltpZF9dOm9yZGVyW2lkXysxXV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgaWRfIGluIGJhc2VfaWRzXSkKICAgICAgICBhZGRpdG9uYWxfZmVhdHVyZXNfc291cmNlID0gdG9yY2guY2F0KFthZGRpdG9uYWxfZmVhdHVyZXNbb3JkZXJbMF1dCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgXyBpbiByYW5nZShiYXNlX2lkcyldKQogICAgICAgIGFkZHRpb25hbF9mZWF0dXJlc190YXJnZXQgPSB0b3JjaC5jYXQoW2ZfbWFwc1tvcmRlcltpZF9dXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBpZF8gaW4gYmFzZV9pZHNdKQogICAgICAgIG1ldHJpY19vdXRwdXQgPSBcCiAgICAgICAgICAgIHNlbGYubW9kZWwoZl9tYXBzX3NvdXJjZSwgZl9tYXBzX3RhcmdldCwgTm9uZSwKICAgICAgICAgICAgICAgICAgICAgICBhZGRpdG9uYWxfZmVhdHVyZXNfc291cmNlLCBhZGR0aW9uYWxfZmVhdHVyZXNfdGFyZ2V0KQogICAgICAgIG1ldHJpY19vdXRwdXQgPSBzZWxmLnhwLmFzYXIobWV0cmljX291dHB1dC50bygnY3B1JykubnVtcHkoKSkKCiAgICBkZWYgdG8oc2VsZiwgZGV2aWNlKToKICAgICAgICBzZWxmLm1vZGVsLnRvKGRldmljZSkKICAgICAgICBzZWxmLnhwID0gY3VweQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">VHJ1ZQogICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBfY2FsY19hZGRpdGlvbmFsX21ldHJpYyhzZWxmLCBmX21hcHMsIGFkZGl0aW9uYWxfZmVhdHVyZXMsIG9yZGVyLCBiYXNlX2lkcyk6CiAgICAgICAgZl9tYXBzX3NvdXJjZSA9IHRvcmNoLmNhdChbZl9tYXBzW29yZGVyWzBdOm9yZGVyWzBdKzFdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgXyBpbiByYW5nZShsZW4oYmFzZV9pZHMpKV0pCiAgICAgICAgZl9tYXBzX3RhcmdldCA9IHRvcmNoLmNhdChbZl9tYXBzW29yZGVyW2lkX106b3JkZXJbaWRfKzFdXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBpZF8gaW4gYmFzZV9pZHNdKQogICAgICAgIGFkZGl0b25hbF9mZWF0dXJlc19zb3VyY2UgPSB0b3JjaC5jYXQoW2FkZGl0aW9uYWxfZmVhdHVyZXNbb3JkZXJbMF1dCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgXyBpbiByYW5nZShiYXNlX2lkcyldKQogICAgICAgIGFkZHRpb25hbF9mZWF0dXJlc190YXJnZXQgPSB0b3JjaC5jYXQoW2ZfbWFwc1tvcmRlcltpZF9dXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBpZF8gaW4gYmFzZV9pZHNdKQogICAgICAgIG1ldHJpY19vdXRwdXQgPSBcCiAgICAgICAgICAgIHNlbGYubW9kZWwoZl9tYXBzX3NvdXJjZSwgZl9tYXBzX3RhcmdldCwgTm9uZSwKICAgICAgICAgICAgICAgICAgICAgICBhZGRpdG9uYWxfZmVhdHVyZXNfc291cmNlLCBhZGR0aW9uYWxfZmVhdHVyZXNfdGFyZ2V0KQogICAgICAgIG1ldHJpY19vdXRwdXQgPSBzZWxmLnhwLmFzYXJyYXkobWV0cmljX291dHB1dC50bygnY3B1JykubnVtcHkoKSkKICAgICAgICByZXR1cm4gbWV0cmljX291dHB1dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWV0cmljX291dHB1dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>img, ann</last-search>
+      <last-search>calc_iou</last-search>
       <last-offset />
-      <last-pattern>img, ann</last-pattern>
+      <last-pattern>calc_iou</last-pattern>
       <last-replace>block2_freeze_with_addtional_feature</last-replace>
       <last-substitute>block2_freeze</last-substitute>
       <last-dir>1</last-dir>
@@ -437,8 +1091,6 @@
     </search>
     <history>
       <history-search>
-        <entry>outpaht</entry>
-        <entry>outpath</entry>
         <entry>loadImg</entry>
         <entry>RANGE</entry>
         <entry>data</entry>
@@ -457,6 +1109,8 @@
         <entry>block2_freeze</entry>
         <entry>[d</entry>
         <entry>img, ann</entry>
+        <entry>metric</entry>
+        <entry>calc_iou</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
