@@ -84,11 +84,12 @@
         <mark key="." line="76" column="50" />
         <mark key="^" line="64" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" timestamp="1557675834637">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="79" column="64" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" timestamp="1557676852015">
+        <mark key="'" line="208" column="16" />
+        <mark key="[" line="201" column="67" />
+        <mark key="]" line="201" column="77" />
+        <mark key="^" line="201" column="77" />
+        <mark key="." line="201" column="77" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.json" timestamp="1556693958142">
         <mark key="[" line="0" column="0" />
@@ -413,11 +414,11 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" timestamp="1557675609381">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="45" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" timestamp="1557676783750">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
         <mark key="^" line="11" column="21" />
-        <mark key="." line="14" column="21" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/coco_test.py" timestamp="1557431084100">
         <mark key="'" line="49" column="55" />
@@ -1000,16 +1001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="7" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="54" column="38" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="210" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="205" column="48" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="45" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="49" column="42" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="56" column="22" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="127" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="24" column="51" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="128" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="209" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="218" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="211" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
@@ -1100,55 +1091,65 @@
       <jump line="138" column="44" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
       <jump line="119" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
       <jump line="98" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
+      <jump line="28" column="14" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
+      <jump line="38" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
+      <jump line="21" column="35" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
+      <jump line="22" column="55" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
+      <jump line="168" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
+      <jump line="181" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
+      <jump line="201" column="77" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
+      <jump line="207" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
+      <jump line="208" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2ZnLlNVUFBSRVNTT1IuU1VQUFJFU1NPUiA9PSAnTk1TV2l0aG91dE5ldHdvcmsnOgogICAgICAgIHN1cHByZXNzb3IgPSBOTVNXaXRob3V0TmV0b3dyayh0aHJlc2hvbGQxLCB0aHJlc2hvbGQyLCByYXRpbywgY2ZnLk1PREVMLk1FVFJJQywgbWV0cmljX3R5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsb2NrLmV2YWwoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>preprocess</text>
+        <text>results</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhcmVhcyA9ICh4MiAtIHgxICsgMSkgKiAoeTIgLSB5MSArIDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2ZnLlNVUFBSRVNTT1IuU1VQUFJFU1NPUiA9PSAnTk1TV2l0aG91dE5ldHdvcmsnOgogICAgICAgIHN1cHByZXNzb3IgPSBOTVNXaXRob3V0TmV0b3dyayh0aHJlc2hvbGQxLCB0aHJlc2hvbGQyLCByYXRpbywgY2ZnLk1PREVMLk1FVFJJQywgbWV0cmljX3R5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsb2NrLmV2YWwoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJsb2NrIGluIG1vZGVsLmV4dHJhY3Rvci5ibG9ja3M6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsaWYgY2ZnLlNVUFBSRVNTT1IuU1VQUFJFU1NPUiA9PSAnTk1TV2l0aG91dE5ldHdvcmsnOgogICAgICAgIHN1cHByZXNzb3IgPSBOTVNXaXRob3V0TmV0b3dyayh0aHJlc2hvbGQxLCB0aHJlc2hvbGQyLCByYXRpbywgY2ZnLk1PREVMLk1FVFJJQywgbWV0cmljX3R5cGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHByZXByb2Nlc3NfYm94ZXMoYm94ZXNfcHJlZGljdCwgYm94ZXNfYW5ub3QsIGltZ19zaXplLCBpbWdfc2l6ZV9vcmcsCiAgICAgICAgICAgICAgICAgICAgIG1heF9zaXplX2F0X2RldGVjdG9yLCBtaW5fc2l6ZV9hdF9kZXRlY3RvciwKICAgICAgICAgICAgICAgICAgICAgYm94X2Zvcm1hdF9hbm5vdD0neHl4eScpOgogICAgYm94ZXNfcHJlZGljdCA9IEJveExpc3QodG9yY2guVGVuc29yKGJveGVzX3ByZWRpY3QpLCBpbWdfc2l6ZSwgbW9kZT0neHl4eScpCgogICAgYm94ZXNfYW5ub3QgPSBCb3hMaXN0KHRvcmNoLlRlbnNvcihib3hlc19hbm5vdCksIGltZ19zaXplX29yZywKICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlPWJveF9mb3JtYXRfYW5ub3QpCiAgICBpZiBib3hfZm9ybWF0X2Fubm90ICE9ICd4eXh5JzoKICAgICAgICBib3hlc19hbm5vdCA9IGJveGVzX2Fubm90LmNvbnZlcnQoJ3h5eHknKQogICAgaW1nX3NpemVfYXRfZGV0ZWN0b3IgPSBnZXRfc2l6ZV9hdF9kZXRlY3RvcigKICAgICAgICBpbWdfc2l6ZSwgbWF4X3NpemVfYXRfZGV0ZWN0b3IsIG1pbl9zaXplX2F0X2RldGVjdG9yKQogICAgYm94ZXNfYW5ub3QgPSBib3hlc19hbm5vdC5yZXNpemUoaW1nX3NpemVfYXRfZGV0ZWN0b3JbOjotMV0pCiAgICByZXR1cm4gYm94ZXNfcHJlZGljdCwgYm94ZXNfYW5ub3QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlvdSA9IGJveGxpc3RfaW91KGJveGVzX3ByZWRpY3QsIGJveGVzX2Fubm90KS5udW1weSgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlvdSA9IAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIHByZXByb2Nlc3NfYm94ZXMoYm94ZXNfcHJlZGljdCwgYm94ZXNfYW5ub3QsIGltZ19zaXplLCBpbWdfc2l6ZV9vcmcsCiAgICAgICAgICAgICAgICAgICAgIG1heF9zaXplX2F0X2RldGVjdG9yLCBtaW5fc2l6ZV9hdF9kZXRlY3RvciwKICAgICAgICAgICAgICAgICAgICAgYm94X2Zvcm1hdF9hbm5vdD0neHl4eScpOgogICAgYm94ZXNfcHJlZGljdCA9IEJveExpc3QodG9yY2guVGVuc29yKGJveGVzX3ByZWRpY3QpLCBpbWdfc2l6ZSwgbW9kZT0neHl4eScpCgogICAgYm94ZXNfYW5ub3QgPSBCb3hMaXN0KHRvcmNoLlRlbnNvcihib3hlc19hbm5vdCksIGltZ19zaXplX29yZywKICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlPWJveF9mb3JtYXRfYW5ub3QpCiAgICBpZiBib3hfZm9ybWF0X2Fubm90ICE9ICd4eXh5JzoKICAgICAgICBib3hlc19hbm5vdCA9IGJveGVzX2Fubm90LmNvbnZlcnQoJ3h5eHknKQogICAgaW1nX3NpemVfYXRfZGV0ZWN0b3IgPSBnZXRfc2l6ZV9hdF9kZXRlY3RvcigKICAgICAgICBpbWdfc2l6ZSwgbWF4X3NpemVfYXRfZGV0ZWN0b3IsIG1pbl9zaXplX2F0X2RldGVjdG9yKQogICAgYm94ZXNfYW5ub3QgPSBib3hlc19hbm5vdC5yZXNpemUoaW1nX3NpemVfYXRfZGV0ZWN0b3JbOjotMV0pCiAgICByZXR1cm4gYm94ZXNfcHJlZGljdCwgYm94ZXNfYW5ub3QK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGlvdSA9IGJveGxpc3RfaW91KGJveGVzX3ByZWRpY3QsIGJveGVzX2Fubm90KS5udW1weSgpCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlvdSA9IAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpb3VzID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>preprocess</last-search>
+      <last-search>results</last-search>
       <last-offset />
-      <last-pattern>preprocess</last-pattern>
+      <last-pattern>results</last-pattern>
       <last-replace>block2_freeze_with_addtional_feature</last-replace>
       <last-substitute>block2_freeze</last-substitute>
       <last-dir>1</last-dir>
@@ -1156,9 +1157,6 @@
     </search>
     <history>
       <history-search>
-        <entry>boxes_predcit</entry>
-        <entry>boxes_predict</entry>
-        <entry>reshape</entry>
         <entry>pdb</entry>
         <entry>imshow</entry>
         <entry>append-info</entry>
@@ -1176,6 +1174,9 @@
         <entry>class_label_annot</entry>
         <entry>count_too_detected_boxes_unseen</entry>
         <entry>preprocess</entry>
+        <entry>extractor</entry>
+        <entry>result_</entry>
+        <entry>results</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
