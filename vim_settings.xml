@@ -87,11 +87,11 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" timestamp="1557553766632">
-        <mark key="[" line="82" column="40" />
-        <mark key="]" line="82" column="29" />
-        <mark key="^" line="82" column="29" />
-        <mark key="." line="82" column="29" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" timestamp="1557669541901">
+        <mark key="[" line="108" column="28" />
+        <mark key="]" line="108" column="29" />
+        <mark key="^" line="108" column="29" />
+        <mark key="." line="108" column="29" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/coco_test.py" timestamp="1557431084100">
         <mark key="'" line="49" column="55" />
@@ -105,8 +105,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" timestamp="1557466121915">
-        <mark key="'" line="0" column="8" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" timestamp="1557670592928">
+        <mark key="'" line="115" column="8" />
+        <mark key="[" line="116" column="23" />
+        <mark key="]" line="117" column="14" />
+        <mark key="." line="117" column="14" />
+        <mark key="^" line="117" column="14" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test.py" timestamp="1557299561289">
         <mark key="'" line="71" column="29" />
@@ -128,21 +132,12 @@
         <mark key="." line="35" column="54" />
         <mark key="^" line="35" column="54" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/tools/test_net.py" timestamp="1557367929049">
-        <mark key="'" line="90" column="96" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" timestamp="1557418666568">
         <mark key="'" line="153" column="42" />
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="66" />
         <mark key="^" line="175" column="0" />
         <mark key="." line="175" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" timestamp="1557416020717">
-        <mark key="'" line="65" column="3" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/solver/lr_scheduler.py" timestamp="1557366943483">
-        <mark key="'" line="31" column="26" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1557426112368">
         <mark key="'" line="25" column="19" />
@@ -252,9 +247,6 @@
         <mark key="^" line="32" column="8" />
         <mark key="." line="32" column="8" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" timestamp="1557367835358">
-        <mark key="'" line="181" column="64" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/networks/siamesenet.py" timestamp="1557425831756">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="31" column="29" />
@@ -269,9 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="26" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="27" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="28" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="33" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="66" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
@@ -369,55 +358,58 @@
       <jump line="54" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
       <jump line="56" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
       <jump line="163" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
+      <jump line="91" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" />
+      <jump line="117" column="15" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" />
+      <jump line="115" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>thresh</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>calc_iou</text>
+        <text>class_label_annot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBrZWVwX2JveGVzID0gYm94ZXNba2VlcF0KICAgICAgICBrZWVwX3Njb3JlcyA9IHNjb3Jlc1trZWVwXQogICAgICAgIHJldHVybiBrZWVwX2JveGVzLCBrZWVwX3Njb3Jlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXJnZXQgPSBCb3hMaXN0KGJveGVzLCBpbWcuc2l6ZSwgbW9kZT0ieHl3aCIpLmNvbnZlcnQoInh5eHkiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1bgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW91ID0gY2FsY19pb3UoeDE9eDEsIHkxPXkxLCB4Mj14MiwgeTI9eTIsIG9yZGVyPW9yZGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJlYXM9YXJlYXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaW91ID0gY2FsY19pb3UoeDE9eDEsIHkxPXkxLCB4Mj14MiwgeTI9eTIsIG9yZGVyPW9yZGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYm94ZXNfcHJlZGljdCwgbGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiB0b3JjaC5JbnRUZW5zb3Ioa2VlcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRpdGlvbmFsX2ZlYXR1cmVzX3RhcmdldCA9IHRvcmNoLmNhdChbdG9yY2gudW5zcXVlZXplKGZfbWFwc1tvcmRlcltpZF9dXSldKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW5kc190aHJlc2hvbGQyID0gbnAud2hlcmUoaW91IC0gc2VsZi5yYXRpbyAqIG1ldHJpY19vdXRwdXQgPD0gc2VsZi50aHJlc2hvbGQyKVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW91ID0gY2FsY19pb3UoeDE9eDEsIHkxPXkxLCB4Mj14MiwgeTI9eTIsIG9yZGVyPW9yZGVyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>calc_iou</last-search>
+      <last-search>class_label_annot</last-search>
       <last-offset />
-      <last-pattern>calc_iou</last-pattern>
+      <last-pattern>class_label_annot</last-pattern>
       <last-replace>block2_freeze_with_addtional_feature</last-replace>
       <last-substitute>block2_freeze</last-substitute>
       <last-dir>1</last-dir>
@@ -425,7 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loadImg</entry>
         <entry>RANGE</entry>
         <entry>data</entry>
         <entry>boxes_predcit</entry>
@@ -445,6 +436,7 @@
         <entry>img, ann</entry>
         <entry>metric</entry>
         <entry>calc_iou</entry>
+        <entry>class_label_annot</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
