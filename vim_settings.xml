@@ -87,9 +87,9 @@
         <mark key="." line="76" column="50" />
         <mark key="^" line="64" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" timestamp="1557731263072">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" timestamp="1557734042862">
         <mark key="'" line="105" column="4" />
-        <mark key="[" line="151" column="0" />
+        <mark key="[" line="50" column="6" />
         <mark key="m" line="128" column="25" />
         <mark key="]" line="158" column="75" />
         <mark key="^" line="141" column="57" />
@@ -217,12 +217,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" timestamp="1557733027952">
-        <mark key="'" line="210" column="0" />
-        <mark key="[" line="209" column="7" />
-        <mark key="]" line="209" column="72" />
-        <mark key="." line="209" column="72" />
-        <mark key="^" line="209" column="72" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" timestamp="1557735545525">
+        <mark key="'" line="68" column="19" />
+        <mark key="[" line="149" column="36" />
+        <mark key="]" line="149" column="26" />
+        <mark key="." line="149" column="26" />
+        <mark key="^" line="149" column="26" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/train.py" timestamp="1557195159317">
         <mark key="'" line="28" column="4" />
@@ -423,12 +423,12 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" timestamp="1557731319923">
-        <mark key="'" line="122" column="4" />
-        <mark key="[" line="172" column="46" />
-        <mark key="]" line="172" column="48" />
-        <mark key="." line="172" column="48" />
-        <mark key="^" line="172" column="48" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate.py" timestamp="1557734192019">
+        <mark key="'" line="147" column="4" />
+        <mark key="[" line="76" column="59" />
+        <mark key="]" line="77" column="54" />
+        <mark key="." line="77" column="54" />
+        <mark key="^" line="77" column="54" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" timestamp="1557732301637">
         <mark key="[" line="54" column="0" />
@@ -461,11 +461,6 @@
         <mark key="^" line="21" column="54" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze01234_pretrain.yaml" timestamp="1557252030959">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_with_val_aug.yml" timestamp="1557180721989">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="4" column="15" />
@@ -496,12 +491,12 @@
         <mark key="." line="24" column="4" />
         <mark key="^" line="42" column="13" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" timestamp="1557732972990">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" timestamp="1557734680034">
         <mark key="'" line="67" column="23" />
-        <mark key="[" line="80" column="8" />
-        <mark key="]" line="159" column="36" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="84" column="31" />
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="8" />
+        <mark key="^" line="42" column="8" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/not_using_network/ssd.yaml" timestamp="1557724768466">
         <mark key="[" line="5" column="66" />
@@ -584,10 +579,12 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" timestamp="1557731631864">
-        <mark key="[" line="142" column="32" />
-        <mark key="]" line="142" column="33" />
-        <mark key="." line="142" column="33" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" timestamp="1557735039462">
+        <mark key="'" line="26" column="16" />
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+        <mark key="^" line="26" column="12" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/keypoints_detector.py" timestamp="1557106768625">
         <mark key="[" line="28" column="28" />
@@ -601,12 +598,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1557426112368">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1557735138764">
         <mark key="'" line="25" column="19" />
-        <mark key="[" line="63" column="35" />
-        <mark key="]" line="63" column="35" />
-        <mark key="^" line="63" column="35" />
-        <mark key="." line="63" column="35" />
+        <mark key="[" line="89" column="66" />
+        <mark key="]" line="89" column="72" />
+        <mark key="^" line="89" column="72" />
+        <mark key="." line="89" column="72" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cached_feature/model/networks/siamesenet.py" timestamp="1556972742707">
         <mark key="[" line="2" column="0" />
@@ -794,11 +791,11 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate_multi_process.py" timestamp="1557731118757">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="45" />
-        <mark key="." line="26" column="45" />
-        <mark key="^" line="26" column="23" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate_multi_process.py" timestamp="1557735471531">
+        <mark key="[" line="63" column="66" />
+        <mark key="]" line="65" column="18" />
+        <mark key="." line="65" column="18" />
+        <mark key="^" line="65" column="18" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_with_val_aug.yml" timestamp="1557093896434">
         <mark key="[" line="32" column="17" />
@@ -874,6 +871,12 @@
         <mark key="]" line="30" column="18" />
         <mark key="^" line="30" column="18" />
         <mark key="." line="30" column="18" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/build.py" timestamp="1557734458870">
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="5" />
+        <mark key="^" line="61" column="5" />
+        <mark key="." line="61" column="5" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/batch_colator.py" timestamp="1557210540778">
         <mark key="[" line="1" column="0" />
@@ -983,11 +986,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/networks/siamesenet.py" timestamp="1557425831756">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="29" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/WeightedMAE_conv3_3_complecated_estimator.yml" timestamp="1557071085269">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="16" column="19" />
@@ -1002,19 +1000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" />
-      <jump line="81" column="49" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" />
-      <jump line="55" column="21" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
-      <jump line="60" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
-      <jump line="124" column="13" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
-      <jump line="111" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
-      <jump line="134" column="46" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
-      <jump line="142" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
-      <jump line="143" column="39" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
-      <jump line="146" column="39" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
-      <jump line="150" column="51" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
-      <jump line="101" column="46" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/suppressor/suppressor.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" />
       <jump line="49" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" />
       <jump line="8" column="53" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" />
       <jump line="55" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" />
@@ -1102,6 +1087,19 @@
       <jump line="39" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" />
       <jump line="67" column="23" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/evaluate/coco.py" />
       <jump line="210" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" />
+      <jump line="128" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" />
+      <jump line="6" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
+      <jump line="7" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
+      <jump line="8" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
+      <jump line="9" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
+      <jump line="14" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
+      <jump line="64" column="81" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
+      <jump line="5" column="43" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
+      <jump line="68" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
+      <jump line="59" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
+      <jump line="26" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
+      <jump line="27" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1111,46 +1109,46 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>valid</text>
+        <text>break</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0X2ZfbWFwX3BhdGgoc2VsZiwgaW1nX2lkKToKICAgICAgICBiYXNlbmFtZSwgXyA9IG9zLnBhdGguc3BsaXRleHQoZ2V0X2ltZ19uYW1lKGltZ19pZCwgc2VsZi5jb2NvKSkKICAgICAgICAjIFRPRE86IG11bHRpLWJsb2NrIHN1cHBvcnQKICAgICAgICBmX21hcHNfcGF0aCA9IG9zLnBhdGguam9pbigKICAgICAgICAgICAgc2VsZi5mX21hcF9jYWNoZV9kaXIsIHNlbGYuYmxvY2tzWzBdLCBiYXNlbmFtZSArICcubnB6JykKICAgICAgICByZXR1cm4gZl9tYXBzX3BhdGgKCiAgICBkZWYgX2dldF9kZXRlY3Rpb25fcmVzdWx0X3BhdGgoc2VsZiwgaW1nX2lkKToKICAgICAgICBiYXNlbmFtZSwgXyA9IG9zLnBhdGguc3BsaXRleHQoZ2V0X2ltZ19uYW1lKGltZ19pZCwgc2VsZi5jb2NvKSkKICAgICAgICBkZXRlY3Rpb25fcmVzdWx0X3BhdGggPSBvcy5wYXRoLmpvaW4oc2VsZi5kZXRlY3Rpb25fcmVzdWx0X2RpciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFzZW5hbWUgKyAnLnBrbCcpCiAgICAgICAgcmV0dXJuIGRldGVjdGlvbl9yZXN1bHRfcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSA9IG9yZGVyLml0ZW0oMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNhdmVuYW1lID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV0ZWN0aW9uX3Jlc3VsdF9wYXRoID0gc2VsZi5fZ2V0X2RldGVjdGlvbl9yZXN1bHRfcGF0aChpbWdfaWQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZsYWdfYWRkaXRpb25hbF9mZWF0dXJlID0gZmxhZ19hZGRpdGlvbmFsX2ZlYXR1cmUK</text>
+        <text encoding="base64">ZnJvbSBtb2RlbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJsb2NrcyA9IFsnYmxvY2t7fScuZm9ybWF0KGJsb2NrKSBmb3IgYmxvY2sgaW4gYmxvY2tzXQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4cCA9IGN1cHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGRldmljZSA9PSAnY3VkYSc6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxzdF9pbWdfcGF0aCwgc2VsZi5sc3RfYm94X3ByZWRpY3QsIHNlbGYubHN0X3Njb3JlX3ByZWRpY3QsIHNlbGYubHN0X2JveF9hbm5vdCwgXAogICAgICAgICAgICBzZWxmLmxzdF9sYWJlbF9hbm5vdCA9IHNlbGYuX2J1aWxkX2RhdGFfbGlzdChyZXN1bHRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWdzX2Nyb3BwZWQsIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gbG9hZF9yZXN1bHRzKHJlc3VsdHNfZGV0Y3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGVfbmFtZV90ZW1wbGF0ZSA9ICdmZWF0dXJlX3t9Lm5weicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>valid</last-search>
+      <last-search>break</last-search>
       <last-offset />
-      <last-pattern>valid</last-pattern>
+      <last-pattern>break</last-pattern>
       <last-replace>block2_freeze_with_addtional_feature</last-replace>
       <last-substitute>block2_freeze</last-substitute>
       <last-dir>1</last-dir>
@@ -1158,11 +1156,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calc_add</entry>
-        <entry>boxes_pred</entry>
-        <entry>load</entry>
-        <entry>boxes</entry>
-        <entry>order</entry>
         <entry>class_labels_annot</entry>
         <entry>scale</entry>
         <entry>load_and_pre</entry>
@@ -1171,18 +1164,20 @@
         <entry>build</entry>
         <entry>dataset</entry>
         <entry>build_data</entry>
-        <entry>break</entry>
         <entry>ANNOT</entry>
         <entry>model</entry>
         <entry>suppresso</entry>
         <entry>exec</entry>
         <entry>ratio</entry>
         <entry>valid</entry>
+        <entry>transform</entry>
+        <entry>idx</entry>
+        <entry>blocks</entry>
+        <entry>calc_feature</entry>
+        <entry>block</entry>
+        <entry>break</entry>
       </history-search>
       <history-cmd>
-        <entry>102</entry>
-        <entry>26</entry>
-        <entry>138</entry>
         <entry>29</entry>
         <entry>104</entry>
         <entry>123</entry>
@@ -1199,6 +1194,9 @@
         <entry>142</entry>
         <entry>e</entry>
         <entry>145</entry>
+        <entry>59</entry>
+        <entry>27</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
