@@ -1207,7 +1207,7 @@
         <text encoding="base64">ICAgIG1vZGVsLm1scC5sb2FkX3N0YXRlX2RpY3QodG9yY2gubG9hZChhcmdzLm1scCkpCiAgICBtb2RlbC5ldmFsKCkKICAgIHN1cHByZXNzb3IgPSBidWlsZF9zdXBwcmVzc29yKGNmZywgbW9kZWwsIDAuNSwgMC4sIDAuKQoKICAgIGRhdGFzZXQgPSBidWlsZF9ldmFsX2RhdGFzZXQoY2ZnLCBhcmdzLmRhdGFfZGlyLCBhcmdzLmRldGVjdGlvbl9yZXN1bHRfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmdzLmZfbWFwX2NhY2hlX2RpcikKCiAgICBpZiBhcmdzLmdwdToKICAgICAgICBzdXBwcmVzc29yLnRvKCdjdWRhJykKCiAgICByZXN1bHRzID0gZXZhbHVhdGUoc3VwcHJlc3NvciwgZGF0YXNldCwgY2ZnLlRFU1QuTlVNX0NMQVNTRVMsIGNmZy5URVNULk1BWF9MQUJFTF9TRUVOKQogICAgZm9yIGssIHYgaW4gcmVzdWx0cy5pdGVtcygpOgogICAgICAgIHByaW50KCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tJykKICAgICAgICBwcmludChrKQogICAgICAgIHByaW50KHYpCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1261,8 +1261,8 @@
         <entry>:w</entry>
         <entry>97</entry>
         <entry>wq\</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
