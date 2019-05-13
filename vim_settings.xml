@@ -982,12 +982,12 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" timestamp="1557727263095">
-        <mark key="'" line="117" column="45" />
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="20" column="6" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" timestamp="1557728394183">
+        <mark key="'" line="116" column="45" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
         <mark key="^" line="20" column="6" />
-        <mark key="." line="20" column="6" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" timestamp="1557418666568">
         <mark key="'" line="153" column="42" />
@@ -1135,8 +1135,8 @@
       <jump line="117" column="45" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>N</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBsaXN0X3RocmVzaG9sZDEgPSBbMC4zLCAwLjUsIDAuOF0K</text>
       </register>
       <register name="-" type="4">
         <text>N</text>
@@ -1148,31 +1148,31 @@
         <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSBjb2NvLmxvYWRJbWdzKGltZ19pZClbMF1bJ2ZpbGVfbmFtZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaSArIDEpID4gMzAwOgo=</text>
+        <text encoding="base64">IyBsaXN0X3RocmVzaG9sZDEgPSBbMC4zLCAwLjUsIDAuOF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaSArIDEpID4gMzAwOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbW9kZWwgPSBidWlsZF9tb2RlbChjZmcpCiAgICAjIHBhdGhfc2F2ZV9tb2RlbCA9IG9zLnBhdGguam9pbihjZmcuU0FWRV9ESVIsICdtaW5fdmFsJykKICAgICMgbW9kZWwubG9hZF9zdGF0ZV9kaWN0KHRvcmNoLmxvYWQocGF0aF9zYXZlX21vZGVsKSkKICAgICMgbW9kZWwuZXZhbCgpCiAgICAjIGRhdGFzZXQgPSBidWlsZF9ldmFsX2RhdGFzZXQoY2ZnLCBkYXRhX2RpciwgcmVzdWx0c19kZXRlY3Rpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICMgbW9kZWwgPSBidWlsZF9tb2RlbChjZmcpCiAgICAjIHBhdGhfc2F2ZV9tb2RlbCA9IG9zLnBhdGguam9pbihjZmcuU0FWRV9ESVIsICdtaW5fdmFsJykKICAgICMgbW9kZWwubG9hZF9zdGF0ZV9kaWN0KHRvcmNoLmxvYWQocGF0aF9zYXZlX21vZGVsKSkKICAgICMgbW9kZWwuZXZhbCgpCiAgICAjIGRhdGFzZXQgPSBidWlsZF9ldmFsX2RhdGFzZXQoY2ZnLCBkYXRhX2RpciwgcmVzdWx0c19kZXRlY3Rpb24pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW5kcyA9IHNlbGYueHAud2hlcmUoc2VsZi54cC5hbnkoKAogICAgICAgICAgICAgICAgIyAgICAgaW91IDw9IHNlbGYudGhyZXNob2xkMSwKICAgICAgICAgICAgICAgICMgICAgIGlvdSArIHNlbGYucmF0aW8gKiBtZXRyaWNfb3V0cHV0IDwgc2VsZi50aHJlc2hvbGQyKSwgYXhpcz0wKSlbMF0K</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
