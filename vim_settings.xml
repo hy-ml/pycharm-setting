@@ -1014,12 +1014,12 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" timestamp="1557745587567">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" timestamp="1557746547492">
         <mark key="'" line="69" column="30" />
-        <mark key="[" line="72" column="17" />
-        <mark key="]" line="72" column="20" />
-        <mark key="." line="72" column="20" />
-        <mark key="^" line="72" column="20" />
+        <mark key="[" line="123" column="21" />
+        <mark key="]" line="123" column="21" />
+        <mark key="." line="123" column="21" />
+        <mark key="^" line="123" column="21" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" timestamp="1557418666568">
         <mark key="'" line="153" column="42" />
@@ -1174,7 +1174,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>PRE</text>
+        <text>backup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbW9kZWwubG9hZF9zdGF0ZV9kaWN0KHRvcmNoLmxvYWQocGF0aF9zYXZlX21vZGVsKSkK</text>
@@ -1211,9 +1211,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PRE</last-search>
+      <last-search>backup</last-search>
       <last-offset />
-      <last-pattern>PRE</last-pattern>
+      <last-pattern>backup</last-pattern>
       <last-replace />
       <last-substitute>..\/</last-substitute>
       <last-dir>1</last-dir>
@@ -1221,7 +1221,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DATA</entry>
         <entry>make_data_sampler</entry>
         <entry>shuffle</entry>
         <entry>load</entry>
@@ -1241,6 +1240,7 @@
         <entry>extractor</entry>
         <entry>min_val</entry>
         <entry>PRE</entry>
+        <entry>backup</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
