@@ -64,6 +64,13 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_freeze_pos_neg_equal.yaml" timestamp="1557799944868">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557094042509">
         <mark key="[" line="32" column="17" />
         <mark key="]" line="32" column="18" />
@@ -214,6 +221,13 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze_pos_neg_equal.yaml" timestamp="1557799862924">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1557389369723">
         <mark key="[" line="29" column="19" />
         <mark key="]" line="29" column="18" />
@@ -252,7 +266,6 @@
         <mark key="^" line="39" column="89" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/suppressor/suppressor.py" timestamp="1557730748576">
-        <mark key="'" line="78" column="30" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -1071,8 +1084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="86" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="256" column="10" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="22" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
@@ -1171,6 +1182,8 @@
       <jump line="79" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" />
       <jump line="72" column="6" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" />
       <jump line="69" column="30" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze_pos_neg_equal.yaml" />
+      <jump line="9" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_freeze_pos_neg_equal.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1180,7 +1193,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>backup</text>
+        <text>freeze</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbW9kZWwubG9hZF9zdGF0ZV9kaWN0KHRvcmNoLmxvYWQocGF0aF9zYXZlX21vZGVsKSkK</text>
@@ -1213,21 +1226,20 @@
         <text encoding="base64">TE9HX0RJUjogImxvZy9jb2NvL3NwbGl0X3NlZW5fdW5zZWVuL3NpYW1lc2VfbmV0L2wxX25vcm0vdmdnL2Jsb2NrNF9mcmVlemVfcHJldHJhaW4iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>backup</last-search>
+      <last-search>freeze</last-search>
       <last-offset />
-      <last-pattern>backup</last-pattern>
-      <last-replace />
-      <last-substitute>..\/</last-substitute>
+      <last-pattern>freeze</last-pattern>
+      <last-replace>freeze_pos_neg_equal</last-replace>
+      <last-substitute>freeze</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>make_data_sampler</entry>
         <entry>shuffle</entry>
         <entry>load</entry>
         <entry>idx</entry>
@@ -1247,10 +1259,9 @@
         <entry>min_val</entry>
         <entry>PRE</entry>
         <entry>backup</entry>
+        <entry>freeze</entry>
       </history-search>
       <history-cmd>
-        <entry>37</entry>
-        <entry>122</entry>
         <entry>81</entry>
         <entry>86</entry>
         <entry>%s/01234_pretrain//g</entry>
@@ -1267,8 +1278,10 @@
         <entry>:w</entry>
         <entry>97</entry>
         <entry>wq\</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>%s/freeze/freeze_pos_neg_equal</entry>
+        <entry>ew</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
