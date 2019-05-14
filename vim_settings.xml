@@ -343,6 +343,11 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/model/extractor/build.py" timestamp="1557819173823">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test.py" timestamp="1557743410249">
         <mark key="'" line="69" column="4" />
         <mark key="[" line="61" column="0" />
@@ -626,9 +631,9 @@
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test_scrach.py" timestamp="1557818918110">
         <mark key="'" line="66" column="26" />
         <mark key="[" line="67" column="62" />
-        <mark key="]" line="68" column="9" />
-        <mark key="." line="68" column="9" />
-        <mark key="^" line="68" column="9" />
+        <mark key="]" line="67" column="9" />
+        <mark key="." line="67" column="9" />
+        <mark key="^" line="67" column="9" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/augment_keypoints.py" timestamp="1557098870800">
         <mark key="'" line="32" column="21" />
@@ -962,8 +967,8 @@
         <mark key="." line="32" column="56" />
       </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" timestamp="1557817166422" />
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" timestamp="1557748274693">
-        <mark key="'" line="69" column="30" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" timestamp="1557819322852">
+        <mark key="'" line="75" column="29" />
         <mark key="[" line="30" column="38" />
         <mark key="]" line="30" column="39" />
         <mark key="." line="30" column="39" />
@@ -1008,7 +1013,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="33" column="3" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="66" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
       <jump line="2" column="6" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
@@ -1108,19 +1112,20 @@
       <jump line="51" column="15" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test_scrach.py" />
       <jump line="64" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test_scrach.py" />
       <jump line="66" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test_scrach.py" />
+      <jump line="75" column="29" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4dHJhY3Rvcl9jcHkgLSAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgY2ZnLk1PREVMLkVYVFJBQ1RPUl9QUkVUUkFJTkVEOgogICAgICAgICAgICBleHRyYWN0b3IgPSB0b3JjaHZpc2lvbi5tb2RlbHMudmdnMTYoRmFsc2UpLmZlYXR1cmVzCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>extractor</text>
+        <text>model</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgY2ZnLk1PREVMLkVYVFJBQ1RPUl9QUkVUUkFJTkVEOgogICAgICAgICAgICBleHRyYWN0b3IgPSB0b3JjaHZpc2lvbi5tb2RlbHMudmdnMTYoRmFsc2UpLmZlYXR1cmVzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV4dHJhY3Rvcl9jcHkgLSAK</text>
@@ -1154,9 +1159,9 @@
       </register>
     </registers>
     <search>
-      <last-search>extractor</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>extractor</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-replace>freeze_pos_neg_equal</last-replace>
       <last-substitute>freeze</last-substitute>
       <last-dir>1</last-dir>
@@ -1164,7 +1169,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
         <entry>idx</entry>
         <entry>a25</entry>
         <entry>img_id</entry>
@@ -1184,6 +1188,7 @@
         <entry>coco</entry>
         <entry>pdb</entry>
         <entry>extractor</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
         <entry>81</entry>
