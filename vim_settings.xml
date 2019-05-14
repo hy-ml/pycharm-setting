@@ -536,6 +536,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dataset/coco/coco_tool/get_category_num.py" timestamp="1557817077588">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+        <mark key="^" line="16" column="43" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/support_tools/sampling_img.py" timestamp="1557196003837">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
@@ -1174,10 +1180,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdTJykK</text>
+        <text encoding="base64">ICAgIHByaW50KGNvdW50KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>pdb</text>
@@ -1186,31 +1192,31 @@
         <text encoding="base64">ICAgIGFubm90X2RhdGFfb2NjbHVkZWRfaW1hZ2UgPSBbXQogICAgZm9yIGltZ19kYXRhIGluIGFubm90X2RhdGFbJ2ltYWdlJ106CiAgICAgICAgaWYgaW1nX2RhdGFbJ2lkJ10gaW4gaW1nX2lkc19vY2NsdWRlZDoKICAgICAgICAgICAgYW5ub3RfZGF0YV9vY2NsdWRlZF9pbWFnZS5hcHBlbmQoaW1nX2RhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdTJykK</text>
+        <text encoding="base64">ICAgIHByaW50KGNvdW50KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2KQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGEpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGEgPSBbanNvbl9jYXRlZ29yeV9pZF90b19jb250aWd1b3VzX2lkW2NdIGZvciBjIGluIGNsYXNzX2xpc3RdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">ICAgIGNsYXNzX2xpc3QgPSBsaXN0KHJhbmdlKDEsIDkwKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
