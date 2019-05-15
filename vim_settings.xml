@@ -756,11 +756,12 @@
         <mark key="^" line="32" column="8" />
         <mark key="." line="32" column="8" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet.py" timestamp="1557745200631">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="21" column="23" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet.py" timestamp="1557911935612">
+        <mark key="'" line="60" column="62" />
+        <mark key="[" line="68" column="23" />
+        <mark key="]" line="69" column="11" />
+        <mark key="." line="69" column="11" />
+        <mark key="^" line="69" column="11" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/visualize_img.py" timestamp="1557064436450">
         <mark key="[" line="12" column="58" />
@@ -1113,8 +1114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
-      <jump line="85" column="23" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
       <jump line="86" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
       <jump line="87" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
       <jump line="91" column="13" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
@@ -1213,6 +1212,8 @@
       <jump line="155" column="33" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
       <jump line="156" column="33" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
       <jump line="157" column="27" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
+      <jump line="43" column="22" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet.py" />
+      <jump line="60" column="62" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1222,7 +1223,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>unseen</text>
+        <text>metric</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">X0MuU09MVkVSLkxSID0gMC4wMDEK</text>
@@ -1259,9 +1260,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unseen</last-search>
+      <last-search>metric</last-search>
       <last-offset />
-      <last-pattern>unseen</last-pattern>
+      <last-pattern>metric</last-pattern>
       <last-replace>scratch</last-replace>
       <last-substitute>freeze</last-substitute>
       <last-dir>1</last-dir>
@@ -1269,7 +1270,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BatchCo</entry>
         <entry>OUTPUT</entry>
         <entry>extracotr</entry>
         <entry>freeze</entry>
@@ -1289,6 +1289,7 @@
         <entry>max</entry>
         <entry>max_seen_label</entry>
         <entry>unseen</entry>
+        <entry>metric</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
