@@ -1029,11 +1029,11 @@
         <mark key="^" line="17" column="47" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach_debug.yaml" timestamp="1557917473880">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="8" />
-        <mark key="^" line="14" column="8" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach_debug.yaml" timestamp="1557918334349">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/residual_multi_stage_net.py" timestamp="1557162220751">
         <mark key="[" line="9" column="38" />
@@ -1233,17 +1233,17 @@
       <jump line="10" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">X0MuU09MVkVSLkxSID0gMC4wMDEK</text>
+      <register name="&quot;" type="4">
+        <text>N</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>N</text>
       </register>
       <register name="/" type="4">
         <text>SOLVER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">X0MuU09MVkVSLkxSID0gMC4wMDEK</text>
+        <text encoding="base64">ICBUUkFJTl9CQVRDSDogNAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
