@@ -119,11 +119,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" timestamp="1557916633793">
-        <mark key="[" line="61" column="28" />
-        <mark key="]" line="61" column="58" />
-        <mark key="^" line="61" column="58" />
-        <mark key="." line="61" column="58" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" timestamp="1557919398761">
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="51" column="30" />
+        <mark key="." line="51" column="30" />
+        <mark key="^" line="51" column="30" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557163931279">
         <mark key="[" line="31" column="10" />
@@ -137,11 +137,12 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1557917098759">
-        <mark key="'" line="168" column="19" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1557919505735">
+        <mark key="'" line="82" column="28" />
+        <mark key="[" line="93" column="47" />
+        <mark key="]" line="93" column="47" />
+        <mark key="." line="93" column="47" />
+        <mark key="^" line="90" column="8" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3WeightedMAE_vgg16_conv3_3.yml" timestamp="1557171015458">
         <mark key="[" line="0" column="40" />
@@ -1131,8 +1132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="77" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
-      <jump line="153" column="42" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" />
       <jump line="135" column="61" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" />
       <jump line="87" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/datasets/coco_seen_unseen.py" />
       <jump line="25" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" />
@@ -1231,55 +1230,57 @@
       <jump line="168" column="19" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
       <jump line="44" column="15" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet.py" />
       <jump line="10" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" />
+      <jump line="69" column="43" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
+      <jump line="82" column="28" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>N</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>SOLVER</text>
+        <text>data_loader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBUUkFJTl9CQVRDSDogNAo=</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfZl9tYXBzLCB0YXJnZXRfZl9tYXBzLCBzb3VyY2VfYWRkaXRpb25hbF9mZWF0dXJlLFwKICAgICAgICAgICAgdGFyZ2V0X2FkZGl0aW9uYWxfZmVhdHVyZSwgbGFiZWwgPSBkYXRhX3ByZXByb2Nlc3MoZGF0YSwgZGV2aWNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REFUQV9MT0FERVI6CiAgVFJBSU5fQkFUQ0g6IDQK</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCiAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5pZHMpKQo=</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SOLVER</last-search>
+      <last-search>data_loader</last-search>
       <last-offset />
-      <last-pattern>SOLVER</last-pattern>
+      <last-pattern>data_loader</last-pattern>
       <last-replace>scratch</last-replace>
       <last-substitute>freeze</last-substitute>
       <last-dir>1</last-dir>
@@ -1287,7 +1288,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NUM_WO</entry>
         <entry>boxes_predict</entry>
         <entry>shape</entry>
         <entry>prnt</entry>
@@ -1307,6 +1307,7 @@
         <entry>def train</entry>
         <entry>pdb</entry>
         <entry>SOLVER</entry>
+        <entry>data_loader</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
