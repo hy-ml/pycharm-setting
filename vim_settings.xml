@@ -138,6 +138,13 @@
         <mark key="^" line="15" column="52" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/visualize_shifted_boxes.py" timestamp="1558011967673">
+        <mark key="'" line="49" column="15" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="4" />
+        <mark key="." line="81" column="4" />
+        <mark key="^" line="81" column="20" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tests/test_coco.py" timestamp="1557321835868">
         <mark key="[" line="42" column="54" />
         <mark key="]" line="42" column="57" />
@@ -274,6 +281,10 @@
         <mark key="]" line="77" column="45" />
         <mark key="^" line="77" column="45" />
         <mark key="." line="77" column="45" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/convert_cache_info_to_detection_output.py" timestamp="1558011295883">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="43" column="50" />
       </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/get_category_num.py" timestamp="1557817237227">
         <mark key="[" line="18" column="53" />
@@ -722,9 +733,6 @@
         <mark key="]" line="1" column="22" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_train.py" timestamp="1557994080498">
-        <mark key="'" line="65" column="22" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480_high_lr.yaml" timestamp="1557331189031">
         <mark key="[" line="39" column="84" />
@@ -1194,7 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="35" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
       <jump line="134" column="19" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
       <jump line="131" column="28" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
       <jump line="126" column="42" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
@@ -1294,46 +1301,47 @@
       <jump line="216" column="68" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" />
       <jump line="41" column="22" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" />
       <jump line="119" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" />
+      <jump line="36" column="15" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/visualize_shifted_boxes.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dataset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">X0MuU09MVkVSLlZBTF9QRVJJT0QgPSAxCg==</text>
+        <text encoding="base64">ICAgIHhfbWF4ID0geF9taW4gKyB3eQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciByYXRpbyBpbiBbMC4xLCAwLjIsIDAuMywgMC40LCAwLjVdOgo=</text>
+        <text encoding="base64">ICAgICAgICBjdjIua2xkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhc2V0ID0gYnVpbGRfZXZhbF9kYXRhc2V0KGNmZywgZGF0YV9kaXIsIGRldGVjdGlvbl9yZXN1bHRfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZl9tYXBfY2FjaGVfZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWcgPSBsb2FkX2ltZyhpbWdfaWQsIGFyZ3MuY29jb19kaXIsIGNvY28pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1aWRkawo=</text>
+        <text encoding="base64">ICAgICAgICBib3hlc19wcmVkaWN0ID0gbnAuYXNhcnJheShzaGlmdGVkX2JveGVzKS5yZXNoYXBlKC0xLCA0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXQgPSBidWlsZF9ldmFsX2RhdGFzZXQoY2ZnLCBkYXRhX2RpciwgZGV0ZWN0aW9uX3Jlc3VsdF9kaXIsCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdfbmFtZSA9IGNvY28ubG9hZEltZ3MoW2ltZ19pZF0pWzBdWydmaWxlX25hbWUnXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXQgPSBidWlsZF9ldmFsX2RhdGFzZXQoY2ZnLCBkYXRhX2RpciwgZGV0ZWN0aW9uX3Jlc3VsdF9kaXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZV9pbmZvID0gcGlja2xlLmxvYWQoZnApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihhcmdzLmNhY2hlX2luZm8sICdyYicpIGFzIGZwOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
