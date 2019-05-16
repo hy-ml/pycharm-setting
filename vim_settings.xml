@@ -282,9 +282,11 @@
         <mark key="^" line="77" column="45" />
         <mark key="." line="77" column="45" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/convert_cache_info_to_detection_output.py" timestamp="1558011295883">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="43" column="50" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/convert_cache_info_to_detection_output.py" timestamp="1558015992352">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/get_category_num.py" timestamp="1557817237227">
         <mark key="[" line="18" column="53" />
@@ -956,12 +958,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" timestamp="1558009221116">
-        <mark key="'" line="118" column="24" />
-        <mark key="[" line="247" column="62" />
-        <mark key="]" line="247" column="68" />
-        <mark key="." line="247" column="68" />
-        <mark key="^" line="247" column="68" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" timestamp="1558017481787">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="207" column="28" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/not_using_network/nms.yaml" timestamp="1557903032571">
         <mark key="[" line="9" column="10" />
@@ -1208,10 +1209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="19" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
-      <jump line="131" column="28" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
-      <jump line="126" column="42" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
-      <jump line="61" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
       <jump line="105" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
       <jump line="146" column="13" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" />
       <jump line="87" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" />
@@ -1308,55 +1305,59 @@
       <jump line="41" column="22" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" />
       <jump line="119" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" />
       <jump line="36" column="15" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/visualize_shifted_boxes.py" />
+      <jump line="239" column="22" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" />
+      <jump line="27" column="17" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" />
+      <jump line="24" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" />
+      <jump line="37" column="18" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>dataset</text>
+        <text>parse_args</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2Fubm90JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFubm90YXRpb25zX3NwbGl0ID0gW10K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZGVmIHBhcnNlX2FyZ3MoKToKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoImRhdGFfZGlyIiwgdHlwZT1zdHIsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9IlBhdGggdG8gdGhlIHJvb3QgZGlyZWN0b3J5IG9mIGRhdGFzZXRzLiIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCJjb25maWciLCB0eXBlPXN0ciwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iUGF0aCB0byB0aGUgY29uZmlnIGZpbGUgdG8gb3ZlcndyaXRlLiIpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCJkZXRlY3Rpb25fcmVzdWx0X2RpciIsIHR5cGU9c3RyLAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSJQYXRoIHRvIHRoZSBkaXJlY3Rvcnkgb2YgcmVzdWx0cyBkZXRlY3Rpb24uIikKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoImZfbWFwX2NhY2hlX2RpciIsIHR5cGU9c3RyLAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSJQYXRoIHRvIHRoZSBkaXJlY3Rvcnkgb2YgY2FjaGVkIGZlYXR1cmUgbWFwcy4iKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1ncHUiLCB0eXBlPWJvb2wsIGRlZmF1bHQ9VHJ1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iV2hldGhlciB1c2UgR1BVLiIpCgogICAgcmV0dXJuIHBhcnNlci5wYXJzZV9hcmdzKCkKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxlbihib3hlc19hbm5vdCkpCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBpbWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFubm90X3NwbGl0ID0gZGljdCgK</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvPWFubm90WydpbmZvJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaWNlbnMK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgMSA9PSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGFzc2VydCAxID09IDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dataset</last-search>
+      <last-search>parse_args</last-search>
       <last-offset />
-      <last-pattern>dataset</last-pattern>
+      <last-pattern>parse_args</last-pattern>
       <last-replace>occluded</last-replace>
       <last-substitute>subset</last-substitute>
       <last-dir>1</last-dir>
@@ -1364,7 +1365,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.key_</entry>
         <entry>load_f_map</entry>
         <entry>bbox_annot</entry>
         <entry>load_and</entry>
@@ -1380,10 +1380,11 @@
         <entry>subset</entry>
         <entry>suppressor</entry>
         <entry>pd</entry>
-        <entry>pdb</entry>
         <entry>result</entry>
         <entry>test</entry>
         <entry>dataset</entry>
+        <entry>pdb</entry>
+        <entry>parse_args</entry>
       </history-search>
       <history-cmd>
         <entry>%s/freeze/scratch/gc</entry>
