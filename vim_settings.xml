@@ -250,12 +250,12 @@
         <mark key="." line="61" column="11" />
         <mark key="^" line="61" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/compare_results.py" timestamp="1557988563153">
-        <mark key="'" line="24" column="8" />
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="8" />
-        <mark key="^" line="15" column="53" />
-        <mark key="." line="20" column="8" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/compare_results.py" timestamp="1557990277792">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="62" column="20" />
+        <mark key="]" line="63" column="49" />
+        <mark key="^" line="63" column="49" />
+        <mark key="." line="63" column="49" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_aug.yml" timestamp="1557095070527">
         <mark key="[" line="5" column="24" />
@@ -1276,43 +1276,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ratio</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudF9ub3RfZGV0ZWN0ZWRfYm94ZXM9Y291bnRfbm90X2RldGVjdGVkX2JveGVzLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudF9ub3Rfc2VlbiA9IFswICsgdiBmb3IgdiBpbiBjb3VudF9ub3RbOm1heF9zZWVuX2xhYmVsKzFdXQo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb3VudF9ub3Rfc2VlbiA9IFswICsgdiBmb3IgdiBpbiBjb3VudF9ub3RbOm1heF9zZWVuX2xhYmVsKzFdXQogICAgICAgIGNvdW50X3Rvb19zZWVuID0gY291bnRfdG9vWzptYXhfc2Vlbl9sYWJlbCsxXQogICAgICAgIGNvdW50X25vdF91bnNlZW4gPSBjb3VudF9ub3RbbWF4X3NlZW5fbGFiZWwrMTpdCiAgICAgICAgY291bnRfdG9vX3Vuc2VlbiA9IGNvdW50X3Rvb1ttYXhfc2Vlbl9sYWJlbCsxOl0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudF90b29fdW5zZWVuID0gZVsnY291bnRfdG9vX2RldGVjdGVkX2JveGVzX3Vuc2VlbiddCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudF90b29fc2VlbiA9IGVbJ2NvdW50X3Rvb19kZXRlY3RlZF9ib3hlc3NlZW4nXQo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudF9ub3RfdW5zZWVuID0gZVsnY291bnRfbm90X2RldGVjdGVkX2JveGVzX3Vuc2VlbiddCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudF90b29fdW5zZWVuID0gZVsnY291bnRfdG9vX2RldGVjdGVkX2JveGVzX3Vuc2VlbiddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudF9ub3Rfc2VlbiA9IGNvdW50X25vdFs6bWF4X3NlZW5fbGFiZWwrMV0K</text>
+        <text encoding="base64">ICAgICAgICBjb3VudF90b29fc2VlbiA9IGVbJ2NvdW50X3Rvb19kZXRlY3RlZF9ib3hlc3NlZW4nXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfc2VlbmxhYmVsCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudF9ub3RfdW5zZWVuID0gZVsnY291bnRfbm90X2RldGVjdGVkX2JveGVzX3Vuc2VlbiddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudF9ub3RfZGV0ZWN0ZWRfYm94ZXNfc2Vlbj1jb3VudF9ub3RfZGV0ZWN0ZWRfYm94ZXNzZWVuLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudF9ub3Rfc2VlbiA9IGNvdW50X25vdFs6bWF4X3NlZW5fbGFiZWwrMV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXhfc2VlbmxhYmVsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudF9ub3RfZGV0ZWN0ZWRfYm94ZXNfc2Vlbj1jb3VudF9ub3RfZGV0ZWN0ZWRfYm94ZXNzZWVuLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
