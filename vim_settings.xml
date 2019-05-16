@@ -239,6 +239,13 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/test_code/test_count_boxes.py" timestamp="1557972927258">
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="43" column="51" />
+        <mark key="]" line="43" column="51" />
+        <mark key="." line="43" column="51" />
+        <mark key="^" line="36" column="5" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/loss/l1_norm_loss.py" timestamp="1557425382826">
         <mark key="[" line="35" column="54" />
         <mark key="]" line="35" column="54" />
@@ -480,13 +487,13 @@
         <mark key="^" line="23" column="24" />
         <mark key="." line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" timestamp="1557734042862">
-        <mark key="'" line="83" column="4" />
-        <mark key="[" line="50" column="6" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" timestamp="1557972370924">
+        <mark key="'" line="97" column="63" />
+        <mark key="[" line="120" column="57" />
         <mark key="m" line="106" column="25" />
-        <mark key="]" line="136" column="75" />
-        <mark key="^" line="119" column="57" />
-        <mark key="." line="119" column="57" />
+        <mark key="]" line="128" column="21" />
+        <mark key="^" line="128" column="21" />
+        <mark key="." line="128" column="21" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1557252044041">
         <mark key="[" line="1" column="12" />
@@ -918,10 +925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="81" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
-      <jump line="5" column="43" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
-      <jump line="68" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
       <jump line="59" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
       <jump line="26" column="41" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
       <jump line="27" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/suppressor/suppressor.py" />
@@ -1018,55 +1021,59 @@
       <jump line="82" column="11" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train_scratch.py" />
       <jump line="97" column="47" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train_scratch.py" />
       <jump line="14" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train_scratch.py" />
+      <jump line="80" column="15" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
+      <jump line="97" column="63" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/test_code/test_count_boxes.py" />
+      <jump line="3" column="21" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/test_code/test_count_boxes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZyb20gY29weSBpbXBvcnQgZGVlcGNvcHkK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>iter_counter</text>
+        <text>count</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">X0MuU09MVkVSLkVBUkxZX1NUT1BfQ09VTlRTID0gNQo=</text>
+        <text encoding="base64">ICAgIGxhYmVscyA9IG5wLmFycmF5KGxpc3QocmFuZ2UoMTApKSoxMDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyb20gY29weSBpbXBvcnQgZGVlcGNvcHkK</text>
+        <text encoding="base64">ICAgIGxhYmVscyA9IG5wLmFycmF5KGxpc3QocmFuZ2UoMTApKSoxMDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4dHJhY3Rvcl8gPSBkZWVwY29weShleHRyYWN0b3IpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhLmJveF9zaGlmdGVycyBpbXBvcnQgUmFuZG9tQm94U2hpZnRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbC5idWlsZCBpbXBvcnQgYnVpbGRfZXh0cmFjdG9yCg==</text>
+        <text encoding="base64">ZGVmIHRlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGN2MgogICAgICAgICAgICAjIHByaW50KGxlbihpbWdzKSkKICAgICAgICAgICAgIyBmb3IgaW1nIGluIGltZ3M6CiAgICAgICAgICAgICMgICAgIGltZyA9IG5wLmFycmF5KGltZykKICAgICAgICAgICAgIyAgICAgaW1nID0gY3YyLmN2dENvbG9yKGltZywgY3YyLkNPTE9SX1JHQjJCR1IpCiAgICAgICAgICAgICMgICAgIGN2Mi5pbXNob3coJ2ltZycsIGltZykKICAgICAgICAgICAgIyAgICAga2V5ID0gY3YyLndhaXRLZXkoMCkgJiAweGZmCiAgICAgICAgICAgICMgICAgIGlmIGtleSA9PSBvcmQoJ3EnKToKICAgICAgICAgICAgIyAgICAgICAgIGV4aXQoKQogICAgICAgICAgICAjICAgICBlbGlmIGtleSA9PSBvcmQoJ24nKToKICAgICAgICAgICAgIyAgICAgICAgIGJyZWFrCiAgICAgICAgICAgICMgICAgIGVsc2U6CiAgICAgICAgICAgICMgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgIyBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgIGNvdW50X2JveGVzID0gbnAub25lcygxMCkgKiAxMDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U09MVkVSLkVBUkxZX1NUT1BfQ09VTlRTPQo=</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zyb21zID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcxLCBpbWcyLCBfLCBfLCBfID0gZGF0YQogICAgICAgIGltZzEgPSBucC5hcnJheShpbWcxKQogICAgICAgIGltZzIgPSBucC5hcnJheShpbWcyKQogICAgICAgIGltZzEgPSBjdjIuY3Z0Q29sb3IoaW1nMSwgY3YyLkNPTE9SX1JHQjJCR1IpCiAgICAgICAgaW1nMiA9IGN2Mi5jdnRDb2xvcihpbWcyLCBjdjIuQ09MT1JfUkdCMkJHUikKICAgICAgICBvdXRwYXRoMSA9ICcuL2ltZ3MvaW1nezowNGR9LmpwZycuZm9ybWF0KGNvdW50KQogICAgICAgIG91dHBhdGgyID0gJy4vaW1ncy9pbWd7OjA0ZH0uanBnJy5mb3JtYXQoY291bnQpCiAgICAgICAgY291bnQgKz0gMQogICAgICAgIGN2Mi5pbXdyaXRlKG91dHBhdGgsIGltZykKICAgICAgICBpZiBjb3VudCA+IDEwMDoKICAgICAgICAgICAgYnJlYWsKICAgICAgICBlbHNlOgogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICBpdGVyX2NvdW50ZXIgKz0gMQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBkYXRhIGluIGRhdGFzZXQ6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>iter_counter</last-search>
+      <last-search>count</last-search>
       <last-offset />
-      <last-pattern>iter_counter</last-pattern>
+      <last-pattern>count</last-pattern>
       <last-replace>freeze_dropout</last-replace>
       <last-substitute>freeze_pretrain</last-substitute>
       <last-dir>1</last-dir>
@@ -1074,7 +1081,6 @@
     </search>
     <history>
       <history-search>
-        <entry>img</entry>
         <entry>get</entry>
         <entry>scale</entry>
         <entry>model</entry>
@@ -1092,8 +1098,9 @@
         <entry>freeze</entry>
         <entry>0</entry>
         <entry>coount</entry>
-        <entry>count</entry>
         <entry>iter_counter</entry>
+        <entry>device</entry>
+        <entry>count</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
