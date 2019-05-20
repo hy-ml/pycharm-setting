@@ -596,7 +596,7 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" timestamp="1558323873864">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" timestamp="1558326028886">
         <mark key="'" line="62" column="20" />
         <mark key="[" line="20" column="54" />
         <mark key="]" line="20" column="55" />
@@ -896,11 +896,12 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" timestamp="1557998903893">
-        <mark key="[" line="48" column="85" />
-        <mark key="]" line="48" column="92" />
-        <mark key="." line="48" column="92" />
-        <mark key="^" line="48" column="92" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" timestamp="1558325924480">
+        <mark key="'" line="71" column="44" />
+        <mark key="[" line="94" column="8" />
+        <mark key="]" line="94" column="8" />
+        <mark key="^" line="86" column="50" />
+        <mark key="." line="94" column="8" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/batch_colator.py" timestamp="1557210540778">
         <mark key="[" line="1" column="0" />
@@ -1250,10 +1251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="13" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/evaluate/coco.py" />
-      <jump line="141" column="20" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/evaluate/coco.py" />
-      <jump line="57" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/evaluate/coco.py" />
-      <jump line="96" column="48" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/evaluate/coco.py" />
       <jump line="126" column="49" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/evaluate/coco.py" />
       <jump line="99" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/evaluate/coco.py" />
       <jump line="102" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/evaluate/coco.py" />
@@ -1350,55 +1347,59 @@
       <jump line="79" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
       <jump line="151" column="43" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
       <jump line="10" column="85" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach_with_lr_scheduler.yaml" />
+      <jump line="72" column="10" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
+      <jump line="95" column="19" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
+      <jump line="71" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdOTVNXaXRoU2lhbWVzZU5ldCc6IFswLjVdCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>scrach</text>
+        <text>lege</text>
       </register>
-      <register name="0" type="8">
-        <text>NMSWithSiameseNet</text>
+      <register name="0" type="2">
+        <text encoding="base64">bHN0X3RocmVzaG9sZDEgPSBbMC41LCAwLjYsIDAuN10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdOTVNXaXRoU2lhbWVzZU5ldCc6IFswLjVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBFQVJMWV9TVE9QX0NPVU5UUzogMTAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U09MVkVSOgo=</text>
+        <text encoding="base64">bHN0X3RocmVzaG9sZDEgPSBbMC41XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWV0cmljX291dHB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBldmFsWyd0aHJlc2hvbGQxJ10gbm90IGluIGxzdF90aHJlc2hvbGQxOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBjb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcigKICAgICAgICAgICAgJ2xlYXJuaW5nIHJhdGUnLCBvcHRpbWl6ZXIucGFyYW1fZ3JvdXBzWzBdWyJsciJdLCBpdGVyX2NvdW50ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHJfc2NoZWR1bGVyLnN0YXRlX2RpY3QobWluX3ZhbF9sb3NzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciB4LCB5IGluIHppcChsc3RfeCwgbHN0X3kpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">X0MuU09MVkVSLkxSX1NDSEVEVUxFX0ZBQ1RPUiA9IDAuMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scrach</last-search>
+      <last-search>lege</last-search>
       <last-offset />
-      <last-pattern>scrach</last-pattern>
+      <last-pattern>lege</last-pattern>
       <last-replace>scratch_with_lr_schduler</last-replace>
       <last-substitute>scrach</last-substitute>
       <last-dir>1</last-dir>
@@ -1406,11 +1407,7 @@
     </search>
     <history>
       <history-search>
-        <entry>pd</entry>
-        <entry>result</entry>
-        <entry>test</entry>
         <entry>dataset</entry>
-        <entry>pdb</entry>
         <entry>parse_args</entry>
         <entry>build_ex</entry>
         <entry>counts_not_renew_min_val_loss</entry>
@@ -1426,10 +1423,12 @@
         <entry>scheduler</entry>
         <entry>optimizer</entry>
         <entry>scrach</entry>
+        <entry>pdb</entry>
+        <entry>legend</entry>
+        <entry>legends</entry>
+        <entry>lege</entry>
       </history-search>
       <history-cmd>
-        <entry>111</entry>
-        <entry>%s/freeze/freeze_debug/g</entry>
         <entry>77</entry>
         <entry>25</entry>
         <entry>292</entry>
@@ -1447,6 +1446,8 @@
         <entry>%s/freeze/freeze_with_lr_schduler/gc</entry>
         <entry>%s/scrach/scratch_with_lr_schduler/g</entry>
         <entry>wq</entry>
+        <entry>61</entry>
+        <entry>63</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
