@@ -71,7 +71,7 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1558056128940">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1558323933485">
         <mark key="'" line="151" column="43" />
         <mark key="[" line="167" column="0" />
         <mark key="]" line="170" column="75" />
@@ -596,11 +596,11 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" timestamp="1558007945316">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_multi_process.py" timestamp="1558323873864">
         <mark key="'" line="62" column="20" />
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="20" column="54" />
+        <mark key="]" line="20" column="55" />
+        <mark key="." line="20" column="55" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" timestamp="1557418666568">
         <mark key="'" line="153" column="42" />
@@ -1352,47 +1352,47 @@
       <jump line="10" column="85" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach_with_lr_scheduler.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdOTVNXaXRoU2lhbWVzZU5ldCc6IFswLjVdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>scrach</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBUUkFJTl9CQVRDSDogMzIK</text>
+      <register name="0" type="8">
+        <text>NMSWithSiameseNet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBFQVJMWV9TVE9QX0NPVU5UUzogMTAK</text>
+        <text encoding="base64">ICAgICdOTVNXaXRoU2lhbWVzZU5ldCc6IFswLjVdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U09MVkVSOgo=</text>
+        <text encoding="base64">ICBFQVJMWV9TVE9QX0NPVU5UUzogMTAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWV0cmljX291dHB1dCkK</text>
+        <text encoding="base64">U09MVkVSOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWV0cmljX291dHB1dCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBjb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcigKICAgICAgICAgICAgJ2xlYXJuaW5nIHJhdGUnLCBvcHRpbWl6ZXIucGFyYW1fZ3JvdXBzWzBdWyJsciJdLCBpdGVyX2NvdW50ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBjb3VudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHJfc2NoZWR1bGVyLnN0YXRlX2RpY3QobWluX3ZhbF9sb3NzKQo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcigKICAgICAgICAgICAgJ2xlYXJuaW5nIHJhdGUnLCBvcHRpbWl6ZXIucGFyYW1fZ3JvdXBzWzBdWyJsciJdLCBpdGVyX2NvdW50ZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">X0MuU09MVkVSLkxSX1NDSEVEVUxFX0ZBQ1RPUiA9IDAuMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHJfc2NoZWR1bGVyLnN0YXRlX2RpY3QobWluX3ZhbF9sb3NzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcignbHInLCBvcHRpbWl6ZXIuKW8K</text>
+        <text encoding="base64">X0MuU09MVkVSLkxSX1NDSEVEVUxFX0ZBQ1RPUiA9IDAuMQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1445,9 +1445,9 @@
         <entry>%s/freeze_pretrain/freeze_with_lr_schduler.gc</entry>
         <entry>%s/freeze_pretrain/freeze_with_lr_schduler/gc</entry>
         <entry>%s/freeze/freeze_with_lr_schduler/gc</entry>
-        <entry>w</entry>
         <entry>%s/scrach/scratch_with_lr_schduler/g</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
