@@ -156,7 +156,7 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/coco_tool/get_occluded_data_each_class.py" timestamp="1558516578840">
+      <file name="$USER_HOME$/dataset/coco/coco_tool/get_occluded_data_each_class.py" timestamp="1558517339866">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="7" column="41" />
         <mark key="]" line="7" column="42" />
@@ -476,10 +476,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" timestamp="1558426910426">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="60" column="22" />
+      <file name="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" timestamp="1558517838781">
+        <mark key="'" line="56" column="4" />
+        <mark key="[" line="62" column="61" />
+        <mark key="]" line="62" column="61" />
+        <mark key="^" line="62" column="61" />
+        <mark key="." line="62" column="61" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/check_metric_output.py" timestamp="1557980555558">
         <mark key="'" line="56" column="15" />
@@ -490,17 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="58" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
-      <jump line="182" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
-      <jump line="183" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
-      <jump line="186" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
-      <jump line="188" column="34" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
-      <jump line="189" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
-      <jump line="190" column="18" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
-      <jump line="191" column="40" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
-      <jump line="192" column="66" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
-      <jump line="193" column="35" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
-      <jump line="194" column="68" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
       <jump line="195" column="17" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
       <jump line="196" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
       <jump line="34" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
@@ -590,19 +581,30 @@
       <jump line="81" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" />
       <jump line="51" column="0" filename="$USER_HOME$/dataset/coco/coco_tool/get_occluded_data_each_class.py" />
       <jump line="24" column="10" filename="$USER_HOME$/dataset/coco/coco_tool/check_img.py" />
+      <jump line="85" column="39" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
+      <jump line="109" column="50" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
+      <jump line="52" column="61" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
+      <jump line="51" column="53" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
+      <jump line="49" column="26" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
+      <jump line="43" column="49" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
+      <jump line="92" column="56" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
+      <jump line="76" column="11" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
+      <jump line="56" column="4" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>conti</text>
+        <text>is</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zm9udF9wYXRoID0gJy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvdGFrYW8tZ290aGljL1Rha2FvUEdvdGhpYy50dGYnCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ3RocmVzaG9sZF9taW4nLCB0eXBlPWZsb2F0KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Zm50ID0gSW1hZ2VGb250LnRydWV0eXBlKCcuL0tva29yby5vdGYnLDMwKQo=</text>
@@ -636,9 +638,9 @@
       </register>
     </registers>
     <search>
-      <last-search>conti</last-search>
+      <last-search>is</last-search>
       <last-offset />
-      <last-pattern>conti</last-pattern>
+      <last-pattern>is</last-pattern>
       <last-replace>occluded</last-replace>
       <last-substitute>subset</last-substitute>
       <last-dir>1</last-dir>
@@ -646,11 +648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wrapper</entry>
-        <entry>ags</entry>
-        <entry>args</entry>
-        <entry>subset</entry>
-        <entry>x -</entry>
         <entry encoding="base64">eCA9IA==</entry>
         <entry encoding="base64">XDxjb25maWdzXD4=</entry>
         <entry>supppre</entry>
@@ -666,6 +663,11 @@
         <entry>marker</entry>
         <entry>legend</entry>
         <entry>conti</entry>
+        <entry>args.threshold</entry>
+        <entry>get_occlu</entry>
+        <entry>get_occu</entry>
+        <entry>id</entry>
+        <entry>is</entry>
       </history-search>
       <history-cmd>
         <entry>%s/scrach/scratch_with_lr_schduler/g</entry>
