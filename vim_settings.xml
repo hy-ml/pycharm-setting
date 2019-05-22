@@ -308,12 +308,12 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" timestamp="1558501883440">
-        <mark key="'" line="95" column="8" />
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="37" column="17" />
-        <mark key="." line="37" column="17" />
-        <mark key="^" line="37" column="66" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" timestamp="1558504199737">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="38" column="13" />
+        <mark key="]" line="38" column="14" />
+        <mark key="." line="38" column="14" />
+        <mark key="^" line="77" column="43" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_scratch.yaml" timestamp="1558049253246">
         <mark key="'" line="9" column="34" />
@@ -376,12 +376,12 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" timestamp="1558498463900">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" timestamp="1558501991176">
         <mark key="'" line="391" column="14" />
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="42" />
-        <mark key="." line="22" column="42" />
-        <mark key="^" line="22" column="20" />
+        <mark key="[" line="100" column="54" />
+        <mark key="]" line="100" column="54" />
+        <mark key="." line="100" column="54" />
+        <mark key="^" line="100" column="54" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/augment_keypoints.py" timestamp="1557098870800">
         <mark key="'" line="32" column="21" />
@@ -477,7 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/suppressor/suppressor.py" />
       <jump line="124" column="31" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
       <jump line="142" column="22" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
       <jump line="205" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" />
@@ -577,55 +576,56 @@
       <jump line="104" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
       <jump line="102" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
       <jump line="101" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>plt</text>
+        <text>marker</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bHN0X3RocmVzaG9sZDIgPSBbMC4zLCAwLjM1LCAwLjQsIDAuNDUsIDAuNSwgMC41NSwgMC42LCAwLjY1LCAwLjcsIDAuOF0K</text>
+        <text encoding="base64">ICAgIFtbMC41LCAwLjVdXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtbMC42NSwgMC4zXSwgWzAuNjUsIDAuMzVdLCBbMC42NSwgMC40XSwgWzAuNjUsIDAuNDVdLCBbMC42NSwgMC41XSwgWzAuNywgXV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHN0X3ggPSBbXQogICAgICAgICAgICBsc3RfeSA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHRocmVzaG9sZDEsIHRocmVzaG9sZDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxzdF95ID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxzdF94ID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgIFtbMC43LCAwLjddXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkeCA9IGxlbihsc3RfeCkgLSAxCg==</text>
+        <text encoding="base64">ICAgIFtbMC41LCAwLjVdXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCh0aHJlc2hvbGQxLCB0aHJlc2hvbGQyKQo=</text>
+        <text encoding="base64">ICAgIFtbMC42NSwgMC4zNV1dLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbih4KSAhPSAwIGFuZCBsZW4oeSkgIT0gMDoK</text>
+        <text encoding="base64">ICAgIFtbMC42NSwgMC4zXSwgWzAuNjUsIDAuMzVdLCBbMC42NSwgMC40XSwgWzAuNjUsIDAuNDVdLCBbMC42NSwgMC41XSwgWzAuNywgXV0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciB4LCB5IGluIHppcChsc3RfeCwgbHN0X3kpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHN0X3ggPSBbXQogICAgICAgICAgICBsc3RfeSA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>plt</last-search>
+      <last-search>marker</last-search>
       <last-offset />
-      <last-pattern>plt</last-pattern>
+      <last-pattern>marker</last-pattern>
       <last-replace>occluded</last-replace>
       <last-substitute>subset</last-substitute>
       <last-dir>1</last-dir>
@@ -633,7 +633,6 @@
     </search>
     <history>
       <history-search>
-        <entry>boxes_predict_keep</entry>
         <entry>with</entry>
         <entry>wrapper</entry>
         <entry>ags</entry>
@@ -653,9 +652,9 @@
         <entry>gree</entry>
         <entry>legend</entry>
         <entry>plt</entry>
+        <entry>marker</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/freeze/freeze_with_lr_schduler/gc</entry>
         <entry>%s/scrach/scratch_with_lr_schduler/g</entry>
         <entry>wq</entry>
         <entry>61</entry>
@@ -674,6 +673,7 @@
         <entry>178</entry>
         <entry>%s/subset/occluded/gc</entry>
         <entry>e</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
