@@ -466,6 +466,13 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" timestamp="1558587321175">
+        <mark key="'" line="110" column="15" />
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="109" column="14" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1557998765086">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="1" />
@@ -576,12 +583,12 @@
         <mark key="." line="44" column="24" />
         <mark key="^" line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" timestamp="1558534091006">
-        <mark key="'" line="114" column="65" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="16" />
-        <mark key="^" line="114" column="65" />
-        <mark key="." line="112" column="16" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" timestamp="1558587020782">
+        <mark key="'" line="131" column="39" />
+        <mark key="[" line="94" column="22" />
+        <mark key="]" line="94" column="25" />
+        <mark key="^" line="94" column="25" />
+        <mark key="." line="94" column="25" />
       </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/get_occlusion_range.py" timestamp="1558431099187">
         <mark key="[" line="15" column="0" />
@@ -1031,7 +1038,7 @@
         <mark key="^" line="53" column="11" />
         <mark key="." line="53" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/utils.py" timestamp="1558534102962">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/utils.py" timestamp="1558587104247">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
@@ -1354,12 +1361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
-      <jump line="151" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
-      <jump line="250" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
-      <jump line="244" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
-      <jump line="271" column="14" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
-      <jump line="152" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
       <jump line="270" column="14" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
       <jump line="262" column="40" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
       <jump line="264" column="39" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
@@ -1454,55 +1455,61 @@
       <jump line="89" column="33" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
       <jump line="93" column="23" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
       <jump line="108" column="65" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
+      <jump line="96" column="21" filename="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" />
+      <jump line="123" column="7" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
+      <jump line="131" column="39" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
+      <jump line="18" column="30" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/utils.py" />
+      <jump line="48" column="12" filename="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" />
+      <jump line="110" column="15" filename="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2Fubl9pZHMgPSBjb2NvLmdldEFubklkcyhpbWdfaWQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>pdb</text>
+        <text>plt.bar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIGd1YXJkIEdyYXkgc2NhbGUgaW1hZ2UKICAgICAgICBpZiBsZW4obnAuYXJyYXkoaW1nKS5zaGFwZSkgPT0gMjoKICAgICAgICAgICAgaW1nID0gbnAuYXJyYXkoaW1nKQogICAgICAgICAgICBpbWcgPSBucC5leHBhbmRfZGltcyhpbWcsIGF4aXM9LTEpCiAgICAgICAgICAgIGltZyA9IG5wLmNvbmNhdGVuYXRlKChpbWcsIGltZywgaW1nKSwgYXhpcz0tMSkKICAgICAgICAgICAgaW1nID0gSW1hZ2UuZnJvbWFycmF5KGltZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2Fubl9pZHMgPSBjb2NvLmdldEFubklkcyhpbWdfaWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHBsdC5oaXN0KGlvdXMsIHJhbmdlPSgwLCAxKSwgYmlucz0yMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">bWF4X3NlZW5fbGFiZWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pdb</last-search>
+      <last-search>plt.bar</last-search>
       <last-offset />
-      <last-pattern>pdb</last-pattern>
+      <last-pattern>plt.bar</last-pattern>
       <last-replace>occluded</last-replace>
       <last-substitute>subset</last-substitute>
       <last-dir>1</last-dir>
@@ -1510,11 +1517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>le</entry>
-        <entry>gree</entry>
-        <entry>plt</entry>
-        <entry>marker</entry>
-        <entry>legend</entry>
         <entry>conti</entry>
         <entry>args.threshold</entry>
         <entry>get_occlu</entry>
@@ -1529,7 +1531,12 @@
         <entry>transforms</entry>
         <entry>img_path</entry>
         <entry>img</entry>
+        <entry>plb</entry>
+        <entry>plt</entry>
         <entry>pdb</entry>
+        <entry>ann</entry>
+        <entry>ann_ids</entry>
+        <entry>plt.bar</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
@@ -1586,6 +1593,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
