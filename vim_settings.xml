@@ -466,10 +466,10 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" timestamp="1558587321175">
+      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" timestamp="1558587513095">
         <mark key="'" line="110" column="15" />
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="45" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="116" column="10" />
         <mark key="." line="7" column="45" />
         <mark key="^" line="109" column="14" />
       </file>
@@ -546,10 +546,6 @@
         <mark key="]" line="16" column="19" />
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
-      </file>
-      <file name="$USER_HOME$/dataset/coco/coco_tool/split_img_id.py" timestamp="1557812890009">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/tmp.py" timestamp="1557745369960">
         <mark key="'" line="177" column="0" />
@@ -894,10 +890,6 @@
         <mark key="]" line="19" column="16" />
         <mark key="." line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/suppressor/build.py" timestamp="1558497531463">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="36" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" timestamp="1558051444054">
         <mark key="'" line="79" column="8" />
         <mark key="[" line="153" column="75" />
@@ -1017,6 +1009,13 @@
         <mark key="]" line="27" column="11" />
         <mark key="." line="27" column="11" />
         <mark key="^" line="26" column="11" />
+      </file>
+      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_same_diff_class.py" timestamp="1558588788389">
+        <mark key="'" line="120" column="62" />
+        <mark key="[" line="119" column="58" />
+        <mark key="]" line="119" column="61" />
+        <mark key="." line="119" column="61" />
+        <mark key="^" line="119" column="61" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" timestamp="1557392049953">
         <mark key="'" line="176" column="19" />
@@ -1361,7 +1360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="14" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
       <jump line="262" column="40" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
       <jump line="264" column="39" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
       <jump line="8" column="17" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
@@ -1461,46 +1459,47 @@
       <jump line="18" column="30" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/utils.py" />
       <jump line="48" column="12" filename="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" />
       <jump line="110" column="15" filename="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" />
+      <jump line="120" column="62" filename="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_same_diff_class.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2Fubl9pZHMgPSBjb2NvLmdldEFubklkcyhpbWdfaWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>plt.bar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGd1YXJkIEdyYXkgc2NhbGUgaW1hZ2UKICAgICAgICBpZiBsZW4obnAuYXJyYXkoaW1nKS5zaGFwZSkgPT0gMjoKICAgICAgICAgICAgaW1nID0gbnAuYXJyYXkoaW1nKQogICAgICAgICAgICBpbWcgPSBucC5leHBhbmRfZGltcyhpbWcsIGF4aXM9LTEpCiAgICAgICAgICAgIGltZyA9IG5wLmNvbmNhdGVuYXRlKChpbWcsIGltZywgaW1nKSwgYXhpcz0tMSkKICAgICAgICAgICAgaW1nID0gSW1hZ2UuZnJvbWFycmF5KGltZykK</text>
+        <text encoding="base64">ICAgIHJhdGlvX3NhbWVfc2VlbiA9IG5wLnN1bShjb3VudF9vY2NsdWRlZF9kYXRhX3NhbWVfc2VlbikgLyAobnAuc3VtKGNvdW50X29jY2x1ZGVkX2RhdGFfZGlmZl9zZWVuICsgY291bnRfb2NjbHVkZWRfZGF0YV9zYW1lX3NlZW4pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2Fubl9pZHMgPSBjb2NvLmdldEFubklkcyhpbWdfaWQpCg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQogICAgcGx0Lnh0aWNrcyh4WzE6XSwgbGFiZWxzLCByb3RhdGlvbj05MCkKICAgIHBsdC5zaG93KCkKCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsdC5oaXN0KGlvdXMsIHJhbmdlPSgwLCAxKSwgYmlucz0yMCkK</text>
+        <text encoding="base64">ICAgIHJhdGlvX3NhbWVfc2VlbiA9IG5wLnN1bShjb3VudF9vY2NsdWRlZF9kYXRhX3NhbWVbMTo0NV0pIC8gbnAuc3VtKGNvdW50X29jY2x1ZGVkX2RhdGFfc2FtZVsxO10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWF4X3NlZW5fbGFiZWwK</text>
+        <text encoding="base64">ICAgIHJhdGlvX3NhbWVfc2VlbiA9IG5wLnN1bShjb3VudF9vY2NsdWRlZF9kYXRhX3NhbWVbMTo0NV0pIC8gbnAuc3VtKGNvdW50X29jY2x1ZGVkX2RhdGFfc2FtZVsxO10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihiYXJfbGlzdCkpOgogICAgICAgIGlmIGkgPj0gNDU6CiAgICAgICAgICAgIGJhcl9saXN0W2ldLnNldF9jb2xvcigncicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1539,9 +1538,6 @@
         <entry>plt.bar</entry>
       </history-search>
       <history-cmd>
-        <entry>63</entry>
-        <entry>qw</entry>
-        <entry>180</entry>
         <entry>175</entry>
         <entry>256</entry>
         <entry>279</entry>
@@ -1558,6 +1554,9 @@
         <entry>W</entry>
         <entry>wq</entry>
         <entry>90</entry>
+        <entry>99</entry>
+        <entry>105</entry>
+        <entry>114</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
