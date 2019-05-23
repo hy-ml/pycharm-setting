@@ -1020,6 +1020,12 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
+      <file name="$USER_HOME$/ws/python/slack/tmp.py" timestamp="1558624499602">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="12" column="49" />
+        <mark key="." line="12" column="49" />
+        <mark key="^" line="12" column="49" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/cache_feature_test.py" timestamp="1557971188726">
         <mark key="[" line="96" column="10" />
         <mark key="]" line="97" column="3" />
@@ -1177,44 +1183,44 @@
       <jump line="74" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>block =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">X0MuTU9ERUwuRVhUUkFDVE9SX09VVFBVVF9CTE9DSyA9IFs0XQo=</text>
+        <text encoding="base64">Y2xpZW50ID0gc2xhY2suV2ViQ2xpZW50KHRva2VuPW9zLmVudmlyb25bJ1NMQUNLX0FQSV9UT0tFTiddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBzbGFjay5jCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ZnJvbSBzbGFja2NsaWVudCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4dHJhY3RvciA9IGZlYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBmX21hcHNfc2FtZV9ib3hfYmxvY2ssIGJsb2NrIGluIHppcChmX21hcHNfc2FtZV9ib3gsIGJsb2Nrcyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZl9tYXBzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
