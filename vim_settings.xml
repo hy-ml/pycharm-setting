@@ -162,12 +162,12 @@
         <mark key="." line="54" column="33" />
         <mark key="^" line="54" column="24" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" timestamp="1558550181179">
-        <mark key="'" line="65" column="8" />
-        <mark key="[" line="140" column="41" />
-        <mark key="]" line="140" column="41" />
-        <mark key="." line="140" column="41" />
-        <mark key="^" line="138" column="84" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" timestamp="1558551743833">
+        <mark key="'" line="74" column="29" />
+        <mark key="[" line="128" column="36" />
+        <mark key="]" line="128" column="53" />
+        <mark key="." line="128" column="53" />
+        <mark key="^" line="128" column="53" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_aug.yml" timestamp="1557168146852">
         <mark key="[" line="5" column="25" />
@@ -478,12 +478,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" timestamp="1558548908802">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" timestamp="1558551974045">
         <mark key="'" line="73" column="10" />
-        <mark key="[" line="89" column="31" />
-        <mark key="]" line="90" column="19" />
-        <mark key="." line="90" column="19" />
-        <mark key="^" line="90" column="19" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1556987066294">
         <mark key="[" line="7" column="54" />
@@ -614,12 +613,12 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/defaults.py" timestamp="1558549424017">
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/defaults.py" timestamp="1558552156488">
         <mark key="'" line="76" column="57" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="37" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="36" />
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="57" column="31" />
+        <mark key="^" line="57" column="31" />
+        <mark key="." line="57" column="31" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/model/test_loss.py" timestamp="1556642852954">
         <mark key="[" line="12" column="21" />
@@ -1076,12 +1075,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" />
-      <jump line="33" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" />
-      <jump line="41" column="37" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" />
-      <jump line="255" column="24" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" />
-      <jump line="149" column="53" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" />
-      <jump line="131" column="26" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/evaluate/coco.py" />
       <jump line="75" column="35" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate_multi_process.py" />
       <jump line="92" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate_multi_process.py" />
       <jump line="13" column="28" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/evaluate_multi_process.py" />
@@ -1176,55 +1169,61 @@
       <jump line="126" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
       <jump line="63" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
       <jump line="65" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
+      <jump line="149" column="9" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
+      <jump line="16" column="34" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
+      <jump line="26" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
+      <jump line="28" column="30" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
+      <jump line="74" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>device</text>
+        <text>block =</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">X0MuTU9ERUwuRVhUUkFDVE9SX09VVFBVVF9CTE9DSyA9IFs0XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBmX21hcHNfc2FtZV9ib3hfYmxvY2ssIGJsb2NrIGluIHppcChmX21hcHNfc2FtZV9ib3gsIGJsb2Nrcyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZl9tYXBzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZl9tYXBzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoaW50KG5wLmNlaWwobGVuKGltZ3MpIC8gbWF4X2JhdGNoKSkpOgogICAgICAgICAgICAgICAgaW1nc19iID0gaW1nc1tpKm1heF9iYXRjaDooaSsxKSptYXhfYmF0Y2gsIDosIDosIDpdCiAgICAgICAgICAgICAgICBpbWdzX2IgPSBpbWdzX2IudG8oZGV2aWNlKQogICAgICAgICAgICAgICAgIyBmX21hcHNfYiA9IGV4dHJhY3RvcihpbWdzX2IpLnRvKCdjcHUnKS5udW1weSgpCiAgICAgICAgICAgICAgICBmX21hcHNfYiA9IGV4dHJhY3RvcihpbWdzX2IpLnRvKCdjcHUnKS5udW1weSgpCiAgICAgICAgICAgICAgICBmX21hcHMuYXBwZW5kKGZfbWFwc19iKQogICAgICAgICAgICBmX21hcHMgPSBucC5jb25jYXRlbmF0ZShmX21hcHMsIGF4aXM9MCkKICAgICAgICAgICAgYmFzZW5hbWUsIF8gPSBvcy5wYXRoLnNwbGl0ZXh0KGltZ19uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5uCg==</text>
+        <text encoding="base64">ICAgIGV4dHJhY3RvciA9IGZlYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkX2lkcyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBmX21hcHNfc2FtZV9ib3hfYmxvY2ssIGJsb2NrIGluIHppcChmX21hcHNfc2FtZV9ib3gsIGJsb2Nrcyk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9kaXIgPSBvcy5wYXRoLmpvaW4oCiAgICAgICAgICAgICAgICBhcmdzLnNhdmVfZGlyLCAnYmxvY2t7fScuZm9ybWF0KGJsb2NrKSwKICAgICAgICAgICAgICAgIHN0cihpbWdfaWQpLCBzdHIoYW5uX2lkKSkKICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguaXNkaXIoc2F2ZV9kaXIpOgogICAgICAgICAgICAgICAgb3MubWFrZWRpcnMoc2F2ZV9kaXIpCiAgICAgICAgICAgIHNhdmVfcGF0aCA9IG9zLnBhdGguam9pbihzYXZlX2RpciwgJ2ZlYXR1cmVfe30ubnB6Jy5mb3JtYXQoZl9pZCkpCiAgICAgICAgICAgIHByb2Nlc3MgPSBQcm9jZXNzKAogICAgICAgICAgICAgICAgdGFyZ2V0PXNhdmVfZl9tYXBzLAogICAgICAgICAgICAgICAgYXJncz0oZl9tYXBzX3NhbWVfYm94X2Jsb2NrW2ZfaWRdLCBzYXZlX3BhdGgpKQogICAgICAgICAgICBwcm9jZXNzLnN0YXJ0KCkKICAgICAgICAgICAgcHJvY2Vzc2VzLmFwcGVuZChwcm9jZXNzKQogICAgICAgIGZvciBwIGluIHByb2Nlc3NlczoKICAgICAgICAgICAgcC5qb2luKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MuYmxvY2sgaXMgbm90IE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZl9tYXBzID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>device</last-search>
+      <last-search>block =</last-search>
       <last-offset />
-      <last-pattern>device</last-pattern>
+      <last-pattern>block =</last-pattern>
       <last-replace>freeze_dropout</last-replace>
       <last-substitute>freeze_pretrain</last-substitute>
       <last-dir>1</last-dir>
@@ -1232,14 +1231,11 @@
     </search>
     <history>
       <history-search>
-        <entry>cache_data_dir</entry>
-        <entry>None</entry>
         <entry>random.randint</entry>
         <entry>reshape</entry>
         <entry>crop</entry>
         <entry>pdb</entry>
         <entry>shifted_boxes</entry>
-        <entry>extractor</entry>
         <entry>trans</entry>
         <entry>freeze</entry>
         <entry>0</entry>
@@ -1252,9 +1248,11 @@
         <entry>args.block</entry>
         <entry>num_sampled</entry>
         <entry>device</entry>
+        <entry>load</entry>
+        <entry>extractor</entry>
+        <entry>block =</entry>
       </history-search>
       <history-cmd>
-        <entry>43</entry>
         <entry>50</entry>
         <entry>118</entry>
         <entry>130</entry>
@@ -1273,6 +1271,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>86</entry>
+        <entry>72</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
