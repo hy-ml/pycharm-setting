@@ -466,12 +466,12 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" timestamp="1558587513095">
-        <mark key="'" line="110" column="15" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="116" column="10" />
-        <mark key="." line="7" column="45" />
-        <mark key="^" line="109" column="14" />
+      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" timestamp="1558590149698">
+        <mark key="'" line="108" column="15" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="55" />
+        <mark key="^" line="107" column="14" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1557998765086">
         <mark key="[" line="12" column="0" />
@@ -1010,12 +1010,12 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_same_diff_class.py" timestamp="1558588788389">
-        <mark key="'" line="120" column="62" />
-        <mark key="[" line="119" column="58" />
-        <mark key="]" line="119" column="61" />
-        <mark key="." line="119" column="61" />
-        <mark key="^" line="119" column="61" />
+      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_same_diff_class.py" timestamp="1558590146050">
+        <mark key="'" line="123" column="62" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="55" />
+        <mark key="." line="117" column="52" />
+        <mark key="^" line="117" column="52" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" timestamp="1557392049953">
         <mark key="'" line="176" column="19" />
@@ -1462,44 +1462,44 @@
       <jump line="120" column="62" filename="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_same_diff_class.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBsdC55bGFiZWwoJ1RoZSBudW1iZXIgb2Ygb2NjbHVkZWQgYm91bmRpbmcgYm94ZXMnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>オクルージョン</text>
       </register>
       <register name="/" type="4">
         <text>plt.bar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJhdGlvX3NhbWVfc2VlbiA9IG5wLnN1bShjb3VudF9vY2NsdWRlZF9kYXRhX3NhbWVfc2VlbikgLyAobnAuc3VtKGNvdW50X29jY2x1ZGVkX2RhdGFfZGlmZl9zZWVuICsgY291bnRfb2NjbHVkZWRfZGF0YV9zYW1lX3NlZW4pKQo=</text>
+        <text encoding="base64">ICAgIHBsdC55bGFiZWwoJ1RoZSBudW1iZXIgb2Ygb2NjbHVkZWQgYm91bmRpbmcgYm94ZXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQogICAgcGx0Lnh0aWNrcyh4WzE6XSwgbGFiZWxzLCByb3RhdGlvbj05MCkKICAgIHBsdC5zaG93KCkKCgo=</text>
+        <text encoding="base64">ICAgICMgcGx0Lmhpc3QoaW91cywgcmFuZ2U9KDAsIDEpLCBiaW5zPTIwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJhdGlvX3NhbWVfc2VlbiA9IG5wLnN1bShjb3VudF9vY2NsdWRlZF9kYXRhX3NhbWVbMTo0NV0pIC8gbnAuc3VtKGNvdW50X29jY2x1ZGVkX2RhdGFfc2FtZVsxO10pCg==</text>
+        <text encoding="base64">ICAgICMgaW91cyA9IG5wLmFzYXJyYXkobHN0X2lvdSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJhdGlvX3NhbWVfc2VlbiA9IG5wLnN1bShjb3VudF9vY2NsdWRlZF9kYXRhX3NhbWVbMTo0NV0pIC8gbnAuc3VtKGNvdW50X29jY2x1ZGVkX2RhdGFfc2FtZVsxO10pCg==</text>
+        <text encoding="base64">ICAgIHBsdC54dGlja3MoeFsxOl0sIGxhYmVscywgcm90YXRpb249OTApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQogICAgcGx0Lnh0aWNrcyh4WzE6XSwgbGFiZWxzLCByb3RhdGlvbj05MCkKICAgIHBsdC5zaG93KCkKCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIHJhdGlvX3NhbWVfc2VlbiA9IG5wLnN1bShjb3VudF9vY2NsdWRlZF9kYXRhX3NhbWVbMTo0NV0pIC8gbnAuc3VtKGNvdW50X29jY2x1ZGVkX2RhdGFfc2FtZVsxO10pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgIHJhdGlvX3NhbWVfc2VlbiA9IG5wLnN1bShjb3VudF9vY2NsdWRlZF9kYXRhX3NhbWVbMTo0NV0pIC8gbnAuc3VtKGNvdW50X29jY2x1ZGVkX2RhdGFfc2FtZVsxO10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihiYXJfbGlzdCkpOgogICAgICAgIGlmIGkgPj0gNDU6CiAgICAgICAgICAgIGJhcl9saXN0W2ldLnNldF9jb2xvcigncicpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
