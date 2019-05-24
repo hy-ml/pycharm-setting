@@ -486,12 +486,11 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" timestamp="1558590149698">
-        <mark key="'" line="108" column="15" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="55" />
-        <mark key="^" line="107" column="14" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" timestamp="1558673912868">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="106" column="42" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1557998765086">
         <mark key="[" line="12" column="0" />
@@ -1031,18 +1030,24 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/a/plot_bar.py" timestamp="1558673708371">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_with_val.yml" timestamp="1557154523911">
         <mark key="[" line="27" column="11" />
         <mark key="]" line="27" column="11" />
         <mark key="." line="27" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_same_diff_class.py" timestamp="1558590146050">
-        <mark key="'" line="123" column="62" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="55" />
-        <mark key="." line="117" column="52" />
-        <mark key="^" line="117" column="52" />
+      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_same_diff_class.py" timestamp="1558674141748">
+        <mark key="'" line="125" column="62" />
+        <mark key="[" line="116" column="84" />
+        <mark key="]" line="116" column="84" />
+        <mark key="." line="116" column="84" />
+        <mark key="^" line="116" column="84" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" timestamp="1557392049953">
         <mark key="'" line="176" column="19" />
@@ -1509,44 +1514,47 @@
       <jump line="132" column="71" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X2lkeCA9IHJhbmRvbS5yYW5kaW50KDAsIGJveGVzLnNoYXBlWzBdLTEpCg==</text>
+      <register name="&quot;" type="8">
+        <text>1:
+1:</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>LR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb3VyY2VfYm94ID0gYm94ZXNbc291cmNlX2ZfaWQsIDAsIDpdCg==</text>
+        <text encoding="base64">ICAgIGJhcl9saXN0X3NhbWUgPSBwbHQuYmFyKHhbMTpdLCBjb3VudF9vY2NsdWRlZF9kYXRhX3NhbWVbMTpdLCBhbGlnbj0nY2VudGVyJykKICAgIGJhcl9saXN0X2RpZmYgPSBwbHQuYmFyKHhbMTpdLCBjb3VudF9vY2NsdWRlZF9kYXRhX2RpZmZbMTpdLCBib3R0b209Y291bnRfb2NjbHVkZWRfZGF0YV9zYW1lWzE6XSwgYWxpZ249J2NlbnRlcicpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X2lkeCA9IHJhbmRvbS5yYW5kaW50KDAsIGJveGVzLnNoYXBlWzBdLTEpCg==</text>
+      <register name="1" type="8">
+        <text>1:
+1:</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2VfaWR4ID0gcmFuZG9tLnJhbmRpbnQoMCwgYm94ZXMuc2hhcGVbMF0tMSkK</text>
+      <register name="2" type="8">
+        <text>1:
+1:</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hbm5faWRzID0gY2FjaGVfaW5mb1snYW5uX2lkcyddCg==</text>
+        <text encoding="base64">ICAgIGJhcl9saXN0ID0gcGx0LmJhcih4WzE6XSwgY291bnRfb2NjbHVkZWRfZGF0YVsxOl0sIGFsaWduPSdjZW50ZXInKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldF9hbm5fZGlyX2VhY2hfYW5ub3QgPSBjYWNoZV9kYXRhX2Rpcl9lYWNoX2Fubm90W3RhcmdldF9pZHhdCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihiYXJfbGlzdCkpOgogICAgICAgIGlmIGkgPj0gNDU6CiAgICAgICAgICAgIGJhcl9saXN0W2ldLnNldF9jb2xvcigncicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb3VyY2VfYm94ID0gYm94ZXNbMiAqIHNvdXJjZV9pZHggKyBzb3VyY2VfZl9pZF0K</text>
+        <text encoding="base64">ICAgIHBsdC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXJnZXRfYm94ID0gYm94ZXNbMiAqIHRhcmdldF9pZHggKyB0YXJnZXRfZl9pZF0K</text>
+        <text encoding="base64">IyBwbHQubGVnZW5kKGxvYz0ndXBwZXIgcmlnaHQnLCBiYm94X3RvX2FuY2hvcj0oMS4wNSwgMC41LCAwLjUsIC4xMDApLCBib3JkZXJheGVzcGFkPTAuLCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Zm9yIHgsIHksIGxlZ2VuZCBpbiB6aXAoeHMsIHlzLCBsZWdlbmRzKToKICAgIHBfaSA9IHBsdC5wbG90KHgsIHksIG1hcmtlcj0nbycsIGxhYmVsPWxlZ2VuZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdGFyZ2V0X2lkeCA9IHJhbmRvbS5yYW5kaW50KDAsIGxlbihib3hlcykgLyAyIC0gMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X2lkeCA9IHJhbmRvbS5yYW5kaW50KDAsIGJveGVzLnNoYXBlWzBdLTEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
