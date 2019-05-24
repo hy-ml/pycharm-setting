@@ -1231,8 +1231,8 @@
         <mark key="^" line="2" column="64" />
         <mark key="." line="2" column="64" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" timestamp="1558610810329">
-        <mark key="'" line="36" column="5" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" timestamp="1558663550933">
+        <mark key="'" line="130" column="8" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="120" column="54" />
         <mark key="." line="123" column="55" />
@@ -1407,14 +1407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
-      <jump line="187" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
-      <jump line="194" column="13" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
-      <jump line="43" column="20" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" />
-      <jump line="96" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" />
-      <jump line="38" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" />
-      <jump line="388" column="21" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
       <jump line="391" column="14" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output.py" />
       <jump line="60" column="28" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" />
       <jump line="32" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
@@ -1507,6 +1499,14 @@
       <jump line="82" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
       <jump line="124" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
       <jump line="113" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
+      <jump line="89" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="83" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="133" column="34" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="131" column="41" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="93" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="95" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="130" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1516,7 +1516,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>model =</text>
+        <text>random_load_f_map</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzb3VyY2VfYm94ID0gdG9yY2guVGVuc29yKHNvdXJjZV9ib3gpLnZpZXcoLTEpCiAgICAgICAgdGFyZ2V0X2JveCA9IHRvcmNoLlRlbnNvcih0YXJnZXRfYm94KS52aWV3KC0xKQo=</text>
@@ -1549,13 +1549,13 @@
         <text encoding="base64">aW1wb3J0IHRvcmNodmlzaW9uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>133</text>
       </register>
     </registers>
     <search>
-      <last-search>model =</last-search>
+      <last-search>random_load_f_map</last-search>
       <last-offset />
-      <last-pattern>model =</last-pattern>
+      <last-pattern>random_load_f_map</last-pattern>
       <last-replace>block2</last-replace>
       <last-substitute>block4</last-substitute>
       <last-dir>1</last-dir>
@@ -1563,9 +1563,6 @@
     </search>
     <history>
       <history-search>
-        <entry>img</entry>
-        <entry>data_pre</entry>
-        <entry>siamese)net</entry>
         <entry>siamese_net</entry>
         <entry>scratch</entry>
         <entry>FLAG</entry>
@@ -1583,9 +1580,11 @@
         <entry>loss</entry>
         <entry>return</entry>
         <entry>model =</entry>
+        <entry>random.rand</entry>
+        <entry>cache_dir</entry>
+        <entry>random_load_f_map</entry>
       </history-search>
       <history-cmd>
-        <entry>we</entry>
         <entry>e</entry>
         <entry>W</entry>
         <entry>90</entry>
@@ -1605,6 +1604,7 @@
         <entry>wq</entry>
         <entry>55</entry>
         <entry>w</entry>
+        <entry>133</entry>
       </history-cmd>
       <history-expr />
       <history-input />
