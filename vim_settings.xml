@@ -212,11 +212,10 @@
         <mark key="." line="16" column="87" />
         <mark key="^" line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach.yaml" timestamp="1558610360578">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="17" />
-        <mark key="^" line="15" column="25" />
-        <mark key="." line="15" column="11" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach.yaml" timestamp="1558691555752">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="75" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach.yaml" timestamp="1557256168398">
         <mark key="[" line="2" column="29" />
@@ -675,6 +674,12 @@
         <mark key="]" line="7" column="65" />
         <mark key="." line="7" column="65" />
         <mark key="^" line="7" column="65" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1558691560504">
+        <mark key="[" line="7" column="72" />
+        <mark key="]" line="7" column="72" />
+        <mark key="^" line="7" column="72" />
+        <mark key="." line="7" column="72" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_scratch_high_lr.yaml" timestamp="1558051946525">
         <mark key="'" line="12" column="23" />
@@ -1261,10 +1266,10 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1558670190538">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1558691138318">
         <mark key="'" line="85" column="8" />
-        <mark key="[" line="59" column="36" />
-        <mark key="]" line="59" column="35" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="25" />
         <mark key="." line="59" column="35" />
         <mark key="^" line="59" column="35" />
       </file>
@@ -1490,44 +1495,44 @@
       <jump line="40" column="41" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TE9HX0RJUjogImxvZy9jb2NvL3NwbGl0X3NlZW5fdW5zZWVuL3NpYW1lc2VfbmV0L2wxX25vcm0vdmdnL2Jsb2NrNF9zY3JhY2giCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>marker</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGx0LnBsb3QoeCwgeSwgbWFya2VyPSdvJykK</text>
+        <text encoding="base64">TE9HX0RJUjogImxvZy9jb2NvL3NwbGl0X3NlZW5fdW5zZWVuL3NpYW1lc2VfbmV0L2wxX25vcm0vdmdnL2Jsb2NrNF9zY3JhY2giCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgeC5zaGFwZVswXSA9PSAwOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICBTT0xWRVIuTUlOX0VQT0NIIDEwMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoeCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgeC5zaGFwZVswXSA9PSAwOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoeCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">IAogCiAKIAogCiA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwtPiBtbHAyX2ltZyAtfAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
