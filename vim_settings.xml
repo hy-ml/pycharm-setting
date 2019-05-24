@@ -72,12 +72,12 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1558611174561">
-        <mark key="'" line="113" column="4" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="71" column="34" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1558670215142">
+        <mark key="'" line="132" column="71" />
+        <mark key="[" line="153" column="51" />
+        <mark key="]" line="153" column="57" />
+        <mark key="^" line="153" column="57" />
+        <mark key="." line="153" column="57" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3WeightedMAE_vgg16_conv3_3.yml" timestamp="1557171015458">
         <mark key="[" line="0" column="40" />
@@ -1105,12 +1105,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch.py" timestamp="1558669584503">
-        <mark key="'" line="102" column="34" />
-        <mark key="[" line="44" column="56" />
-        <mark key="]" line="45" column="45" />
-        <mark key="." line="45" column="45" />
-        <mark key="^" line="45" column="45" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch.py" timestamp="1558670350220">
+        <mark key="'" line="103" column="34" />
+        <mark key="[" line="87" column="56" />
+        <mark key="]" line="88" column="33" />
+        <mark key="." line="88" column="33" />
+        <mark key="^" line="88" column="33" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/transforms/transforms.py" timestamp="1557322015601">
         <mark key="'" line="39" column="23" />
@@ -1280,7 +1280,7 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1558606970980">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1558670190538">
         <mark key="'" line="85" column="8" />
         <mark key="[" line="59" column="36" />
         <mark key="]" line="59" column="35" />
@@ -1407,7 +1407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" />
       <jump line="51" column="0" filename="$USER_HOME$/dataset/coco/coco_tool/get_occluded_data_each_class.py" />
       <jump line="24" column="10" filename="$USER_HOME$/dataset/coco/coco_tool/check_img.py" />
       <jump line="85" column="39" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
@@ -1507,55 +1506,56 @@
       <jump line="84" column="15" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" />
       <jump line="92" column="33" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" />
       <jump line="77" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
+      <jump line="132" column="71" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X2lkeCA9IHJhbmRvbS5yYW5kaW50KDAsIGJveGVzLnNoYXBlWzBdLTEpCg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>boxes</text>
+        <text>LR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb3VyY2VfYm94ID0gYm94ZXNbc291cmNlX2ZfaWQsIDAsIDpdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldF9hbm5fZGlyX2VhY2hfYW5ub3QgPSBjYWNoZV9kYXRhX2Rpcl9lYWNoX2Fubm90W3RhcmdldF9pZHhdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0X2lkeCA9IHJhbmRvbS5yYW5kaW50KDAsIGJveGVzLnNoYXBlWzBdLTEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb3VyY2VfYm94ID0gYm94ZXNbMiAqIHNvdXJjZV9pZHggKyBzb3VyY2VfZl9pZF0K</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfaWR4ID0gcmFuZG9tLnJhbmRpbnQoMCwgYm94ZXMuc2hhcGVbMF0tMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXJnZXRfYm94ID0gYm94ZXNbMiAqIHRhcmdldF9pZHggKyB0YXJnZXRfZl9pZF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hbm5faWRzID0gY2FjaGVfaW5mb1snYW5uX2lkcyddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldF9hbm5fZGlyX2VhY2hfYW5ub3QgPSBjYWNoZV9kYXRhX2Rpcl9lYWNoX2Fubm90W3RhcmdldF9pZHhdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb3VyY2VfYm94ID0gYm94ZXNbMiAqIHNvdXJjZV9pZHggKyBzb3VyY2VfZl9pZF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdGFyZ2V0X2lkeCA9IHJhbmRvbS5yYW5kaW50KDAsIGxlbihib3hlcykgLyAyIC0gMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXJnZXRfYm94ID0gYm94ZXNbMiAqIHRhcmdldF9pZHggKyB0YXJnZXRfZl9pZF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhY2hlX2RhdGFfZGlyX2VhY2hfYW5ub3QucmVtb3ZlKHNvdXJjZV9hbm5fZGlyX2VhY2hfYW5ub3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9zLnBhdGguam9pbihzZWxmLmNhdGNoX2RhdGFfZGlyLCBibG9jaywgc3RyKGltZ19pZCksIHN0cihhbm5faWRzW3NvdXJjZV9pZHhdKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc291cmNlX2Fubl9kaXJfZWFjaF9hbm5vdCA9IFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdGFyZ2V0X2lkeCA9IHJhbmRvbS5yYW5kaW50KDAsIGxlbihib3hlcykgLyAyIC0gMikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>boxes</last-search>
+      <last-search>LR</last-search>
       <last-offset />
-      <last-pattern>boxes</last-pattern>
+      <last-pattern>LR</last-pattern>
       <last-replace>block2</last-replace>
       <last-substitute>block4</last-substitute>
       <last-dir>1</last-dir>
@@ -1563,7 +1563,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reshape</entry>
         <entry>count_lr</entry>
         <entry>args.cache</entry>
         <entry>img =</entry>
@@ -1583,6 +1582,7 @@
         <entry>cal</entry>
         <entry>pdb</entry>
         <entry>boxes</entry>
+        <entry>LR</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
