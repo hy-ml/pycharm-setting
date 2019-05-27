@@ -988,12 +988,9 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" timestamp="1558925039799">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" timestamp="1558931869366">
         <mark key="'" line="40" column="6" />
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="4" />
         <mark key="^" line="37" column="4" />
-        <mark key="." line="42" column="4" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/batch_colator.py" timestamp="1557210540778">
         <mark key="[" line="1" column="0" />
@@ -1174,12 +1171,12 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_compare.py" timestamp="1558925434767">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_compare.py" timestamp="1558931923752">
         <mark key="'" line="30" column="37" />
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="12" column="45" />
-        <mark key="^" line="95" column="24" />
-        <mark key="." line="12" column="45" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_scratch_with_lr_scheduler.yaml" timestamp="1558051995341">
         <mark key="'" line="9" column="17" />
@@ -1499,17 +1496,17 @@
       <jump line="30" column="37" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_compare.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQubGVnZW5kKGxlZ2VuZHMpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>20</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGx0LnBsb3QoeCwgeSwgbWFya2VyPSdvJykK</text>
+        <text encoding="base64">ICAgIFtbMC42NSwgMC4zNV0sIFswLjc1LCAwLjVdLCBbMC43LCAwLjddXSwKICAgIFtbMC42NSwgMC4zNV0sIFswLjc1LCAwLjVdLCBbMC43LCAwLjddXSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwbHQubGVnZW5kKGxlZ2VuZHMpCg==</text>
