@@ -280,12 +280,6 @@
         <mark key="^" line="23" column="24" />
         <mark key="." line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/scrach_wrapper.py" timestamp="1558696601450">
-        <mark key="'" line="15" column="58" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/train.py" timestamp="1557195159317">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="61" column="6" />
@@ -551,7 +545,8 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_test.py" timestamp="1558527606908">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_test.py" timestamp="1558964143894">
+        <mark key="'" line="36" column="44" />
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="21" />
         <mark key="^" line="9" column="21" />
@@ -1059,12 +1054,12 @@
         <mark key="." line="27" column="11" />
         <mark key="^" line="26" column="11" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_same_diff_class.py" timestamp="1558674141748">
-        <mark key="'" line="125" column="62" />
-        <mark key="[" line="116" column="84" />
-        <mark key="]" line="116" column="84" />
-        <mark key="." line="116" column="84" />
-        <mark key="^" line="116" column="84" />
+      <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_same_diff_class.py" timestamp="1558963667702">
+        <mark key="'" line="124" column="62" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="115" column="84" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" timestamp="1557392049953">
         <mark key="'" line="176" column="19" />
@@ -1430,7 +1425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="50" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
       <jump line="35" column="46" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
       <jump line="98" column="27" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch.py" />
       <jump line="128" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
@@ -1530,55 +1524,56 @@
       <jump line="29" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
       <jump line="29" column="30" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
       <jump line="68" column="10" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
+      <jump line="36" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>pdb</text>
+        <text>extractor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbWcgPSBhZGRfYm94ZXMoaW1nLCBib3hlc19wcmVkaWN0X2tlZXAsICgyNTAsIDIwLCAyMCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbWdfaWQgIT0gMTcxMzc2Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbWdfaWQgPT0gMTcxMzc2Ogo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpbWdfaWQgIT0gMTcxMzc2Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpbWdfaWQgPT0gMTcxMzc2Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgJ0wxTm9ybSc6IFswLjMgKiBpIGZvciBpIGluIHJhbmdlKDE3KV0sCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkcmF3LnJlCg==</text>
+        <text encoding="base64">ICAgICMgJ0wxTm9ybSc6IFswLjMgKiBpIGZvciBpIGluIHJhbmdlKDE3KV0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pdb</last-search>
+      <last-search>extractor</last-search>
       <last-offset />
-      <last-pattern>pdb</last-pattern>
+      <last-pattern>extractor</last-pattern>
       <last-replace>block2</last-replace>
       <last-substitute>block4</last-substitute>
       <last-dir>1</last-dir>
@@ -1586,7 +1581,6 @@
     </search>
     <history>
       <history-search>
-        <entry>evals</entry>
         <entry>obj_ids</entry>
         <entry>scratch</entry>
         <entry encoding="base64">XDwwXD4=</entry>
@@ -1606,6 +1600,7 @@
         <entry>add_boxes</entry>
         <entry>marker</entry>
         <entry>pdb</entry>
+        <entry>extractor</entry>
       </history-search>
       <history-cmd>
         <entry>114</entry>
