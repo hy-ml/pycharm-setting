@@ -10,9 +10,6 @@
         <mark key="^" line="40" column="37" />
         <mark key="." line="40" column="37" />
       </file>
-      <file name="/a.dummy" timestamp="1558956556462">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" timestamp="1558610247105">
         <mark key="'" line="23" column="12" />
         <mark key="[" line="64" column="66" />
@@ -223,6 +220,13 @@
         <mark key="]" line="147" column="66" />
         <mark key="^" line="175" column="0" />
         <mark key="." line="175" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1559047263062">
+        <mark key="'" line="10" column="79" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_scratch_high_lr.yaml" timestamp="1558051946525">
         <mark key="'" line="12" column="23" />
@@ -534,10 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="19" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" />
-      <jump line="40" column="41" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" />
-      <jump line="77" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" />
-      <jump line="2" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/scrach_wrapper.py" />
       <jump line="15" column="58" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/scrach_wrapper.py" />
       <jump line="96" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch.py" />
       <jump line="74" column="30" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch.py" />
@@ -634,6 +634,10 @@
       <jump line="116" column="52" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
       <jump line="65" column="28" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/scrach_wrapper.py" />
       <jump line="68" column="40" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_with_relative_box_feature.py" />
+      <jump line="11" column="85" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" />
+      <jump line="15" column="18" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" />
+      <jump line="9" column="68" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" />
+      <jump line="10" column="79" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -643,7 +647,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>sig</text>
+        <text>scratch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgc2VsZi50cmFpbmluZzoKICAgICAgICAgICAgICAgIGxvc3MgPSBzZWxmLnNpYW1lc2VfbmV0KFt4MV0sIFt4Ml0sIHNvdXJjZV9ib3hlcywgdGFyZ2V0X2JveGVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW1nX3NpemUsIGxhYmVsKQogICAgICAgICAgICAgICAgcmV0dXJuIGxvc3MKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG91dHB1dCA9IHNlbGYuc2lhbWVzZV9uZXQoW3gxXSwgW3gyXSwgc291cmNlX2JveGVzLCB0YXJnZXRfYm94ZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltZ19zaXplLCBsYWJlbCkKICAgICAgICAgICAgICAgIHJldHVybiBvdXRwdXQK</text>
@@ -680,9 +684,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sig</last-search>
+      <last-search>scratch</last-search>
       <last-offset />
-      <last-pattern>sig</last-pattern>
+      <last-pattern>scratch</last-pattern>
       <last-replace>scratch</last-replace>
       <last-substitute>freeze</last-substitute>
       <last-dir>1</last-dir>
@@ -690,7 +694,6 @@
     </search>
     <history>
       <history-search>
-        <entry>iou</entry>
         <entry>parse</entry>
         <entry>calc_iou</entry>
         <entry>torch</entry>
@@ -710,6 +713,7 @@
         <entry>loss</entry>
         <entry>sigmod</entry>
         <entry>sig</entry>
+        <entry>scratch</entry>
       </history-search>
       <history-cmd>
         <entry>%s/block4/block2/gc</entry>
