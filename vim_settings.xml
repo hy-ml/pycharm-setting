@@ -504,10 +504,10 @@
         <mark key="." line="62" column="35" />
         <mark key="^" line="62" column="35" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" timestamp="1559031976419">
-        <mark key="[" line="82" column="40" />
-        <mark key="]" line="82" column="40" />
-        <mark key="." line="82" column="40" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" timestamp="1559033024880">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
         <mark key="^" line="98" column="24" />
       </file>
     </filemarks>
@@ -614,8 +614,8 @@
       <jump line="113" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -627,28 +627,28 @@
         <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGlvdXMuc2hhcGVbMF0pOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsc3Rfb2NjbHVkZWRfcGFpciArPSBbKGksIGlkcykgZm9yIGlkcyBpbiBvY2NsdWRlZF9pZHMgaWYgaXNfZXhpc3QoKGksIGlkcyksIGxzdF9vY2NsdWRlZF9wYWlyKV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsc3Rfb2NjbHVkZWRfcGFpciArPSBbKGksIGlkcykgZm9yIGlkcyBpbiBvY2NsdWRlZF9pZHMgaWYgaXNfZXhpc3QoKGksIGlkcyksIGxzdF9vY2NsdWRlZF9wYWlyKV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcGFpciBpbiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNfZXhpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcGFpciBpbiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsc3Rfb2NjbHVkZWRfcGFpci5hcHBlbmQoWyhpLCBpZHgpIGZvciBpZHggaW4gb2NjbHVkZWRfaWRzKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNfZXhpc3QoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvY2NsdWRlZF9pZHMK</text>
+        <text encoding="base64">ICAgICAgICBsc3Rfb2NjbHVkZWRfcGFpci5hcHBlbmQoWyhpLCBpZHgpIGZvciBpZHggaW4gb2NjbHVkZWRfaWRzKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBvY2NsdWRlZF9pZHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpb3VzXwo=</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpb3VzXwo=</text>
