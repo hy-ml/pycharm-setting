@@ -72,8 +72,8 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1559044641964">
-        <mark key="'" line="116" column="52" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1559131342923">
+        <mark key="'" line="134" column="72" />
         <mark key="[" line="153" column="51" />
         <mark key="]" line="153" column="57" />
         <mark key="^" line="153" column="57" />
@@ -971,7 +971,7 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_with_box_feature.py" timestamp="1558600284135">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_with_box_feature.py" timestamp="1559131316285">
         <mark key="'" line="79" column="24" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="12" />
@@ -1451,10 +1451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch.py" />
-      <jump line="81" column="23" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch.py" />
-      <jump line="89" column="29" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch.py" />
-      <jump line="83" column="20" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch.py" />
       <jump line="69" column="13" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
       <jump line="15" column="19" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
       <jump line="40" column="6" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" />
@@ -1551,6 +1547,10 @@
       <jump line="31" column="3" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" />
       <jump line="11" column="9" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch_high_lr.yaml" />
       <jump line="17" column="2" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch_high_lr.yaml" />
+      <jump line="60" column="28" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
+      <jump line="132" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
+      <jump line="134" column="72" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1560,7 +1560,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>block4_scratch</text>
+        <text>writer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">X0MuU09MVkVSLkxSID0gMC4wMDEK</text>
@@ -1597,9 +1597,9 @@
       </register>
     </registers>
     <search>
-      <last-search>block4_scratch</last-search>
+      <last-search>writer</last-search>
       <last-offset />
-      <last-pattern>block4_scratch</last-pattern>
+      <last-pattern>writer</last-pattern>
       <last-replace>block4_scratch_high_lr</last-replace>
       <last-substitute>block4_scratch</last-substitute>
       <last-dir>1</last-dir>
@@ -1607,7 +1607,6 @@
     </search>
     <history>
       <history-search>
-        <entry>torch</entry>
         <entry>dpb</entry>
         <entry>bo</entry>
         <entry>boxes_annot</entry>
@@ -1627,6 +1626,7 @@
         <entry>scratch</entry>
         <entry>SOL</entry>
         <entry>block4_scratch</entry>
+        <entry>writer</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
