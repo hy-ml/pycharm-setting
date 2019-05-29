@@ -98,6 +98,11 @@
         <mark key="." line="63" column="41" />
         <mark key="^" line="63" column="41" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch_utils/save.py" timestamp="1559134850678">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/annotate.py" timestamp="1557179108390">
         <mark key="[" line="49" column="70" />
         <mark key="]" line="49" column="71" />
@@ -147,11 +152,6 @@
         <mark key="]" line="10" column="28" />
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/suppressor/suppressor.py" timestamp="1558943949093">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/model/test_loss.py" timestamp="1556642852954">
         <mark key="[" line="12" column="21" />
@@ -217,11 +217,6 @@
         <mark key="]" line="16" column="87" />
         <mark key="." line="16" column="87" />
         <mark key="^" line="15" column="8" />
-      </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach.yaml" timestamp="1558691555752">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="75" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach.yaml" timestamp="1557256168398">
         <mark key="[" line="2" column="29" />
@@ -322,6 +317,12 @@
         <mark key="]" line="41" column="38" />
         <mark key="^" line="77" column="45" />
         <mark key="." line="77" column="45" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch_utils/__init__.py" timestamp="1559134287644">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/convert_cache_info_to_detection_output.py" timestamp="1558015992352">
         <mark key="[" line="10" column="20" />
@@ -876,11 +877,6 @@
         <mark key="." line="39" column="89" />
         <mark key="^" line="39" column="89" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/coco_tool/check_img.py" timestamp="1558961268689">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/build.py" timestamp="1557298747101">
         <mark key="[" line="35" column="23" />
         <mark key="]" line="35" column="26" />
@@ -1130,6 +1126,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch.py" timestamp="1558697561769">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_relative_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1559044558413">
         <mark key="'" line="7" column="17" />
         <mark key="[" line="8" column="14" />
@@ -1208,6 +1209,12 @@
         <mark key="]" line="5" column="47" />
         <mark key="^" line="6" column="26" />
         <mark key="." line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch_utils/load.py" timestamp="1559134982669">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="9" column="46" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_compare.py" timestamp="1558949893185">
         <mark key="'" line="30" column="37" />
@@ -1554,43 +1561,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>progress</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>progress</text>
       </register>
       <register name="/" type="4">
         <text>writer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">X0MuU09MVkVSLkxSID0gMC4wMDEK</text>
+        <text encoding="base64">ICAgIHByaW50KCc9PiBMb2FkZWQgY2hlY2twb2ludCBge31gLicuZm9ybWF0KHNhdmVfcGF0aCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdPY2NsdWRlZDoge30sIE5vdCBPY2NsdWRlZDoge30nLmZvcm1hdChjb3VudF9vY2NsdWRlZCwgY291bnRfbm90X29jY2x1ZGVkKSkK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdW50X29jY2x1ZGVkID0gbnAud2hlcmUoaW91cyA8IDAuNSlbMF0uc2hhcGVbMF0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KCc9PiBMb2FkaW5nIGNoZWNrcG9pbnQgYHt9YC4nLmZvcm1hdChzYXZlX3BhdGgpKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmlzZmlsZShzYXZlX3BhdGgpOgogICAgICAgIG1zZyA9ICc9PiBObyBjaGVja3BvaW50IGZvdW5kIGF0IGB7fWAuJy5mb3JtYXQoc2F2ZV9wYXRoKQogICAgICAgIHJhaXNlIEZpbGVOb3RGb3VuZEVycm9yKG1zZykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsdC5zY2F0dGVyKGZfcmVkdWNlZFtzcGxpdF9pZHM6XSkK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1629,7 +1636,6 @@
         <entry>writer</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>55</entry>
         <entry>133</entry>
         <entry>90</entry>
@@ -1648,6 +1654,7 @@
         <entry>%s/freeze/scratch/gc</entry>
         <entry>56</entry>
         <entry>%s/block4_scratch/block4_scratch_high_lr/gc</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -1689,6 +1696,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
