@@ -172,6 +172,12 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_relative.py" timestamp="1559206514512">
+        <mark key="[" line="66" column="25" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="27" />
+        <mark key="^" line="66" column="27" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/data/keypoints_dataset.py" timestamp="1557195462895">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -730,12 +736,12 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_relative_box_feature.py" timestamp="1559205446303">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_relative_box_feature.py" timestamp="1559206528664">
         <mark key="'" line="49" column="8" />
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="39" column="40" />
-        <mark key="." line="39" column="40" />
-        <mark key="^" line="39" column="40" />
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="47" column="27" />
+        <mark key="." line="47" column="27" />
+        <mark key="^" line="47" column="27" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_scratch_high_lr.yaml" timestamp="1558051946525">
         <mark key="'" line="12" column="23" />
@@ -1352,6 +1358,13 @@
         <mark key="." line="36" column="42" />
         <mark key="^" line="36" column="42" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_relative/vgg_block4_scratch.yaml" timestamp="1559206796521">
+        <mark key="'" line="9" column="16" />
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1556987066294">
         <mark key="[" line="7" column="54" />
         <mark key="]" line="7" column="62" />
@@ -1511,7 +1524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="10" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
       <jump line="36" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_test.py" />
       <jump line="119" column="41" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" />
       <jump line="178" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" />
@@ -1611,64 +1623,63 @@
       <jump line="175" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" />
       <jump line="171" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" />
       <jump line="49" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_relative_box_feature.py" />
+      <jump line="8" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_relative/vgg_block4_scratch.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gRi5zb2Z0bWF4KG91dHB1dCwgZGltPTEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>soft</text>
+        <text>siamese_net\/l1_norm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gRi5sb2dfc29mdG1heChvdXRwdXQsIGRpbT0xKQo=</text>
+        <text encoding="base64">ICBGQ19ESU1TOiBbODE5MiwgNDA5NiwgNDA5NiwgNTBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gRi5zb2Z0bWF4KG91dHB1dCwgZGltPTEpCg==</text>
+        <text encoding="base64">ICBGQ19ESU1TOiBbODE5MiwgNDA5NiwgNDA5NiwgNTBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gRi5sb2dfc29mdG1heChvdXRwdXQsIGRpbT0xKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBGLmxvZ19zb2Z0bWF4KG91dHB1dCwgZGltPTEpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcmNoLm5uLmZ1bmN0aW9uYWwgYXMgRgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsZmkgaXNpbnN0YW5jZShtb2RlbCwgU2lhbWVzZU5ldE9ubHlSZWxhdGl2ZUJveEZlYXR1cmUpOgo=</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsZmkgaXNpbnN0YW5jZShtb2RlbC4gUykK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQsIGxhYmVsID0gc2VsZi5tZXRyaWMoeTEsIHkyLCBsYWJlbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBGQ19ESU1TOiBbWzY1NTM2LCA0MDk2XSwgWzUsIDEyOF0sIFs0MjI0LCA0MDk2LCA1MF1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0cmljICh0b3JjaC5ubi5Nb2R1bGUpOiBNZXRyaWMgbW9kdWxlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBGLmxvZ19zb2Z0bWF4KG91dHB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkaXRpb25hbF9mZWF0dXJlcyAobGlzdCk6IExpc3Qgb2YgYWRkaXRpb25hbCBmZWF0dXJlIHZlY3RvcnMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1ldHJpYyA9IG1ldHJpYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gRi5zb2Z0bWF4KG91dHB1dCwgZGltPTEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>soft</last-search>
+      <last-search>siamese_net\/l1_norm</last-search>
       <last-offset />
-      <last-pattern>soft</last-pattern>
-      <last-replace>block2_of_block4_scratch</last-replace>
-      <last-substitute>block2_freeze</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>siamese_net\/l1_norm</last-pattern>
+      <last-replace>siamese_net_relative</last-replace>
+      <last-substitute>siamese_net\/l1_norm</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>labels</entry>
-        <entry>iteration</entry>
         <entry>iter_conter</entry>
         <entry>iter_counter</entry>
         <entry>start</entry>
@@ -1687,9 +1698,10 @@
         <entry>block2_freeze</entry>
         <entry>break</entry>
         <entry>soft</entry>
+        <entry>%s/siamese_net\/l1_norm/siamese_net_relative/gc</entry>
+        <entry>siamese_net\/l1_norm</entry>
       </history-search>
       <history-cmd>
-        <entry>ew</entry>
         <entry>37</entry>
         <entry>%s/torch/np/gc</entry>
         <entry>196</entry>
@@ -1708,6 +1720,7 @@
         <entry>%s/block2_freeze/block2_of_block4_scratch/g</entry>
         <entry>%s/block2_freeze/block2_of_block4_scratch/gc</entry>
         <entry>wq</entry>
+        <entry>%s/siamese_net\/l1_norm/siamese_net_relative/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
