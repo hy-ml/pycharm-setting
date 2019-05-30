@@ -730,12 +730,12 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_relative_box_feature.py" timestamp="1559192869628">
-        <mark key="'" line="41" column="24" />
-        <mark key="[" line="39" column="43" />
-        <mark key="]" line="39" column="44" />
-        <mark key="." line="39" column="44" />
-        <mark key="^" line="39" column="43" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_relative_box_feature.py" timestamp="1559205446303">
+        <mark key="'" line="49" column="8" />
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="39" column="40" />
+        <mark key="." line="39" column="40" />
+        <mark key="^" line="39" column="40" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_scratch_high_lr.yaml" timestamp="1558051946525">
         <mark key="'" line="12" column="23" />
@@ -1511,7 +1511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="30" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
       <jump line="68" column="10" filename="$USER_HOME$/dataset/coco/coco_tool/split_data/get_occuluded_annot.py" />
       <jump line="36" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_test.py" />
       <jump line="119" column="41" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" />
@@ -1611,55 +1610,56 @@
       <jump line="4" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" />
       <jump line="175" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" />
       <jump line="171" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" />
+      <jump line="49" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_relative_box_feature.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVsZmkgaXNpbnN0YW5jZShtb2RlbCwgU2lhbWVzZU5ldE9ubHlSZWxhdGl2ZUJveEZlYXR1cmUpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gRi5zb2Z0bWF4KG91dHB1dCwgZGltPTEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>break</text>
+        <text>soft</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBGQ19ESU1TOiBbWzgxOTIsIDQwOTZdLCBbXSwgWzQxMDEsIDQwOTYsIDUwXV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gRi5sb2dfc29mdG1heChvdXRwdXQsIGRpbT0xKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsZmkgaXNpbnN0YW5jZShtb2RlbCwgU2lhbWVzZU5ldE9ubHlSZWxhdGl2ZUJveEZlYXR1cmUpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gRi5zb2Z0bWF4KG91dHB1dCwgZGltPTEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsZmkgaXNpbnN0YW5jZShtb2RlbC4gUykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gRi5sb2dfc29mdG1heChvdXRwdXQsIGRpbT0xKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBGQ19ESU1TOiBbWzY1NTM2LCA0MDk2XSwgWzUsIDEyOF0sIFs0MjI0LCA0MDk2LCA1MF1dCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBGLmxvZ19zb2Z0bWF4KG91dHB1dCwgZGltPTEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBGLmxvZ19zb2Z0bWF4KG91dHB1dCkK</text>
+        <text encoding="base64">ICAgIGVsZmkgaXNpbnN0YW5jZShtb2RlbCwgU2lhbWVzZU5ldE9ubHlSZWxhdGl2ZUJveEZlYXR1cmUpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIGVsZmkgaXNpbnN0YW5jZShtb2RlbC4gUykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ICBGQ19ESU1TOiBbWzY1NTM2LCA0MDk2XSwgWzUsIDEyOF0sIFs0MjI0LCA0MDk2LCA1MF1dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nX3NpemUgKHR1cGxlKTogU2l6ZSBvZiBhbiBpbWFnZS4gRm9ybWF0IGlzICh3aWR0aCwgaGVpZ2h0KS4K</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBGLmxvZ19zb2Z0bWF4KG91dHB1dCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gRi5zb2Z0bWF4KG91dHB1dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0b3JjaC5ubi5mdW5jdGlvbmFsIGltcG9ydCBzaWdtb2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>break</last-search>
+      <last-search>soft</last-search>
       <last-offset />
-      <last-pattern>break</last-pattern>
+      <last-pattern>soft</last-pattern>
       <last-replace>block2_of_block4_scratch</last-replace>
       <last-substitute>block2_freeze</last-substitute>
       <last-dir>1</last-dir>
@@ -1667,7 +1667,6 @@
     </search>
     <history>
       <history-search>
-        <entry>writer</entry>
         <entry>labels</entry>
         <entry>iteration</entry>
         <entry>iter_conter</entry>
@@ -1687,6 +1686,7 @@
         <entry>dim</entry>
         <entry>block2_freeze</entry>
         <entry>break</entry>
+        <entry>soft</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
@@ -1707,8 +1707,8 @@
         <entry>e</entry>
         <entry>%s/block2_freeze/block2_of_block4_scratch/g</entry>
         <entry>%s/block2_freeze/block2_of_block4_scratch/gc</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
