@@ -73,11 +73,12 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" timestamp="1559288652084">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="5" />
-        <mark key="^" line="35" column="5" />
-        <mark key="." line="35" column="5" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" timestamp="1559289860349">
+        <mark key="'" line="376" column="25" />
+        <mark key="[" line="134" column="83" />
+        <mark key="]" line="135" column="41" />
+        <mark key="^" line="135" column="41" />
+        <mark key="." line="135" column="41" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/test_net.py" timestamp="1557414210512">
         <mark key="[" line="13" column="0" />
@@ -1501,11 +1502,11 @@
         <mark key="^" line="81" column="53" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output_fusion.py" timestamp="1559287591357">
-        <mark key="[" line="55" column="25" />
-        <mark key="]" line="56" column="59" />
-        <mark key="." line="56" column="59" />
-        <mark key="^" line="56" column="59" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output_fusion.py" timestamp="1559289683628">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="4" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/check_metric_output.py" timestamp="1557980555558">
         <mark key="'" line="56" column="15" />
@@ -1547,13 +1548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
-      <jump line="150" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
-      <jump line="199" column="56" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
-      <jump line="203" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
-      <jump line="202" column="23" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
-      <jump line="179" column="45" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
-      <jump line="181" column="58" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
       <jump line="158" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
       <jump line="193" column="47" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
       <jump line="41" column="19" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
@@ -1647,67 +1641,69 @@
       <jump line="90" column="0" filename="$USER_HOME$/ws/pytorch/tmp/mnist.py" />
       <jump line="95" column="4" filename="$USER_HOME$/ws/pytorch/tmp/mnist.py" />
       <jump line="56" column="38" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_relative.py" />
+      <jump line="200" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
+      <jump line="352" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
+      <jump line="208" column="34" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
+      <jump line="325" column="29" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
+      <jump line="326" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
+      <jump line="329" column="7" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
+      <jump line="376" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIm51bV9wcm9jZXNzIiwgdHlwZT1pbnQsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9IlRoZSBudW1iZXIgb2YgcHJvY2Vzc2VzLiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>conti</text>
+        <text>cfg.EVAL_DIR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG91dHB1dCA9IHNlbGYuc2lhbWVzZV9uZXQoW3gxXSwgW3gyXSwgc291cmNlX2JveGVzLCB0YXJnZXRfYm94ZXMsCg==</text>
+        <text encoding="base64">ICAgICgxLCAyKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIm51bV9wcm9jZXNzIiwgdHlwZT1pbnQsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9IlRoZSBudW1iZXIgb2YgcHJvY2Vzc2VzLiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3VpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3VpdAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVfZGF0YSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gb3MucGF0aC5qb2luKGFyZ3MuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVfZGF0YSA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gb3MucGF0aC5qb2luKGFyZ3MuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>conti</last-search>
+      <last-search>cfg.EVAL_DIR</last-search>
       <last-offset />
-      <last-pattern>conti</last-pattern>
-      <last-replace>siamese_net_relative</last-replace>
-      <last-substitute>siamese_net\/l1_norm</last-substitute>
+      <last-pattern>cfg.EVAL_DIR</last-pattern>
+      <last-replace>args.outdir</last-replace>
+      <last-substitute>cfg.EVAL_DIR</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>only_box</entry>
-        <entry>output</entry>
-        <entry>img_size</entry>
-        <entry>pdb</entry>
-        <entry>dim</entry>
         <entry>block2_freeze</entry>
         <entry>break</entry>
         <entry>%s/siamese_net\/l1_norm/siamese_net_relative/gc</entry>
@@ -1723,9 +1719,13 @@
         <entry>soft</entry>
         <entry>len</entry>
         <entry>conti</entry>
+        <entry>args.config</entry>
+        <entry>cfg</entry>
+        <entry>cfg.EVAl</entry>
+        <entry>cfg.EVAL</entry>
+        <entry>cfg.EVAL_DIR</entry>
       </history-search>
       <history-cmd>
-        <entry>211</entry>
         <entry>188</entry>
         <entry>51</entry>
         <entry>163</entry>
@@ -1744,6 +1744,7 @@
         <entry>156</entry>
         <entry>158</entry>
         <entry>wq</entry>
+        <entry>%s/cfg.EVAL_DIR/args.outdir/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
