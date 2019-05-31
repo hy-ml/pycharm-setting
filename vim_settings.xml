@@ -167,7 +167,8 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_relative.py" timestamp="1559212019002">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_relative.py" timestamp="1559276336656">
+        <mark key="'" line="56" column="38" />
         <mark key="[" line="59" column="25" />
         <mark key="]" line="60" column="43" />
         <mark key="^" line="60" column="43" />
@@ -1528,7 +1529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
       <jump line="101" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
       <jump line="150" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
       <jump line="199" column="56" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
@@ -1628,6 +1628,7 @@
       <jump line="80" column="42" filename="$USER_HOME$/ws/pytorch/tmp/mnist.py" />
       <jump line="90" column="0" filename="$USER_HOME$/ws/pytorch/tmp/mnist.py" />
       <jump line="95" column="4" filename="$USER_HOME$/ws/pytorch/tmp/mnist.py" />
+      <jump line="56" column="38" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_relative.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1637,7 +1638,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>writer</text>
+        <text>soft</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG91dHB1dCA9IHNlbGYuc2lhbWVzZV9uZXQoW3gxXSwgW3gyXSwgc291cmNlX2JveGVzLCB0YXJnZXRfYm94ZXMsCg==</text>
@@ -1674,9 +1675,9 @@
       </register>
     </registers>
     <search>
-      <last-search>writer</last-search>
+      <last-search>soft</last-search>
       <last-offset />
-      <last-pattern>writer</last-pattern>
+      <last-pattern>soft</last-pattern>
       <last-replace>siamese_net_relative</last-replace>
       <last-substitute>siamese_net\/l1_norm</last-substitute>
       <last-dir>1</last-dir>
@@ -1696,7 +1697,6 @@
         <entry>%s/siamese_net\/l1_norm/siamese_net_relative/gc</entry>
         <entry>siamese_net\/l1_norm</entry>
         <entry>args.restart</entry>
-        <entry>soft</entry>
         <entry>softmax</entry>
         <entry>args</entry>
         <entry>loss</entry>
@@ -1704,6 +1704,7 @@
         <entry>epoch</entry>
         <entry>momen</entry>
         <entry>writer</entry>
+        <entry>soft</entry>
       </history-search>
       <history-cmd>
         <entry>%s/torch/np/gc</entry>
