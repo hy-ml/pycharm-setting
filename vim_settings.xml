@@ -86,12 +86,12 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1559215767572">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="75" column="26" />
-        <mark key="]" line="75" column="28" />
-        <mark key="." line="75" column="28" />
-        <mark key="^" line="75" column="28" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1559302523390">
+        <mark key="'" line="113" column="8" />
+        <mark key="[" line="130" column="62" />
+        <mark key="]" line="130" column="66" />
+        <mark key="." line="130" column="66" />
+        <mark key="^" line="130" column="66" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3WeightedMAE_vgg16_conv3_3.yml" timestamp="1557171015458">
         <mark key="[" line="0" column="40" />
@@ -237,12 +237,12 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/solver/build.py" timestamp="1559190968605">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="16" column="86" />
-        <mark key="]" line="16" column="87" />
-        <mark key="." line="16" column="87" />
-        <mark key="^" line="15" column="8" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/solver/build.py" timestamp="1559302262895">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="63" />
+        <mark key="." line="20" column="63" />
+        <mark key="^" line="20" column="63" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach.yaml" timestamp="1558691555752">
         <mark key="[" line="11" column="0" />
@@ -916,6 +916,12 @@
         <mark key="." line="32" column="18" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1559303096848">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/build.py" timestamp="1557252931005">
         <mark key="'" line="49" column="8" />
         <mark key="[" line="32" column="33" />
@@ -1446,12 +1452,12 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1559280238789">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1559302027054">
         <mark key="'" line="31" column="3" />
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="33" column="29" />
-        <mark key="." line="33" column="29" />
-        <mark key="^" line="33" column="29" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="25" />
+        <mark key="." line="60" column="32" />
+        <mark key="^" line="60" column="32" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/support_tools/convert.py" timestamp="1557068231720">
         <mark key="[" line="25" column="38" />
@@ -1604,8 +1610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" />
-      <jump line="7" column="17" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_relative_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" />
       <jump line="27" column="29" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" />
       <jump line="65" column="28" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/scrach_wrapper.py" />
       <jump line="68" column="40" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_with_relative_box_feature.py" />
@@ -1704,55 +1708,57 @@
       <jump line="70" column="24" filename="$USER_HOME$/ws/pytorch/sample/mnist.py" />
       <jump line="75" column="4" filename="$USER_HOME$/ws/pytorch/sample/mnist.py" />
       <jump line="76" column="22" filename="$USER_HOME$/ws/pytorch/sample/mnist.py" />
+      <jump line="76" column="31" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
+      <jump line="113" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>iter_counter</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>iter_counter</text>
       </register>
       <register name="/" type="4">
-        <text>args.lr</text>
+        <text>writer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R1JBUEg6CiAgTEVHRU5EOiAiYmxvY2s0IHNjcmF0Y2ggcmVsYXRpdmUiCg==</text>
+        <text encoding="base64">X0MuU09MVkVSLk1JTl9FUE9DSCA9IDEwMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbHInLCAnLWwnLCB0eXBlPWZsb2F0LCBkZWZhdWx0PTAuMDEsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J2xlYXJuaW5nIHJhdGUgKGRlZmF1bHQ6IDAuMDEpJykK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBscl9zY2hlZHVsZXIuc3RlcChlcG9jaCkK</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tbHInLCAnLWwnLCB0eXBlPWZsb2F0LCBkZWZhdWx0PTAuMDEsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9J2xlYXJuaW5nIHJhdGUgKGRlZmF1bHQ6IDAuMDEpJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MuY3AK</text>
+        <text encoding="base64">ICAgICAgICBscl9zY2hlZHVsZXIuc3RlcChlcG9jaCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIGFyZ3MuY3AK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvc3NfbWV0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvc3NfbWV0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBscl9zY2hlZHVsZXIuc3RlcCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxyX3NjaGVkdWxlciA9IG9wdGltLmxyX3NjaGVkdWxlci5TdGVwTFIob3B0aW1pemVyLCAxMCwgbHJfZ2FtbWEpCg==</text>
+        <text encoding="base64">ICAgICAgICBscl9zY2hlZHVsZXIuc3RlcCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bHJfc3RlcCA9IFsxMCwgMjBdCg==</text>
+        <text encoding="base64">ICAgIGxyX3NjaGVkdWxlciA9IG9wdGltLmxyX3NjaGVkdWxlci5TdGVwTFIob3B0aW1pemVyLCAxMCwgbHJfZ2FtbWEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>args.lr</last-search>
+      <last-search>writer</last-search>
       <last-offset />
-      <last-pattern>args.lr</last-pattern>
+      <last-pattern>writer</last-pattern>
       <last-replace>args.outdir</last-replace>
       <last-substitute>cfg.EVAL_DIR</last-substitute>
       <last-dir>1</last-dir>
@@ -1760,13 +1766,11 @@
     </search>
     <history>
       <history-search>
-        <entry>args.restart</entry>
         <entry>softmax</entry>
         <entry>args</entry>
         <entry>loss</entry>
         <entry>loss_meter</entry>
         <entry>momen</entry>
-        <entry>writer</entry>
         <entry>soft</entry>
         <entry>len</entry>
         <entry>conti</entry>
@@ -1780,9 +1784,10 @@
         <entry>lr_sch</entry>
         <entry>args.</entry>
         <entry>args.lr</entry>
+        <entry>lr</entry>
+        <entry>writer</entry>
       </history-search>
       <history-cmd>
-        <entry>51</entry>
         <entry>163</entry>
         <entry>78</entry>
         <entry>%s/freeze/scratch/gc</entry>
@@ -1801,6 +1806,7 @@
         <entry>%s/cfg.EVAL_DIR/args.outdir/gc</entry>
         <entry>wq</entry>
         <entry>qw</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
