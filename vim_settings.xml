@@ -452,7 +452,7 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/utils.py" timestamp="1559215738361">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/utils.py" timestamp="1559298452710">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -1520,12 +1520,11 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/tmp/mnist.py" timestamp="1559216569986">
-        <mark key="'" line="95" column="4" />
-        <mark key="[" line="123" column="56" />
-        <mark key="]" line="123" column="69" />
-        <mark key="." line="123" column="69" />
-        <mark key="^" line="123" column="69" />
+      <file name="$USER_HOME$/ws/pytorch/tmp/mnist.py" timestamp="1559298593910">
+        <mark key="'" line="235" column="4" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.json" timestamp="1556693958142">
         <mark key="[" line="0" column="0" />
@@ -1701,7 +1700,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1713,34 +1712,34 @@
         <text encoding="base64">R1JBUEg6CiAgTEVHRU5EOiAiYmxvY2s0IHNjcmF0Y2ggcmVsYXRpdmUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3Jib2FyZFggaW1wb3J0IFMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oYW5uX2lkcykpCg==</text>
+        <text encoding="base64">ZnJvbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIm51bV9wcm9jZXNzIiwgdHlwZT1pbnQsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9IlRoZSBudW1iZXIgb2YgcHJvY2Vzc2VzLiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3VpdAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oYW5uX2lkcykpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIm51bV9wcm9jZXNzIiwgdHlwZT1pbnQsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlbHA9IlRoZSBudW1iZXIgb2YgcHJvY2Vzc2VzLiIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1794,8 +1793,8 @@
         <entry>156</entry>
         <entry>158</entry>
         <entry>%s/cfg.EVAL_DIR/args.outdir/gc</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
