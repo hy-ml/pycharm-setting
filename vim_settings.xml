@@ -172,6 +172,13 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" timestamp="1560149552464">
+        <mark key="'" line="109" column="34" />
+        <mark key="[" line="107" column="41" />
+        <mark key="]" line="107" column="53" />
+        <mark key="^" line="107" column="53" />
+        <mark key="." line="107" column="53" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/model/test_loss.py" timestamp="1556642852954">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="13" column="44" />
@@ -1612,11 +1619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="72" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
-      <jump line="70" column="46" filename="$USER_HOME$/ws/pytorch/tmp/train.py" />
-      <jump line="94" column="21" filename="$USER_HOME$/ws/pytorch/tmp/train.py" />
-      <jump line="78" column="38" filename="$USER_HOME$/ws/pytorch/tmp/train.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
       <jump line="108" column="33" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
       <jump line="112" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
       <jump line="130" column="62" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
@@ -1712,6 +1714,11 @@
       <jump line="82" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" />
       <jump line="100" column="36" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" />
       <jump line="17" column="27" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_bn.yaml" />
+      <jump line="107" column="54" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
+      <jump line="11" column="10" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
+      <jump line="12" column="3" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
+      <jump line="105" column="34" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
+      <jump line="109" column="34" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1721,7 +1728,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>scratch</text>
+        <text>Plot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bHN0X2NvbG9yID0gWydvcmFuZ2UnLCAnbGltZScsICdyZWQnLCAnYycsICdtJ10K</text>
@@ -1754,13 +1761,13 @@
         <text encoding="base64">ICAgICMgJy4uLy4uL2NvbmZpZ3MvY29jb190ZXN0X3Vuc2Vlbl9vY2NsdWRlZC9zcGxpdF9ieV9zZWVuX3Vuc2Vlbi9zaWFtZXNlX25ldC9sMV9ub3JtL25vX2FkZGl0aW9uYWxfZmVhdXJlL3ZnZ19ibG9jazJfZnJlZXplLnlhbWwnLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>45</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scratch</last-search>
+      <last-search>Plot</last-search>
       <last-offset />
-      <last-pattern>scratch</last-pattern>
+      <last-pattern>Plot</last-pattern>
       <last-replace>scratch_bn</last-replace>
       <last-substitute>scratch</last-substitute>
       <last-dir>1</last-dir>
@@ -1768,8 +1775,6 @@
     </search>
     <history>
       <history-search>
-        <entry>soft</entry>
-        <entry>len</entry>
         <entry>conti</entry>
         <entry>args.config</entry>
         <entry>cfg</entry>
@@ -1788,6 +1793,8 @@
         <entry>cont</entry>
         <entry>plt</entry>
         <entry>scratch</entry>
+        <entry>plot</entry>
+        <entry>Plot</entry>
       </history-search>
       <history-cmd>
         <entry>%s/siamese_net_with/siamese_net_only/gc</entry>
@@ -1808,8 +1815,8 @@
         <entry>w'jkk</entry>
         <entry>e</entry>
         <entry>%s/scratch/scratch_bn/gc</entry>
-        <entry>w</entry>
         <entry>45</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
