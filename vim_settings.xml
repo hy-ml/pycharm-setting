@@ -140,6 +140,13 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_bn.yaml" timestamp="1560134003406">
+        <mark key="'" line="17" column="27" />
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="25" />
+        <mark key="^" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/prune_log_save_model.py" timestamp="1558599183779">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="37" column="16" />
@@ -379,11 +386,11 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="32" column="69" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/extractor/build.py" timestamp="1557896085307">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/extractor/build.py" timestamp="1560133609576">
         <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="27" column="13" />
-        <mark key="." line="26" column="0" />
+        <mark key="]" line="26" column="8" />
+        <mark key="^" line="25" column="8" />
+        <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/extractor/__init__.py" timestamp="1557894743335">
         <mark key="[" line="0" column="0" />
@@ -932,7 +939,7 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" timestamp="1559900410725">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" timestamp="1560133487976">
         <mark key="'" line="101" column="36" />
         <mark key="[" line="47" column="34" />
         <mark key="]" line="47" column="34" />
@@ -1456,12 +1463,12 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1559302027054">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1560133561142">
         <mark key="'" line="31" column="3" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="25" />
-        <mark key="." line="60" column="32" />
-        <mark key="^" line="60" column="32" />
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/support_tools/convert.py" timestamp="1557068231720">
         <mark key="[" line="25" column="38" />
@@ -1605,7 +1612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="28" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
       <jump line="134" column="72" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
       <jump line="70" column="46" filename="$USER_HOME$/ws/pytorch/tmp/train.py" />
       <jump line="94" column="21" filename="$USER_HOME$/ws/pytorch/tmp/train.py" />
@@ -1705,16 +1711,17 @@
       <jump line="16" column="41" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" />
       <jump line="82" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" />
       <jump line="100" column="36" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" />
+      <jump line="17" column="27" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_bn.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>plt</text>
+        <text>scratch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bHN0X2NvbG9yID0gWydvcmFuZ2UnLCAnbGltZScsICdyZWQnLCAnYycsICdtJ10K</text>
@@ -1751,17 +1758,16 @@
       </register>
     </registers>
     <search>
-      <last-search>plt</last-search>
+      <last-search>scratch</last-search>
       <last-offset />
-      <last-pattern>plt</last-pattern>
-      <last-replace>l1norm\/block4_scratch</last-replace>
-      <last-substitute>l1norm</last-substitute>
+      <last-pattern>scratch</last-pattern>
+      <last-replace>scratch_bn</last-replace>
+      <last-substitute>scratch</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>momen</entry>
         <entry>soft</entry>
         <entry>len</entry>
         <entry>conti</entry>
@@ -1781,9 +1787,9 @@
         <entry>l1norm</entry>
         <entry>cont</entry>
         <entry>plt</entry>
+        <entry>scratch</entry>
       </history-search>
       <history-cmd>
-        <entry>56</entry>
         <entry>%s/block4_scratch/block4_scratch_high_lr/gc</entry>
         <entry>%s/siamese_net_with/siamese_net_only/gc</entry>
         <entry>%s/only_box/only_relative_box/gc</entry>
@@ -1802,6 +1808,7 @@
         <entry>wq</entry>
         <entry>w'jkk</entry>
         <entry>e</entry>
+        <entry>%s/scratch/scratch_bn/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
