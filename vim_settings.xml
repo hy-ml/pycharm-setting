@@ -244,11 +244,11 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/loss/loss.py" timestamp="1560152973025">
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
-        <mark key="^" line="23" column="40" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/loss/loss.py" timestamp="1560154440555">
+        <mark key="[" line="120" column="66" />
+        <mark key="]" line="120" column="66" />
+        <mark key="." line="120" column="66" />
+        <mark key="^" line="120" column="66" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/solver/build.py" timestamp="1559302262895">
         <mark key="'" line="26" column="0" />
@@ -841,11 +841,11 @@
         <mark key="." line="40" column="18" />
         <mark key="^" line="263" column="57" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/model/meta_architecture/sub_residual_stage3_net.py" timestamp="1560152824296">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="6" column="16" />
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/model/meta_architecture/sub_residual_stage3_net.py" timestamp="1560153962909">
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="33" />
+        <mark key="." line="39" column="33" />
+        <mark key="^" line="39" column="33" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_keypoints_dataset.py" timestamp="1556550805084">
         <mark key="[" line="21" column="52" />
@@ -1767,44 +1767,44 @@
       <jump line="92" column="40" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2ZnWydsb3NzJ10gPT0gJ0dhdXNzaWFuV2VpZ2h0ZWRNQUUnOgogICAgICAgIGxvc3MgPSBHYXVzc2lhbldlaWdodGVkTUFFKHcwPWNmZ1snbG9zc193MCddLCB3MT1jZmdbJ2xvc3NfdzEnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXZpY2U9ZGV2aWNlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>img_dir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2ZnWydsb3NzJ10gPT0gJ0dhdXNzaWFuV2VpZ2h0ZWRNQUUnOgogICAgICAgIGxvc3MgPSBHYXVzc2lhbldlaWdodGVkTUFFKHcwPWNmZ1snbG9zc193MCddLCB3MT1jZmdbJ2xvc3NfdzEnXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXZpY2U9ZGV2aWNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdfbWFwID0geHAud2hlcmUoc2VsZi53MSAqIHkgPCBzZWxmLncwLCBzZWxmLncwLCBzZWxmLncxICogeSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlfbWFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeF9tYXJnaW4gPSB4cC53aGVyZShzZWxmLncxICogeSA8IHNlbGYudzAsIHNlbGYudzAsIHNlbGYudzEgKiB5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQucGxvdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgeCBpbiBsc3RfeDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX21hcmdpbiA9IHhwLndoZXJlKHdfbWFwID09IHNlbGYudzAsIDAsIHgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuc3VicGxvdHNfYWRqdXN0KGxlZnQ9MSwgcmlnaHQ9MSwgYm90dG9tPTEsIHRvcD0xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlfbWFyZ2luID0geHAud2hlcmUod19tYXAgPT0gc2VsZi53MCwgMCwgeSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Rm9udFByb3BlcnRpZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlfbWFyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIEdyZWVkeSBOTVMKICAgICAgICB3aXRoIG9wZW4oY29uZmlnX3BhdGhfZ3JlZWR5LCAncicpIGFzIGZwOgogICAgICAgICAgICBjZmcgPSB5YW1sLmxvYWQoZnAsIExvYWRlcj15YW1sLkZ1bGxMb2FkZXIpCiAgICAgICAgbGVnZW5kcy5hcHBlbmQoY2ZnWydHUkFQSCddWydMRUdFTkQnXSkKICAgICAgICBldmFsX3BhdGggPSBvcy5wYXRoLmpvaW4oJy4uLy4uJywgY2ZnWydFVkFMX0RJUiddLCAnaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQucGtsJykKICAgICAgICB3aXRoIG9wZW4oZXZhbF9wYXRoLCAncmInKSBhcyBmcDoKICAgICAgICAgICAgZXZhbHMgPSBwaWNrbGUubG9hZChmcCkKICAgICAgICB4ID0gW10KICAgICAgICB5ID0gW10KICAgICAgICBmb3IgZXZhbCBpbiBldmFsczoKICAgICAgICAgICAgaWYgZXZhbFsndGhyZXNob2xkMSddID4gZ3JlZWR5X3RocmVzaG9sZF9tYXggb3IgZXZhbFsndGhyZXNob2xkMSddIDwgZ3JlZWR5X3RocmVzaG9sZF9taW46CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICB4LmFwcGVuZChldmFsW2tleXNbMF1dKQogICAgICAgICAgICB5LmFwcGVuZChldmFsW2tleXNbMV1dKQogICAgICAgIHggPSBucC5hc2FycmF5KHgpCiAgICAgICAgeSA9IG5wLmFzYXJyYXkoeSkKICAgICAgICBwbHQucGxvdCh4LCB5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFtbMC42NSwgMC42NV1dLAo=</text>
+        <text encoding="base64">ICAgICAgICBwbHQucGxvdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
