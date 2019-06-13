@@ -62,12 +62,12 @@
         <mark key="^" line="33" column="24" />
         <mark key="." line="33" column="25" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" timestamp="1558610247105">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" timestamp="1560428679718">
         <mark key="'" line="23" column="12" />
-        <mark key="[" line="64" column="66" />
-        <mark key="]" line="64" column="42" />
-        <mark key="." line="64" column="42" />
-        <mark key="^" line="64" column="42" />
+        <mark key="[" line="63" column="12" />
+        <mark key="]" line="63" column="43" />
+        <mark key="." line="63" column="43" />
+        <mark key="^" line="63" column="43" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_freeze_with_lr_scheduler.yaml" timestamp="1558052044229">
         <mark key="'" line="11" column="0" />
@@ -89,12 +89,12 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1559302523390">
-        <mark key="'" line="113" column="8" />
-        <mark key="[" line="130" column="62" />
-        <mark key="]" line="130" column="66" />
-        <mark key="." line="130" column="66" />
-        <mark key="^" line="130" column="66" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1560429765291">
+        <mark key="'" line="170" column="4" />
+        <mark key="[" line="126" column="40" />
+        <mark key="]" line="126" column="59" />
+        <mark key="^" line="126" column="59" />
+        <mark key="." line="126" column="59" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3WeightedMAE_vgg16_conv3_3.yml" timestamp="1557171015458">
         <mark key="[" line="0" column="40" />
@@ -368,11 +368,12 @@
         <mark key="^" line="2" column="102" />
         <mark key="." line="2" column="102" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch_balanced_occluded_pair.py" timestamp="1560422925300">
-        <mark key="[" line="99" column="35" />
-        <mark key="]" line="97" column="36" />
-        <mark key="." line="97" column="36" />
-        <mark key="^" line="97" column="36" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch_balanced_occluded_pair.py" timestamp="1560429482596">
+        <mark key="'" line="40" column="8" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="12" />
+        <mark key="^" line="97" column="17" />
+        <mark key="." line="103" column="12" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/split_data.py" timestamp="1557090453281">
         <mark key="[" line="24" column="4" />
@@ -416,7 +417,7 @@
         <mark key="." line="86" column="33" />
         <mark key="^" line="32" column="69" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/extractor/build.py" timestamp="1560133609576">
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/extractor/build.py" timestamp="1560428895147">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="8" />
         <mark key="^" line="25" column="8" />
@@ -596,6 +597,13 @@
         <mark key="]" line="4" column="15" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_bn_prob_occluded_pair0.5.yaml" timestamp="1560429420502">
+        <mark key="'" line="14" column="41" />
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="16" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/support_tools/visualize_heatmap.py" timestamp="1560160891859">
         <mark key="'" line="26" column="25" />
@@ -1546,12 +1554,12 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1560133561142">
-        <mark key="'" line="31" column="3" />
-        <mark key="[" line="34" column="37" />
-        <mark key="]" line="35" column="18" />
-        <mark key="." line="35" column="18" />
-        <mark key="^" line="35" column="18" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1560428732791">
+        <mark key="'" line="32" column="3" />
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/support_tools/convert.py" timestamp="1557068231720">
         <mark key="[" line="25" column="38" />
@@ -1695,14 +1703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="28" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
-      <jump line="10" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
-      <jump line="145" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
-      <jump line="91" column="33" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
-      <jump line="9" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_only_box_feature/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" />
-      <jump line="69" column="20" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
       <jump line="72" column="57" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
       <jump line="75" column="27" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
       <jump line="76" column="38" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
@@ -1795,68 +1795,70 @@
       <jump line="1" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/loss/margin_mae.py" />
       <jump line="113" column="2" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/add_occluded_pair.py" />
       <jump line="116" column="17" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/add_occluded_pair.py" />
+      <jump line="14" column="41" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_bn_prob_occluded_pair0.5.yaml" />
+      <jump line="26" column="35" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch_balanced_occluded_pair.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch_balanced_occluded_pair.py" />
+      <jump line="40" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch_balanced_occluded_pair.py" />
+      <jump line="125" column="35" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
+      <jump line="111" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
+      <jump line="168" column="18" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
+      <jump line="169" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>range</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoZWF0bWFwcyA9IG5wLnNxdWVlemUoZGV0ZWN0b3IoeCkuYXJyYXkpCg==</text>
+        <text encoding="base64">X0MuREFUQVNFVF9QUk9CX1NBTUVfT0JKRUNUID0gMC4yNQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcmFuZG9tLnJhbmRvbSgpID4gc2VsZi5wcm9iX29jY2x1ZGVkX3BhaXJzIGFuZCBsZW4oc2VsZi5ub3Rfb2NjbHVkZWRfcGFpcnNbXSk6Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYub2NjbAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuCg==</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfaWR4ID0gb2JqX2lkc1swXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBvYmpfaWRzID0gbGlzdChyYW5nZShib3hlcy5zaGFwZVswXSkpCiAgICAgICAgcmFuZG9tLnNodWZmbGUob2JqX2lkcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub3Rfb2NjbHVkZWRfaW5kaWNlcyA9IGdldF9ub3Rfb2NjbHVkZWRfaW5kaWNlcyhpb3VzLCAwLjEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cmNlX2JveCA9IGJveGVzW3NvdXJjZV9pZHgsIHJhbmRvbS5yYW5kaW50KDAsIHNlbGYubnVtX3NtYXBsZXMtMSksIDpdCiAgICAgICAgICAgIHRhcmdldF9pZHggPSBvYmpfaWRzWzFdCiAgICAgICAgICAgIHRhcmdldF9ib3ggPSBib3hlc1t0YXJnZXRfaWR4LCByYW5kb20ucmFuZGludCgwLCBzZWxmLm51bV9zbWFwbGVzLTEpLCA6XQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>range</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>range</last-pattern>
-      <last-replace>np</last-replace>
-      <last-substitute>numpy</last-substitute>
+      <last-pattern>main</last-pattern>
+      <last-replace>block4_scratch_bn_prob_occluded_pair0.5</last-replace>
+      <last-substitute>block4_scratch_bn</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cfg.EVAl</entry>
-        <entry>cfg.EVAL</entry>
-        <entry>cfg.EVAL_DIR</entry>
-        <entry>epoch</entry>
-        <entry>lr_s</entry>
-        <entry>lr_sch</entry>
         <entry>args.</entry>
         <entry>args.lr</entry>
         <entry>lr</entry>
@@ -1871,9 +1873,14 @@
         <entry>img_dir</entry>
         <entry>numpy</entry>
         <entry>range</entry>
+        <entry>PROb</entry>
+        <entry>block4_scratch_bn</entry>
+        <entry>with open</entry>
+        <entry>dpb</entry>
+        <entry>pdb</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/block2_freeze/block2_of_block4_scratch/g</entry>
         <entry>%s/block2_freeze/block2_of_block4_scratch/gc</entry>
         <entry>%s/siamese_net\/l1_norm/siamese_net_relative/gc</entry>
         <entry>133</entry>
@@ -1888,11 +1895,12 @@
         <entry>e</entry>
         <entry>%s/scratch/scratch_bn/gc</entry>
         <entry>45</entry>
-        <entry>wq</entry>
-        <entry>q</entry>
         <entry>%s/numpy/np/gc</entry>
         <entry>53</entry>
+        <entry>%s/block4_scratch_bn/block4_scratch_bn_prob_occluded_pair0.5/gc</entry>
+        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
