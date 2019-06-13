@@ -419,6 +419,11 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/add_occluded_pair.py" timestamp="1560418645948">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/tmp2.py" timestamp="1557742032779">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="12" column="12" />
@@ -443,6 +448,7 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/train.py" timestamp="1560418383599" />
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/loss/build.py" timestamp="1559192041185">
         <mark key="[" line="29" column="46" />
         <mark key="]" line="30" column="34" />
@@ -491,6 +497,11 @@
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/config/keypoints_detection/sample/ResidualStage3_GaussianWeightedMAE_vgg16_conv3_3_ksize7.yml" timestamp="1560159461674">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="8" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/utils.py" timestamp="1559300348310">
         <mark key="[" line="7" column="38" />
@@ -575,12 +586,12 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/support_tools/visualize_heatmap.py" timestamp="1560157782448">
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/support_tools/visualize_heatmap.py" timestamp="1560160891859">
         <mark key="'" line="26" column="25" />
-        <mark key="[" line="41" column="89" />
-        <mark key="]" line="41" column="89" />
-        <mark key="^" line="41" column="89" />
-        <mark key="." line="41" column="89" />
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="32" />
+        <mark key="^" line="54" column="32" />
+        <mark key="." line="54" column="32" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/model/meta_architecture/__init__.py" timestamp="1560152831985">
         <mark key="[" line="2" column="50" />
@@ -1775,44 +1786,44 @@
       <jump line="1" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/loss/margin_mae.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KCgpCiAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>numpy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkaWZmX21hcmdpbiA9IG5wLndoZXJlKHgxID4gc2VsZi50aHJlc2hvbGRfbWFyZ2luLCBkaWZmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAubWluKChucC56ZXJvc19saWtlKGRpZmYpLCBkaWZmKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBoZWF0bWFwcyA9IG5wLnNxdWVlemUoZGV0ZWN0b3IoeCkuYXJyYXkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">KCgpCiAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhdG1hcHMgPSBoZWF0bWFwc1stMV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeF9tYXJnaW4gPSB4cC53aGVyZShzZWxmLncxICogeSA8IHNlbGYudzAsIHNlbGYudzAsIHNlbGYudzEgKiB5KQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHgsIGxpc3QpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgeCBpbiBsc3RfeDoK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsc3QK</text>
+      <register name="6" type="8">
+        <text encoding="base64">Jy4uJywgCicuLicsIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX21hcmdpbiA9IHhwLndoZXJlKHdfbWFwID09IHNlbGYudzAsIDAsIHgpCg==</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlfbWFyZ2luID0geHAud2hlcmUod19tYXAgPT0gc2VsZi53MCwgMCwgeSkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlfbWFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeF9tYXJnaW4gPSB4cC53aGVyZShzZWxmLncxICogeSA8IHNlbGYudzAsIHNlbGYudzAsIHNlbGYudzEgKiB5KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1851,7 +1862,6 @@
         <entry>numpy</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/only_box/only_relative_box/gc</entry>
         <entry>%s/block2_freeze/block2_of_block4_scratch/g</entry>
         <entry>%s/block2_freeze/block2_of_block4_scratch/gc</entry>
         <entry>%s/siamese_net\/l1_norm/siamese_net_relative/gc</entry>
@@ -1870,6 +1880,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>%s/numpy/np/gc</entry>
+        <entry>53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
