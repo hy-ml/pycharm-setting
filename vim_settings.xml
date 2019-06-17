@@ -50,6 +50,13 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/make_subset_cache_info.py" timestamp="1560752203781">
+        <mark key="'" line="39" column="41" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="24" column="27" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1557072557209">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="27" />
@@ -88,12 +95,11 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1560429765291">
-        <mark key="'" line="170" column="4" />
-        <mark key="[" line="126" column="40" />
-        <mark key="]" line="126" column="59" />
-        <mark key="^" line="126" column="59" />
-        <mark key="." line="126" column="59" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" timestamp="1560752198899">
+        <mark key="'" line="19" column="60" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3WeightedMAE_vgg16_conv3_3.yml" timestamp="1557171015458">
         <mark key="[" line="0" column="40" />
@@ -1691,12 +1697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="21" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
-      <jump line="32" column="49" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" />
-      <jump line="62" column="27" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_relative_box_feature.py" />
-      <jump line="42" column="19" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_relative_box_feature.py" />
-      <jump line="43" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_relative_box_feature.py" />
-      <jump line="41" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_relative_box_feature.py" />
       <jump line="9" column="94" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" />
       <jump line="4" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" />
       <jump line="175" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" />
@@ -1791,66 +1791,68 @@
       <jump line="82" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
       <jump line="81" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
       <jump line="76" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
+      <jump line="22" column="14" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/make_subset_cache_info.py" />
+      <jump line="0" column="1" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/make_subset_cache_info.py" />
+      <jump line="41" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/make_subset_cache_info.py" />
+      <jump line="129" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
+      <jump line="19" column="60" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
+      <jump line="39" column="41" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/make_subset_cache_info.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>a</text>
-      </register>
-      <register name="/" type="4">
-        <text>extractor</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4dHJhY3RvciA9IHRvcmNodmlzaW9uLm1vZGVscy52Z2cxNihGYWxzZSkuZmVhdHVyZXMK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="-" type="4">
+        <text>not_occluded_pair</text>
+      </register>
+      <register name="/" type="4">
+        <text>pdb</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxzdF9pbWdfaWRfc3Vic2V0ID0gW10KICAgIGxzdF9hbm5faWRzX3N1YnNldCA9IFtdCiAgICBsc3Rfc2hpZnRlZF9ib3hlc19zdWJzZXQgPSBbXQogICAgbHN0X29jY2x1ZGVkX3BhaXJfc3Vic2V0ID0gW10KICAgIGxzdF9ub3Rfb2NjbHVkZWRfcGFpcl9zdWJzZXQgPSBbXQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2VfaWR4ID0gb2JqX2lkc1swXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvYmpfaWRzID0gbGlzdChyYW5nZShib3hlcy5zaGFwZVswXSkpCiAgICAgICAgcmFuZG9tLnNodWZmbGUob2JqX2lkcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>extractor</last-search>
+      <last-search>pdb</last-search>
       <last-offset />
-      <last-pattern>extractor</last-pattern>
-      <last-replace>pair1</last-replace>
-      <last-substitute>pair0.5</last-substitute>
+      <last-pattern>pdb</last-pattern>
+      <last-replace>gc</last-replace>
+      <last-substitute>[]/cache_info[]</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>box_l1norm</entry>
-        <entry>l1norm</entry>
-        <entry>cont</entry>
-        <entry>plt</entry>
         <entry>scratch</entry>
         <entry>plot</entry>
         <entry>Plot</entry>
@@ -1861,16 +1863,18 @@
         <entry>block4_scratch_bn</entry>
         <entry>with open</entry>
         <entry>dpb</entry>
-        <entry>pdb</entry>
         <entry>main</entry>
         <entry>pair0.5</entry>
         <entry>block</entry>
         <entry>extracotr</entry>
         <entry>extractor</entry>
+        <entry>_subset</entry>
+        <entry>[]/cache_info[]</entry>
+        <entry>dataset</entry>
+        <entry>data</entry>
+        <entry>pdb</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/siamese_net\/l1_norm/siamese_net_relative/gc</entry>
-        <entry>133</entry>
         <entry>156</entry>
         <entry>158</entry>
         <entry>%s/cfg.EVAL_DIR/args.outdir/gc</entry>
@@ -1888,6 +1892,8 @@
         <entry>q</entry>
         <entry>%s/pair0.5/pair1/gc</entry>
         <entry>wq</entry>
+        <entry>%s/_subset//gc</entry>
+        <entry>%s/[]/cache_info[]/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
