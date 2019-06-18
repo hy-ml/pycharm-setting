@@ -69,8 +69,8 @@
         <mark key="^" line="33" column="24" />
         <mark key="." line="33" column="25" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" timestamp="1560830032854">
-        <mark key="'" line="23" column="12" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" timestamp="1560838162494">
+        <mark key="'" line="86" column="24" />
         <mark key="[" line="86" column="23" />
         <mark key="]" line="86" column="24" />
         <mark key="." line="86" column="24" />
@@ -1740,10 +1740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
-      <jump line="352" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
-      <jump line="208" column="34" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
-      <jump line="325" column="29" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
       <jump line="326" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
       <jump line="329" column="7" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
       <jump line="376" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
@@ -1840,6 +1836,10 @@
       <jump line="50" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
       <jump line="17" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
       <jump line="23" column="7" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
+      <jump line="117" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
+      <jump line="65" column="54" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
+      <jump line="83" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
+      <jump line="86" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1849,7 +1849,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>PROB_OCCLUDED</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIGNmZy5EQVRBU0VUID09ICJDT0NPIjoKICAgICAgICBpZiBzcGxpdCA9PSAndHJhaW4nOgogICAgICAgICAgICBhbm5fZmlsZSA9IG9zLnBhdGguam9pbihjb2NvX2RpciwgY2ZnLkFOTk9UX0ZJTEUuVFJBSU4pCiAgICAgICAgZWxpZiBzcGxpdCA9PSAndGVzdCc6CiAgICAgICAgICAgIGFubl9maWxlID0gb3MucGF0aC5qb2luKGNvY29fZGlyLCBjZmcuQU5OT1RfRklMRS5URVNUKQogICAgICAgIGVsaWYgc3BsaXQgPT0gJ3ZhbCc6CiAgICAgICAgICAgIGFubl9maWxlID0gb3MucGF0aC5qb2luKGNvY29fZGlyLCBjZmcuQU5OT1RfRklMRS5WQUwpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignYHNwbGl0YCBzaG91bGQgYmUgYHRyYWluYCBvciBgdGVzdCcpCiAgICAgICAgY2FjaGVfaW5mb19maWxlID0gb3MucGF0aC5qb2luKGNhY2hlX2RhdGFfZGlyLCAnY2FjaGVfaW5mby5wa2wnKQogICAgICAgIGJsb2NrcyA9IGNmZy5NT0RFTC5FWFRSQUNUT1JfT1VUUFVUX0JMT0NLCgogICAgICAgIGRhdGFzZXQgPSBELkNPQ09EYXRhc2V0VHJhaW4oCiAgICAgICAgICAgIGNvY29fZGlyLCBjYWNoZV9kYXRhX2RpciwgYW5uX2ZpbGUsIGNhY2hlX2luZm9fZmlsZSwgYmxvY2tzLAogICAgICAgICAgICBjZmcuREFUQVNFVF9QUk9CX1NBTUVfT0JKRUNUKQo=</text>
@@ -1882,13 +1882,13 @@
         <text encoding="base64">ICAgICAgICAjIHNvcnQgaW5kaWNlcyBmb3IgcmVwcm9kdWNpYmxlIHJlc3VsdHMKICAgICAgICBzZWxmLmlkcyA9IHNvcnRlZChzZWxmLmlkcykKICAgICAgICAjIGZpbHRlciBpbWFnZXMgd2l0aG91dCBkZXRlY3Rpb24gYW5ub3RhdGlvbnMKICAgICAgICBpZiByZW1vdmVfaW1hZ2VzX3dpdGhvdXRfYW5ub3RhdGlvbnM6CiAgICAgICAgICAgIGlkcyA9IFtdCiAgICAgICAgICAgIGZvciBpbWdfaWQgaW4gc2VsZi5pZHM6CiAgICAgICAgICAgICAgICBhbm5faWRzID0gc2VsZi5jb2NvLmdldEFubklkcyhpbWdJZHM9aW1nX2lkLCBpc2Nyb3dkPU5vbmUpCiAgICAgICAgICAgICAgICBhbm5vID0gc2VsZi5jb2NvLmxvYWRBbm5zKGFubl9pZHMpCiAgICAgICAgICAgICAgICBpZiBoYXNfdmFsaWRfYW5ub3RhdGlvbihhbm5vKToKICAgICAgICAgICAgICAgICAgICBpZHMuYXBwZW5kKGltZ19pZCkKICAgICAgICAgICAgc2VsZi5pZHMgPSBpZHMKCiAgICAgICAgc2VsZi5qc29uX2NhdGVnb3J5X2lkX3RvX2NvbnRpZ3VvdXNfaWQgPSB7CiAgICAgICAgICAgIHY6IGkgKyAxIGZvciBpLCB2IGluIGVudW1lcmF0ZShzZWxmLmNvY28uZ2V0Q2F0SWRzKCkpCiAgICAgICAgfQogICAgICAgIHNlbGYuY29udGlndW91c19jYXRlZ29yeV9pZF90b19qc29uX2lkID0gewogICAgICAgICAgICB2OiBrIGZvciBrLCB2IGluIHNlbGYuanNvbl9jYXRlZ29yeV9pZF90b19jb250aWd1b3VzX2lkLml0ZW1zKCkKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>87</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>PROB_OCCLUDED</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>PROB_OCCLUDED</last-pattern>
       <last-replace>block2</last-replace>
       <last-substitute>block4</last-substitute>
       <last-dir>1</last-dir>
@@ -1896,7 +1896,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pair0.5</entry>
         <entry>block</entry>
         <entry>extracotr</entry>
         <entry>extractor</entry>
@@ -1916,9 +1915,9 @@
         <entry>self.ids</entry>
         <entry>len</entry>
         <entry>print</entry>
+        <entry>PROB_OCCLUDED</entry>
       </history-search>
       <history-cmd>
-        <entry>qw</entry>
         <entry>ew</entry>
         <entry>%s/box_l1norm/box_l1norm\/block2_of_block4_scratch/gc</entry>
         <entry>%s/l1norm/l1norm\/block4_scratch/gc</entry>
@@ -1936,8 +1935,9 @@
         <entry>%s/block4/block2/gc</entry>
         <entry>wq</entry>
         <entry>105</entry>
-        <entry>87</entry>
         <entry>w</entry>
+        <entry>118</entry>
+        <entry>87</entry>
       </history-cmd>
       <history-expr />
       <history-input />
