@@ -1573,6 +1573,13 @@
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/fusion/block2_of_block4_scratch/img1_bbox2.yaml" timestamp="1559304232674">
         <mark key="'" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_dropout_prob_occluded_pair0.5.yaml" timestamp="1560844111086">
+        <mark key="'" line="16" column="11" />
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1556987066294">
         <mark key="[" line="7" column="54" />
         <mark key="]" line="7" column="62" />
@@ -1740,7 +1747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="326" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
       <jump line="329" column="7" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
       <jump line="376" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
       <jump line="93" column="26" filename="$USER_HOME$/ws/pytorch/sample/mnist.py" />
@@ -1840,6 +1846,7 @@
       <jump line="65" column="54" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
       <jump line="83" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
       <jump line="86" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
+      <jump line="16" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_dropout_prob_occluded_pair0.5.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1849,7 +1856,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>PROB_OCCLUDED</text>
+        <text>bn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIGNmZy5EQVRBU0VUID09ICJDT0NPIjoKICAgICAgICBpZiBzcGxpdCA9PSAndHJhaW4nOgogICAgICAgICAgICBhbm5fZmlsZSA9IG9zLnBhdGguam9pbihjb2NvX2RpciwgY2ZnLkFOTk9UX0ZJTEUuVFJBSU4pCiAgICAgICAgZWxpZiBzcGxpdCA9PSAndGVzdCc6CiAgICAgICAgICAgIGFubl9maWxlID0gb3MucGF0aC5qb2luKGNvY29fZGlyLCBjZmcuQU5OT1RfRklMRS5URVNUKQogICAgICAgIGVsaWYgc3BsaXQgPT0gJ3ZhbCc6CiAgICAgICAgICAgIGFubl9maWxlID0gb3MucGF0aC5qb2luKGNvY29fZGlyLCBjZmcuQU5OT1RfRklMRS5WQUwpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcignYHNwbGl0YCBzaG91bGQgYmUgYHRyYWluYCBvciBgdGVzdCcpCiAgICAgICAgY2FjaGVfaW5mb19maWxlID0gb3MucGF0aC5qb2luKGNhY2hlX2RhdGFfZGlyLCAnY2FjaGVfaW5mby5wa2wnKQogICAgICAgIGJsb2NrcyA9IGNmZy5NT0RFTC5FWFRSQUNUT1JfT1VUUFVUX0JMT0NLCgogICAgICAgIGRhdGFzZXQgPSBELkNPQ09EYXRhc2V0VHJhaW4oCiAgICAgICAgICAgIGNvY29fZGlyLCBjYWNoZV9kYXRhX2RpciwgYW5uX2ZpbGUsIGNhY2hlX2luZm9fZmlsZSwgYmxvY2tzLAogICAgICAgICAgICBjZmcuREFUQVNFVF9QUk9CX1NBTUVfT0JKRUNUKQo=</text>
@@ -1882,21 +1889,20 @@
         <text encoding="base64">ICAgICAgICAjIHNvcnQgaW5kaWNlcyBmb3IgcmVwcm9kdWNpYmxlIHJlc3VsdHMKICAgICAgICBzZWxmLmlkcyA9IHNvcnRlZChzZWxmLmlkcykKICAgICAgICAjIGZpbHRlciBpbWFnZXMgd2l0aG91dCBkZXRlY3Rpb24gYW5ub3RhdGlvbnMKICAgICAgICBpZiByZW1vdmVfaW1hZ2VzX3dpdGhvdXRfYW5ub3RhdGlvbnM6CiAgICAgICAgICAgIGlkcyA9IFtdCiAgICAgICAgICAgIGZvciBpbWdfaWQgaW4gc2VsZi5pZHM6CiAgICAgICAgICAgICAgICBhbm5faWRzID0gc2VsZi5jb2NvLmdldEFubklkcyhpbWdJZHM9aW1nX2lkLCBpc2Nyb3dkPU5vbmUpCiAgICAgICAgICAgICAgICBhbm5vID0gc2VsZi5jb2NvLmxvYWRBbm5zKGFubl9pZHMpCiAgICAgICAgICAgICAgICBpZiBoYXNfdmFsaWRfYW5ub3RhdGlvbihhbm5vKToKICAgICAgICAgICAgICAgICAgICBpZHMuYXBwZW5kKGltZ19pZCkKICAgICAgICAgICAgc2VsZi5pZHMgPSBpZHMKCiAgICAgICAgc2VsZi5qc29uX2NhdGVnb3J5X2lkX3RvX2NvbnRpZ3VvdXNfaWQgPSB7CiAgICAgICAgICAgIHY6IGkgKyAxIGZvciBpLCB2IGluIGVudW1lcmF0ZShzZWxmLmNvY28uZ2V0Q2F0SWRzKCkpCiAgICAgICAgfQogICAgICAgIHNlbGYuY29udGlndW91c19jYXRlZ29yeV9pZF90b19qc29uX2lkID0gewogICAgICAgICAgICB2OiBrIGZvciBrLCB2IGluIHNlbGYuanNvbl9jYXRlZ29yeV9pZF90b19jb250aWd1b3VzX2lkLml0ZW1zKCkKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>87</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>PROB_OCCLUDED</last-search>
+      <last-search>bn</last-search>
       <last-offset />
-      <last-pattern>PROB_OCCLUDED</last-pattern>
-      <last-replace>block2</last-replace>
-      <last-substitute>block4</last-substitute>
+      <last-pattern>bn</last-pattern>
+      <last-replace>dropout</last-replace>
+      <last-substitute>bn</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>block</entry>
         <entry>extracotr</entry>
         <entry>extractor</entry>
         <entry>_subset</entry>
@@ -1916,9 +1922,9 @@
         <entry>len</entry>
         <entry>print</entry>
         <entry>PROB_OCCLUDED</entry>
+        <entry>bn</entry>
       </history-search>
       <history-cmd>
-        <entry>ew</entry>
         <entry>%s/box_l1norm/box_l1norm\/block2_of_block4_scratch/gc</entry>
         <entry>%s/l1norm/l1norm\/block4_scratch/gc</entry>
         <entry>w'jkk</entry>
@@ -1933,11 +1939,12 @@
         <entry>%s/_subset//gc</entry>
         <entry>%s/[]/cache_info[]/gc</entry>
         <entry>%s/block4/block2/gc</entry>
-        <entry>wq</entry>
         <entry>105</entry>
-        <entry>w</entry>
         <entry>118</entry>
         <entry>87</entry>
+        <entry>w</entry>
+        <entry>%s/bn/dropout/gc</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
