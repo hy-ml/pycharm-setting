@@ -1152,6 +1152,11 @@
         <mark key="." line="143" column="18" />
         <mark key="^" line="143" column="18" />
       </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/config/default.py" timestamp="1561011178331">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/fusion/img1_bbox8.yaml" timestamp="1559295649984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="19" />
@@ -1537,10 +1542,12 @@
         <mark key="^" line="83" column="19" />
         <mark key="." line="83" column="19" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/support_scripts/dataset/split_data_caltech.py" timestamp="1561009703492">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/support_scripts/dataset/split_data_caltech.py" timestamp="1561011560012">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="48" column="21" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="26" />
+        <mark key="^" line="48" column="26" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/multi_stage_net.py" timestamp="1557162237874">
         <mark key="[" line="9" column="0" />
@@ -1751,7 +1758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="7" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
       <jump line="376" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" />
       <jump line="93" column="26" filename="$USER_HOME$/ws/pytorch/sample/mnist.py" />
       <jump line="100" column="30" filename="$USER_HOME$/ws/pytorch/sample/mnist.py" />
@@ -1851,55 +1857,56 @@
       <jump line="83" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
       <jump line="86" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
       <jump line="16" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_dropout_prob_occluded_pair0.5.yaml" />
+      <jump line="40" column="0" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/support_scripts/dataset/split_data_caltech.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+      <register name="&quot;" type="4">
+        <text>img_paths</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>img_paths</text>
       </register>
       <register name="/" type="4">
-        <text>bn</text>
+        <text>cache_dir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsc3RfbGFiZWxbJ3ZhbCddLmFwcGVuZChsYWJlbHNbbnVtX3Rlc3Q6bnVtX3Rlc3QrbnVtX3ZhbF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nX3BhdGhzID0gaW1nX3BhdGhzWzpjZmcuREFUQVNFVC5DQUxURUNIX01BWF9OVU1fSU1HU10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzID0gbGFiZWxzW10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0IGNmZwo=</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsc3QK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X0MuREFUQVNFVC5DQUxURUNIX01BWF9OVU1fSU1HUwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ291dGRpcicsIHR5cGU9c3RyLAogICAgICAgICAgICAgICAgICAgICAgICBoZWxwPSdQYXRoIHRvIHRoZSBkaXJlY3Rvcnkgc2F2ZWQgY2FjaGUgZGF0YSBmaWxlLicpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bn</last-search>
+      <last-search>cache_dir</last-search>
       <last-offset />
-      <last-pattern>bn</last-pattern>
+      <last-pattern>cache_dir</last-pattern>
       <last-replace>dropout</last-replace>
       <last-substitute>bn</last-substitute>
       <last-dir>1</last-dir>
@@ -1907,7 +1914,6 @@
     </search>
     <history>
       <history-search>
-        <entry>extracotr</entry>
         <entry>extractor</entry>
         <entry>_subset</entry>
         <entry>[]/cache_info[]</entry>
@@ -1927,9 +1933,9 @@
         <entry>print</entry>
         <entry>PROB_OCCLUDED</entry>
         <entry>bn</entry>
+        <entry>cache_dir</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/box_l1norm/box_l1norm\/block2_of_block4_scratch/gc</entry>
         <entry>%s/l1norm/l1norm\/block4_scratch/gc</entry>
         <entry>w'jkk</entry>
         <entry>e</entry>
@@ -1948,6 +1954,7 @@
         <entry>87</entry>
         <entry>%s/bn/dropout/gc</entry>
         <entry>wq</entry>
+        <entry>41</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -1995,6 +2002,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
