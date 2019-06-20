@@ -464,6 +464,12 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/test_code/dataset/test_caltech_dataset.py" timestamp="1561013802514">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/loss/build.py" timestamp="1559192041185">
         <mark key="[" line="29" column="46" />
         <mark key="]" line="30" column="34" />
@@ -1623,11 +1629,12 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/dataset/caltech.py" timestamp="1561012865157">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="21" column="45" />
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/dataset/caltech.py" timestamp="1561014394784">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.py" timestamp="1556694243766">
         <mark key="[" line="0" column="0" />
@@ -1765,8 +1772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="26" filename="$USER_HOME$/ws/pytorch/sample/mnist.py" />
-      <jump line="100" column="30" filename="$USER_HOME$/ws/pytorch/sample/mnist.py" />
       <jump line="48" column="10" filename="$USER_HOME$/ws/pytorch/sample/mnist.py" />
       <jump line="140" column="28" filename="$USER_HOME$/ws/pytorch/sample/mnist.py" />
       <jump line="111" column="25" filename="$USER_HOME$/ws/pytorch/sample/mnist.py" />
@@ -1865,55 +1870,57 @@
       <jump line="16" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_dropout_prob_occluded_pair0.5.yaml" />
       <jump line="40" column="44" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/support_scripts/dataset/split_data_caltech.py" />
       <jump line="68" column="35" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/support_scripts/dataset/split_data_caltech.py" />
+      <jump line="23" column="30" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/dataset/caltech.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/dataset/caltech.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFfZGlyID0gZGF0YV9kaXIK</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>args.outdir</text>
+        <text>get_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">X0MuREFUQVNFVC5DQUxURUNIX01BWF9OVU1fSU1HUyA9IDEwMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFfZGlyID0gZGF0YV9kaXIK</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS5vcGVuKG9zLnBhdGguam9pbihzZWxmLmRhdGFfZGlyLCBzZWxmLmxzdF9pbWdfcGF0aFtpZHhdKSkK</text>
+        <text encoding="base64">cmFuZG9tLnNlZWQoMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGFiZWwsIGNhdGVnb3J5IGluIGVudW1lcmF0ZShsc3RfY2F0ZWdvcnkpOgogICAgICAgICAgICBpbWdfcGF0aHMgPSBnbG9iKG9zLnBhdGguam9pbihkYXRhX2RpciwgY2F0ZWdvcnksICcqLmpwZycpKQogICAgICAgICAgICBpZiBzZWxmLm1heF9udW1faW1ncyBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHJhbmRvbS5zaHVmZmxlKGltZ19wYXRocykKICAgICAgICAgICAgICAgIGltZ19wYXRocyA9IGltZ19wYXRoc1tzZWxmLm1heF9udW1faW1nczpdCiAgICAgICAgICAgIHNlbGYubHN0X2ltZ19wYXRoICs9IGltZ19wYXRocwogICAgICAgICAgICBzZWxmLmxzdF9sYWJlbCArPSBbbGFiZWxdICogbGVuKGltZ19wYXRocykK</text>
+        <text encoding="base64">ZnJvbSBnbG9iIGltcG9ydCBnbG9iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxzdF9jYXRlZ29yeSA9IGxzdF9jYXRlZ29yeQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQob3MuZ2V0Y3dkKCkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9zLmdldGN3ZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBJbWFnZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KG9zLmdldGN3ZCgpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBhKHNlbGYpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCcuLi8uLicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>args.outdir</last-search>
+      <last-search>get_</last-search>
       <last-offset />
-      <last-pattern>args.outdir</last-pattern>
+      <last-pattern>get_</last-pattern>
       <last-replace>dropout</last-replace>
       <last-substitute>bn</last-substitute>
       <last-dir>1</last-dir>
@@ -1921,7 +1928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_subset</entry>
         <entry>[]/cache_info[]</entry>
         <entry>dataset</entry>
         <entry>data</entry>
@@ -1941,6 +1947,7 @@
         <entry>bn</entry>
         <entry>cache_dir</entry>
         <entry>args.outdir</entry>
+        <entry>get_</entry>
       </history-search>
       <history-cmd>
         <entry>%s/l1norm/l1norm\/block4_scratch/gc</entry>
