@@ -220,6 +220,12 @@
         <mark key="." line="81" column="4" />
         <mark key="^" line="81" column="20" />
       </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/config/caltech101_10_categories.yaml" timestamp="1561375117728">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1559198561974">
         <mark key="'" line="0" column="5" />
         <mark key="[" line="4" column="0" />
@@ -238,6 +244,12 @@
         <mark key="]" line="28" column="38" />
         <mark key="^" line="28" column="38" />
         <mark key="." line="28" column="38" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/test_code/data/dataset/test_caltech_dataset.py" timestamp="1561370579425">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_high_lr.yaml" timestamp="1557316334444">
         <mark key="'" line="15" column="16" />
@@ -283,6 +295,12 @@
         <mark key="]" line="3" column="28" />
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/solver/build.py" timestamp="1561373880274">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/movie_to_img.py" timestamp="1556808675650">
         <mark key="[" line="25" column="45" />
@@ -550,11 +568,6 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/config/keypoints_detection/sample/ResidualStage3_GaussianWeightedMAE_vgg16_conv3_3_ksize7.yml" timestamp="1560159461674">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="29" column="8" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/utils.py" timestamp="1559300348310">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="9" column="0" />
@@ -572,6 +585,12 @@
         <mark key="]" line="27" column="18" />
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/solver/__init__.py" timestamp="1561372059474">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="54" />
+        <mark key="^" line="0" column="54" />
+        <mark key="." line="0" column="54" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/loss/l1_norm_loss.py" timestamp="1557424191653">
         <mark key="[" line="32" column="8" />
@@ -636,11 +655,6 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/__init__.py" timestamp="1560776992149">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator_with_val.yml" timestamp="1557180764396">
         <mark key="[" line="3" column="68" />
         <mark key="]" line="4" column="15" />
@@ -684,6 +698,12 @@
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/utils.py" timestamp="1561372438328">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="92" column="40" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/test_extractor.py" timestamp="1556699391331">
         <mark key="[" line="0" column="0" />
@@ -941,10 +961,12 @@
         <mark key="." line="47" column="27" />
         <mark key="^" line="47" column="27" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" timestamp="1561025135967">
-        <mark key="[" line="2" column="49" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" timestamp="1561375296082">
+        <mark key="'" line="52" column="16" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="23" />
+        <mark key="." line="73" column="23" />
+        <mark key="^" line="48" column="26" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_scratch_high_lr.yaml" timestamp="1558051946525">
         <mark key="'" line="12" column="23" />
@@ -1113,11 +1135,11 @@
         <mark key="." line="40" column="50" />
         <mark key="^" line="41" column="14" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/model/classifier/gap_classifier.py" timestamp="1561024643298">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="27" />
-        <mark key="^" line="12" column="27" />
-        <mark key="." line="12" column="27" />
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/model/classifier/gap_classifier.py" timestamp="1561375059743">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="11" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/build.py" timestamp="1557252931005">
         <mark key="'" line="49" column="8" />
@@ -1162,6 +1184,12 @@
         <mark key="]" line="1" column="27" />
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/test_code/data/test_build_dataset.py" timestamp="1561371551675">
+        <mark key="[" line="30" column="62" />
+        <mark key="]" line="30" column="67" />
+        <mark key="." line="30" column="67" />
+        <mark key="^" line="30" column="67" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/__init__.py" timestamp="1557252279584">
         <mark key="[" line="1" column="22" />
@@ -1239,11 +1267,12 @@
         <mark key="." line="143" column="18" />
         <mark key="^" line="143" column="18" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/config/default.py" timestamp="1561025107384">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-        <mark key="^" line="10" column="28" />
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/config/default.py" timestamp="1561374321593">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="70" column="32" />
+        <mark key="^" line="70" column="37" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/fusion/img1_bbox8.yaml" timestamp="1559295649984">
         <mark key="[" line="0" column="0" />
@@ -1276,11 +1305,18 @@
         <mark key="." line="14" column="4" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/build.py" timestamp="1561025292687">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="4" column="42" />
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/__init__.py" timestamp="1561371646635">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/build.py" timestamp="1561373646995">
+        <mark key="'" line="30" column="30" />
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="30" />
+        <mark key="^" line="30" column="37" />
+        <mark key="." line="30" column="30" />
       </file>
       <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_only_additional_feature/akaze.yaml" timestamp="1561028188822">
         <mark key="'" line="10" column="20" />
@@ -1486,6 +1522,12 @@
         <mark key="]" line="95" column="47" />
         <mark key="." line="95" column="47" />
         <mark key="^" line="95" column="47" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/test_code/data/test_build_data_loader.py" timestamp="1561371163509">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="23" column="86" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_suppression.py" timestamp="1558020333490">
         <mark key="[" line="230" column="40" />
@@ -1738,12 +1780,17 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/dataset/caltech.py" timestamp="1561364870391">
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/dataset/caltech.py" timestamp="1561371659100">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="19" column="31" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/transforms.py" timestamp="1561364906994">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.py" timestamp="1556694243766">
         <mark key="[" line="0" column="0" />
@@ -1819,6 +1866,12 @@
         <mark key="^" line="999" column="53" />
         <mark key="." line="999" column="53" />
       </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/config/debug.yaml" timestamp="1561370067048">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/model/classifier/build.py" timestamp="1561024086857">
         <mark key="[" line="19" column="65" />
         <mark key="]" line="20" column="19" />
@@ -1884,23 +1937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/fusion/block4_scratch/img1_bbox4.yaml" />
-      <jump line="5" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/fusion/block4_scratch/img1_bbox8.yaml" />
-      <jump line="16" column="41" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" />
-      <jump line="82" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" />
-      <jump line="100" column="36" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" />
-      <jump line="17" column="27" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_bn.yaml" />
-      <jump line="107" column="54" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
-      <jump line="11" column="10" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
-      <jump line="12" column="3" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
-      <jump line="105" column="34" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
-      <jump line="109" column="34" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
-      <jump line="58" column="30" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/predict.py" />
-      <jump line="27" column="25" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/predict.py" />
-      <jump line="39" column="30" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/support_tools/visualize_heatmap.py" />
-      <jump line="40" column="41" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/support_tools/visualize_heatmap.py" />
-      <jump line="26" column="25" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/support_tools/visualize_heatmap.py" />
-      <jump line="83" column="23" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
       <jump line="92" column="40" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" />
       <jump line="0" column="11" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/loss/margin_mae.py" />
       <jump line="1" column="0" filename="$USER_HOME$/ws/chainer/pfn_intern_refine/loss/margin_mae.py" />
@@ -1984,55 +2020,72 @@
       <jump line="134" column="16" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/train.py" />
       <jump line="135" column="19" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/train.py" />
       <jump line="10" column="20" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_only_box_additional_feature/akaze.yaml" />
+      <jump line="12" column="3" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/build.py" />
+      <jump line="61" column="4" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/build.py" />
+      <jump line="17" column="30" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/test_code/data/test_build_data_loader.py" />
+      <jump line="31" column="11" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/config/default.py" />
+      <jump line="20" column="23" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/build.py" />
+      <jump line="76" column="15" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/config/default.py" />
+      <jump line="25" column="20" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/build.py" />
+      <jump line="30" column="30" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/build.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/config/default.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" />
+      <jump line="68" column="39" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" />
+      <jump line="67" column="12" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" />
+      <jump line="93" column="4" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" />
+      <jump line="94" column="38" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" />
+      <jump line="13" column="40" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" />
+      <jump line="37" column="8" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" />
+      <jump line="52" column="16" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbF9sb3NzX21ldGVyLnJlc2V0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>only_additional</text>
+        <text>writer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2ZnLk1PREVMLk1FVEFfQVJDSElURUNUVVJFID09ICdTaWFtZXNlTmV0V2l0aEJveEFkZGl0aW9uYWxGZWF0dXJlJzoKICAgICAgICBtbHAxX2ltZyA9IGJ1aWxkX2ZjX2xheWVycyhjZmcuTU9ERUwuRkNfRElNU1swXSwgY2ZnLk1PREVMLkRST1BPVVQpCiAgICAgICAgbWxwMV9ib3ggPSBidWlsZF9mY19sYXllcnMoY2ZnLk1PREVMLkZDX0RJTVNbMV0sIGNmZy5NT0RFTC5EUk9QT1VUKQogICAgICAgIG1scDFfYWRkaXRpb25hbCA9IGJ1aWxkX2ZjX2xheWVycyhjZmcuTU9ERUwuRkNfRElNU1syXSwgY2ZnLk1PREVMLkRST1BPVVQpCiAgICAgICAgbWxwMiA9IGJ1aWxkX2ZjX2xheWVycyhjZmcuTU9ERUwuRkNfRElNU1szXSwgY2ZnLk1PREVMLkRST1BPVVQpCiAgICAgICAgcmV0dXJuIG1scDFfaW1nLCBtbHAxX2JveCwgbWxwMV9hZGRpdGlvbmFsLCBtbHAyCg==</text>
+        <text encoding="base64">X0MuTU9ERUwuUFJFVFJBSU5FRCA9IEZhbHNlCl9DLk1PREVMLkJOID0gRmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbF9sb3NzX21ldGVyLnJlc2V0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtbHAxX2ltZyA9IGJ1aWxkX2ZjX2xheWVycyhjZmcuTU9ERUwuRkNfRElNU1swXSwgY2ZnLk1PREVMLkRST1BPVVQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZV9pbmZvX2ZpbGUgPSBvcy5wYXRoLmpvaW4oY2FjaGVfZGF0YV9kaXIsICdjYWNoZV9pbmZvLnBrbCcpCg==</text>
+        <text encoding="base64">ICAgIFBSRVRSQUlORUQ6IFRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVfaW5mb19maWxlID0gb3MucGF0aC5qb2luKGNhY2hlX2RhdGFfZGlyLCAnY2FjaGVfaW5mb190cmFpbi5wa2wnKQo=</text>
+        <text encoding="base64">ICAgIEIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX29zY2FsYXIoJ2xyJywgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdyaXRlciA9IFN1bW1hcnlXcml0ZXIoY2ZnLkxPR19ESVIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfbWFrZV9ib3hfZmVhdHVyZV9mZWF0dXJlKGJveGVzLCBpbWdfc2l6ZSk6CiAgICAgICAgeDEgPSBib3hlc1s6LCAwXQogICAgICAgIHkxID0gYm94ZXNbOiwgMV0KICAgICAgICB4MiA9IGJveGVzWzosIDJdCiAgICAgICAgeTIgPSBib3hlc1s6LCAzXQogICAgICAgIHcgPSB4MiAtIHgxCiAgICAgICAgaCA9IHkyIC0geTEKICAgICAgICBpbWdfdyA9IGltZ19zaXplWzosIDBdCiAgICAgICAgaW1nX2ggPSBpbWdfc2l6ZVs6LCAxXQoKICAgICAgICBub3JtX2N4ID0gKHgxICsgdyAvIDIuMCkgLyBpbWdfdwogICAgICAgIG5vcm1fY3kgPSAoeTEgKyBoIC8gMi4wKSAvIGltZ19oCiAgICAgICAgbm9ybV93ID0gdyAvIGltZ193CiAgICAgICAgbm9ybV9oID0gaCAvIGltZ19oCiAgICAgICAgYXNwZWN0X3JhdGlvID0gdyAvIGgKICAgICAgICBib3hfZmVhdHVyZSA9IFt0b3JjaC51bnNxdWVlemUoZiwgZGltPTEpIGZvciBmIGluCiAgICAgICAgICAgICAgICAgICAgICAgW25vcm1fY3gsIG5vcm1fY3ksIG5vcm1fdywgbm9ybV9oLCBhc3BlY3RfcmF0aW9dXQogICAgICAgIGJveF9mZWF0dXJlID0gdG9yY2guY2F0KGJveF9mZWF0dXJlLCBkaW09MSkK</text>
+        <text encoding="base64">ICAgIGlmIG9zLnBhdGguCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYm94X2ZlYXR1cmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfbWFrZV9ib3hfZmVhdHVyZV9mZWF0dXJlKGJveGVzLCBpbWdfc2l6ZSk6CiAgICAgICAgeDEgPSBib3hlc1s6LCAwXQogICAgICAgIHkxID0gYm94ZXNbOiwgMV0KICAgICAgICB4MiA9IGJveGVzWzosIDJdCiAgICAgICAgeTIgPSBib3hlc1s6LCAzXQogICAgICAgIHcgPSB4MiAtIHgxCiAgICAgICAgaCA9IHkyIC0geTEKICAgICAgICBpbWdfdyA9IGltZ19zaXplWzosIDBdCiAgICAgICAgaW1nX2ggPSBpbWdfc2l6ZVs6LCAxXQoKICAgICAgICBub3JtX2N4ID0gKHgxICsgdyAvIDIuMCkgLyBpbWdfdwogICAgICAgIG5vcm1fY3kgPSAoeTEgKyBoIC8gMi4wKSAvIGltZ19oCiAgICAgICAgbm9ybV93ID0gdyAvIGltZ193CiAgICAgICAgbm9ybV9oID0gaCAvIGltZ19oCiAgICAgICAgYXNwZWN0X3JhdGlvID0gdyAvIGgKICAgICAgICBib3hfZmVhdHVyZSA9IFt0b3JjaC51bnNxdWVlemUoZiwgZGltPTEpIGZvciBmIGluCiAgICAgICAgICAgICAgICAgICAgICAgW25vcm1fY3gsIG5vcm1fY3ksIG5vcm1fdywgbm9ybV9oLCBhc3BlY3RfcmF0aW9dXQogICAgICAgIGJveF9mZWF0dXJlID0gdG9yY2guY2F0KGJveF9mZWF0dXJlLCBkaW09MSkKICAgICAgICByZXR1cm4gYm94X2ZlYXR1cmUK</text>
+        <text encoding="base64">X0MuREFUQVNFVC5DQUNIRV9GSUxFID0gJycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>only_additional</last-search>
+      <last-search>writer</last-search>
       <last-offset />
-      <last-pattern>only_additional</last-pattern>
+      <last-pattern>writer</last-pattern>
       <last-replace>only_box_additional</last-replace>
       <last-substitute>only_additional</last-substitute>
       <last-dir>1</last-dir>
@@ -2040,10 +2093,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rang</entry>
-        <entry>ann_ids</entry>
-        <entry>self.ids</entry>
-        <entry>len</entry>
         <entry>print</entry>
         <entry>PROB_OCCLUDED</entry>
         <entry>bn</entry>
@@ -2060,9 +2109,12 @@
         <entry>build_dataset</entry>
         <entry>build</entry>
         <entry>only_additional</entry>
+        <entry>BS</entry>
+        <entry>CACHE</entry>
+        <entry>BN</entry>
+        <entry>writer</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/_subset//gc</entry>
         <entry>%s/[]/cache_info[]/gc</entry>
         <entry>%s/block4/block2/gc</entry>
         <entry>105</entry>
@@ -2078,9 +2130,10 @@
         <entry>149</entry>
         <entry>40</entry>
         <entry>%s/only_additional/only_box_additional/gc</entry>
-        <entry>wq</entry>
         <entry>37</entry>
         <entry>36</entry>
+        <entry>e</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
