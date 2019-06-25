@@ -339,11 +339,11 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/model/cam/cam.py" timestamp="1561443141410">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="9" />
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/model/cam/cam.py" timestamp="1561444331359">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="39" />
         <mark key="^" line="18" column="42" />
-        <mark key="." line="19" column="9" />
+        <mark key="." line="18" column="39" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1557900784888">
         <mark key="[" line="8" column="90" />
@@ -694,12 +694,12 @@
         <mark key="^" line="3" column="56" />
         <mark key="." line="3" column="56" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/cam.py" timestamp="1561443190154">
-        <mark key="'" line="46" column="36" />
-        <mark key="[" line="31" column="72" />
-        <mark key="]" line="31" column="60" />
-        <mark key="." line="31" column="60" />
-        <mark key="^" line="31" column="60" />
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/cam.py" timestamp="1561444368551">
+        <mark key="'" line="47" column="36" />
+        <mark key="[" line="33" column="51" />
+        <mark key="]" line="33" column="51" />
+        <mark key="." line="33" column="51" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" timestamp="1559389535234">
         <mark key="[" line="105" column="0" />
@@ -2065,44 +2065,44 @@
       <jump line="44" column="33" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB5ID0geC52aWV3KGIsIGMsIGgsIHcpCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>eval</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0geC5jb250aWd1b3VzKCkudmlldygtMSwgYykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYXRtYXAgPSBjdjIucmVzaXplKG91dHB1dFtsYWJlbHNbYmF0Y2hfaWR4XV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoaW1nLnNoYXBlWzFdLCBpbWcuc2hhcGVbMF0pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB5ID0geC52aWV3KGIsIGMsIGgsIHcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChpbWcuc2hhcGVbMV0sIGltZy5zaGFwZVswXSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChpbWcuc2hhcGVbMV0sIGltZy5zaGFwZVswXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgICAgICB5ID0geC52aWV3KGIsIGMsIGgsIHcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gdG9yY2guCg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB5ID0gdG9yY2gubWVhbih4LCBkaSkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0geC52aWV3KC0xLCApCg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gdG9yY2guCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0geC52aWV3KGIsIGMsIGgsIHcpCg==</text>
+        <text encoding="base64">ICAgICAgICB5ID0gdG9yY2gubWVhbih4LCBkaSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB4ID0geC52aWV3KC0xLCApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiLCBfLCBoLCB3ID0geC5zaGFwZQo=</text>
+        <text encoding="base64">ICAgICAgICB4ID0geC52aWV3KGIsIGMsIGgsIHcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
