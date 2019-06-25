@@ -339,11 +339,11 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/model/cam/cam.py" timestamp="1561438470386">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="12" column="15" />
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/model/cam/cam.py" timestamp="1561443141410">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="18" column="42" />
+        <mark key="." line="19" column="9" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1557900784888">
         <mark key="[" line="8" column="90" />
@@ -694,12 +694,12 @@
         <mark key="^" line="3" column="56" />
         <mark key="." line="3" column="56" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/cam.py" timestamp="1561439776479">
-        <mark key="'" line="44" column="36" />
-        <mark key="[" line="31" column="82" />
-        <mark key="]" line="31" column="85" />
-        <mark key="." line="31" column="85" />
-        <mark key="^" line="31" column="85" />
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/cam.py" timestamp="1561443190154">
+        <mark key="'" line="46" column="36" />
+        <mark key="[" line="31" column="72" />
+        <mark key="]" line="31" column="60" />
+        <mark key="." line="31" column="60" />
+        <mark key="^" line="31" column="60" />
       </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" timestamp="1559389535234">
         <mark key="[" line="105" column="0" />
@@ -2066,43 +2066,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxfbG9zc19tZXRlci5yZXNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB5ID0geC52aWV3KGIsIGMsIGgsIHcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>eval</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5ldmFsKCkK</text>
+        <text encoding="base64">ICAgICAgICB4ID0geC5jb250aWd1b3VzKCkudmlldygtMSwgYykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxfbG9zc19tZXRlci5yZXNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB5ID0geC52aWV3KGIsIGMsIGgsIHcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5ldmFsKCkK</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBvcy5wYXRoLmpvaW4oY2ZnLlNBVkVfRElSLCAnbWluX3ZhbC5wdGgnKSkK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gdG9yY2guCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuYWRkX3NjYWxhcnMoCiAgICAgICAgICAgICdsb3NzJywgeyd2YWwnOiB2YWxfbG9zc19tZXRlci5hdmd9LCBpdGVyYXRpb25fY291bnRlcikKICAgICAgICB2YWxfbG9zc19tZXRlci5yZXNldCgpCiAgICAgICAgaWYgdmFsX2xvc3NfbWV0ZXIuYXZnIDwgbWluX3ZhbF9sb3NzOgogICAgICAgICAgICBtaW5fdmFsX2xvc3MgPSB2YWxfbG9zc19tZXRlci5hdmcKICAgICAgICAgICAgdG9yY2guc2F2ZShtb2RlbC5zdGF0ZV9kaWN0KCksCg==</text>
+        <text encoding="base64">ICAgICAgICB5ID0gdG9yY2gubWVhbih4LCBkaSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbF9sb3NzX21ldGVyLnVwZGF0ZSh2YWxfbG9zcy5pdGVtKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0geC52aWV3KC0xLCApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbF9sb3NzID0gY3JpdGVyaW9uKG1vZGVsKHZhbF9pbWdzKSwgdmFsX2xhYmVscykK</text>
+        <text encoding="base64">ICAgICAgICB4ID0geC52aWV3KGIsIGMsIGgsIHcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbF9sYWJlbHMgPSB0ZXN0X2xhYmVscy50byhkZXZpY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbF9sYWJlbHMgPSB0ZXN0X2xhYmVscy50byhkZXZpY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBiLCBfLCBoLCB3ID0geC5zaGFwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2141,7 +2141,6 @@
         <entry>eval</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/block4/block2/gc</entry>
         <entry>105</entry>
         <entry>118</entry>
         <entry>87</entry>
@@ -2160,6 +2159,7 @@
         <entry>e</entry>
         <entry>pkl</entry>
         <entry>wq</entry>
+        <entry>32</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
