@@ -213,11 +213,12 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_hand_crafted_feature.py" timestamp="1561633144230">
-        <mark key="[" line="74" column="69" />
-        <mark key="]" line="71" column="15" />
-        <mark key="." line="71" column="15" />
-        <mark key="^" line="71" column="15" />
+      <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_hand_crafted_feature.py" timestamp="1561635309036">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="45" />
+        <mark key="." line="37" column="45" />
+        <mark key="^" line="37" column="45" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/visualize_shifted_boxes.py" timestamp="1558011967673">
         <mark key="'" line="49" column="15" />
@@ -1973,13 +1974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="37" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="94" column="41" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="129" column="21" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="82" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="81" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="76" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="22" column="14" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/make_subset_cache_info.py" />
       <jump line="0" column="1" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/make_subset_cache_info.py" />
       <jump line="41" column="4" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/make_subset_cache_info.py" />
       <jump line="129" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train_scratch.py" />
@@ -2073,55 +2067,62 @@
       <jump line="44" column="36" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/cam.py" />
       <jump line="16" column="0" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/test.py" />
       <jump line="44" column="33" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" />
+      <jump line="88" column="8" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_hand_crafted_feature.py" />
+      <jump line="56" column="21" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_hand_crafted_feature.py" />
+      <jump line="85" column="15" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_hand_crafted_feature.py" />
+      <jump line="50" column="28" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_hand_crafted_feature.py" />
+      <jump line="60" column="33" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_hand_crafted_feature.py" />
+      <jump line="75" column="14" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_hand_crafted_feature.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_hand_crafted_feature.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>eval</text>
+        <text>load</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHN0X2twID0gbnAuYXJyYXkoW10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbHN0X2twLmFwcGVuZChrcCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbHQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHN0X2twID0gbnAuYXJyYXkoW10pCg==</text>
+        <text encoding="base64">ICAgIGltZyA9IGN2Mi5pbXJlYWQoaW1nX3BhdGgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbHN0X2Rlcy5hcHBlbmQoZGVzLnRvbGlzdCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsc3RfZGVzLmFwcGVuZChsaXN0KGRlcykpCiAgICAgICAgICAgIGNhY2hlX2RhdGEgPSBkaWN0KAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbHN0X2twLmFwcGVuZChrcC50b2xpc3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVfZGF0YVtpbWdfaWRdW2Fubl9pZF0gPSBkaWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZV9kYXRhW2ltZ19pZF0gPSBkaWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhY2hlX2RhdGEgPSBkaWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVfZGF0YVtpbWdfaWRdW2Fubl9pZF1bJ2ZlYXR1cmUnXSA9IGxzdF9kZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVfZGF0YVtpbWdfaWRdW2Fubl9pZF1bJ2tleV9wb2ludCddID0gbHN0X2twCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>eval</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern>eval</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-replace>only_box_additional</last-replace>
       <last-substitute>only_additional</last-substitute>
       <last-dir>1</last-dir>
@@ -2129,8 +2130,6 @@
     </search>
     <history>
       <history-search>
-        <entry>with_box</entry>
-        <entry>only_box</entry>
         <entry>base</entry>
         <entry>additional</entry>
         <entry>build_dataset</entry>
@@ -2149,6 +2148,8 @@
         <entry>type</entry>
         <entry>pd</entry>
         <entry>eval</entry>
+        <entry>annot</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
         <entry>105</entry>
