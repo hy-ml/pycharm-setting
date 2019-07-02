@@ -1792,6 +1792,12 @@
         <mark key="." line="7" column="62" />
         <mark key="^" line="7" column="62" />
       </file>
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" timestamp="1562055370011">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="21" column="27" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/MultiStageNet/GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1556986646808">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="16" column="2" />
@@ -1829,10 +1835,10 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" timestamp="1562051935184">
-        <mark key="[" line="77" column="16" />
-        <mark key="]" line="77" column="17" />
-        <mark key="." line="77" column="17" />
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" timestamp="1562055423836">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.py" timestamp="1556694243766">
         <mark key="[" line="0" column="0" />
@@ -2094,44 +2100,44 @@
       <jump line="9" column="44" filename="$USER_HOME$/research_code/python/keypoint_matching/utils/coco.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBsaWIudXRpbHMgaW1wb3J0IGxvYWRfaW1nLCBjcm9wX2ltZ19ieV9tYXNrCmZyb20gbGliLmNvbnZlcnRfYW5uIGltcG9ydCBhbm5Ub01hc2sKZnJvbSBsaWIuZXh0cmFjdF9vYmplY3QgaW1wb3J0IGV4dHJhY3Rfb2JqZWN0CmZyb20gbGliLm1lcmdlX29iamVjdHMgaW1wb3J0IG1lcmdlX29iamVjdHMKCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZXMgPSBtYXRjaGVyLm1hdGNoKGRlczEsIGRlczIpCg==</text>
+        <text encoding="base64">ICAgIGxzdF9wYWlyX2JveF9zYW1lID0gZ2VuZXJhdGVfaW1ncyhjb3VudF9zYW1wbGUsIGxzdF9hbm5fcGFpcl9zYW1lLCBvdXRkaXJfc2FtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdvb2QgPSBbXQo=</text>
+        <text encoding="base64">ZnJvbSBsaWIudXRpbHMgaW1wb3J0IGxvYWRfaW1nLCBjcm9wX2ltZ19ieV9tYXNrCmZyb20gbGliLmNvbnZlcnRfYW5uIGltcG9ydCBhbm5Ub01hc2sKZnJvbSBsaWIuZXh0cmFjdF9vYmplY3QgaW1wb3J0IGV4dHJhY3Rfb2JqZWN0CmZyb20gbGliLm1lcmdlX29iamVjdHMgaW1wb3J0IG1lcmdlX29iamVjdHMKCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsZW4obWF0Y2hlcykvbGVuKGtwMSksIGxlbihtYXRjaGVzKS9sZW4oa3AyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZXMgPSBtYXRjaGVyLm1hdGNoKGRlczEsIGRlczIpCg==</text>
+        <text encoding="base64">ICAgIG1haW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgbWF0Y2hlcyA9IG1hdGNoZXIubWF0Y2goZGVzMSwgZGVzMikK</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZV9kYXRhID0gcGlja2xlLmxvYWQoZnApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZXIuCg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbihhcmdzLmNhY2hlX2Fubl9wYWlycywgJ3JiJykgYXMgZnA6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltCg==</text>
+        <text encoding="base64">ICAgIG1haW4oYXJncy5vdXRkaXIsIGNhY2hlX2RhdGEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2170,7 +2176,6 @@
         <entry>load</entry>
       </history-search>
       <history-cmd>
-        <entry>118</entry>
         <entry>87</entry>
         <entry>%s/bn/dropout/gc</entry>
         <entry>41</entry>
@@ -2189,6 +2194,7 @@
         <entry>32</entry>
         <entry>wq</entry>
         <entry>.,.+7w</entry>
+        <entry>66</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
