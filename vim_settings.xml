@@ -490,6 +490,7 @@
         <mark key="^" line="135" column="33" />
         <mark key="." line="135" column="33" />
       </file>
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/README.txt" timestamp="1562051905598" />
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/tmp2.py" timestamp="1557742032779">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="12" column="12" />
@@ -1822,17 +1823,16 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/dataset/caltech.py" timestamp="1561371659100">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/transforms.py" timestamp="1561364906994">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" timestamp="1562051935184">
+        <mark key="[" line="77" column="16" />
+        <mark key="]" line="77" column="17" />
+        <mark key="." line="77" column="17" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.py" timestamp="1556694243766">
         <mark key="[" line="0" column="0" />
