@@ -29,6 +29,9 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
+      <file name="/a.dummy" timestamp="1562119634520">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/utils.py" timestamp="1557168809812">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="21" />
@@ -533,6 +536,13 @@
         <mark key="]" line="46" column="7" />
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
+      </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" timestamp="1562119944436">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="90" column="30" />
+        <mark key="]" line="91" column="33" />
+        <mark key="." line="91" column="33" />
+        <mark key="^" line="91" column="33" />
       </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/test_code/dataset/test_caltech_dataset.py" timestamp="1561013802514">
         <mark key="[" line="13" column="48" />
@@ -1415,6 +1425,12 @@
         <mark key="^" line="3" column="27" />
         <mark key="." line="3" column="27" />
       </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/utils/convert_box_format.py" timestamp="1562119675251">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_with_box_feature.py" timestamp="1559188648589">
         <mark key="'" line="79" column="24" />
         <mark key="[" line="47" column="0" />
@@ -2018,10 +2034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="52" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="39" column="18" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded.py" />
-      <jump line="40" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded.py" />
       <jump line="41" column="29" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded.py" />
       <jump line="42" column="25" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded.py" />
       <jump line="43" column="27" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded.py" />
@@ -2118,63 +2130,66 @@
       <jump line="27" column="0" filename="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" />
       <jump line="78" column="28" filename="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" />
       <jump line="19" column="4" filename="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
+      <jump line="35" column="10" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
+      <jump line="15" column="18" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5kZXRlY3RvciBpbXBvcnQgYnVpbGRfZGV0ZWN0b3IKZnJvbSB1dGlscy5tYXRjaGVyIGltcG9ydCBidWlsZF9tYXRjaGVyCgoK</text>
+        <text encoding="base64">ICAgIGNvb28gPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>calc_area</text>
+        <text>xp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcmVhcyA9IG5wLmFzYXJyYXkoW2NhbGNfYXJlYShib3gpIGZvciBib3ggaW4gYm94ZXNdKQo=</text>
+        <text encoding="base64">ICAgICAgICBvY2NsdWRlZF9pbmRpY2VzID0gbnAud2hlcmUobWF4X2lvdXMgPiB0aHJlc2hvbGRfb2NjbHVkZWQpWzBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5kZXRlY3RvciBpbXBvcnQgYnVpbGRfZGV0ZWN0b3IKZnJvbSB1dGlscy5tYXRjaGVyIGltcG9ydCBidWlsZF9tYXRjaGVyCgoK</text>
+        <text encoding="base64">ICAgIGNvb28gPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlvdXMgPSBjYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3hlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToKICAgIHBhcnNlciA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2ltZzEnKQogICAgcGFyc2VyLmFkZF9hcmd1bWVudCgnaW1nMicpCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KCdtZXRob2QnKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkKCiAgICBpbWcxID0gY3YyLmltcmVhZChhcmdzLmltZzEsIGN2Mi5JTVJFQURfR1JBWVNDQUxFKQogICAgaW1nMiA9IGN2Mi5pbXJlYWQoYXJncy5pbWcyLCBjdjIuSU1SRUFEX0dSQVlTQ0FMRSkKCiAgICBkZXRlY3RvciA9IGJ1aWxkX2RldGVjdG9yKGFyZ3MubWV0aG9kKQogICAgbWF0Y2hlciA9IGJ1aWxkX21hdGNoZXIoJ2JmJykKICAgIG1hdGNoaW5nX3JhdGlvMSwgbWF0Y2hpbmdfcmF0aW8yID0gXAogICAgICAgIGNhbGNfbWF0Y2hpbmdfcmF0aW8oZGV0ZWN0b3IsIG1hdGNoZXIsIGltZzEsIGltZzIsIDAuNSkKICAgIHByaW50KCdSYXRpbzE6IHt9LCBSYXRpbzI6IHt9Jy5mb3JtYXQobWF0Y2hpbmdfcmF0aW8xLCBtYXRjaGluZ19yYXRpbzIpKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
+        <text encoding="base64">ICAgICAgICBib3hlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hc2sgPSBhbm4K</text>
+        <text encoding="base64">ICAgICAgICBhbm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcmVhCg==</text>
+        <text encoding="base64">ICAgICIiIiIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFyZWEgPSBoICogdwo=</text>
+        <text encoding="base64">ICAgIGZvciBpbWdfaWQgaW4gY29jby5nZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGggPSB5X21heCAtIHlfbWluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>calc_area</last-search>
+      <last-search>xp</last-search>
       <last-offset />
-      <last-pattern>calc_area</last-pattern>
-      <last-replace>only_box_additional</last-replace>
-      <last-substitute>only_additional</last-substitute>
+      <last-pattern>xp</last-pattern>
+      <last-replace>np</last-replace>
+      <last-substitute>xp</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>additional</entry>
         <entry>build_dataset</entry>
         <entry>build</entry>
         <entry>only_additional</entry>
@@ -2194,10 +2209,9 @@
         <entry>annot</entry>
         <entry>load</entry>
         <entry>calc_area</entry>
+        <entry>xp</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/with_box/with_box_additional/gc</entry>
-        <entry>%s/only_box/only_additional/gc</entry>
         <entry>%s/base/akaze/g</entry>
         <entry>149</entry>
         <entry>40</entry>
@@ -2214,8 +2228,10 @@
         <entry>68</entry>
         <entry>57</entry>
         <entry>26</entry>
-        <entry>w</entry>
+        <entry>%s/xp/np/gcc</entry>
+        <entry>%s/xp/np/gc</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
