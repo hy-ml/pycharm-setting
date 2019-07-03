@@ -126,6 +126,11 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/eval.py" timestamp="1562139386134">
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="35" column="56" />
+        <mark key="." line="35" column="56" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze_pos_neg_equal.yaml" timestamp="1557799862924">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="15" />
@@ -414,11 +419,12 @@
         <mark key="^" line="25" column="43" />
         <mark key="." line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/utils/calc_ratio.py" timestamp="1562127388354">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/utils/calc_ratio.py" timestamp="1562142399254">
+        <mark key="'" line="72" column="19" />
+        <mark key="[" line="87" column="47" />
+        <mark key="]" line="87" column="47" />
+        <mark key="." line="87" column="47" />
+        <mark key="^" line="87" column="47" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1557252044041">
         <mark key="[" line="1" column="12" />
@@ -744,12 +750,12 @@
         <mark key="." line="32" column="41" />
         <mark key="^" line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" timestamp="1562128849395">
-        <mark key="'" line="83" column="15" />
-        <mark key="[" line="140" column="37" />
-        <mark key="]" line="140" column="36" />
-        <mark key="." line="140" column="36" />
-        <mark key="^" line="140" column="36" />
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" timestamp="1562142120289">
+        <mark key="'" line="212" column="0" />
+        <mark key="[" line="210" column="9" />
+        <mark key="]" line="211" column="9" />
+        <mark key="." line="211" column="9" />
+        <mark key="^" line="211" column="9" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1557998765086">
         <mark key="[" line="12" column="0" />
@@ -1785,6 +1791,13 @@
         <mark key="." line="66" column="40" />
         <mark key="^" line="66" column="40" />
       </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" timestamp="1562141878511">
+        <mark key="'" line="255" column="8" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="272" column="17" />
+        <mark key="." line="255" column="0" />
+        <mark key="^" line="216" column="8" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/multi_stage_net.py" timestamp="1557162237874">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="12" />
@@ -2056,32 +2069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="44" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="55" column="16" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="59" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="67" column="57" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="79" column="22" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="50" column="8" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="17" column="12" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="23" column="7" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="117" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
-      <jump line="65" column="54" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
-      <jump line="83" column="26" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
-      <jump line="86" column="24" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/build.py" />
-      <jump line="16" column="11" filename="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_dropout_prob_occluded_pair0.5.yaml" />
-      <jump line="40" column="44" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/support_scripts/dataset/split_data_caltech.py" />
-      <jump line="68" column="35" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/support_scripts/dataset/split_data_caltech.py" />
-      <jump line="23" column="30" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/dataset/caltech.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/dataset/caltech.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
-      <jump line="83" column="39" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
-      <jump line="77" column="12" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/train.py" />
-      <jump line="8" column="14" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_box_additional_feature/l1_norm/no_additional_feaure/vgg_block4_freeze.yaml" />
-      <jump line="2" column="28" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_only_additional_feature/akaze.yaml" />
-      <jump line="10" column="20" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_only_additional_feature/akaze.yaml" />
-      <jump line="21" column="0" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/data/build.py" />
       <jump line="37" column="16" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/data/build.py" />
       <jump line="38" column="30" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/data/build.py" />
       <jump line="128" column="8" filename="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/train.py" />
@@ -2156,55 +2143,81 @@
       <jump line="6" column="9" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
       <jump line="15" column="50" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_matching_raio.py" />
       <jump line="83" column="15" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
+      <jump line="109" column="20" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
+      <jump line="210" column="19" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
+      <jump line="211" column="19" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
+      <jump line="232" column="19" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
+      <jump line="233" column="8" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
+      <jump line="137" column="11" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="200" column="22" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="189" column="4" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="187" column="20" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="214" column="43" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="236" column="43" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="14" column="32" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="188" column="0" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="178" column="26" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="237" column="8" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="229" column="56" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="235" column="22" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="224" column="17" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="222" column="26" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="255" column="8" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="212" column="0" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
+      <jump line="69" column="30" filename="$USER_HOME$/research_code/suppression/keypoint_matching/utils/calc_ratio.py" />
+      <jump line="70" column="25" filename="$USER_HOME$/research_code/suppression/keypoint_matching/utils/calc_ratio.py" />
+      <jump line="72" column="19" filename="$USER_HOME$/research_code/suppression/keypoint_matching/utils/calc_ratio.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hdGNoaW5nX3JhdGlvX2RpZmYgPSBucC5zb3J0KG1hdGNoaW5nX3JhdGlvX2RpZmYsIGF4aXM9LTEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>20</text>
+        <text>append</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hdGNoaW5nX3JhdGlvX2RpZmYgPSBucC5zb3J0KG1hdGNoaW5nX3JhdGlvX2RpZmYsIGF4aXM9LTEpCg==</text>
+        <text encoding="base64">ICAgIG1hdGNoZXMgPSBtYXRjaGVyLmtubk1hdGNoKGRlczEsIGRlczIsIGs9MikKICAgIGxzdF9yYXRpb3MgPSBbXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsdC5zY2F0dGVyKG1hdGNoaW5nX3JhdGlvX2RpZmZbOiwgMF0sIG1hdGNoaW5nX3JhdGlvX2RpZmZbOiwgMV0pCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBsc3RfcmF0aW9zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hdGNoaW5nX3JhdGlvX2RpZmYgPSBucC5zb3J0KG1hdGNoaW5nX3JhdGlvX2RpZmYsIGF4aXM9LTEpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbHN0X3JhdGlvcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsdC5zY2F0dGVyKG1hdGNoaW5nX3JhdGlvX3NhbWVbOiwgMF0sIG1hdGNoaW5nX3JhdGlvX3NhbWVbOiwgMV0pCg==</text>
+        <text encoding="base64">ICAgIGAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hdGNoaW5nX3JhdGlvX3NhbWUgPSBucC5zb3J0KG1hdGNoaW5nX3JhdGlvX3NhbWUsIGF4aXM9LTEpCiAgICByYWlvdAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbHN0X3JhdGlvcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbHN0X3JhdGlvcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc2kK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGxpbmVyKHBhcmFtLCB4LCB5KToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweSBpbXBvcnQgb3B0aW1pemUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>20</last-search>
+      <last-search>append</last-search>
       <last-offset />
-      <last-pattern>20</last-pattern>
+      <last-pattern>append</last-pattern>
       <last-replace>np</last-replace>
       <last-substitute>xp</last-substitute>
       <last-dir>1</last-dir>
@@ -2212,12 +2225,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_data</entry>
-        <entry>trans</entry>
-        <entry>transo</entry>
-        <entry>type</entry>
-        <entry>pd</entry>
-        <entry>eval</entry>
         <entry>annot</entry>
         <entry>load</entry>
         <entry>calc_area</entry>
@@ -2232,9 +2239,14 @@
         <entry>img1</entry>
         <entry>bins</entry>
         <entry>20</entry>
+        <entry encoding="base64">XDxpbWcyXD4=</entry>
+        <entry>matcher</entry>
+        <entry>split</entry>
+        <entry>match</entry>
+        <entry>resize</entry>
+        <entry>append</entry>
       </history-search>
       <history-cmd>
-        <entry>37</entry>
         <entry>36</entry>
         <entry>e</entry>
         <entry>pkl</entry>
@@ -2253,6 +2265,7 @@
         <entry>169</entry>
         <entry>168</entry>
         <entry>34</entry>
+        <entry>221</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
