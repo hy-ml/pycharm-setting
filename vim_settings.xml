@@ -464,6 +464,12 @@
         <mark key="^" line="77" column="45" />
         <mark key="." line="77" column="45" />
       </file>
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/support_tools/extract_imgs.py" timestamp="1562226459688">
+        <mark key="[" line="15" column="65" />
+        <mark key="]" line="15" column="68" />
+        <mark key="." line="15" column="68" />
+        <mark key="^" line="15" column="68" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch_utils/__init__.py" timestamp="1559134287644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="38" />
@@ -1931,7 +1937,7 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" timestamp="1562064755882">
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" timestamp="1562225934268">
         <mark key="'" line="21" column="4" />
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="22" />
@@ -2198,44 +2204,44 @@
       <jump line="25" column="8" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nX3BhdGggPSAnLi9nZW5lcmF0ZV9vY2NsdWRlZF9pbWdfZmFpbGVkLmxvZycK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmlzZGlyKG9zLnBhdGguam9pbihhcmdzLm91dGRpciwgJ2ltYWdlcycsICd0cmFpbicpKToKICAgICAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmpvaW4oYXJncy5vdXRkaXIsICdpbWFnZXMnLCAndHJhaW4nKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsdC5oaXN0KGNvdW50cywgYmlucz01MCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaSArIDEpICUgMTAwOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3t9L3t9Jy5mb3JtYXQoaSsxLCBsZW4oY29jby5nZSkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpc3QK</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfaW1nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYW5uIGluIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2274,7 +2280,6 @@
         <entry>data</entry>
       </history-search>
       <history-cmd>
-        <entry>36</entry>
         <entry>e</entry>
         <entry>pkl</entry>
         <entry>32</entry>
@@ -2293,6 +2298,7 @@
         <entry>34</entry>
         <entry>221</entry>
         <entry>wq</entry>
+        <entry>29</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
