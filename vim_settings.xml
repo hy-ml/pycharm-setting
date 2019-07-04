@@ -1881,8 +1881,8 @@
         <mark key="." line="7" column="62" />
         <mark key="^" line="7" column="62" />
       </file>
-      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" timestamp="1562222402040">
-        <mark key="'" line="16" column="48" />
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" timestamp="1562223156388">
+        <mark key="'" line="25" column="8" />
         <mark key="[" line="60" column="56" />
         <mark key="]" line="60" column="69" />
         <mark key="^" line="60" column="69" />
@@ -2090,14 +2090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="44" filename="$USER_HOME$/research_code/python/keypoint_matching/utils/coco.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/dataset/coco/occluded_data_generation/cache_pair_anns.py" />
-      <jump line="12" column="41" filename="$USER_HOME$/dataset/coco/occluded_data_generation/cache_pair_anns.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" />
-      <jump line="78" column="28" filename="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" />
-      <jump line="19" column="4" filename="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
-      <jump line="35" column="10" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
       <jump line="0" column="0" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
       <jump line="178" column="12" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
       <jump line="151" column="39" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
@@ -2150,7 +2142,6 @@
       <jump line="44" column="20" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="10" column="4" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="9" column="43" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="49" column="39" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="16" column="25" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_object_background.py" />
       <jump line="82" column="43" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
       <jump line="84" column="11" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
@@ -2190,6 +2181,15 @@
       <jump line="15" column="7" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="95" column="24" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="16" column="48" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="49" column="33" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="29" column="30" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="60" column="70" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="70" column="58" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="80" column="14" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="89" column="30" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="98" column="24" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="112" column="60" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="25" column="8" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2199,7 +2199,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>succ</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bG9nX3BhdGggPSAnLi9nZW5lcmF0ZV9vY2NsdWRlZF9pbWdfZmFpbGVkLmxvZycK</text>
@@ -2236,9 +2236,9 @@
       </register>
     </registers>
     <search>
-      <last-search>succ</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>succ</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>np</last-replace>
       <last-substitute>xp</last-substitute>
       <last-dir>1</last-dir>
@@ -2246,7 +2246,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def main</entry>
         <entry>where</entry>
         <entry>mask</entry>
         <entry>merged</entry>
@@ -2266,6 +2265,7 @@
         <entry>pdb</entry>
         <entry>log_path</entry>
         <entry>succ</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
