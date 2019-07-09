@@ -1495,11 +1495,12 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" timestamp="1562652737908">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="20" />
-        <mark key="." line="102" column="20" />
+      <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" timestamp="1562661254474">
+        <mark key="'" line="60" column="56" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="144" column="75" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" timestamp="1559215647333">
         <mark key="'" line="48" column="25" />
@@ -2214,19 +2215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="4" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
-      <jump line="70" column="16" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
-      <jump line="74" column="40" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
-      <jump line="7" column="40" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
-      <jump line="65" column="32" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
-      <jump line="10" column="11" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
-      <jump line="12" column="11" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
-      <jump line="85" column="11" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
-      <jump line="27" column="4" filename="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" />
-      <jump line="85" column="29" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="4" column="17" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="65" column="26" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="54" column="0" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="100" column="13" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="10" column="13" filename="$USER_HOME$/dataset/coco/occluded_data_generation/support_tools/visualize_merged_img_with_box.py" />
@@ -2314,55 +2302,68 @@
       <jump line="112" column="25" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train_scratch.py" />
       <jump line="130" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train_scratch.py" />
       <jump line="135" column="11" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train_scratch.py" />
+      <jump line="103" column="27" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="112" column="20" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="110" column="49" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="46" column="32" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="83" column="41" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="107" column="37" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="94" column="30" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="98" column="51" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="118" column="57" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="111" column="59" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="122" column="26" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="60" column="56" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U09MVkVSOgogIExSOiAwLjAxCiAgTFJfU0NIRURVTEVSOiAiTXVsdGlTdGVwTFIiCiAgTFJfU0NIRURVTEVSX1NURVA6IFsxMDBdCiAgTFJfU0NIRURVTEVSX0dBTU1BOiAwLjEKICBNSU5fRVBPQ0g6IDEwMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>lr_scheduler</text>
+        <text>generate_imgs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U09MVkVSOgogIExSOiAwLjAxCiAgTFJfU0NIRURVTEVSOiAiTXVsdGlTdGVwTFIiCiAgTFJfU0NIRURVTEVSX1NURVA6IFsxMDBdCiAgTFJfU0NIRURVTEVSX0dBTU1BOiAwLjEKICBNSU5fRVBPQ0g6IDEwMDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHJfc2NoZWR1bGVyLnN0ZXAobWluX3ZhbF9sb3NzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlvdSA9IG5wLm1heCgKICAgICAgICAgICAgICAgICAgICBjYWxjX2lvdV90d29fYm94ZXMobnAuYXNhcnJheShbYm94MV0pLCBucC5hc2FycmF5KFtib3gyXSkpKQogICAgICAgICAgICAgICAgaWYgaW91IDwgMC4yNToKICAgICAgICAgICAgICAgICAgICBjb3VudF9leGNlcHRpb24gKz0gMQogICAgICAgICAgICAgICAgICAgIGlmIGNvdW50X2V4Y2VwdGlvbiA+IDU6CiAgICAgICAgICAgICAgICAgICAgICAgIHdpdGggb3BlbihmYWlsZWRfbG9nX3BhdGgsICdhJykgYXMgZnA6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcC53cml0ZSgnZXhjZXB0aW9uOiB7fVxuJy5mb3JtYXQoZGF0YSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lcmdlZF9pbWcgPSBjcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJhbmRvbS5zaHVmZmxlKGxzdF9vY2NsdWRlZF9wYWlyKQogICAgcmFuZG9tLnNodWZmbGUobHN0X25vdF9vY2NsdWRlZF9wYWlyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXJnZWRfaW1nLCBiYWNrZ3JvdW5kX2ltZywgbWVyZ2VkX21hc2spCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lcmdlZF9pbWcgPSBtZXJnZV9vYmplY3RfYmFja2dyb3VuZCgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVfcGFpciA9IHBpY2tsZS5sb2FkKGZwKQo=</text>
+        <text encoding="base64">ICAgICAgICBtZXJnZWRfaW1nID0gY3JvcF9pbWdfYnlfbWFzayhtZXJnZWRfaW1nLCBtZXJnZWRfbWFzaykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lcmdlZF9pbWcgPSBjcm9wX2ltZ19ieV9tYXNrKG1lcmdlZF9pbWcsIG1lcmdlZF9tYXNrKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lr_scheduler</last-search>
+      <last-search>generate_imgs</last-search>
       <last-offset />
-      <last-pattern>lr_scheduler</last-pattern>
+      <last-pattern>generate_imgs</last-pattern>
       <last-replace>split</last-replace>
       <last-substitute>split_by</last-substitute>
       <last-dir>1</last-dir>
@@ -2370,10 +2371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pdb</entry>
-        <entry>log_path</entry>
-        <entry>succ</entry>
-        <entry>data</entry>
         <entry>coco</entry>
         <entry>split_by</entry>
         <entry>exec</entry>
@@ -2390,6 +2387,10 @@
         <entry>same</entry>
         <entry>lr_sche</entry>
         <entry>lr_scheduler</entry>
+        <entry>print</entry>
+        <entry>box1</entry>
+        <entry>num_samples</entry>
+        <entry>generate_imgs</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
