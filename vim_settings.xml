@@ -1463,6 +1463,12 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" timestamp="1562652737908">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="20" />
+        <mark key="." line="102" column="20" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" timestamp="1559215647333">
         <mark key="'" line="48" column="25" />
         <mark key="[" line="34" column="49" />
@@ -2145,7 +2151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="15" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
       <jump line="154" column="15" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
       <jump line="23" column="15" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" />
       <jump line="6" column="9" filename="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
@@ -2245,55 +2250,56 @@
       <jump line="4" column="0" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_grouped_ann_ids.py" />
       <jump line="7" column="8" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_grouped_ann_ids.py" />
       <jump line="53" column="59" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_grouped_ann_ids.py" />
+      <jump line="18" column="13" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGNvdW50X2V4Y2VwdGlvbiA+IDU6CiAgICAgICAgICAgICAgICAgICAgd2l0aCBvcGVuKGZhaWxlZF9sb2dfcGF0aCwgJ2EnKSBhcyBmcDoKICAgICAgICAgICAgICAgICAgICAgICAgZnAud3JpdGUoJ2V4Y2VwdGlvbjoge31cbicuZm9ybWF0KGRhdGEpKQogICAgICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="-" type="4">
         <text>cache_ann</text>
       </register>
       <register name="/" type="4">
-        <text>10</text>
+        <text>continue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdiJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGNvdW50X2V4Y2VwdGlvbiA+IDU6CiAgICAgICAgICAgICAgICAgICAgd2l0aCBvcGVuKGZhaWxlZF9sb2dfcGF0aCwgJ2EnKSBhcyBmcDoKICAgICAgICAgICAgICAgICAgICAgICAgZnAud3JpdGUoJ2V4Y2VwdGlvbjoge31cbicuZm9ybWF0KGRhdGEpKQogICAgICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGlvdSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzb3VyY2VfY2F0ZWdvcnkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdjJykK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzb3VyY2VfY2F0ZWdvcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdiJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdjJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdhJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdiJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdhJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>10</last-search>
+      <last-search>continue</last-search>
       <last-offset />
-      <last-pattern>10</last-pattern>
+      <last-pattern>continue</last-pattern>
       <last-replace>split</last-replace>
       <last-substitute>split_by</last-substitute>
       <last-dir>1</last-dir>
@@ -2301,7 +2307,6 @@
     </search>
     <history>
       <history-search>
-        <entry>merge</entry>
         <entry>glob</entry>
         <entry>db</entry>
         <entry>resize</entry>
@@ -2321,6 +2326,7 @@
         <entry>min</entry>
         <entry>max</entry>
         <entry>10</entry>
+        <entry>continue</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
