@@ -1463,11 +1463,6 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" timestamp="1562560351321">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" timestamp="1559215647333">
         <mark key="'" line="48" column="25" />
         <mark key="[" line="34" column="49" />
