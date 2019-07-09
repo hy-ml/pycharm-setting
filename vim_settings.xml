@@ -1188,7 +1188,8 @@
         <mark key="^" line="31" column="9" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/keypoint_matching/utils/weights.py" timestamp="1562667073276">
+      <file name="$USER_HOME$/ws/research_code/suppression/keypoint_matching/utils/weights.py" timestamp="1562671197200">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="61" column="10" />
         <mark key="]" line="61" column="19" />
         <mark key="." line="61" column="19" />
@@ -2223,7 +2224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="13" filename="$USER_HOME$/dataset/coco/occluded_data_generation/support_tools/visualize_merged_img_with_box.py" />
       <jump line="34" column="41" filename="$USER_HOME$/dataset/coco/occluded_data_generation/support_tools/visualize_merged_img_with_box.py" />
       <jump line="37" column="17" filename="$USER_HOME$/dataset/coco/occluded_data_generation/support_tools/visualize_merged_img_with_box.py" />
       <jump line="96" column="47" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
@@ -2323,6 +2323,7 @@
       <jump line="60" column="56" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
       <jump line="284" column="51" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
       <jump line="154" column="0" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/utils/weights.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2332,7 +2333,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>detector</text>
+        <text>liner</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGxpbmVyX3dlaWdodHMoa3AsIG1hdGNoZXMsIGltZ19zaXplLCBtaW5fd2VpZ2h0PTAuMSk6CiAgICBkZWYgX2NhbGNfZGlzdGFuY2UocHRzLCBjZW50ZXIpOgogICAgICAgIGRpZmYgPSBwdHMgLSBjZW50ZXIKICAgICAgICBpZiBsZW4oZGlmZi5zaGFwZSkgPT0gMToKICAgICAgICAgICAgZGlzdGFuY2UgPSBucC5zcXJ0KGRpZmZbMF0gKiogMiArIGRpZmZbMV0gKiogMikKICAgICAgICBlbGlmIGxlbihkaWZmLnNoYXBlKSA9PSAyOgogICAgICAgICAgICBkaXN0YW5jZSA9IG5wLnNxcnQoZGlmZls6LCAwXSAqKiAyICsgZGlmZls6LCAxXSAqKiAyKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoKQogICAgICAgIHJldHVybiBkaXN0YW5jZQoKICAgIGRlZiBfY2FsY19saW5lcihkaXN0YW5jZSwgc2xvcCk6CiAgICAgICAgcmV0dXJuIDEgLSBzbG9wICogZGlzdGFuY2UKCiAgICBtYXRjaF9pZHMgPSBbbS5xdWVyeUlkeCBmb3IgbSBpbiBtYXRjaGVzXQogICAga3AgPSBucC5hc2FycmF5KFtrLnB0IGZvciBrIGluIGtwXSkKICAgIG1hdGNoX2twID0ga3BbbWF0Y2hfaWRzXQoKICAgIGNlbnRlcl9wdCA9IChucC5hc2FycmF5KGltZ19zaXplKS5hc3R5cGUobnAuZmxvYXQzMikgLSAxKSAvIDIKCiAgICBzbG9wZSA9ICgxIC0gbWluX3dlaWdodCkgLyBfY2FsY19kaXN0YW5jZShucC56ZXJvcygyKSwgY2VudGVyX3B0KQoKICAgIGRpc3RhbmNlX2twID0gX2NhbGNfZGlzdGFuY2UobnAuYXNhcnJheShrcCksIGNlbnRlcl9wdCkKICAgIGRpc3RhbmNlX21hdGNoZXMgPSBfY2FsY19kaXN0YW5jZShucC5hc2FycmF5KG1hdGNoX2twKSwgY2VudGVyX3B0KQoKICAgIHdfa3AgPSBfY2FsY19saW5lcihkaXN0YW5jZV9rcCwgc2xvcGUpCiAgICB3X21hdGNoZXMgPSBfY2FsY19saW5lcihkaXN0YW5jZV9tYXRjaGVzLCBzbG9wZSkKICAgIHJldHVybiB3X2twLCB3X21hdGNoZXMK</text>
@@ -2369,17 +2370,16 @@
       </register>
     </registers>
     <search>
-      <last-search>detector</last-search>
+      <last-search>liner</last-search>
       <last-offset />
-      <last-pattern>detector</last-pattern>
-      <last-replace>split</last-replace>
-      <last-substitute>split_by</last-substitute>
+      <last-pattern>liner</last-pattern>
+      <last-replace>linear</last-replace>
+      <last-substitute>liner</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>exec</entry>
         <entry>only</entry>
         <entry>cache_ann</entry>
         <entry>max</entry>
@@ -2399,9 +2399,9 @@
         <entry>generate_imgs</entry>
         <entry>def main</entry>
         <entry>detector</entry>
+        <entry>liner</entry>
       </history-search>
       <history-cmd>
-        <entry>57</entry>
         <entry>26</entry>
         <entry>%s/xp/np/gcc</entry>
         <entry>%s/xp/np/gc</entry>
@@ -2420,6 +2420,7 @@
         <entry>220</entry>
         <entry>12</entry>
         <entry>wq</entry>
+        <entry>%s/liner/linear/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
