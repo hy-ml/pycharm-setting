@@ -1188,7 +1188,7 @@
         <mark key="^" line="31" column="9" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/keypoint_matching/utils/weights.py" timestamp="1562671197200">
+      <file name="$USER_HOME$/ws/research_code/suppression/keypoint_matching/utils/weights.py" timestamp="1562725804188">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="61" column="10" />
         <mark key="]" line="61" column="19" />
@@ -1502,12 +1502,12 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" timestamp="1562661254474">
-        <mark key="'" line="60" column="56" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="144" column="75" />
+      <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" timestamp="1562725857094">
+        <mark key="'" line="144" column="8" />
+        <mark key="[" line="147" column="70" />
+        <mark key="]" line="147" column="70" />
+        <mark key="." line="147" column="70" />
+        <mark key="^" line="147" column="70" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" timestamp="1559215647333">
         <mark key="'" line="48" column="25" />
@@ -2224,15 +2224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="41" filename="$USER_HOME$/dataset/coco/occluded_data_generation/support_tools/visualize_merged_img_with_box.py" />
-      <jump line="37" column="17" filename="$USER_HOME$/dataset/coco/occluded_data_generation/support_tools/visualize_merged_img_with_box.py" />
-      <jump line="96" column="47" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="21" column="4" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="93" column="8" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="92" column="4" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="72" column="11" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="46" column="16" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="23" column="4" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="18" column="0" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="48" column="0" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
@@ -2320,23 +2311,32 @@
       <jump line="118" column="57" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
       <jump line="111" column="59" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
       <jump line="122" column="26" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="60" column="56" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
       <jump line="284" column="51" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
       <jump line="154" column="0" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
       <jump line="55" column="0" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/utils/weights.py" />
+      <jump line="126" column="32" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="129" column="47" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="130" column="42" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="137" column="36" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="140" column="40" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="147" column="70" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="16" column="25" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="17" column="26" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="60" column="4" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
+      <jump line="144" column="8" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGxpbmVyX3dlaWdodHMoa3AsIG1hdGNoZXMsIGltZ19zaXplLCBtaW5fd2VpZ2h0PTAuMSk6CiAgICBkZWYgX2NhbGNfZGlzdGFuY2UocHRzLCBjZW50ZXIpOgogICAgICAgIGRpZmYgPSBwdHMgLSBjZW50ZXIKICAgICAgICBpZiBsZW4oZGlmZi5zaGFwZSkgPT0gMToKICAgICAgICAgICAgZGlzdGFuY2UgPSBucC5zcXJ0KGRpZmZbMF0gKiogMiArIGRpZmZbMV0gKiogMikKICAgICAgICBlbGlmIGxlbihkaWZmLnNoYXBlKSA9PSAyOgogICAgICAgICAgICBkaXN0YW5jZSA9IG5wLnNxcnQoZGlmZls6LCAwXSAqKiAyICsgZGlmZls6LCAxXSAqKiAyKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoKQogICAgICAgIHJldHVybiBkaXN0YW5jZQoKICAgIGRlZiBfY2FsY19saW5lcihkaXN0YW5jZSwgc2xvcCk6CiAgICAgICAgcmV0dXJuIDEgLSBzbG9wICogZGlzdGFuY2UKCiAgICBtYXRjaF9pZHMgPSBbbS5xdWVyeUlkeCBmb3IgbSBpbiBtYXRjaGVzXQogICAga3AgPSBucC5hc2FycmF5KFtrLnB0IGZvciBrIGluIGtwXSkKICAgIG1hdGNoX2twID0ga3BbbWF0Y2hfaWRzXQoKICAgIGNlbnRlcl9wdCA9IChucC5hc2FycmF5KGltZ19zaXplKS5hc3R5cGUobnAuZmxvYXQzMikgLSAxKSAvIDIKCiAgICBzbG9wZSA9ICgxIC0gbWluX3dlaWdodCkgLyBfY2FsY19kaXN0YW5jZShucC56ZXJvcygyKSwgY2VudGVyX3B0KQoKICAgIGRpc3RhbmNlX2twID0gX2NhbGNfZGlzdGFuY2UobnAuYXNhcnJheShrcCksIGNlbnRlcl9wdCkKICAgIGRpc3RhbmNlX21hdGNoZXMgPSBfY2FsY19kaXN0YW5jZShucC5hc2FycmF5KG1hdGNoX2twKSwgY2VudGVyX3B0KQoKICAgIHdfa3AgPSBfY2FsY19saW5lcihkaXN0YW5jZV9rcCwgc2xvcGUpCiAgICB3X21hdGNoZXMgPSBfY2FsY19saW5lcihkaXN0YW5jZV9tYXRjaGVzLCBzbG9wZSkKICAgIHJldHVybiB3X2twLCB3X21hdGNoZXMK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>liner</text>
+        <text>generate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGxpbmVyX3dlaWdodHMoa3AsIG1hdGNoZXMsIGltZ19zaXplLCBtaW5fd2VpZ2h0PTAuMSk6CiAgICBkZWYgX2NhbGNfZGlzdGFuY2UocHRzLCBjZW50ZXIpOgogICAgICAgIGRpZmYgPSBwdHMgLSBjZW50ZXIKICAgICAgICBpZiBsZW4oZGlmZi5zaGFwZSkgPT0gMToKICAgICAgICAgICAgZGlzdGFuY2UgPSBucC5zcXJ0KGRpZmZbMF0gKiogMiArIGRpZmZbMV0gKiogMikKICAgICAgICBlbGlmIGxlbihkaWZmLnNoYXBlKSA9PSAyOgogICAgICAgICAgICBkaXN0YW5jZSA9IG5wLnNxcnQoZGlmZls6LCAwXSAqKiAyICsgZGlmZls6LCAxXSAqKiAyKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoKQogICAgICAgIHJldHVybiBkaXN0YW5jZQoKICAgIGRlZiBfY2FsY19saW5lcihkaXN0YW5jZSwgc2xvcCk6CiAgICAgICAgcmV0dXJuIDEgLSBzbG9wICogZGlzdGFuY2UKCiAgICBtYXRjaF9pZHMgPSBbbS5xdWVyeUlkeCBmb3IgbSBpbiBtYXRjaGVzXQogICAga3AgPSBucC5hc2FycmF5KFtrLnB0IGZvciBrIGluIGtwXSkKICAgIG1hdGNoX2twID0ga3BbbWF0Y2hfaWRzXQoKICAgIGNlbnRlcl9wdCA9IChucC5hc2FycmF5KGltZ19zaXplKS5hc3R5cGUobnAuZmxvYXQzMikgLSAxKSAvIDIKCiAgICBzbG9wZSA9ICgxIC0gbWluX3dlaWdodCkgLyBfY2FsY19kaXN0YW5jZShucC56ZXJvcygyKSwgY2VudGVyX3B0KQoKICAgIGRpc3RhbmNlX2twID0gX2NhbGNfZGlzdGFuY2UobnAuYXNhcnJheShrcCksIGNlbnRlcl9wdCkKICAgIGRpc3RhbmNlX21hdGNoZXMgPSBfY2FsY19kaXN0YW5jZShucC5hc2FycmF5KG1hdGNoX2twKSwgY2VudGVyX3B0KQoKICAgIHdfa3AgPSBfY2FsY19saW5lcihkaXN0YW5jZV9rcCwgc2xvcGUpCiAgICB3X21hdGNoZXMgPSBfY2FsY19saW5lcihkaXN0YW5jZV9tYXRjaGVzLCBzbG9wZSkKICAgIHJldHVybiB3X2twLCB3X21hdGNoZXMK</text>
+        <text encoding="base64">ICAgIGxzdF9wYWlyX2JveF9zYW1lID0gXAogICAgICAgIGdlbmVyYXRlX2ltZ3MoY29jb19kaXIsIGNvY28sIGxzdF9hbm5fcGFpcl9zYW1lLCBvdXRkaXJfc2FtZSwgMzAwMDAsCiAgICAgICAgICAgICAgICAgICAgICBsc3RfYmFja2dyb3VuZF9wYXRoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -2370,9 +2370,9 @@
       </register>
     </registers>
     <search>
-      <last-search>liner</last-search>
+      <last-search>generate</last-search>
       <last-offset />
-      <last-pattern>liner</last-pattern>
+      <last-pattern>generate</last-pattern>
       <last-replace>linear</last-replace>
       <last-substitute>liner</last-substitute>
       <last-dir>1</last-dir>
@@ -2380,7 +2380,6 @@
     </search>
     <history>
       <history-search>
-        <entry>only</entry>
         <entry>cache_ann</entry>
         <entry>max</entry>
         <entry>continue</entry>
@@ -2390,7 +2389,6 @@
         <entry>len</entry>
         <entry>if len</entry>
         <entry>val</entry>
-        <entry>same</entry>
         <entry>lr_sche</entry>
         <entry>lr_scheduler</entry>
         <entry>print</entry>
@@ -2400,6 +2398,8 @@
         <entry>def main</entry>
         <entry>detector</entry>
         <entry>liner</entry>
+        <entry>same</entry>
+        <entry>generate</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
