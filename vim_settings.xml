@@ -862,6 +862,13 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="22" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" timestamp="1562752063121">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="42" column="22" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="42" column="22" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/convert_cache_info_to_detection_output.py" timestamp="1558005590661">
         <mark key="'" line="56" column="10" />
         <mark key="[" line="2" column="3" />
@@ -907,8 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="30" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="60" column="70" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="70" column="58" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="80" column="14" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="89" column="30" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
@@ -1007,46 +1012,49 @@
       <jump line="6" column="0" filename="$USER_HOME$/ws/research_code/python/box_share_tool/lib/upload.py" />
       <jump line="5" column="50" filename="$USER_HOME$/ws/research_code/python/box_share_tool/lib/upload.py" />
       <jump line="3" column="0" filename="$USER_HOME$/ws/research_code/python/box_share_tool/lib/upload.py" />
+      <jump line="26" column="105" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBsaWIuZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>developer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxzdF9wYWlyX2JveF9zYW1lID0gXAogICAgICAgIGdlbmVyYXRlX2ltZ3MoY29jb19kaXIsIGNvY28sIGxzdF9hbm5fcGFpcl9zYW1lLCBvdXRkaXJfc2FtZSwgMzAwMDAsCiAgICAgICAgICAgICAgICAgICAgICBsc3RfYmFja2dyb3VuZF9wYXRoKQo=</text>
+        <text encoding="base64">ICAgICMgY2F1dGlvbjogYGRpZmZgIGluIHZhcmlhYmxlIG5hbWUgbWVhbnMgZGlmZmVyZW50IG9iamVjdAogICAgIyAgICAgICAgICBgZGlmZmAgaW4ga2V5IG9mIGNhY2hlIGRhdGEgbWVhbnMgZGlmZmVyZW50IGNsYXNzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBsaWIuZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgY2F1dGlvbjogYGRpZmZgIGluIHZhcmlhYmxlIG5hbWUgbWVhbnMgZGlmZmVyZW50IG9iamVjdAogICAgIyAgICAgICAgICBgZGlmZmAgaW4ga2V5IG9mIGNhY2hlIGRhdGEgbWVhbnMgZGlmZmVyZW50IGNsYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxzdF9kaWZmX2JveGVzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="8">
+        <text>obj
+obj</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxzdF9kaWZmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
