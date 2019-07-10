@@ -862,12 +862,12 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" timestamp="1562752063121">
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" timestamp="1562755077083">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="42" column="22" />
-        <mark key="." line="42" column="22" />
-        <mark key="^" line="42" column="22" />
+        <mark key="[" line="71" column="77" />
+        <mark key="]" line="72" column="13" />
+        <mark key="." line="72" column="13" />
+        <mark key="^" line="72" column="13" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/convert_cache_info_to_detection_output.py" timestamp="1558005590661">
         <mark key="'" line="56" column="10" />
@@ -1016,45 +1016,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>developer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgY2F1dGlvbjogYGRpZmZgIGluIHZhcmlhYmxlIG5hbWUgbWVhbnMgZGlmZmVyZW50IG9iamVjdAogICAgIyAgICAgICAgICBgZGlmZmAgaW4ga2V5IG9mIGNhY2hlIGRhdGEgbWVhbnMgZGlmZmVyZW50IGNsYXNzCg==</text>
+        <text encoding="base64">ICAgICMgc2h1ZmZsZSBhbmQgc2FtcGxlIHNhbWUgb2JqZWN0IHBhaXIKICAgIG1lcmdlZCA9IGxpc3QoemlwKGxzdF9zYW1lX2ltZ19wYXRoLCBsc3Rfc2FtZV9ib3hlcykpCiAgICByYW5kb20uc2h1ZmZsZShtZXJnZWQpCiAgICBsc3RfaW1nX3BhdGgsIGxzdF9zYW1lX2JveGVzID0gemlwKCptZXJnZWRbOmxlbihsc3RfZGlmZl9pbWdfcGF0aCldKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgY2F1dGlvbjogYGRpZmZgIGluIHZhcmlhYmxlIG5hbWUgbWVhbnMgZGlmZmVyZW50IG9iamVjdAogICAgIyAgICAgICAgICBgZGlmZmAgaW4ga2V5IG9mIGNhY2hlIGRhdGEgbWVhbnMgZGlmZmVyZW50IGNsYXNzCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAnc2EnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxzdF9kaWZmX2JveGVzCg==</text>
+        <text encoding="base64">ICAgIGltbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="8">
-        <text>obj
-obj</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxzdF9kaWZmCg==</text>
+        <text encoding="base64">ICAgIGNvY28gPSBDT0NPKGFyZ3MuYW5ub3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
