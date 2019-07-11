@@ -344,11 +344,6 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1562657290950">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="18" column="21" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/tmp.py" timestamp="1558703113381">
         <mark key="'" line="193" column="0" />
         <mark key="[" line="5" column="0" />
@@ -625,11 +620,6 @@
         <mark key="." line="16" column="26" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/keypoint_matching/utils/feature.py" timestamp="1562654085382">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="37" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/coco_train.py" timestamp="1557293904515">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="89" column="0" />
@@ -714,6 +704,13 @@
         <mark key="]" line="30" column="25" />
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" timestamp="1562825385026">
+        <mark key="'" line="55" column="13" />
+        <mark key="[" line="71" column="37" />
+        <mark key="]" line="71" column="37" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="71" column="37" />
       </file>
       <file name="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" timestamp="1562655719984">
         <mark key="'" line="242" column="32" />
@@ -905,6 +902,12 @@
         <mark key="." line="62" column="35" />
         <mark key="^" line="62" column="35" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/check_data.py" timestamp="1562825609801">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" timestamp="1559044128539">
         <mark key="'" line="218" column="0" />
         <mark key="[" line="106" column="47" />
@@ -914,7 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="58" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="80" column="14" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="89" column="30" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
       <jump line="98" column="24" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
@@ -1014,55 +1016,56 @@
       <jump line="3" column="0" filename="$USER_HOME$/ws/research_code/python/box_share_tool/lib/upload.py" />
       <jump line="26" column="105" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" />
       <jump line="0" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" />
+      <jump line="55" column="13" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHhfbWluLCB5X21pbiwgeF9tYXgsIHlfbWF4ID0gYm94Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>developer</text>
+        <text>pdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgc2h1ZmZsZSBhbmQgc2FtcGxlIHNhbWUgb2JqZWN0IHBhaXIKICAgIG1lcmdlZCA9IGxpc3QoemlwKGxzdF9zYW1lX2ltZ19wYXRoLCBsc3Rfc2FtZV9ib3hlcykpCiAgICByYW5kb20uc2h1ZmZsZShtZXJnZWQpCiAgICBsc3RfaW1nX3BhdGgsIGxzdF9zYW1lX2JveGVzID0gemlwKCptZXJnZWRbOmxlbihsc3RfZGlmZl9pbWdfcGF0aCldKQo=</text>
+        <text encoding="base64">ICAgIHhfbWluLCB5X21pbiwgeF9tYXgsIHlfbWF4ID0gYm94Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnc2EnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltbwo=</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCiAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvY28gPSBDT0NPKGFyZ3MuYW5ub3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>developer</last-search>
+      <last-search>pdb</last-search>
       <last-offset />
-      <last-pattern>developer</last-pattern>
+      <last-pattern>pdb</last-pattern>
       <last-replace>developer</last-replace>
       <last-substitute>develper</last-substitute>
       <last-dir>1</last-dir>
@@ -1070,7 +1073,6 @@
     </search>
     <history>
       <history-search>
-        <entry>10</entry>
         <entry>min</entry>
         <entry>kp</entry>
         <entry>len</entry>
@@ -1090,6 +1092,7 @@
         <entry>file_token_cache</entry>
         <entry>develper</entry>
         <entry>developer</entry>
+        <entry>pdb</entry>
       </history-search>
       <history-cmd>
         <entry>%s/xp/np/gcc</entry>
