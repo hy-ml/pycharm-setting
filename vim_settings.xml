@@ -89,6 +89,11 @@
         <mark key="^" line="135" column="41" />
         <mark key="." line="135" column="41" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" timestamp="1562657909415">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/test_net.py" timestamp="1557414210512">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="69" />
@@ -131,6 +136,11 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/eval.py" timestamp="1562139386134">
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="35" column="56" />
+        <mark key="." line="35" column="56" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze_pos_neg_equal.yaml" timestamp="1557799862924">
         <mark key="'" line="0" column="0" />
@@ -440,11 +450,11 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/build.py" timestamp="1562831409029">
-        <mark key="[" line="107" column="50" />
-        <mark key="]" line="107" column="56" />
-        <mark key="^" line="107" column="56" />
-        <mark key="." line="107" column="56" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/build.py" timestamp="1562833740753">
+        <mark key="[" line="117" column="46" />
+        <mark key="]" line="118" column="11" />
+        <mark key="." line="118" column="11" />
+        <mark key="^" line="118" column="11" />
       </file>
       <file name="$USER_HOME$/dataset/coco/occluded_data_generation/cache_pair_anns.py" timestamp="1562063283983">
         <mark key="'" line="12" column="41" />
@@ -508,6 +518,11 @@
         <mark key="]" line="15" column="15" />
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="15" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_suitable_ann_ids.py" timestamp="1562657138391">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/convert_cache_info_to_detection_output.py" timestamp="1558015992352">
         <mark key="[" line="10" column="20" />
@@ -1070,6 +1085,11 @@
         <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="43" />
       </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/calc_ratio.py" timestamp="1562065046226">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/not_using_network/nms.yaml" timestamp="1557750944387">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="65" />
@@ -1507,6 +1527,12 @@
         <mark key="^" line="33" column="58" />
         <mark key="." line="34" column="49" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/defaults.py" timestamp="1562833520188">
+        <mark key="'" line="68" column="42" />
+        <mark key="[" line="51" column="26" />
+        <mark key="]" line="51" column="26" />
+        <mark key="." line="51" column="26" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" timestamp="1557408646884">
         <mark key="'" line="83" column="55" />
         <mark key="[" line="82" column="24" />
@@ -1716,6 +1742,11 @@
         <mark key="]" line="230" column="41" />
         <mark key="." line="230" column="41" />
         <mark key="^" line="207" column="28" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/generated_occlusion_dataset_scratch.py" timestamp="1562833469363">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/not_using_network/nms.yaml" timestamp="1557903032571">
         <mark key="[" line="9" column="10" />
@@ -2249,7 +2280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="14" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_pair_anns_with_grouped.py" />
       <jump line="26" column="32" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_pair_anns_with_grouped.py" />
       <jump line="20" column="15" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_pair_anns_with_grouped.py" />
       <jump line="18" column="30" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_pair_anns_with_grouped.py" />
@@ -2349,55 +2379,56 @@
       <jump line="51" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
       <jump line="53" column="57" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
       <jump line="55" column="39" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
+      <jump line="68" column="42" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/defaults.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zID0gYnVpbGRfdHJhbnNmb3JtcyhjZmcpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oY2ZnLkNBQ0hFX0ZJTEUsICdyYicpIGFzIGZwOgogICAgICAgICAgICBjYWNoZSA9IHBpY2tsZS5sb2FkKGZwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>boxes</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>lst_diff_same_category</text>
+        <text>CACHE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsaWYgY2ZnLkRBVEFTRVQgPT0gJ0dlbmVyYXRlZE9jY2x1c2lvbkRhdGFzZXQnOgogICAgICAgIHRyYW5zZm9ybXMgPSBidWlsZF90cmFuc2Zvcm1zKGNmZykK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oY2ZnLkNBQ0hFX0ZJTEUsICdyYicpIGFzIGZwOgogICAgICAgICAgICBjYWNoZSA9IHBpY2tsZS5sb2FkKGZwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zID0gYnVpbGRfdHJhbnNmb3JtcyhjZmcpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oY2ZnLkNBQ0hFX0ZJTEUsICdyYicpIGFzIGZwOgogICAgICAgICAgICBjYWNoZSA9IHBpY2tsZS5sb2FkKGZwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhc2V0ID0gRC5HZW5lcmF0ZWRPY2NsdXNpb25EYXRhc2V0KGNvY29fZGlyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2VfYm94ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhc2V0ID0gcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzcGxpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2UK</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J1Y2UK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FjaGUgPSBwaWNrbGUubG9hZChmcCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWYK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oY2FjaGVfZmlsZSwgJ3JiJykgYXMgZnA6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lst_diff_same_category</last-search>
+      <last-search>CACHE</last-search>
       <last-offset />
-      <last-pattern>lst_diff_same_category</last-pattern>
+      <last-pattern>CACHE</last-pattern>
       <last-replace>developer</last-replace>
       <last-substitute>develper</last-substitute>
       <last-dir>1</last-dir>
@@ -2405,7 +2436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>len</entry>
         <entry>if len</entry>
         <entry>val</entry>
         <entry>lr_sche</entry>
@@ -2425,9 +2455,9 @@
         <entry>pdb</entry>
         <entry encoding="base64">XDx4X21pblw+</entry>
         <entry>lst_diff_same_category</entry>
+        <entry>CACHE</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/xp/np/gc</entry>
         <entry>q!</entry>
         <entry>169</entry>
         <entry>168</entry>
@@ -2446,6 +2476,7 @@
         <entry>%s/develper/developer/gc</entry>
         <entry>75</entry>
         <entry>wq</entry>
+        <entry>112</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
