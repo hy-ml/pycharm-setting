@@ -705,12 +705,14 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" timestamp="1562826818813">
-        <mark key="'" line="55" column="13" />
-        <mark key="[" line="52" column="53" />
-        <mark key="]" line="52" column="53" />
-        <mark key="^" line="44" column="26" />
-        <mark key="." line="52" column="53" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" timestamp="1562829546415">
+        <mark key="'" line="55" column="39" />
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="74" column="11" />
+        <mark key="m" line="74" column="4" />
+        <mark key="^" line="74" column="11" />
+        <mark key="." line="74" column="11" />
+        <mark key="n" line="75" column="0" />
       </file>
       <file name="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" timestamp="1562655719984">
         <mark key="'" line="242" column="32" />
@@ -902,9 +904,12 @@
         <mark key="." line="62" column="35" />
         <mark key="^" line="62" column="35" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/check_data.py" timestamp="1562826757206">
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/check_data.py" timestamp="1562829636711">
         <mark key="'" line="8" column="4" />
-        <mark key="^" line="8" column="5" />
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="57" column="42" />
+        <mark key="." line="57" column="42" />
+        <mark key="^" line="57" column="42" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" timestamp="1559044128539">
         <mark key="'" line="218" column="0" />
@@ -915,14 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="30" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="98" column="24" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="112" column="60" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="25" column="8" filename="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="13" column="15" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_only_box_feature/base.yaml" />
-      <jump line="9" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_only_box_feature/base.yaml" />
-      <jump line="100" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train.py" />
-      <jump line="49" column="77" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_pair_anns_with_grouped.py" />
       <jump line="74" column="14" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_pair_anns_with_grouped.py" />
       <jump line="26" column="32" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_pair_anns_with_grouped.py" />
       <jump line="20" column="15" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_pair_anns_with_grouped.py" />
@@ -1013,65 +1010,72 @@
       <jump line="3" column="0" filename="$USER_HOME$/ws/research_code/python/box_share_tool/lib/upload.py" />
       <jump line="26" column="105" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" />
       <jump line="0" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" />
-      <jump line="55" column="13" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
       <jump line="8" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/check_data.py" />
+      <jump line="64" column="30" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
+      <jump line="74" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
+      <jump line="95" column="23" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
+      <jump line="49" column="9" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
+      <jump line="50" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
+      <jump line="53" column="57" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
+      <jump line="55" column="39" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx4X21pblw+</text>
+        <text>lst_diff_same_category</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHhfbWluLCB5X21pbiwgeF9tYXgsIHlfbWF4ID0gYm94Cg==</text>
+        <text encoding="base64">ICAgIHNhbWVfbHN0X2lzX3NhbWVfY2F0ZWdvcnkgPSBbJ3NhbWUnXVsnaXNfc2FtZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHlfbWluLCB4X21pbiwgeV9tYXgsIHhfbWF4ID0gYm94Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2lzX3NhbWU6JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHlfbWluLCB4X21pbiwgeV9tYXgsIHhfbWF4ID0gYm94Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIHhfbWluLCB5X21pbiwgeF9tYXgsIHlfbWF4ID0gYm94Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgIHlfbWluLCB4X21pbiwgeV9tYXgsIHhfbWF4ID0gYm94Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsc3QK</text>
+        <text encoding="base64">ICAgIHlfbWluLCB4X21pbiwgeV9tYXgsIHhfbWF4ID0gYm94Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBsc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx4X21pblw+</last-search>
+      <last-search>lst_diff_same_category</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx4X21pblw+</last-pattern>
+      <last-pattern>lst_diff_same_category</last-pattern>
       <last-replace>developer</last-replace>
       <last-substitute>develper</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kp</entry>
         <entry>len</entry>
         <entry>if len</entry>
         <entry>val</entry>
@@ -1091,9 +1095,9 @@
         <entry>developer</entry>
         <entry>pdb</entry>
         <entry encoding="base64">XDx4X21pblw+</entry>
+        <entry>lst_diff_same_category</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/xp/np/gcc</entry>
         <entry>%s/xp/np/gc</entry>
         <entry>q!</entry>
         <entry>169</entry>
@@ -1112,6 +1116,7 @@
         <entry>wq</entry>
         <entry>%s/liner/linear/gc</entry>
         <entry>%s/develper/developer/gc</entry>
+        <entry>75</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
