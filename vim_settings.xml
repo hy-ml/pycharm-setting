@@ -188,11 +188,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="47" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/tmp/transforms.py" timestamp="1562907489365">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="39" />
+      <file name="$USER_HOME$/ws/research_code/suppression/tmp/transforms.py" timestamp="1562909336806">
+        <mark key="'" line="14" column="43" />
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="15" />
         <mark key="^" line="4" column="39" />
-        <mark key="." line="4" column="39" />
+        <mark key="." line="37" column="15" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/defaults.py" timestamp="1557409572625">
         <mark key="'" line="31" column="6" />
@@ -1417,11 +1418,12 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/tmp/check.py" timestamp="1562907861788">
-        <mark key="[" line="49" column="66" />
-        <mark key="]" line="15" column="32" />
-        <mark key="^" line="15" column="32" />
-        <mark key="." line="15" column="32" />
+      <file name="$USER_HOME$/ws/research_code/suppression/tmp/check.py" timestamp="1562910844548">
+        <mark key="'" line="31" column="33" />
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="33" />
+        <mark key="." line="31" column="33" />
+        <mark key="^" line="31" column="33" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/tools/train_net.py" timestamp="1557368077905">
         <mark key="'" line="40" column="16" />
@@ -2295,19 +2297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="63" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_pair_anns_with_grouped.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_grouped_ann_ids.py" />
-      <jump line="7" column="8" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_grouped_ann_ids.py" />
-      <jump line="53" column="59" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_grouped_ann_ids.py" />
-      <jump line="18" column="13" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="186" column="24" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="257" column="19" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="19" column="8" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="126" column="42" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="153" column="11" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="165" column="11" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="180" column="11" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
       <jump line="202" column="32" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
       <jump line="203" column="47" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
       <jump line="204" column="38" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
@@ -2395,55 +2384,68 @@
       <jump line="52" column="25" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output_without_cache.py" />
       <jump line="111" column="40" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output_without_cache.py" />
       <jump line="55" column="23" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output_without_cache.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="59" column="16" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="32" column="27" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="14" column="43" filename="$USER_HOME$/ws/research_code/suppression/tmp/transforms.py" />
+      <jump line="56" column="12" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="55" column="35" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="78" column="10" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="7" column="28" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="20" column="39" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="23" column="16" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="31" column="33" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>img_dir</text>
+        <text>F</text>
       </register>
       <register name="-" type="4">
-        <text>img_dir</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>F</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxzdF9pbWdfcGF0aF9zYW1lLCBsc3RfYm94ZXNfc2FtZSA9IFwKICAgICAgICBbY2FjaGVbJ3NhbWUnXVtrXSBmb3IgayBpbiBbJ2ltZ19wYXRoJywgWydiYm94J11dXQo=</text>
+        <text encoding="base64">ICAgIGRpc3RhbmNlc19zYW1lID0gZXhlY19ub3RfY3JvcCgKICAgICAgICB2Z2csIHRyYW5zZm9ybXMsIG9zLnBhdGguam9pbihhcmdzLmNvY29fZGlyLCAnaW1hZ2VzJyksIGxzdF9pbWdfbmFtZV9zYW1lLCBsc3RfYm94ZXNfc2FtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHggPSB0cmFuc2Zvcm1zKGltZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltZyA9IEltYWdlLm9wZW4oaW1nX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltZ19wYXRoID0gb3MucGF0aC5qb2luKGltZ19kaXIsIGltZ19uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkKICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggY2hhaW5lci51c2luZ19jb25maWcoJ3RyYWluJywgRmFsc2UpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdQo=</text>
+        <text encoding="base64">ICAgIHdpdGggY2hhaW5lci51c2luZ19jb25maWcoJ3RyYWluJywgRmFsc2UpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNoYWluZXIudXNpbmdfY29uZmlnKCd0cmFpbicsIEZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>F</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>F</last-pattern>
       <last-replace>developer</last-replace>
       <last-substitute>develper</last-substitute>
       <last-dir>1</last-dir>
@@ -2451,33 +2453,28 @@
     </search>
     <history>
       <history-search>
-        <entry>lr_sche</entry>
-        <entry>lr_scheduler</entry>
-        <entry>print</entry>
-        <entry>box1</entry>
-        <entry>num_samples</entry>
-        <entry>generate_imgs</entry>
-        <entry>def main</entry>
-        <entry>detector</entry>
-        <entry>liner</entry>
         <entry>same</entry>
         <entry>generate</entry>
         <entry>file_token_cache</entry>
         <entry>develper</entry>
         <entry>developer</entry>
-        <entry>pdb</entry>
         <entry encoding="base64">XDx4X21pblw+</entry>
         <entry>lst_diff_same_category</entry>
         <entry>CACHE</entry>
         <entry>save_dir</entry>
         <entry>get</entry>
+        <entry>pick</entry>
+        <entry>to_cpu</entry>
+        <entry>key</entry>
+        <entry>pdb</entry>
+        <entry>30</entry>
+        <entry>_, c, d</entry>
+        <entry>using</entry>
+        <entry>chainer</entry>
+        <entry>config</entry>
+        <entry>F</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
-        <entry>169</entry>
-        <entry>168</entry>
-        <entry>34</entry>
-        <entry>221</entry>
         <entry>29</entry>
         <entry>W</entry>
         <entry>%s/coco/coco_balanced/gc</entry>
@@ -2492,6 +2489,11 @@
         <entry>75</entry>
         <entry>112</entry>
         <entry>wq</entry>
+        <entry>67</entry>
+        <entry>20</entry>
+        <entry>54</entry>
+        <entry>57</entry>
+        <entry>89</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
