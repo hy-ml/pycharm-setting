@@ -9,11 +9,25 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="19" column="8" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/data/transforms.py" timestamp="1557098596809">
+        <mark key="'" line="43" column="26" />
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="40" column="37" />
+        <mark key="^" line="40" column="37" />
+        <mark key="." line="40" column="37" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/test/data/test_transforms.py" timestamp="1556548657824">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="^" line="73" column="0" />
         <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_only_box_feature/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1559189091026">
+        <mark key="'" line="9" column="16" />
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="35" />
       </file>
       <file name="/a.dummy" timestamp="1562923390816">
         <mark key="[" line="0" column="0" />
@@ -36,6 +50,13 @@
         <mark key="^" line="30" column="60" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/make_subset_cache_info.py" timestamp="1560752203781">
+        <mark key="'" line="39" column="41" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="24" column="27" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1557072557209">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="27" />
@@ -54,6 +75,20 @@
         <mark key="^" line="33" column="24" />
         <mark key="." line="33" column="25" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_freeze_with_lr_scheduler.yaml" timestamp="1558052044229">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate_with_cached_iou_metric_output_fusion.py" timestamp="1559289860349">
+        <mark key="'" line="376" column="25" />
+        <mark key="[" line="134" column="83" />
+        <mark key="]" line="135" column="41" />
+        <mark key="^" line="135" column="41" />
+        <mark key="." line="135" column="41" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" timestamp="1562657909415">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="13" column="17" />
@@ -70,6 +105,13 @@
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_with_relative_box_feature.py" timestamp="1559044804529">
+        <mark key="'" line="68" column="40" />
+        <mark key="[" line="83" column="17" />
+        <mark key="]" line="83" column="22" />
+        <mark key="." line="83" column="22" />
+        <mark key="^" line="83" column="22" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/cache_feature_map/coco_train_with_cache_info.py" timestamp="1558528448863">
         <mark key="[" line="63" column="29" />
@@ -100,17 +142,45 @@
         <mark key="]" line="35" column="56" />
         <mark key="." line="35" column="56" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze_pos_neg_equal.yaml" timestamp="1557799862924">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block2_scratch_bn_prob_occluded_pair0.5.yaml" timestamp="1560774604603">
+        <mark key="'" line="16" column="16" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_bn.yaml" timestamp="1560134003406">
+        <mark key="'" line="17" column="27" />
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="25" />
+        <mark key="^" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/prune_log_save_model.py" timestamp="1558599183779">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="37" column="16" />
         <mark key="^" line="37" column="16" />
         <mark key="." line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/data/build.py" timestamp="1562923441673">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="4" column="78" />
-        <mark key="^" line="4" column="78" />
-        <mark key="." line="4" column="78" />
+      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/data/build.py" timestamp="1562924189337">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_object_background.py" timestamp="1562146009763">
+        <mark key="'" line="19" column="25" />
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/model/build.py" timestamp="1561026054188">
         <mark key="[" line="57" column="78" />
@@ -131,11 +201,25 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="37" column="15" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/defaults.py" timestamp="1557409572625">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="30" />
+        <mark key="^" line="55" column="30" />
+        <mark key="." line="55" column="30" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/config/annotation/16pts.yml" timestamp="1556530372577">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/train.py" timestamp="1560151335462">
+        <mark key="'" line="92" column="40" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="106" column="53" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/model/test_loss.py" timestamp="1556642852954">
         <mark key="[" line="12" column="21" />
@@ -143,11 +227,24 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_relative.py" timestamp="1559276336656">
+        <mark key="'" line="56" column="38" />
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="60" column="43" />
+        <mark key="^" line="60" column="43" />
+        <mark key="." line="60" column="43" />
+      </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/test_code/model/test_classifier.py" timestamp="1561024695168">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="25" />
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="25" />
+      </file>
+      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/model/extractor.py" timestamp="1562925788895">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/data/keypoints_dataset.py" timestamp="1557195462895">
         <mark key="[" line="19" column="0" />
@@ -161,6 +258,20 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="19" column="3" />
       </file>
+      <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_hand_crafted_feature.py" timestamp="1561635309036">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="45" />
+        <mark key="." line="37" column="45" />
+        <mark key="^" line="37" column="45" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/visualize_shifted_boxes.py" timestamp="1558011967673">
+        <mark key="'" line="49" column="15" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="4" />
+        <mark key="." line="81" column="4" />
+        <mark key="^" line="81" column="20" />
+      </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/config/caltech101_10_categories.yaml" timestamp="1561375117728">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="11" />
@@ -173,6 +284,20 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/model/classifier.py" timestamp="1562926810091">
+        <mark key="'" line="12" column="29" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="20" column="36" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1559198561974">
+        <mark key="'" line="0" column="5" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tests/test_coco.py" timestamp="1557321835868">
         <mark key="[" line="42" column="54" />
@@ -192,6 +317,20 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_high_lr.yaml" timestamp="1557316334444">
+        <mark key="'" line="15" column="16" />
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/convert.py" timestamp="1557302100227">
+        <mark key="'" line="43" column="28" />
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="5" />
+        <mark key="." line="58" column="5" />
+        <mark key="^" line="58" column="5" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator_with_val_aug.yml" timestamp="1557180785722">
         <mark key="[" line="3" column="72" />
         <mark key="]" line="4" column="15" />
@@ -203,6 +342,13 @@
         <mark key="]" line="120" column="66" />
         <mark key="." line="120" column="66" />
         <mark key="^" line="120" column="66" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/solver/build.py" timestamp="1559302262895">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="63" />
+        <mark key="." line="20" column="63" />
+        <mark key="^" line="20" column="63" />
       </file>
       <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_only_additional_feature/base.yaml" timestamp="1561026226412">
         <mark key="[" line="4" column="12" />
@@ -234,6 +380,13 @@
         <mark key="]" line="26" column="47" />
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="47" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block1_freeze.yaml" timestamp="1557255580272">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="84" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557160331079">
         <mark key="[" line="34" column="11" />
@@ -271,11 +424,46 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train.py" timestamp="1562657796797">
+        <mark key="'" line="163" column="11" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+        <mark key="^" line="34" column="37" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/test.py" timestamp="1561440563948">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="29" column="47" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="13" column="4" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator_with_val_aug.yml" timestamp="1557152629705">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="24" />
         <mark key="^" line="23" column="24" />
         <mark key="." line="23" column="24" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/scrach_wrapper.py" timestamp="1559212989718">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="89" column="28" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/train.py" timestamp="1557195159317">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="61" column="6" />
+        <mark key="]" line="61" column="11" />
+        <mark key="." line="61" column="11" />
+        <mark key="^" line="61" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/compare_results.py" timestamp="1557990277792">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="62" column="20" />
+        <mark key="]" line="63" column="49" />
+        <mark key="^" line="63" column="49" />
+        <mark key="." line="63" column="49" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_aug.yml" timestamp="1557095070527">
         <mark key="[" line="5" column="24" />
@@ -295,6 +483,20 @@
         <mark key="." line="118" column="11" />
         <mark key="^" line="118" column="11" />
       </file>
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/cache_pair_anns.py" timestamp="1562063283983">
+        <mark key="'" line="12" column="41" />
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="43" />
+        <mark key="^" line="25" column="43" />
+        <mark key="." line="25" column="43" />
+      </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/utils/calc_ratio.py" timestamp="1562142399254">
+        <mark key="'" line="72" column="19" />
+        <mark key="[" line="87" column="47" />
+        <mark key="]" line="87" column="47" />
+        <mark key="." line="87" column="47" />
+        <mark key="^" line="87" column="47" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block3_freeze01234_pretrain.yaml" timestamp="1557252044041">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="1" column="18" />
@@ -306,6 +508,13 @@
         <mark key="]" line="2" column="102" />
         <mark key="^" line="2" column="102" />
         <mark key="." line="2" column="102" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco_scratch_balanced_occluded_pair.py" timestamp="1560829700845">
+        <mark key="'" line="40" column="8" />
+        <mark key="[" line="66" column="57" />
+        <mark key="]" line="66" column="63" />
+        <mark key="^" line="66" column="63" />
+        <mark key="." line="66" column="63" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/split_data.py" timestamp="1557090453281">
         <mark key="[" line="24" column="4" />
@@ -378,6 +587,13 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/add_occluded_pair.py" timestamp="1560421996967">
+        <mark key="'" line="116" column="17" />
+        <mark key="[" line="135" column="22" />
+        <mark key="]" line="135" column="33" />
+        <mark key="^" line="135" column="33" />
+        <mark key="." line="135" column="33" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/tmp2.py" timestamp="1557742032779">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="12" column="12" />
@@ -408,6 +624,20 @@
         <mark key="." line="46" column="7" />
         <mark key="^" line="46" column="7" />
       </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/test_matching_ratio.py" timestamp="1562125919238">
+        <mark key="'" line="22" column="15" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="^" line="243" column="29" />
+        <mark key="." line="244" column="0" />
+      </file>
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/lib/merge_objects.py" timestamp="1562148021877">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="84" column="33" />
+      </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/test_code/dataset/test_caltech_dataset.py" timestamp="1561013802514">
         <mark key="[" line="13" column="48" />
         <mark key="]" line="13" column="7" />
@@ -425,6 +655,13 @@
         <mark key="]" line="23" column="28" />
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_bn_prob_occluded_pair1.yaml" timestamp="1560434552379">
+        <mark key="'" line="24" column="5" />
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+        <mark key="^" line="26" column="30" />
       </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/model/classifier/__init__.py" timestamp="1561024020625">
         <mark key="[" line="1" column="39" />
@@ -450,11 +687,18 @@
         <mark key="^" line="37" column="41" />
         <mark key="." line="37" column="41" />
       </file>
-      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/data/transforms.py" timestamp="1562923449770">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/data/transforms.py" timestamp="1562925914369">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
         <mark key="^" line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test_scrach.py" timestamp="1557893534028">
+        <mark key="'" line="66" column="26" />
+        <mark key="[" line="75" column="19" />
+        <mark key="]" line="67" column="9" />
+        <mark key="." line="67" column="9" />
+        <mark key="^" line="67" column="9" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/not_using_network/nms.yaml" timestamp="1559518258979">
         <mark key="[" line="11" column="11" />
@@ -528,6 +772,27 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/build.py" timestamp="1557150820257">
+        <mark key="'" line="126" column="61" />
+        <mark key="[" line="132" column="42" />
+        <mark key="]" line="132" column="43" />
+        <mark key="^" line="132" column="43" />
+        <mark key="." line="132" column="43" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_feature_test.py" timestamp="1558527501265">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="43" />
+        <mark key="^" line="93" column="56" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_only_box_additional_feature/akaze.yaml" timestamp="1561028368445">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/__init__.py" timestamp="1557252262814">
         <mark key="[" line="0" column="80" />
         <mark key="]" line="0" column="80" />
@@ -546,11 +811,32 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_bn_prob_occluded_pair0.5.yaml" timestamp="1560478031277">
+        <mark key="'" line="14" column="41" />
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/support_tools/visualize_heatmap.py" timestamp="1560160891859">
+        <mark key="'" line="26" column="25" />
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="32" />
+        <mark key="^" line="54" column="32" />
+        <mark key="." line="54" column="32" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_refine/model/meta_architecture/__init__.py" timestamp="1560152831985">
         <mark key="[" line="2" column="50" />
         <mark key="]" line="3" column="56" />
         <mark key="^" line="3" column="56" />
         <mark key="." line="3" column="56" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/cam.py" timestamp="1561444368551">
+        <mark key="'" line="47" column="36" />
+        <mark key="[" line="33" column="51" />
+        <mark key="]" line="33" column="51" />
+        <mark key="." line="33" column="51" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/make_bar_graph_occluded.py" timestamp="1559389535234">
         <mark key="[" line="105" column="0" />
@@ -563,6 +849,13 @@
         <mark key="]" line="32" column="41" />
         <mark key="." line="32" column="41" />
         <mark key="^" line="32" column="41" />
+      </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" timestamp="1562142120289">
+        <mark key="'" line="212" column="0" />
+        <mark key="[" line="210" column="9" />
+        <mark key="]" line="211" column="9" />
+        <mark key="." line="211" column="9" />
+        <mark key="^" line="211" column="9" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1557998765086">
         <mark key="[" line="12" column="0" />
@@ -582,17 +875,23 @@
         <mark key="^" line="65" column="10" />
         <mark key="." line="65" column="10" />
       </file>
+      <file name="$USER_HOME$/dataset/coco/coco_tool/get_occluded_data_each_class.py" timestamp="1558517339866">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="42" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_with_val.yml" timestamp="1557180705127">
         <mark key="[" line="3" column="68" />
         <mark key="]" line="4" column="15" />
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/data/caltech.py" timestamp="1562923046402">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
+      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/data/caltech.py" timestamp="1562925931142">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_aug.yml" timestamp="1557168146852">
         <mark key="[" line="5" column="25" />
@@ -600,11 +899,25 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/train.py" timestamp="1561027196489">
+        <mark key="'" line="135" column="19" />
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="46" column="47" />
+        <mark key="." line="46" column="47" />
+        <mark key="^" line="46" column="47" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_freeze.yaml" timestamp="1559024598738">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
         <mark key="^" line="11" column="6" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_select_hyper_params.py" timestamp="1558945891424">
+        <mark key="'" line="80" column="44" />
+        <mark key="[" line="77" column="55" />
+        <mark key="]" line="79" column="55" />
+        <mark key="^" line="79" column="55" />
+        <mark key="." line="79" column="55" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" timestamp="1557388943572">
         <mark key="[" line="29" column="19" />
@@ -618,6 +931,13 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_test.py" timestamp="1558964143894">
+        <mark key="'" line="36" column="44" />
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/dataset.py" timestamp="1556532874407">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -630,11 +950,30 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1562657290950">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/tmp.py" timestamp="1558703113381">
+        <mark key="'" line="193" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="16" column="13" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator_freeze.yml" timestamp="1557071074279">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="19" column="8" />
         <mark key="^" line="5" column="21" />
         <mark key="." line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_grouped_ann_ids.py" timestamp="1562659054319">
+        <mark key="'" line="53" column="59" />
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/not_using_network/nms_debug.yaml" timestamp="1557998134594">
         <mark key="[" line="10" column="0" />
@@ -654,11 +993,32 @@
         <mark key="^" line="37" column="50" />
         <mark key="." line="37" column="50" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/evaluate.py" timestamp="1558956136851">
+        <mark key="'" line="211" column="4" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="94" column="29" />
+        <mark key="." line="44" column="24" />
+        <mark key="^" line="44" column="24" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" timestamp="1560480878487">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="70" column="60" />
+        <mark key="]" line="70" column="62" />
+        <mark key="." line="70" column="62" />
+        <mark key="^" line="70" column="62" />
+      </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/get_occlusion_range.py" timestamp="1558431099187">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="59" column="25" />
         <mark key="." line="90" column="13" />
         <mark key="^" line="90" column="13" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch_high_lr.yaml" timestamp="1559113884324">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_box_feature.py" timestamp="1559188499342">
         <mark key="[" line="10" column="0" />
@@ -671,6 +1031,13 @@
         <mark key="]" line="178" column="87" />
         <mark key="." line="178" column="87" />
         <mark key="^" line="178" column="87" />
+      </file>
+      <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_box_additional_feature/l1_norm/no_additional_feaure/vgg_block4_freeze.yaml" timestamp="1561025496486">
+        <mark key="'" line="8" column="14" />
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/cp_annotated_img.py" timestamp="1557082432200">
         <mark key="[" line="19" column="0" />
@@ -696,6 +1063,13 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/support_tools/check_box.py" timestamp="1558524232902">
+        <mark key="'" line="74" column="30" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/annotation_/14pts.yml" timestamp="1557179233310">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="18" />
@@ -720,12 +1094,40 @@
         <mark key="." line="38" column="10" />
         <mark key="^" line="38" column="10" />
       </file>
+      <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/data/build.py" timestamp="1561027227969">
+        <mark key="'" line="38" column="30" />
+        <mark key="[" line="146" column="64" />
+        <mark key="]" line="147" column="49" />
+        <mark key="^" line="147" column="49" />
+        <mark key="." line="147" column="49" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/coco.py" timestamp="1557209795455">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="32" column="56" />
+        <mark key="^" line="32" column="56" />
+        <mark key="." line="32" column="56" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_test.py" timestamp="1562900667734" />
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/predict.py" timestamp="1557418666568">
+        <mark key="'" line="153" column="42" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="66" />
+        <mark key="^" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/fusion/img1_bbox4.yaml" timestamp="1559295672879">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_only_relative_box_feature/l1_norm/no_additional_feaure/base.yaml" timestamp="1559191809945">
+        <mark key="'" line="9" column="43" />
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="1" column="43" />
       </file>
       <file name="$USER_HOME$/research_code/suppression/keypoint_matching/calc_ratio.py" timestamp="1562065046226">
         <mark key="[" line="33" column="0" />
@@ -737,6 +1139,41 @@
         <mark key="]" line="7" column="65" />
         <mark key="." line="7" column="65" />
         <mark key="^" line="7" column="65" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1559518194919">
+        <mark key="'" line="10" column="79" />
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="15" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="15" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_relative_box_feature.py" timestamp="1559211979849">
+        <mark key="'" line="49" column="8" />
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="47" column="27" />
+        <mark key="." line="47" column="27" />
+        <mark key="^" line="47" column="27" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/train.py" timestamp="1561441435952">
+        <mark key="'" line="44" column="33" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="30" />
+        <mark key="^" line="62" column="19" />
+        <mark key="." line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_scratch_high_lr.yaml" timestamp="1558051946525">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/demo.py" timestamp="1558959616975">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="263" column="57" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/__init__.py" timestamp="1560777127524">
         <mark key="[" line="1" column="40" />
@@ -793,6 +1230,13 @@
         <mark key="." line="17" column="64" />
         <mark key="^" line="17" column="64" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_freeze_pos_neg_equal.yaml" timestamp="1557799944868">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557094042509">
         <mark key="[" line="32" column="17" />
         <mark key="]" line="32" column="18" />
@@ -830,11 +1274,25 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/tmp/train.py" timestamp="1559187011713">
+        <mark key="'" line="78" column="38" />
+        <mark key="[" line="70" column="61" />
+        <mark key="]" line="72" column="26" />
+        <mark key="." line="72" column="26" />
+        <mark key="^" line="72" column="26" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/test_code/model/test_build_estimator.py" timestamp="1557195864332">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="19" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/sample/mnist.py" timestamp="1559300216348">
+        <mark key="'" line="76" column="22" />
+        <mark key="[" line="135" column="22" />
+        <mark key="]" line="135" column="32" />
+        <mark key="." line="135" column="32" />
+        <mark key="^" line="135" column="32" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/support_tools/visualize_data.py" timestamp="1557196022527">
         <mark key="[" line="1" column="0" />
@@ -865,6 +1323,13 @@
         <mark key="]" line="40" column="0" />
         <mark key="^" line="37" column="11" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/train.py" timestamp="1562927108999">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="52" column="60" />
+        <mark key="]" line="52" column="58" />
+        <mark key="^" line="52" column="58" />
+        <mark key="." line="52" column="58" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_scrach.py" timestamp="1557730948752">
         <mark key="[" line="20" column="33" />
@@ -902,11 +1367,25 @@
         <mark key="." line="23" column="8" />
         <mark key="^" line="18" column="30" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/build.py" timestamp="1557252931005">
+        <mark key="'" line="49" column="8" />
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/defaults.yml" timestamp="1556639266023">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="8" />
         <mark key="^" line="8" column="8" />
         <mark key="." line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" timestamp="1560133487976">
+        <mark key="'" line="101" column="36" />
+        <mark key="[" line="47" column="34" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="42" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/MultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val.yml" timestamp="1557180654994">
         <mark key="[" line="3" column="68" />
@@ -919,6 +1398,12 @@
         <mark key="]" line="6" column="59" />
         <mark key="^" line="6" column="59" />
         <mark key="." line="6" column="59" />
+      </file>
+      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/config/caltech101_10_categories.yml" timestamp="1562925757439">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1557389369723">
         <mark key="[" line="29" column="19" />
@@ -943,6 +1428,13 @@
         <mark key="]" line="1" column="22" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_train.py" timestamp="1558528097450">
+        <mark key="'" line="64" column="22" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="66" column="7" />
       </file>
       <file name="$USER_HOME$/research_code/python/keypoint_matching/utils/matcher.py" timestamp="1562037545589">
         <mark key="[" line="8" column="62" />
@@ -975,6 +1467,20 @@
         <mark key="." line="122" column="12" />
         <mark key="^" line="120" column="12" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/tools/train_net.py" timestamp="1557368077905">
+        <mark key="'" line="40" column="16" />
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/cache_iou_metric_output.py" timestamp="1558523988254">
+        <mark key="'" line="181" column="15" />
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="31" column="78" />
+        <mark key="^" line="31" column="78" />
+        <mark key="." line="31" column="78" />
+      </file>
       <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" timestamp="1561027421480">
         <mark key="[" line="101" column="69" />
         <mark key="]" line="104" column="30" />
@@ -987,6 +1493,13 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/model/extractor/build.py" timestamp="1557425792432">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="22" column="55" />
+        <mark key="]" line="22" column="63" />
+        <mark key="." line="22" column="63" />
+        <mark key="^" line="22" column="63" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/scripts/save_predicted_bbox_and_score.py" timestamp="1557419283581">
         <mark key="[" line="136" column="16" />
         <mark key="]" line="136" column="18" />
@@ -998,6 +1511,20 @@
         <mark key="]" line="143" column="18" />
         <mark key="." line="143" column="18" />
         <mark key="^" line="143" column="18" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/config/default.py" timestamp="1561439914921">
+        <mark key="'" line="41" column="23" />
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="56" column="34" />
+        <mark key="." line="56" column="34" />
+        <mark key="^" line="56" column="34" />
+      </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_matching_raio.py" timestamp="1562128635360">
+        <mark key="'" line="15" column="50" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="63" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/fusion/img1_bbox8.yaml" timestamp="1559295649984">
         <mark key="[" line="0" column="0" />
@@ -1023,6 +1550,13 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/separate_hand.py" timestamp="1557086213744">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="74" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="15" column="14" />
+      </file>
       <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" timestamp="1562923219176">
         <mark key="'" line="75" column="44" />
         <mark key="[" line="29" column="0" />
@@ -1036,6 +1570,20 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/build.py" timestamp="1561373646995">
+        <mark key="'" line="30" column="30" />
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="30" />
+        <mark key="^" line="30" column="37" />
+        <mark key="." line="30" column="30" />
+      </file>
+      <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_only_additional_feature/akaze.yaml" timestamp="1561028188822">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" timestamp="1562739662488">
         <mark key="'" line="144" column="8" />
         <mark key="[" line="147" column="70" />
@@ -1043,11 +1591,25 @@
         <mark key="." line="147" column="70" />
         <mark key="^" line="147" column="70" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" timestamp="1559215647333">
+        <mark key="'" line="48" column="25" />
+        <mark key="[" line="34" column="49" />
+        <mark key="]" line="34" column="49" />
+        <mark key="^" line="33" column="58" />
+        <mark key="." line="34" column="49" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/defaults.py" timestamp="1562833520188">
         <mark key="'" line="68" column="42" />
         <mark key="[" line="51" column="26" />
         <mark key="]" line="51" column="26" />
         <mark key="." line="51" column="26" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" timestamp="1557408646884">
+        <mark key="'" line="83" column="55" />
+        <mark key="[" line="82" column="24" />
+        <mark key="]" line="82" column="29" />
+        <mark key="^" line="82" column="29" />
+        <mark key="." line="82" column="29" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach.yaml" timestamp="1557745524119">
         <mark key="[" line="8" column="91" />
@@ -1073,6 +1635,26 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/networks/siamesenet_with_box_feature.py" timestamp="1559188648589">
+        <mark key="'" line="79" column="24" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="12" />
+        <mark key="." line="47" column="12" />
+        <mark key="^" line="46" column="12" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/scripts/cache_feature_map_test.py" timestamp="1557294690055">
+        <mark key="'" line="9" column="5" />
+        <mark key="[" line="85" column="34" />
+        <mark key="]" line="85" column="34" />
+        <mark key="." line="85" column="34" />
+        <mark key="^" line="84" column="27" />
+      </file>
+      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/test_code/data/test_caltech.py" timestamp="1562924328774">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="43" column="7" />
+        <mark key="." line="43" column="7" />
+        <mark key="^" line="43" column="7" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/model/networks/siamesenet.py" timestamp="1557253168173">
         <mark key="[" line="33" column="42" />
         <mark key="]" line="33" column="31" />
@@ -1091,6 +1673,18 @@
         <mark key="^" line="11" column="85" />
         <mark key="." line="11" column="85" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" timestamp="1559518189770">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/keypoint_matching/utils/feature.py" timestamp="1562654085382">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/imagenet_categories.py" timestamp="1556699353335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1024" column="1" />
@@ -1103,6 +1697,27 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/coco_train.py" timestamp="1557293904515">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="86" column="33" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/train.py" timestamp="1557333950669">
+        <mark key="'" line="122" column="10" />
+        <mark key="[" line="78" column="55" />
+        <mark key="]" line="78" column="56" />
+        <mark key="." line="78" column="56" />
+        <mark key="^" line="78" column="56" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph.py" timestamp="1558959513855">
+        <mark key="'" line="29" column="26" />
+        <mark key="[" line="80" column="16" />
+        <mark key="]" line="80" column="16" />
+        <mark key="^" line="81" column="17" />
+        <mark key="." line="80" column="16" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/batch_colator.py" timestamp="1557210540778">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1110,6 +1725,13 @@
         <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/lib/utils.py" timestamp="1562664771843" />
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_scratch.yaml" timestamp="1558049253246">
+        <mark key="'" line="9" column="34" />
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="25" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach.yaml" timestamp="1557998784766">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="1" />
@@ -1133,6 +1755,27 @@
         <mark key="]" line="27" column="11" />
         <mark key="." line="27" column="11" />
         <mark key="^" line="26" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" timestamp="1557392049953">
+        <mark key="'" line="176" column="19" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="45" />
+        <mark key="." line="188" column="0" />
+        <mark key="^" line="175" column="44" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/python/box_share_tool/lib/upload.py" timestamp="1562741710015">
+        <mark key="'" line="5" column="50" />
+        <mark key="[" line="5" column="94" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/test_code/test_evaluate.py" timestamp="1558005995178">
+        <mark key="'" line="97" column="13" />
+        <mark key="[" line="247" column="23" />
+        <mark key="]" line="247" column="23" />
+        <mark key="." line="247" column="23" />
+        <mark key="^" line="247" column="23" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern_assignment/data/transform.py" timestamp="1556540980620">
         <mark key="[" line="52" column="39" />
@@ -1193,11 +1836,32 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_relative_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1559044558413">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/data/transforms/transforms.py" timestamp="1557322015601">
+        <mark key="'" line="39" column="23" />
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="7" />
+        <mark key="^" line="39" column="7" />
+        <mark key="." line="39" column="7" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage5_GaussianWeightedMAE_vgg16_conv3_3_freeze_with_val_aug.yml" timestamp="1557100872317">
         <mark key="[" line="38" column="6" />
         <mark key="]" line="38" column="5" />
         <mark key="." line="38" column="5" />
         <mark key="^" line="38" column="5" />
+      </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/model/build.py" timestamp="1557181595170">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="127" column="57" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/echo_num_boxes.py" timestamp="1557751153874">
         <mark key="[" line="21" column="39" />
@@ -1205,26 +1869,31 @@
         <mark key="^" line="21" column="49" />
         <mark key="." line="21" column="49" />
       </file>
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/support_tools/visualize_merged_img_with_box.py" timestamp="1562150895559">
+        <mark key="'" line="38" column="17" />
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="9" column="72" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/__init__.py" timestamp="1562831318448">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="3" column="28" />
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/train.py" timestamp="1557163423743">
+        <mark key="'" line="47" column="44" />
+        <mark key="[" line="29" column="50" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+      </file>
       <file name="$USER_HOME$/research_code/python/keypoint_matching/sample.py" timestamp="1562039030840">
         <mark key="[" line="7" column="70" />
         <mark key="]" line="7" column="69" />
         <mark key="." line="7" column="69" />
         <mark key="^" line="7" column="69" />
-      </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" timestamp="1562829546415">
-        <mark key="'" line="55" column="39" />
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="74" column="11" />
-        <mark key="m" line="74" column="4" />
-        <mark key="^" line="74" column="11" />
-        <mark key="." line="74" column="11" />
-        <mark key="n" line="75" column="0" />
       </file>
       <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/support_tools/get_info/check_grouped_ann.py" timestamp="1562557351291">
         <mark key="[" line="24" column="30" />
@@ -1239,11 +1908,39 @@
         <mark key="." line="291" column="37" />
         <mark key="^" line="291" column="37" />
       </file>
+      <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/data_augmentation/augment_keypoints.py" timestamp="1557098870800">
+        <mark key="'" line="32" column="21" />
+        <mark key="[" line="55" column="58" />
+        <mark key="]" line="55" column="58" />
+        <mark key="." line="55" column="58" />
+        <mark key="^" line="55" column="58" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" timestamp="1559279671918">
+        <mark key="'" line="176" column="16" />
+        <mark key="[" line="155" column="56" />
+        <mark key="]" line="155" column="65" />
+        <mark key="." line="155" column="65" />
+        <mark key="^" line="155" column="65" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/python/box_share_tool/push.py" timestamp="1562741694376">
         <mark key="'" line="20" column="14" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach_with_lr_scheduler.yaml" timestamp="1558052189048">
+        <mark key="'" line="10" column="85" />
+        <mark key="[" line="10" column="85" />
+        <mark key="]" line="10" column="85" />
+        <mark key="." line="10" column="85" />
+        <mark key="^" line="10" column="85" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/configs/defaults.py" timestamp="1557426112368">
+        <mark key="'" line="25" column="19" />
+        <mark key="[" line="63" column="35" />
+        <mark key="]" line="63" column="35" />
+        <mark key="^" line="63" column="35" />
+        <mark key="." line="63" column="35" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/residual_stage3_net.py" timestamp="1557162200044">
         <mark key="[" line="5" column="47" />
@@ -1257,11 +1954,25 @@
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="46" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/make_graph_for_compare.py" timestamp="1558949893185">
+        <mark key="'" line="30" column="37" />
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="40" column="52" />
+        <mark key="^" line="40" column="52" />
+        <mark key="." line="40" column="52" />
+      </file>
       <file name="$USER_HOME$/research_code/suppression/keypoint_matching/utils/image_operation.py" timestamp="1562122979827">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_scratch_with_lr_scheduler.yaml" timestamp="1558051995341">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/visualize_img.py" timestamp="1557064436450">
         <mark key="[" line="12" column="58" />
@@ -1281,6 +1992,13 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/dataset/coco/coco_tool/get_occuluded_annot.py" timestamp="1557815014809">
+        <mark key="'" line="102" column="11" />
+        <mark key="[" line="125" column="42" />
+        <mark key="]" line="126" column="18" />
+        <mark key="^" line="126" column="18" />
+        <mark key="." line="126" column="18" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/loss/__init__.py" timestamp="1556985623481">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="5" />
@@ -1293,11 +2011,25 @@
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/data/datasets/train/coco.py" timestamp="1560777501062">
+        <mark key="'" line="77" column="44" />
+        <mark key="[" line="79" column="27" />
+        <mark key="]" line="79" column="27" />
+        <mark key="." line="79" column="27" />
+        <mark key="^" line="79" column="27" />
+      </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/occlusion/get_occlusion_range.py" timestamp="1561685925373">
         <mark key="[" line="81" column="40" />
         <mark key="]" line="83" column="19" />
         <mark key="^" line="83" column="19" />
         <mark key="." line="83" column="19" />
+      </file>
+      <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/support_scripts/dataset/split_data_caltech.py" timestamp="1561012707316">
+        <mark key="'" line="68" column="35" />
+        <mark key="[" line="66" column="38" />
+        <mark key="]" line="66" column="40" />
+        <mark key="." line="66" column="40" />
+        <mark key="^" line="66" column="40" />
       </file>
       <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_pair_anns_with_grouped.py" timestamp="1562659188047">
         <mark key="'" line="19" column="63" />
@@ -1306,23 +2038,38 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" timestamp="1562207574424">
+        <mark key="'" line="255" column="8" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="." line="274" column="0" />
+        <mark key="^" line="216" column="8" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/multi_stage_net.py" timestamp="1557162237874">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="12" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/config/default.py" timestamp="1562922558396">
-        <mark key="[" line="35" column="37" />
-        <mark key="]" line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-        <mark key="." line="35" column="37" />
+      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/config/default.py" timestamp="1562925740528">
+        <mark key="'" line="8" column="9" />
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
       </file>
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block2_of_block4_scratch.yaml" timestamp="1562741894375">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="12" column="17" />
         <mark key="." line="10" column="23" />
         <mark key="^" line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/dataset/coco/coco_tool/split_data/get_not_occuluded_annot.py" timestamp="1557993893127">
+        <mark key="'" line="47" column="23" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="62" column="16" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/mlp/build.py" timestamp="1559212234637">
         <mark key="[" line="26" column="71" />
@@ -1349,6 +2096,20 @@
         <mark key="." line="36" column="42" />
         <mark key="^" line="36" column="42" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_relative/vgg_block4_scratch.yaml" timestamp="1559294821466">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_dropout_prob_occluded_pair0.5.yaml" timestamp="1560844111086">
+        <mark key="'" line="16" column="11" />
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/research_code/suppression/keypoint_matching/utils/load_img.py" timestamp="1562121532169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="19" />
@@ -1360,6 +2121,13 @@
         <mark key="]" line="7" column="62" />
         <mark key="." line="7" column="62" />
         <mark key="^" line="7" column="62" />
+      </file>
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/generate_occluded_img.py" timestamp="1562223156388">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="60" column="56" />
+        <mark key="]" line="60" column="69" />
+        <mark key="^" line="60" column="69" />
+        <mark key="." line="60" column="69" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/pose_estimation/MultiStageNet/GaussianWeightedMAE_vgg16_conv3_3.yml" timestamp="1556986646808">
         <mark key="[" line="16" column="2" />
@@ -1379,6 +2147,13 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/defaults.py" timestamp="1560434468681">
+        <mark key="'" line="32" column="3" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/support_tools/convert.py" timestamp="1557068231720">
         <mark key="[" line="25" column="38" />
         <mark key="]" line="25" column="46" />
@@ -1390,6 +2165,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dataset/coco/occluded_data_generation/cache_suitable_ann_ids.py" timestamp="1562225934268">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.py" timestamp="1556694243766">
         <mark key="[" line="0" column="0" />
@@ -1428,6 +2210,13 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/convert_cache_info_to_detection_output.py" timestamp="1558005590661">
+        <mark key="'" line="56" column="10" />
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/research_code/python/keypoint_matching/utils/detector.py" timestamp="1562035680498">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="31" />
@@ -1452,11 +2241,25 @@
         <mark key="^" line="44" column="13" />
         <mark key="." line="44" column="13" />
       </file>
+      <file name="$USER_HOME$/research_code/python/keypoint_matching/utils/coco.py" timestamp="1562035188718">
+        <mark key="'" line="9" column="44" />
+        <mark key="[" line="26" column="73" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+        <mark key="^" line="27" column="13" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/residual_multi_stage_net.py" timestamp="1557162220751">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="10" column="11" />
         <mark key="^" line="10" column="11" />
         <mark key="." line="10" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block4_freeze.yaml" timestamp="1558597018262">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="42" />
       </file>
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/coco.py" timestamp="1562555946261">
         <mark key="[" line="100" column="60" />
@@ -1486,11 +2289,25 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1558666041131">
+        <mark key="'" line="3" column="27" />
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output_fusion.py" timestamp="1559305085909">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/debug/check_metric_output.py" timestamp="1557980555558">
+        <mark key="'" line="56" column="15" />
+        <mark key="[" line="62" column="21" />
+        <mark key="]" line="62" column="35" />
+        <mark key="." line="62" column="35" />
+        <mark key="^" line="62" column="35" />
       </file>
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/check_data.py" timestamp="1562829636711">
         <mark key="'" line="8" column="4" />
@@ -1510,6 +2327,13 @@
         <mark key="]" line="1" column="20" />
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/check_box_dev.py" timestamp="1559044128539">
+        <mark key="'" line="218" column="0" />
+        <mark key="[" line="106" column="47" />
+        <mark key="]" line="106" column="47" />
+        <mark key="^" line="106" column="47" />
+        <mark key="." line="106" column="47" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/my_test/model/test_extractor.py" timestamp="1556694623547">
         <mark key="[" line="14" column="26" />
@@ -1531,12 +2355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="20" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="110" column="49" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="45" column="8" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="46" column="32" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="83" column="41" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
-      <jump line="107" column="37" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
       <jump line="94" column="30" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
       <jump line="98" column="51" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
       <jump line="118" column="57" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
@@ -1631,55 +2449,61 @@
       <jump line="64" column="38" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" />
       <jump line="70" column="38" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" />
       <jump line="75" column="44" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" />
+      <jump line="20" column="20" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/config/default.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/config/default.py" />
+      <jump line="8" column="9" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/config/default.py" />
+      <jump line="17" column="22" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/train.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/train.py" />
+      <jump line="12" column="29" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/model/classifier.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHRyYWluZXIuZXh0ZW5kKGV4dGVuc2lvbnMuUHJvZ3Jlc3NCYXIoKSkK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>file_name</text>
+        <text>updater</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhY2hlX2RpciA9IG9zLnBhdGguam9pbignLi4vLi4nLCBjZmcuREFUQVNFVC5DQUxURUNIX0NBQ0hFX0RJUikK</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gTC5DbGFzc2lmaWVyKENsYXNzaWZpZXIoZXh0cmFjdG9yLCBjZmcuREFUQVNFVC5OVU1fQ0xBU1NFUykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHRyYWluZXIuZXh0ZW5kKGV4dGVuc2lvbnMuUHJvZ3Jlc3NCYXIoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgUmFuZG9tRmxpcChvYmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHByb2JfZmxpcD0wLjUpOgogICAgICAgIHNlbGYucHJvYl9mbGlwID0gcHJvYl9mbGlwCgogICAgZGVmIF9fY2FsbF9fKHNlbGYsIGltZyk6CiAgICAgICAgaWYgcmFuZG9tLnJhbmRvbSgpID4gc2VsZi5wcm9iX2ZsaXA6CiAgICAgICAgICAgIGltZyA9IEltYWdlT3BzLmZsaXAoaW1nKQogICAgICAgIHJldHVybiBpbWcK</text>
+        <text encoding="base64">ICAgIHRyYWluZXIuZXh0ZW5kKGV4dGVuc2lvbnMuUHJvZ3Jlc3NCYXIoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYWluZXIuZXh0ZW5kKGV4dGVuc2lvbnMuUHJvZ3Jlc3NCYXIoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYWluZXIuZXh0ZW5kKGV4dGVuc2lvbnMuUGxvdFJlcG9ydCgKICAgICAgICBbJ21haW4vbG9zcycsICd2YWxpZGF0aW9uL21haW4vbG9zcyddLCAnZXBvY2gnLCBmaWxlX25hbWU9J2xvc3MucG5nJykpCiAgICB0cmFpbmVyLmV4dGVuZChleHRlbnNpb25zLlByb2dyZXNzQmFyKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhLnRyYW5zZm9ybXMgaW1wb3J0IGJ1aWxkX3RyYW5zZm9ybXMK</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGJ1aWxkX3RyYW5zZm9ybXMoY2ZnLCBtb2RlPSd0cmFpbicpOgogICAgaWYgbW9kZSA9PSAndHJhaW4nIG9yIG1vZGUgPT0gJ3ZhbCc6CiAgICAgICAgdHJhbnNmb3JtcyA9IENvbXBvc2UoWwogICAgICAgICAgICBSYW5kb21GbGlwKDAuNSksCiAgICAgICAgICAgIFJlc2l6ZUltZyhjZmcuVFJBTlNGT1JNUy5SRVNJWkVfU0laRSksCiAgICAgICAgICAgIFRvTnVtcHlXaXRoTWVhbk5vcm0oCiAgICAgICAgICAgICAgICBjZmcuTU9ERUwuRVhUUkFDVE9SLCBjZmcuVFJBTlNGT1JNUy5SRVNJWkVfU0laRSksCiAgICAgICAgXSkKICAgIGVsaWYgbW9kZSA9PSAndGVzdCc6CiAgICAgICAgdHJhbnNmb3JtcyA9IENvbXBvc2UoWwogICAgICAgICAgICBSZXNpemVJbWcoY2ZnLlRSQU5TRk9STVMuUkVTSVpFX1NJWkUpLAogICAgICAgICAgICBUb051bXB5V2l0aE1lYW5Ob3JtKAogICAgICAgICAgICAgICAgY2ZnLk1PREVMLkVYVFJBQ1RPUiwgY2ZnLlRSQU5TRk9STVMuUkVTSVpFX1NJWkUpLAogICAgICAgIF0pCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoJ05vdCBzdXBwb3J0IG1vZGUge30uJy5mb3JtYXQobW9kZSkpCiAgICByZXR1cm4gdHJhbnNmb3Jtcwo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuCg==</text>
+        <text encoding="base64">ICAgIEwuQ2xhc3NpZmllcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZV9maWxlX3BhdGggPSBvcy5wYXRoLmpvaW4oY2ZnLnApCg==</text>
+        <text encoding="base64">ICAgIGRlZgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>file_name</last-search>
+      <last-search>updater</last-search>
       <last-offset />
-      <last-pattern>file_name</last-pattern>
+      <last-pattern>updater</last-pattern>
       <last-replace>developer</last-replace>
       <last-substitute>develper</last-substitute>
       <last-dir>1</last-dir>
@@ -1687,10 +2511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>to_cpu</entry>
-        <entry>30</entry>
-        <entry>_, c, d</entry>
-        <entry>using</entry>
         <entry>chainer</entry>
         <entry>config</entry>
         <entry>F</entry>
@@ -1707,6 +2527,10 @@
         <entry>cache_dir</entry>
         <entry>cache_file_name</entry>
         <entry>file_name</entry>
+        <entry>PRETR</entry>
+        <entry>PRE</entry>
+        <entry>model</entry>
+        <entry>updater</entry>
       </history-search>
       <history-cmd>
         <entry>%s/split_by/split/gc</entry>
@@ -1727,8 +2551,8 @@
         <entry>80</entry>
         <entry>182</entry>
         <entry>82</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
