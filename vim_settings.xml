@@ -1418,12 +1418,12 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/tmp/check.py" timestamp="1562913041739">
-        <mark key="'" line="31" column="33" />
-        <mark key="[" line="85" column="16" />
-        <mark key="]" line="89" column="25" />
-        <mark key="." line="89" column="25" />
-        <mark key="^" line="89" column="25" />
+      <file name="$USER_HOME$/ws/research_code/suppression/tmp/check.py" timestamp="1562914974776">
+        <mark key="'" line="79" column="18" />
+        <mark key="[" line="77" column="30" />
+        <mark key="]" line="79" column="18" />
+        <mark key="." line="79" column="18" />
+        <mark key="^" line="79" column="18" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/tools/train_net.py" timestamp="1557368077905">
         <mark key="'" line="40" column="16" />
@@ -2297,21 +2297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="32" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="203" column="47" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="204" column="38" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="205" column="55" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="51" column="20" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="220" column="8" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="221" column="8" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="223" column="47" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="236" column="48" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="254" column="8" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="255" column="8" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/check_keypoints.py" />
-      <jump line="23" column="5" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
-      <jump line="127" column="42" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
       <jump line="22" column="11" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
       <jump line="153" column="8" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
       <jump line="165" column="8" filename="$USER_HOME$/ws/research_code/suppression/keypoint_matching/support_tools/cache_matching_ratio.py" />
@@ -2397,55 +2382,70 @@
       <jump line="20" column="39" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="23" column="16" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="31" column="33" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="17" column="39" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="116" column="40" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="39" column="40" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="53" column="25" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="54" column="25" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="111" column="25" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="112" column="25" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="96" column="22" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="97" column="22" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="70" column="4" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="47" column="42" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="50" column="25" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="165" column="0" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="79" column="18" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      <register name="&quot;" type="4">
+        <text>x_max_m</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>x_max_m</text>
       </register>
       <register name="/" type="4">
-        <text>F</text>
+        <text>make_mask</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2Vfbm9ybV92YWwgPSBucC5zdW0oc291cmNlX21hc2spCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCd7fSwge30nLmZvcm1hdCh4X21heF9tLCB5X21heF9tKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9vbAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub3JtX3ZhbCA9IG5wLnN1bSh0YSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBpbXBvcnQgcGRiCiAgICAgICAgcGRiLnNldF90cmFjZSgpCiAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRyeToK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hc2tbXQo=</text>
+        <text encoding="base64">ICAgIGRpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hc2sgPSBucC5vbmVzKCgxMjgsIDEyOCkpCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">IC8gMTI4ICoqIDIKIC8gMTI4ICoqIDI=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hc2sgPSBucC53aGVyZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZSh4LCBjcC5uZGFycmF5KToKICAgICAgICAgICAgICAgIHggPSBjcC5hc251bXB5KHgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>F</last-search>
+      <last-search>make_mask</last-search>
       <last-offset />
-      <last-pattern>F</last-pattern>
+      <last-pattern>make_mask</last-pattern>
       <last-replace>developer</last-replace>
       <last-substitute>develper</last-substitute>
       <last-dir>1</last-dir>
@@ -2453,10 +2453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>same</entry>
-        <entry>generate</entry>
-        <entry>file_token_cache</entry>
-        <entry>develper</entry>
         <entry>developer</entry>
         <entry encoding="base64">XDx4X21pblw+</entry>
         <entry>lst_diff_same_category</entry>
@@ -2473,9 +2469,12 @@
         <entry>chainer</entry>
         <entry>config</entry>
         <entry>F</entry>
+        <entry>mask</entry>
+        <entry>extract</entry>
+        <entry>norm</entry>
+        <entry>make_mask</entry>
       </history-search>
       <history-cmd>
-        <entry>29</entry>
         <entry>W</entry>
         <entry>%s/coco/coco_balanced/gc</entry>
         <entry>%s/split_by/split/gc</entry>
@@ -2494,6 +2493,7 @@
         <entry>54</entry>
         <entry>57</entry>
         <entry>89</entry>
+        <entry>80</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
