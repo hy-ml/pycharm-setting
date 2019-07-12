@@ -1418,12 +1418,12 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/tmp/check.py" timestamp="1562920129892">
-        <mark key="'" line="74" column="39" />
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/ws/research_code/suppression/tmp/check.py" timestamp="1562922097847">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="122" column="12" />
+        <mark key="]" line="122" column="12" />
+        <mark key="." line="122" column="12" />
+        <mark key="^" line="120" column="12" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/fast-rcnn-pytorch1.0/tools/train_net.py" timestamp="1557368077905">
         <mark key="'" line="40" column="16" />
@@ -2297,7 +2297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="2" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" />
       <jump line="173" column="37" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train.py" />
       <jump line="11" column="42" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train.py" />
       <jump line="137" column="25" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train.py" />
@@ -2397,13 +2396,14 @@
       <jump line="160" column="31" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="38" column="13" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="74" column="39" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnbm90X2Nyb3AnCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>pdb</text>
@@ -2412,31 +2412,31 @@
         <text encoding="base64">ICAgICAgICAnY3JvcCc6IHsnc2FtZSc6IGRpc3RhbmNlc19zYW1lX2Nyb3AsICdkaWZmJzogZGlzdGFuY2VzX2RpZmZfY3JvcH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnbm90X2Nyb3AnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbnAuaXNuYW4oZGlzdGFuY2UpOgogICAgICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCiAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAnbm90X2Nyb3AnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd7fSwge30nLmZvcm1hdCh4X21heF9tLCB5X21heF9tKSkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd7fSwge30nLmZvcm1hdChib3gsIGJveF9jb21tb24pKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCd7fSwge30nLmZvcm1hdCh4X21heF9tLCB5X21heF9tKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCd7fSwge30nLmZvcm1hdChib3gsIGJveF9jb21tb24pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
