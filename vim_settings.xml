@@ -272,6 +272,13 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="39" column="4" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/generated_occlusion_dataset/siamese_net/l1_norm/block2_of_block4_scratch.yaml" timestamp="1563125676482">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/python/keypoint_matching/sample.py" timestamp="1562648474523">
         <mark key="[" line="36" column="28" />
         <mark key="]" line="36" column="29" />
@@ -523,8 +530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="44" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
       <jump line="51" column="65" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
       <jump line="63" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
       <jump line="36" column="57" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
@@ -623,43 +628,45 @@
       <jump line="35" column="17" filename="$USER_HOME$/ws/hobby_code/chainer/classification_with_cam/transforms.py" />
       <jump line="10" column="9" filename="$USER_HOME$/ws/hobby_code/chainer/classification_with_cam/data/transforms.py" />
       <jump line="65" column="66" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_scratch.py" />
+      <jump line="3" column="16" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/generated_occlusion_dataset/siamese_net/l1_norm/block2_of_block4_scratch.yaml" />
+      <jump line="16" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/generated_occlusion_dataset/siamese_net/l1_norm/block2_of_block4_scratch.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBMRUdFTkQ6ICJibG9jazIgb2Ygc2NyYXRjaCIKICAK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text>block4</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyYWluX2RhdGFzZXQgPSBidWlsZF9kYXRhc2V0KGNmZywgYXJncy5kYXRhX2RpciwgJ3RyYWluJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmY193ZWlnaHRzID0gY3VweS5hcnJheShmY193ZWlnaHRzKQo=</text>
+        <text encoding="base64">ICBMRUdFTkQ6ICJibG9jazIgb2Ygc2NyYXRjaCIKICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZjX3dlaWdodHMgPSBjdXB5LmFycmF5KGZjX3dlaWdodHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBmY193ZWlnaHRzID0gY3VweS5hcnJheShmY193ZWlnaHRzKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAjIGZjX3dlaWdodHMgPSBjdXB5LmFycmF5KGZjX3dlaWdodHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNoYWluZXIubGlua3MgYXMgTAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZjX3dlaWdodHMgPSBjdXB5LmFycmF5KGZjX3dlaWdodHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3YyLmRlc3Ryb3lBbGxXaW5kb3dzKCkK</text>
+        <text encoding="base64">aW1wb3J0IGNoYWluZXIubGlua3MgYXMgTAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3YyLmRlc3Ryb3lBbGxXaW5kb3dzKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYW0gPSBjYW0uYXN0eXBlKG5wLnVpbnQ4KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjYW0gPSBjYW0uYXN0eXBlKG5wLnVpbnQ4KQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -669,17 +676,16 @@
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search>block4</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
-      <last-replace>resize_size</last-replace>
-      <last-substitute>resize_size_img</last-substitute>
+      <last-pattern>block4</last-pattern>
+      <last-replace>block2_of</last-replace>
+      <last-substitute>block4</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>max</entry>
         <entry>is_suitable</entry>
         <entry>max_iou</entry>
         <entry>random</entry>
@@ -699,10 +705,9 @@
         <entry>keypoints</entry>
         <entry>resize_size_img</entry>
         <entry>label</entry>
+        <entry>block4</entry>
       </history-search>
       <history-cmd>
-        <entry>83</entry>
-        <entry>81</entry>
         <entry>84</entry>
         <entry>9</entry>
         <entry>%s/annotations\/seen_unseen/annotations\/seen_unseen\/balanced/gc</entry>
@@ -720,6 +725,8 @@
         <entry>%s/coco_balanced\/split_seen_unseen/generated_occlusion_dataset/gc</entry>
         <entry>wq</entry>
         <entry>%s/resize_size_img/resize_size/gc</entry>
+        <entry>%s/block4/block2_of_/gc</entry>
+        <entry>%s/block4/block2_of/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
