@@ -235,6 +235,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_generated_occlusion_dataset.py" timestamp="1563168921661">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="44" column="69" />
+        <mark key="]" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+        <mark key="^" line="45" column="28" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/data/keypoints_dataset.py" timestamp="1557195462895">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -2255,10 +2262,6 @@
         <mark key="^" line="100" column="56" />
         <mark key="." line="100" column="56" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output_scratch.py" timestamp="1562900512116">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="29" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/test/imagenet_categories.json" timestamp="1556693958142">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="999" column="53" />
@@ -2348,7 +2351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="8" filename="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/generate_occluded_img.py" />
       <jump line="24" column="0" filename="$USER_HOME$/ws/research_code/python/box_share_tool/push.py" />
       <jump line="39" column="14" filename="$USER_HOME$/ws/research_code/python/box_share_tool/push.py" />
       <jump line="7" column="0" filename="$USER_HOME$/ws/research_code/python/box_share_tool/push.py" />
@@ -2448,55 +2450,56 @@
       <jump line="19" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train.py" />
       <jump line="13" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train.py" />
       <jump line="14" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_generated_occlusion_dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW5kJywgdHlwZT1pbnQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>cache_info</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>coco</text>
+        <text>train</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RhdGFzZXQgPSBidWlsZF9kYXRhc2V0KGNmZywgYXJncy5jb2NvX2RpciwgYXJncy5jYWNoZV9kaXIsICd0cmFpbicpCg==</text>
+        <text encoding="base64">ICAgIGV4dHJhY3RfZmVhdHVyZV9pbl9zcGxpdChleHRyYWN0b3IsIHRyYW5zZm9ybXMsIGJsb2NrLCBhcmdzLmNvY29fZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhY2hlLCBhcmdzLnNhdmVfZGlyLCAndHJhaW4nLCBkZXZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tZW5kJywgdHlwZT1pbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyZ3Muc2F2ZV9kaXIsICdibG9ja3t9Jy5mb3JtYXQoYmxvY2spLCBzcGxpdCkpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tc3RhcnQnLCB0eXBlPWludCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2Rpcihvcy5wYXRoLmpvaW4oCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2Fubl9maWxlJywgdHlwZT1zdHIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvY28gPSBDT0NPKGFyZ3MuYW5uX2ZpbGUpCiAgICB3aXRoIG9wZW4oYXJncy5jYWNoZV9pbmZvLCAncmInKSBhcyBmcDoKICAgICAgICBjYWNoZV9pbmZvID0gcGlja2xlLmxvYWQoZnApCiAgICBpbWdfaWRzID0gY2FjaGVfaW5mb1snaW1nX2lkJ10KICAgIGxzdF9zaGlmdGVkX2JveGVzID0gY2FjaGVfaW5mb1snc2hpZnRlZF9ib3hlcyddCiAgICBsc3RfYW5uX2lkcyA9IGNhY2hlX2luZm9bJ2Fubl9pZHMnXQo=</text>
+        <text encoding="base64">ZnJvbSBkYXRhLmRhdGFzZXRzLmNhY2hlX2ZlYXR1cmVfbWFwLnV0aWxzIGltcG9ydCByZXNoYXBlX3Byb3RydWRlZF9ib3hlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtb2RlbC5leHRyYWN0b3IgaW1wb3J0IGJ1aWxkX2V4dHJhY3Rvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MucmVzdGFydDoKICAgICAgICBtb2RlbCwgb3B0aW1pemVyLCBlcG9jaCwgaXRlcmF0aW9uID0gbG9hZF9jaGVja3BvaW50KAogICAgICAgICAgICBtb2RlbCwgb3B0aW1pemVyLCBvcy5wYXRoLmpvaW4oY2ZnLlNBVkVfRElSLCAnY2hlY2twb2ludC5wdGgnKSkKICAgICAgICBzdGFydF9lcG9jaCA9IGVwb2NoCiAgICAgICAgZ2xvYmFsIGl0ZXJfY291bnRlcgogICAgICAgIGl0ZXJfY291bnRlciA9IGl0ZXJhdGlvbgogICAgZWxzZToKICAgICAgICBzdGFydF9lcG9jaCA9IDAK</text>
+        <text encoding="base64">ZnJvbSBkYXRhLmRhdGFzZXRzLmNhY2hlX2ZlYXR1cmVfbWFwLmJhdGNoX2NvbGF0b3IgaW1wb3J0IEJhdGNoQ29sbGF0b3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4dHJhY3RvciA9IGJ1aWxkX2V4dHJhY3RvcihjZmcpCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRhLmRhdGFzZXRzLmNhY2hlX2ZlYXR1cmVfbWFwLmNvY29fdGVzdCBpbXBvcnQgQ09DT0RhdGFzZXRUZXN0Rm9yRmVhdHVyZU1hcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLnRvKGRldmljZSkK</text>
+        <text encoding="base64">ICAgIHdpdGggdG9yY2gubm9fZ3JhZCgpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>coco</last-search>
+      <last-search>train</last-search>
       <last-offset />
-      <last-pattern>coco</last-pattern>
+      <last-pattern>train</last-pattern>
       <last-replace>cache_file</last-replace>
       <last-substitute>cache_info</last-substitute>
       <last-dir>1</last-dir>
@@ -2504,7 +2507,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mask</entry>
         <entry>extract</entry>
         <entry>norm</entry>
         <entry>print</entry>
@@ -2524,6 +2526,7 @@
         <entry>cache_info</entry>
         <entry>dataset</entry>
         <entry>coco</entry>
+        <entry>train</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
