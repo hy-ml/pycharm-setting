@@ -1293,11 +1293,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_generated_occlusion_dataset.py" timestamp="1563181491558">
-        <mark key="[" line="116" column="67" />
-        <mark key="]" line="116" column="7" />
-        <mark key="." line="116" column="7" />
-        <mark key="^" line="116" column="7" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_generated_occlusion_dataset.py" timestamp="1563183340456">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="42" column="32" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/mlp/fc_layers.py" timestamp="1558600239735">
         <mark key="[" line="18" column="19" />
@@ -2496,8 +2496,8 @@
       <jump line="106" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3t9L3t9Jy5mb3JtYXQoaSwgbGVuKGxzdF9pbWdfbmFtZSkpKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -2508,32 +2508,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxzdF9pbWdfcGF0aCA9IGNhY2hlW3NwbGl0XVtzYW1lX29yX2RpZmZdWydpbWdfcGF0aCddCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3t9L3t9Jy5mb3JtYXQoaSwgbGVuKGxzdF9pbWdfbmFtZSkpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSA+IDEwOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9zLnBhdGguam9pbihjb2NvX2RpciwgJ2dlbmVyYXRlZF9vY2NsdXNpb25fZGF0YXNldCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nX3BhdGggPSAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm94ZXMgPSBbW2ludChwKSBmb3IgcCBpbiBiXSBmb3IgYiBpbiBib3hlc10K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEAgc3RhdGljbWV0aG9kCiAgICBkZWYgX2dldF9mX21hcF9wYXRoKGltZ19wYXRoLCBmX21hcF9kaXIsIHNwbGl0KToKICAgICAgICBpbWdfbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUoaW1nX3BhdGgpCiAgICAgICAgZl9tYXBfbmFtZSA9IGltZ19uYW1lLnJlcGxhY2Uob3MucGF0aC5zcGxpdGV4dChpbWdfbmFtZSlbMV0sICcubnB6JykKICAgICAgICBmX21hcF9wYXRoID0gb3MucGF0aC5qb2luKGZfbWFwX2Rpciwgc3BsaXQsIGZfbWFwX25hbWUpCiAgICAgICAgcmV0dXJuIGZfbWFwX3BhdGgK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJsb2NrID0gY2ZnLk1PREVMLkVYVFJBQ1RPUl9PVVRQVVRfQkxPQ0tbMF0KICAgIGZvciBzcGxpdCBpbiBbJ3NhbWUnLCAnZGlmZiddOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2572,7 +2572,6 @@
         <entry>args =</entry>
       </history-search>
       <history-cmd>
-        <entry>17</entry>
         <entry>match</entry>
         <entry>10</entry>
         <entry>220</entry>
@@ -2591,6 +2590,7 @@
         <entry>82</entry>
         <entry>%s/cache_info/cache_file/gc</entry>
         <entry>wq</entry>
+        <entry>135</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
