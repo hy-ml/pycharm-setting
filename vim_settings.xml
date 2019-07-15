@@ -69,6 +69,11 @@
         <mark key="^" line="135" column="41" />
         <mark key="." line="135" column="41" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" timestamp="1562657909415">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3WeightedMAE_vgg16_conv3_3.yml" timestamp="1557171015458">
         <mark key="[" line="0" column="40" />
         <mark key="]" line="0" column="40" />
@@ -92,6 +97,11 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/eval.py" timestamp="1562139386134">
+        <mark key="[" line="35" column="55" />
+        <mark key="]" line="35" column="56" />
+        <mark key="." line="35" column="56" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze_pos_neg_equal.yaml" timestamp="1557799862924">
         <mark key="'" line="0" column="0" />
@@ -269,6 +279,11 @@
         <mark key="]" line="15" column="15" />
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="15" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_suitable_ann_ids.py" timestamp="1562657138391">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/get_category_num.py" timestamp="1557817237227">
         <mark key="[" line="18" column="53" />
@@ -1183,11 +1198,10 @@
         <mark key="^" line="40" column="37" />
         <mark key="." line="40" column="37" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/__init__.py" timestamp="1562831305000">
-        <mark key="[" line="4" column="77" />
-        <mark key="]" line="5" column="73" />
-        <mark key="^" line="5" column="73" />
-        <mark key="." line="5" column="73" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/__init__.py" timestamp="1563175883139">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="66" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_freeze_with_lr_scheduler.yaml" timestamp="1558052044229">
         <mark key="'" line="11" column="0" />
@@ -1436,11 +1450,11 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/build.py" timestamp="1562833740753">
-        <mark key="[" line="117" column="46" />
-        <mark key="]" line="118" column="11" />
-        <mark key="." line="118" column="11" />
-        <mark key="^" line="118" column="11" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/build.py" timestamp="1563176141184">
+        <mark key="[" line="114" column="45" />
+        <mark key="]" line="114" column="44" />
+        <mark key="." line="114" column="44" />
+        <mark key="^" line="114" column="44" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/split_data.py" timestamp="1557090453281">
         <mark key="[" line="24" column="4" />
@@ -1694,11 +1708,12 @@
         <mark key="^" line="17" column="47" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/generated_occlusion_dataset.py" timestamp="1562831222953">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-        <mark key="^" line="12" column="35" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/generated_occlusion_dataset.py" timestamp="1563175956234">
+        <mark key="'" line="10" column="26" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="34" column="72" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_with_val_aug.yml" timestamp="1557093896434">
         <mark key="[" line="32" column="17" />
@@ -1732,6 +1747,11 @@
         <mark key="]" line="147" column="66" />
         <mark key="^" line="175" column="0" />
         <mark key="." line="175" column="0" />
+      </file>
+      <file name="$USER_HOME$/research_code/suppression/keypoint_matching/calc_ratio.py" timestamp="1562065046226">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1559518194919">
         <mark key="'" line="10" column="79" />
@@ -2078,11 +2098,22 @@
         <mark key="^" line="108" column="83" />
         <mark key="." line="108" column="83" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/generated_occlusion_dataset_scratch.py" timestamp="1563175868672">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/not_using_network/nms.yaml" timestamp="1557903032571">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="11" />
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net/l1_norm/block2_of_block4_scratch.yaml" timestamp="1563175061844">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/echo_num_boxes.py" timestamp="1557751153874">
         <mark key="[" line="21" column="39" />
@@ -2097,11 +2128,11 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="9" column="72" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/__init__.py" timestamp="1562831318448">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="3" column="28" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="3" column="28" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/__init__.py" timestamp="1563175937375">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="62" />
+        <mark key="^" line="3" column="62" />
+        <mark key="." line="3" column="62" />
       </file>
       <file name="$USER_HOME$/research_code/python/keypoint_matching/sample.py" timestamp="1562039030840">
         <mark key="[" line="7" column="70" />
@@ -2365,8 +2396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="105" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generate_occluded_img/cache_pair.py" />
       <jump line="8" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/check_data.py" />
       <jump line="64" column="30" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
       <jump line="74" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/generated_occlusion_dataset/cache_pair.py" />
@@ -2465,55 +2494,57 @@
       <jump line="80" column="11" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/coco.py" />
       <jump line="79" column="30" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/evaluate/coco.py" />
       <jump line="135" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/evaluate/coco.py" />
+      <jump line="46" column="40" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/generated_occlusion_dataset.py" />
+      <jump line="10" column="26" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/generated_occlusion_dataset.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmX21hcF9kaXIgPSBvcy5wYXRoLmpvaW4oYWRkaXRpb25hbF9mZWF0dXJlX2RpcikK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>def get</text>
+        <text>trans</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmX21hcHNfcGF0aCA9IG9zLnBhdGguam9pbigKICAgICAgICAgICAgc2VsZi5mX21hcF9jYWNoZV9kaXIsIHNlbGYuYmxvY2tzWzBdLCBiYXNlbmFtZSArICcubnB6JykK</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zID0gYnVpbGRfdHJhbnNmb3JtcyhjZmcpCiAgICAgICAgaWYgc3BsaXQgaXMgJ3Rlc3QnOgogICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkKCiAgICAgICAgZ2VuZXJhdGVkX29jY2x1c2lvbl9kYXRhc2V0X2RpciA9IFwKICAgICAgICAgICAgb3MucGF0aC5qb2luKGNvY29fZGlyLCAnZ2VuZXJhdGVkX29jY2x1c2lvbl9kYXRhc2V0JykKICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKGdlbmVyYXRlZF9vY2NsdXNpb25fZGF0YXNldF9kaXIsIGNmZy5DQUNIRV9GSUxFKSwgJ3JiJykgYXMgZnA6CiAgICAgICAgICAgIGNhY2hlID0gcGlja2xlLmxvYWQoZnApCiAgICAgICAgZGF0YXNldCA9IEQuR2VuZXJhdGVkT2NjbHVzaW9uRGF0YXNldFNjcmF0Y2goCiAgICAgICAgICAgIGNvY29fZGlyLCBnZW5lcmF0ZWRfb2NjbHVzaW9uX2RhdGFzZXRfZGlyLCBjYWNoZVtzcGxpdF0sIHRyYW5zZm9ybXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5pZHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmX21hcF9kaXIgPSBvcy5wYXRoLmpvaW4oYWRkaXRpb25hbF9mZWF0dXJlX2RpcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oc2VsZi5pZHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zID0gYnVpbGRfdHJhbnNmb3JtcyhjZmcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRyYW5zZm9ybXMgPSB0cmFuc2Zvcm1zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ZnJvbSAuZ2VuZXJhdGVkX29jY2x1c2lvbl9kYXRhc2V0IGltcG9ydCBHZW5lcmF0ZWRPY2NsdXNpb25EYXRhc2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
+        <text encoding="base64">ZnJvbSAuLnV0aWxzIGltcG9ydCBjcm9wX2ltZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlkcyA9IHNlbGYuY29jby5nZXRJbWdJZHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWdfc2l6ZSA9IGltZy5zaXplCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvY28gPSBDT0NPCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnRyYW5zZm9ybXMgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNvdXJjZV9pbWcsIHRhcmdldF9pbWcgPSBcCiAgICAgICAgICAgICAgICBbc2VsZi50cmFuc2Zvcm1zKGltZykgZm9yIGltZyBpbltzb3VyY2VfaW1nLCB0YXJnZXRfaW1nXV0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlkcyA9IHNlbGYuY29jby5pbWcK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>def get</last-search>
+      <last-search>trans</last-search>
       <last-offset />
-      <last-pattern>def get</last-pattern>
+      <last-pattern>trans</last-pattern>
       <last-replace>cache_file</last-replace>
       <last-substitute>cache_info</last-substitute>
       <last-dir>1</last-dir>
@@ -2521,7 +2552,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>make_mask</entry>
         <entry>zeros</entry>
         <entry>crop</entry>
@@ -2541,6 +2571,7 @@
         <entry>pdb</entry>
         <entry>get_f</entry>
         <entry>def get</entry>
+        <entry>trans</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
