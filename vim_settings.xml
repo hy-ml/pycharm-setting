@@ -352,6 +352,12 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="35" column="4" />
       </file>
+      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/data/transforms.py" timestamp="1562925914369">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="13" column="3" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/scripts/cache_feature_map_test_scrach.py" timestamp="1557893534028">
         <mark key="'" line="66" column="26" />
         <mark key="[" line="75" column="19" />
@@ -1051,6 +1057,12 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block2_of_block4_scratch.yaml" timestamp="1562741894375">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="12" column="15" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/visualize_data.py" timestamp="1557088824787">
         <mark key="[" line="35" column="42" />
         <mark key="]" line="36" column="42" />
@@ -1281,12 +1293,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_generated_occlusion_dataset.py" timestamp="1563169900618">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="56" column="43" />
-        <mark key="]" line="56" column="41" />
-        <mark key="." line="56" column="41" />
-        <mark key="^" line="56" column="41" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_generated_occlusion_dataset.py" timestamp="1563181491558">
+        <mark key="[" line="116" column="67" />
+        <mark key="]" line="116" column="7" />
+        <mark key="." line="116" column="7" />
+        <mark key="^" line="116" column="7" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/mlp/fc_layers.py" timestamp="1558600239735">
         <mark key="[" line="18" column="19" />
@@ -2016,6 +2027,12 @@
         <mark key="." line="85" column="34" />
         <mark key="^" line="84" column="27" />
       </file>
+      <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/test_code/data/test_caltech.py" timestamp="1562924328774">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="43" column="7" />
+        <mark key="." line="43" column="7" />
+        <mark key="^" line="43" column="7" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/data/datasets/cache_feature_map/coco_train.py" timestamp="1557293904515">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="89" column="0" />
@@ -2479,44 +2496,44 @@
       <jump line="106" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>args =</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zID0gYnVpbGRfdHJhbnNmb3JtcyhjZmcpCiAgICAgICAgaWYgc3BsaXQgaXMgJ3Rlc3QnOgogICAgICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkKCiAgICAgICAgZ2VuZXJhdGVkX29jY2x1c2lvbl9kYXRhc2V0X2RpciA9IFwKICAgICAgICAgICAgb3MucGF0aC5qb2luKGNvY29fZGlyLCAnZ2VuZXJhdGVkX29jY2x1c2lvbl9kYXRhc2V0JykKICAgICAgICB3aXRoIG9wZW4ob3MucGF0aC5qb2luKGdlbmVyYXRlZF9vY2NsdXNpb25fZGF0YXNldF9kaXIsIGNmZy5DQUNIRV9GSUxFKSwgJ3JiJykgYXMgZnA6CiAgICAgICAgICAgIGNhY2hlID0gcGlja2xlLmxvYWQoZnApCiAgICAgICAgZGF0YXNldCA9IEQuR2VuZXJhdGVkT2NjbHVzaW9uRGF0YXNldFNjcmF0Y2goCiAgICAgICAgICAgIGNvY29fZGlyLCBnZW5lcmF0ZWRfb2NjbHVzaW9uX2RhdGFzZXRfZGlyLCBjYWNoZVtzcGxpdF0sIHRyYW5zZm9ybXMpCg==</text>
+        <text encoding="base64">ICAgIGxzdF9pbWdfcGF0aCA9IGNhY2hlW3NwbGl0XVtzYW1lX29yX2RpZmZdWydpbWdfcGF0aCddCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEAgc3RhdGljbWV0aG9kCiAgICBkZWYgX2dldF9mX21hcF9wYXRoKGltZ19wYXRoLCBmX21hcF9kaXIsIHNwbGl0KToKICAgICAgICBpbWdfbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUoaW1nX3BhdGgpCiAgICAgICAgZl9tYXBfbmFtZSA9IGltZ19uYW1lLnJlcGxhY2Uob3MucGF0aC5zcGxpdGV4dChpbWdfbmFtZSlbMV0sICcubnB6JykKICAgICAgICBmX21hcF9wYXRoID0gb3MucGF0aC5qb2luKGZfbWFwX2Rpciwgc3BsaXQsIGZfbWFwX25hbWUpCiAgICAgICAgcmV0dXJuIGZfbWFwX3BhdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dG1wbHRfZl9tYXBfbmFtZSA9ICdtZXJnZWRfezowNWR9Lm5weicKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9zLnBhdGguam9pbihjb2NvX2RpciwgJ2dlbmVyYXRlZF9vY2NsdXNpb25fZGF0YXNldCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tY2FjaGVfZGF0YV9kaXIiLCB0eXBlPXN0ciwKICAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iUGF0aCB0byB0aGUgcm9vdCBkaXJlY3Rvcnkgb2YgY2FjaGUgZGF0YS4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1nX3BhdGggPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmX21hcF9kaXIgPSBvcy5wYXRoLmpvaW4oYWRkaXRpb25hbF9mZWF0dXJlX2RpcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm94ZXMgPSBbW2ludChwKSBmb3IgcCBpbiBiXSBmb3IgYiBpbiBib3hlc10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm1zID0gYnVpbGRfdHJhbnNmb3JtcyhjZmcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgIEAgc3RhdGljbWV0aG9kCiAgICBkZWYgX2dldF9mX21hcF9wYXRoKGltZ19wYXRoLCBmX21hcF9kaXIsIHNwbGl0KToKICAgICAgICBpbWdfbmFtZSA9IG9zLnBhdGguYmFzZW5hbWUoaW1nX3BhdGgpCiAgICAgICAgZl9tYXBfbmFtZSA9IGltZ19uYW1lLnJlcGxhY2Uob3MucGF0aC5zcGxpdGV4dChpbWdfbmFtZSlbMV0sICcubnB6JykKICAgICAgICBmX21hcF9wYXRoID0gb3MucGF0aC5qb2luKGZfbWFwX2Rpciwgc3BsaXQsIGZfbWFwX25hbWUpCiAgICAgICAgcmV0dXJuIGZfbWFwX3BhdGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYW5zZm9ybXMgPSB0cmFuc2Zvcm1zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
