@@ -202,6 +202,13 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" timestamp="1563296350889">
+        <mark key="'" line="256" column="14" />
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="40" />
+        <mark key="." line="37" column="40" />
+        <mark key="^" line="37" column="39" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_unet/solver/build.py" timestamp="1559401571697">
         <mark key="'" line="10" column="43" />
         <mark key="[" line="16" column="74" />
@@ -518,24 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="57" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="38" column="5" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="92" column="59" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="96" column="33" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="100" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="80" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="82" column="16" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="87" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="88" column="31" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="89" column="59" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="91" column="59" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="135" column="87" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco_balanced_occluded_pair.py" />
-      <jump line="204" column="19" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="100" column="36" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="124" column="8" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="45" column="20" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/utils/checkpoint.py" />
-      <jump line="32" column="27" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/utils/checkpoint.py" />
-      <jump line="173" column="12" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="183" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="194" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
       <jump line="201" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
@@ -618,55 +607,75 @@
       <jump line="16" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/generated_occlusion_dataset/siamese_net/l1_norm/block2_of_block4_scratch.yaml" />
       <jump line="24" column="62" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph_for_balanced.py" />
       <jump line="27" column="27" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph_for_balanced.py" />
+      <jump line="35" column="44" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="200" column="13" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="207" column="24" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="208" column="37" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="209" column="37" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="254" column="25" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="337" column="18" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="318" column="28" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="325" column="68" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="382" column="26" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="344" column="72" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="201" column="4" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="324" column="28" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="369" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="322" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="327" column="75" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="334" column="28" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="255" column="14" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>yaml</text>
+        <text>make_ratio</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGRldmljZSA9PSAnZ3B1JzoKICAgICAgICBpb3UgPSBjdXB5LmFzbnVtcHkoaW91KQo=</text>
+        <text encoding="base64">ICAgICdMMU5vcm0nOiBbMC4yICogaSBmb3IgaSBpbiByYW5nZSgxNSldLCAgIyBibG9jazQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">ICAgICAgICBtYXhfc2Vlbl9sYWJlbD1tYXhfc2Vlbl9sYWJlbCwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFkZGVkX2FubnNfYW5uID0gW2Fubl0K</text>
+      <register name="3" type="8">
+        <text>np.array(
+np.array(</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+      <register name="4" type="8">
+        <text>np.array(
+np.array(</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgY291bnRfYm94ZXNfc2VlbiA9IG5wLnN1bShucC5hcnJheShjb3VudF9ib3hlc1s6bWF4X3NlZW5fbGFiZWwrMV0pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpb3VzLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYW5uX2lkIGluIAo=</text>
+        <text encoding="base64">ICAgIHNlZW5zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKCgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>yaml</last-search>
+      <last-search>make_ratio</last-search>
       <last-offset />
-      <last-pattern>yaml</last-pattern>
+      <last-pattern>make_ratio</last-pattern>
       <last-replace>block2_of</last-replace>
       <last-substitute>block4</last-substitute>
       <last-dir>1</last-dir>
@@ -674,13 +683,6 @@
     </search>
     <history>
       <history-search>
-        <entry>max_iou</entry>
-        <entry>random</entry>
-        <entry>block4_scratch</entry>
-        <entry>data</entry>
-        <entry>exec</entry>
-        <entry encoding="base64">XDxpbWdfc2l6ZVw+</entry>
-        <entry>additional</entry>
         <entry>coco</entry>
         <entry>split_by</entry>
         <entry>xp</entry>
@@ -694,6 +696,13 @@
         <entry>label</entry>
         <entry>block4</entry>
         <entry>yaml</entry>
+        <entry>num_class</entry>
+        <entry>parse</entry>
+        <entry>def evaluate</entry>
+        <entry>evaluate</entry>
+        <entry>wrapper</entry>
+        <entry>ratio</entry>
+        <entry>make_ratio</entry>
       </history-search>
       <history-cmd>
         <entry>%s/annotations\/seen_unseen/annotations\/seen_unseen\/balanced/gc</entry>
