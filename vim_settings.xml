@@ -27,12 +27,6 @@
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/python/occluded_dataset_generation/generate_occluded_img.py" timestamp="1562608687668">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1562595800186">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -428,12 +422,6 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" timestamp="1562607672254">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="77" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/hobby_code/chainer/classification_with_cam/model/classifier.py" timestamp="1562946158867">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="12" />
@@ -491,6 +479,12 @@
         <mark key="." line="22" column="48" />
         <mark key="^" line="22" column="48" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/add_iou_info_to_ann.py" timestamp="1563290536589">
+        <mark key="[" line="102" column="36" />
+        <mark key="]" line="102" column="36" />
+        <mark key="." line="102" column="36" />
+        <mark key="^" line="102" column="36" />
+      </file>
       <file name="$USER_HOME$/ws/hobby_code/chainer/classification_with_cam/model/extractor.py" timestamp="1562949844815">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="48" />
@@ -521,12 +515,6 @@
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="30" />
         <mark key="^" line="26" column="30" />
-      </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1562607645973">
-        <mark key="'" line="11" column="2" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -633,43 +621,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1jb25maWdzJywgbmFyZ3M9JyonKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>yaml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bHN0X2NvbG9yID0gWydwdXJwbGUnLCAnb3JhbmdlJywgJ3NlYWdyZWVuJywgJ3JlZCddCg==</text>
+        <text encoding="base64">ICAgIGlmIGRldmljZSA9PSAnZ3B1JzoKICAgICAgICBpb3UgPSBjdXB5LmFzbnVtcHkoaW91KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1jb25maWdzJywgbmFyZ3M9JyonKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcGFyc2VyLmFkZF9hcmd1bWVudCgnLS1ncmVlZHlfY29uZmlnJywgbmFyZ3M9JyonKQo=</text>
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkZGVkX2FubnNfYW5uID0gW2Fubl0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDAuNSwgMC41LCAwLjUK</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICcuLi8uLi9jb25maWdzJywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICcuLi8uLi9jb25maWdzL2NvY29fYmFsYW5jZWQvc2lhbWVzZV9uZXRfd2l0aF9ib3hfZmVhdHVyZS92Z2dfYmxvY2syX29mX2Jsb2NrMl9vZl9zY3JhdGNoLnlhbWwnLAo=</text>
+        <text encoding="base64">ICAgICAgICBpb3VzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgJy4uLy4uL2NvbmZpZ3MvY29jb19iYWxhbmNlZC9zaWFtZXNlX25ldC9sMV9ub3JtL3ZnZ19ibG9jazJfb2ZfYmxvY2s0X3NjcmF0Y2gueWFtbCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYW5uX2lkIGluIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBMRUdFTkQ6ICJibG9jazIgb2Ygc2NyYXRjaCIKICAK</text>
+        <text encoding="base64">ICAgICAgICAKCgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmY193ZWlnaHRzID0gY3VweS5hcnJheShmY193ZWlnaHRzKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -708,7 +696,6 @@
         <entry>yaml</entry>
       </history-search>
       <history-cmd>
-        <entry>9</entry>
         <entry>%s/annotations\/seen_unseen/annotations\/seen_unseen\/balanced/gc</entry>
         <entry>%s/scratch/scratch_bn/gc</entry>
         <entry>%s/block4_scratch/block2_of_block4_scratch/gc</entry>
@@ -727,6 +714,7 @@
         <entry>%s/block4/block2_of_/gc</entry>
         <entry>%s/block4/block2_of/gc</entry>
         <entry>s</entry>
+        <entry>100</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
