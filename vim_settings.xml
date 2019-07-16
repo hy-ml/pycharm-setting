@@ -117,6 +117,12 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation/config/coco_balanced.yaml" timestamp="1563248417987">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/prune_log_save_model.py" timestamp="1558599183779">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="37" column="16" />
@@ -834,6 +840,10 @@
         <mark key="^" line="8" column="81" />
         <mark key="." line="8" column="81" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" timestamp="1563248435843">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="26" column="1" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_freeze.yml" timestamp="1557072566902">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="27" />
@@ -1094,13 +1104,6 @@
         <mark key="]" line="60" column="69" />
         <mark key="^" line="60" column="69" />
         <mark key="." line="60" column="69" />
-      </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_for_generated_occlusion_dataset.py" timestamp="1563166289593">
-        <mark key="'" line="50" column="47" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/ResidualMultiStageNet/Stage3_GaussianWeightedMAE_vgg16_conv3_3_ksize7.yml" timestamp="1557175595288">
         <mark key="[" line="5" column="22" />
@@ -1374,13 +1377,6 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output_without_cache.py" timestamp="1562900528140">
-        <mark key="'" line="56" column="23" />
-        <mark key="[" line="78" column="64" />
-        <mark key="]" line="79" column="19" />
-        <mark key="." line="79" column="19" />
-        <mark key="^" line="79" column="19" />
       </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/solver/build.py" timestamp="1561373880274">
         <mark key="[" line="5" column="21" />
@@ -2013,6 +2009,12 @@
         <mark key="." line="147" column="70" />
         <mark key="^" line="147" column="70" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation/convert_csv.py" timestamp="1563248440674">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/train.py" timestamp="1559215647333">
         <mark key="'" line="48" column="25" />
         <mark key="[" line="34" column="49" />
@@ -2400,11 +2402,6 @@
         <mark key="." line="57" column="42" />
         <mark key="^" line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" timestamp="1563166399715">
-        <mark key="'" line="50" column="37" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="79" column="55" />
-      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/stage3_net.py" timestamp="1557162189538">
         <mark key="[" line="5" column="47" />
         <mark key="]" line="5" column="47" />
@@ -2516,7 +2513,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RVZBTF9ESVI6ICJldmFsdWF0aW9uL3N1YnNldC9jb2NvL3NwbGl0X3NlZW5fdW5zZWVuL25vdF91c2luZ19uZXR3b3JrL25tcyIK</text>
+        <text encoding="base64">bHN0X2tleXMgPSBbCiAgICBbJ3JhdGlvX3Rvb19kZXRlY3RlZF9zZWVuJywgJ3JhdGlvX25vdF9kZXRlY3RlZF9zZWVuJ10sCiAgICBbJ3JhdGlvX3Rvb19kZXRlY3RlZF9zZWVuJywgJ3JhdGlvX25vdF9kZXRlY3RlZF91bnNlZW4nXSwKICAgIFsncmF0aW9fdG9vX2RldGVjdGVkX3Vuc2VlbicsICdyYXRpb19ub3RfZGV0ZWN0ZWRfc2VlbiddLAogICAgWydyYXRpb190b29fZGV0ZWN0ZWRfdW5zZWVuJywgJ3JhdGlvX25vdF9kZXRlY3RlZF91bnNlZW4nXSwKXQo=</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -2525,34 +2522,34 @@
         <text>split</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RVZBTF9ESVI6ICJldmFsdWF0aW9uL2NvY29fYmFsYW5jZWQvc3BsaXRfc2Vlbl91bnNlZW4vc2lhbWVzZV9uZXQvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giCg==</text>
+        <text encoding="base64">bHN0X2tleXMgPSBbCiAgICBbJ3JhdGlvX3Rvb19kZXRlY3RlZF9zZWVuJywgJ3JhdGlvX25vdF9kZXRlY3RlZF9zZWVuJ10sCiAgICBbJ3JhdGlvX3Rvb19kZXRlY3RlZF9zZWVuJywgJ3JhdGlvX25vdF9kZXRlY3RlZF91bnNlZW4nXSwKICAgIFsncmF0aW9fdG9vX2RldGVjdGVkX3Vuc2VlbicsICdyYXRpb19ub3RfZGV0ZWN0ZWRfc2VlbiddLAogICAgWydyYXRpb190b29fZGV0ZWN0ZWRfdW5zZWVuJywgJ3JhdGlvX25vdF9kZXRlY3RlZF91bnNlZW4nXSwKXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RVZBTF9ESVI6ICJldmFsdWF0aW9uL3N1YnNldC9jb2NvL3NwbGl0X3NlZW5fdW5zZWVuL25vdF91c2luZ19uZXR3b3JrL25tcyIK</text>
+        <text encoding="base64">ICAgIFtdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAnLi4vLi4vY29uZmlncy8nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHN0X2ZfbWFwX25hbWUgPSBcCiAgICAgICAgICAgICAgICBbaW1nX25hbWUucmVwbGFjZShvcy5wYXRoLnNwbGl0ZXh0KGltZ19uYW1lKVsxXSwgJy5ucHonKQogICAgICAgICAgICAgICAgIGZvciBpbWdfbmFtZSBpbiBjYWNoZVtzYW1lX29yX2RpZmZdWydpbWdfcGF0aCddXQogICAgICAgICAgICBzZWxmLmxzdF9mX21hcF9wYXRoICs9IFwKICAgICAgICAgICAgICAgIFtvcy5wYXRoLmpvaW4oZl9tYXBfZGlyLCBzYW1lX29yX2RpZmYsIGZfbWFwX25hbWUpCiAgICAgICAgICAgICAgICAgZm9yIGZfbWFwX25hbWUgaW4gbHN0X2ZfbWFwX25hbWVdCg==</text>
+        <text encoding="base64">ICAgIFsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sc3RfZl9tYXBfcGF0aCArPSBcCiAgICAgICAgICAgICAgICBbb3MucGF0aC5qb2luKGZfbWFwX2Rpciwgc2FtZV9vcl9kaWZmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbWdfbmFtZS5yZXBsYWNlKG9zLnBhdGguc3BsaXRleHQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbWdfbmFtZSlbMV0sICcubnB6JyBmb3IgaW1nX25hbWUgaW4gY2FjaGVbc2FtZV9vcl9kaWZmXVsnaW1nX3BhdGgnXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RVZBTF9ESVI6ICJldmFsdWF0aW9uL3N1YnNldC9jb2NvL3NwbGl0X3NlZW5fdW5zZWVuL25vdF91c2luZ19uZXR3b3JrL25tcyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dG1wbHRfZl9tYXBfbmFtZSA9ICdtZXJnZWRfezowNWR9Lm5weicK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3t9L3t9Jy5mb3JtYXQoaSwgbGVuKGxzdF9pbWdfbmFtZSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHN0X2ZfbWFwX25hbWUgPSBcCiAgICAgICAgICAgICAgICBbaW1nX25hbWUucmVwbGFjZShvcy5wYXRoLnNwbGl0ZXh0KGltZ19uYW1lKVsxXSwgJy5ucHonKQogICAgICAgICAgICAgICAgIGZvciBpbWdfbmFtZSBpbiBjYWNoZVtzYW1lX29yX2RpZmZdWydpbWdfcGF0aCddXQogICAgICAgICAgICBzZWxmLmxzdF9mX21hcF9wYXRoICs9IFwKICAgICAgICAgICAgICAgIFtvcy5wYXRoLmpvaW4oZl9tYXBfZGlyLCBzYW1lX29yX2RpZmYsIGZfbWFwX25hbWUpCiAgICAgICAgICAgICAgICAgZm9yIGZfbWFwX25hbWUgaW4gbHN0X2ZfbWFwX25hbWVdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
