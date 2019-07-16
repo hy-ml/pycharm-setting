@@ -122,12 +122,6 @@
         <mark key="." line="42" column="57" />
         <mark key="^" line="42" column="57" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1562746417747">
-        <mark key="'" line="25" column="2" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_additional_feature.py" timestamp="1561026154589">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="28" column="38" />
@@ -609,12 +603,6 @@
         <mark key="^" line="89" column="26" />
         <mark key="." line="89" column="26" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/defaults.py" timestamp="1563165615938">
-        <mark key="'" line="68" column="42" />
-        <mark key="[" line="51" column="26" />
-        <mark key="]" line="51" column="26" />
-        <mark key="." line="51" column="26" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach.yaml" timestamp="1557745524119">
         <mark key="[" line="8" column="91" />
         <mark key="]" line="8" column="81" />
@@ -1003,12 +991,6 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train.py" timestamp="1563177192400">
-        <mark key="'" line="106" column="4" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="89" column="73" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net_only_box_feature/base.yaml" timestamp="1559518204202">
         <mark key="[" line="15" column="20" />
         <mark key="]" line="15" column="20" />
@@ -1157,6 +1139,13 @@
         <mark key="]" line="22" column="77" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1563255848997">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="89" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="16" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/build.py" timestamp="1559212954356">
         <mark key="[" line="34" column="60" />
         <mark key="]" line="37" column="50" />
@@ -1181,11 +1170,11 @@
         <mark key="^" line="17" column="47" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/generated_occlusion_dataset.py" timestamp="1563188319813">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="32" />
-        <mark key="." line="23" column="32" />
-        <mark key="^" line="23" column="32" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/generated_occlusion_dataset.py" timestamp="1563255516502">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3GaussianWeightedMAE_vgg16_conv3_3_with_val_aug.yml" timestamp="1557093896434">
         <mark key="[" line="32" column="17" />
@@ -1377,6 +1366,10 @@
         <mark key="]" line="16" column="30" />
         <mark key="." line="16" column="30" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1563255826724">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="89" />
+      </file>
       <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" timestamp="1562923219176">
         <mark key="'" line="75" column="44" />
         <mark key="[" line="29" column="0" />
@@ -1451,9 +1444,9 @@
         <mark key="^" line="108" column="83" />
         <mark key="." line="108" column="83" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/generated_occlusion_dataset_scratch.py" timestamp="1563253343012">
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="11" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/train/generated_occlusion_dataset_scratch.py" timestamp="1563255448133">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="76" />
         <mark key="." line="51" column="11" />
         <mark key="^" line="51" column="11" />
       </file>
@@ -1640,7 +1633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="43" filename="$USER_HOME$/ws/research_code/suppression/tmp/transforms.py" />
       <jump line="56" column="12" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="76" column="0" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="55" column="35" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
@@ -1740,63 +1732,63 @@
       <jump line="93" column="16" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation/make_graph_for_miru.py" />
       <jump line="21" column="27" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation/make_graph_for_balanced.py" />
       <jump line="22" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation/make_graph_for_balanced.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">TE9HX0RJUjogImxvZy9nZW5lcmF0ZWRfb2NjbHVzaW9uX2RhdGFzZXQvc2lhbWVzZV9uZXQvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giClNBVkVfRElSOiAic2F2ZV9tb2RlbC9nZW5lcmF0ZWRfb2NjbHVzaW9uX2RhdGFzZXQvc2lhbWVzZV9uZXQvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giCkVWQUxfRElSOiAiZXZhbHVhdGlvbi9nZW5lcmF0ZWRfb2NjbHVzaW9uX2RhdGFzZXQvc2lhbWVzZV9uZXQvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giCg==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>lst_confit</text>
+        <text>siamese_net</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZVtzcGxpdF1bJ2RpZmYnXVsnc2hpZnRlZF9iYm94J10gPSBbXQo=</text>
+        <text encoding="base64">TE9HX0RJUjogImxvZy9nZW5lcmF0ZWRfb2NjbHVzaW9uX2RhdGFzZXQvc2lhbWVzZV9uZXQvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giClNBVkVfRElSOiAic2F2ZV9tb2RlbC9nZW5lcmF0ZWRfb2NjbHVzaW9uX2RhdGFzZXQvc2lhbWVzZV9uZXQvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giCkVWQUxfRElSOiAiZXZhbHVhdGlvbi9nZW5lcmF0ZWRfb2NjbHVzaW9uX2RhdGFzZXQvc2lhbWVzZV9uZXQvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoZVtzcGxpdF1bJ2RpZmYnXVsnc2hpZnRlZF9iYm94J10gPSBbXQo=</text>
+        <text encoding="base64">TE9HX0RJUjogImxvZy9jb2NvX2JhbGFuY2VkL3NwbGl0X3NlZW5fdW5zZWVuL3NpYW1lc2VfbmV0X3dpdGhfYm94X2ZlYXR1cmUvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giClNBVkVfRElSOiAic2F2ZV9tb2RlbC9jb2NvX2JhbGFuY2VkL3NwbGl0X3NlZW5fdW5zZWVuL3NpYW1lc2VfbmV0X3dpdGhfYm94X2ZlYXR1cmUvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giCkVWQUxfRElSOiAiZXZhbHVhdGlvbl9vY2NsdWRlZC9jb2NvX2JhbGFuY2VkL3NwbGl0X3NlZW5fdW5zZWVuL3NpYW1lc2VfbmV0X3dpdGhfYm94X2ZlYXR1cmUvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaW1nX25hbWUsIGJveGVzIGluIHppcCgKICAgICAgICAgICAgICAgIGNhY2hlW3NwbGl0XVsnZGlmZiddWydpbWdfcGF0aCddLCBjYWNoZVtzcGxpdF1bJ2RpZmYnXVsnYmJveCddKToKICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICBUUkFJTjogImFubm90YXRpb25zL3NlZW5fdW5zZWVuL2JhbGFuY2VkL2luc3RhbmNlc19zZWVuMjAxNF90cmFpbi5qc29uIgogIFZBTDogImFubm90YXRpb25zL3NlZW5fdW5zZWVuL2JhbGFuY2VkL2luc3RhbmNlc19zZWVuMjAxNF92YWwuanNvbiIKICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vYmFsYW5jZWQvaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYWNoCg==</text>
+        <text encoding="base64">REFUQVNFVDogIkNPQ09TY3JhdGNoIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhY2hlW3NwbGl0XVsnZGlmZiddWydzaGlmdGVkX2Jib3gnXS5hcHBlbmQoc2hpZnRlZF9ib3hlcykK</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfYm94LCB0YXJnZXRfYm94ID0gc2VsZi5sc3RfYm94ZXNbaWR4XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1nX3BhdGggPSBvcy5wYXRoLmpvaW4oCiAgICAgICAgICAgICAgICBhcmdzLmNvY29fZGlyLCAnZ2VuZXJhdGVkX29jY2x1c2lvbl9kYXRhc2V0JywgaW1nX25hbWUpCiAgICAgICAgICAgIGltZ193LCBpbWdfaCA9IEltYWdlLm9wZW4oaW1nX3BhdGgpLnNpemUKICAgICAgICAgICAgYm94ZXMgPSBucC5hc2FycmF5KGJveGVzKQoKICAgICAgICAgICAgYm94X21pbl94ID0gbWluKGJveGVzWzAsIDBdLCBib3hlc1sxLCAwXSkKICAgICAgICAgICAgYm94X21pbl95ID0gbWluKGJveGVzWzAsIDFdLCBib3hlc1sxLCAxXSkKICAgICAgICAgICAgYm94X21heF94ID0gbWF4KGJveGVzWzAsIDJdLCBib3hlc1sxLCAyXSkKICAgICAgICAgICAgYm94X21heF95ID0gbWF4KGJveGVzWzAsIDNdLCBib3hlc1sxLCAzXSkKCiAgICAgICAgICAgIGRlbHRhX3hfbWludXMgPSBtaW4oMCwgLTEgKiAoYm94X21pbl94IC0gMSkpCiAgICAgICAgICAgIGRlbHRhX3lfbWludXMgPSBtaW4oMCwgLTEgKiAoYm94X21pbl95IC0gMSkpCiAgICAgICAgICAgIGRlbHRhX3hfcGx1cyA9IG1heCgwLCBpbWdfdyAtIGJveF9tYXhfeCAtIDEpCiAgICAgICAgICAgIGRlbHRhX3lfcGx1cyA9IG1heCgwLCBpbWdfaCAtIGJveF9tYXhfeSAtIDEpCgogICAgICAgICAgICBkZWx0YV94ID0gcmFuZG9tLnJhbmRpbnQoZGVsdGFfeF9taW51cywgZGVsdGFfeF9wbHVzKQogICAgICAgICAgICBkZWx0YV95ID0gcmFuZG9tLnJhbmRpbnQoZGVsdGFfeV9taW51cywgZGVsdGFfeV9wbHVzKQoKICAgICAgICAgICAgZGVsdGEgPSBucC5hc2FycmF5KFtkZWx0YV94LCBkZWx0YV95LCBkZWx0YV94LCBkZWx0YV95XSkKICAgICAgICAgICAgc2hpZnRlZF9ib3hlcyA9IChib3hlcyArIGRlbHRhKS50b2xpc3QoKQogICAgICAgICAgICBjYWNoZVtzcGxpdF1bJ2RpZmYnXVsnc2hpZnRlZF9iYm94J10uYXBwZW5kKHNoaWZ0ZWRfYm94ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfYm94ID0gdG9yY2guVGVuc29yKHNvdXJjZV9zaGlmdGVkX2JveCkudmlldygtMSkKICAgICAgICB0YXJnZXRfYm94ID0gdG9yY2guVGVuc29yKHRhcmdldF9zaGlmdGVkX2JveCkudmlldygtMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWNoZVtzcGxpdF1bJ2RpZmYnXVsnc2hpZnRlZF9iYm94J10gPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaW1nX25hbWUsIGJveGVzIGluIHppcCgKICAgICAgICAgICAgICAgIGNhY2hlW3NwbGl0XVsnZGlmZiddWydpbWdfcGF0aCddLCBjYWNoZVtzcGxpdF1bJ2RpZmYnXVsnYmJveCddKToKICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGUK</text>
+        <text encoding="base64">ICAgICAgICBjYWNoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhY2hlW3NwbGl0XVsnZGlmZiddWydzaGlmdGVkX2Jib3gnXS5hcHBlbmQoc2hpZnRlZF9ib3hlcykK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>lst_confit</last-search>
+      <last-search>siamese_net</last-search>
       <last-offset />
-      <last-pattern>lst_confit</last-pattern>
-      <last-replace />
-      <last-substitute>no_additional_feaure\/</last-substitute>
+      <last-pattern>siamese_net</last-pattern>
+      <last-replace>siamese_net_with_box_feature</last-replace>
+      <last-substitute>siamese_net</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>train</entry>
         <entry>pdb</entry>
         <entry>get_f</entry>
         <entry>def get</entry>
@@ -1816,9 +1808,9 @@
         <entry>no_additional_feaure</entry>
         <entry>no_additional_feaure\/</entry>
         <entry>lst_confit</entry>
+        <entry>siamese_net</entry>
       </history-search>
       <history-cmd>
-        <entry>75</entry>
         <entry>112</entry>
         <entry>67</entry>
         <entry>20</entry>
@@ -1830,14 +1822,15 @@
         <entry>82</entry>
         <entry>%s/cache_info/cache_file/gc</entry>
         <entry>135</entry>
-        <entry>wq</entry>
         <entry>%s/coco_test_unseen_occluded/coco_balanced/gc</entry>
         <entry>%s/split_by_seen_unseen//gc</entry>
         <entry>%s/not_additional_feature//gc</entry>
         <entry>%s/no_additional_feature//gc</entry>
         <entry>%s/no_additional_feaure//gc</entry>
         <entry>%s/no_additional_feaure\///gc</entry>
+        <entry>%s/siamese_net/siamese_net_with_box_feature/gc</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
