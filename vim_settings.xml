@@ -1078,11 +1078,11 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/not_network/nms.yaml" timestamp="1563251011079">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="11" column="79" />
-        <mark key="^" line="7" column="74" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/not_network/nms.yaml" timestamp="1563332434993">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/split_data/split_by_img_id.py" timestamp="1558013245765">
         <mark key="[" line="45" column="19" />
