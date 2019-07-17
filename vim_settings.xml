@@ -390,6 +390,13 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="33" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" timestamp="1563335711610">
+        <mark key="'" line="217" column="12" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="." line="255" column="0" />
+        <mark key="^" line="211" column="53" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator_freeze.yml" timestamp="1557071074279">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="19" column="8" />
@@ -1244,10 +1251,6 @@
         <mark key="^" line="21" column="54" />
         <mark key="." line="21" column="54" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation/make_graph_for_compare.py" timestamp="1563249229887">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="46" />
-      </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/model/cam/__init__.py" timestamp="1561438510889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -1672,18 +1675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="35" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="7" column="28" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="20" column="39" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="23" column="16" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="31" column="33" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="17" column="39" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="39" column="40" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="53" column="25" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="54" column="25" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="111" column="25" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="112" column="25" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="96" column="22" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="97" column="22" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="70" column="4" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
@@ -1772,55 +1763,69 @@
       <jump line="17" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" />
       <jump line="18" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net_only_box_feature/base.yaml" />
       <jump line="20" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net_only_box_feature/base.yaml" />
+      <jump line="221" column="31" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="227" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="228" column="25" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="230" column="75" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="240" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="253" column="52" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="252" column="21" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="254" column="12" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="241" column="48" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="212" column="42" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="211" column="53" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="217" column="12" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW91X2lkeCwgY2xhc3NfaWQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>l1_norm\/vgg\/block4_scratch</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdMMU5vcm0nOiBbMC4yICogaSBmb3IgaSBpbiByYW5nZSg3KV0sICAjIGJsb2NrNAo=</text>
+        <text encoding="base64">ICAgIGxzdF9jb3VudF9ib3hlcyA9IFtbMCBmb3IgXyBpbiByYW5nZShudW1fY2xhc3NlcykgZm9yIF8gaW4gcmFuZ2UoMTApXV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW91X2lkeCwgY2xhc3NfaWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFubl9kYXRhWydhbm5vdGF0aW9ucyddID0gbHN0X2FubnNfYWRkZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW91X2lkeCwgY2xhc3NfaWQpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxzdF9hbm5zX2FkZGVkID0gW10K</text>
+      <register name="3" type="8">
+        <text>10
+10</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICdMMU5vcm0nOiBbMC4yICogaSBmb3IgaSBpbiByYW5nZSg3KV0sICAjIGJsb2NrNAo=</text>
+      <register name="4" type="8">
+        <text>num_classes
+num_classes</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBUUkFJTjogImFubm90YXRpb25zL3NlZW5fdW5zZWVuL2JhbGFuY2VkL2luc3RhbmNlc19zZWVuMjAxNF90cmFpbi5qc29uIgogIFZBTDogImFubm90YXRpb25zL3NlZW5fdW5zZWVuL2JhbGFuY2VkL2luc3RhbmNlc19zZWVuMjAxNF92YWwuanNvbiIKICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vYmFsYW5jZWQvaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW91X2lkeCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBMT0dfRElSOiAibG9nL2NvY29fYmFsYW5jZWQvc3BsaXRfc2Vlbl91bnNlZW4vc2lhbWVzZV9uZXRfb25seV9ib3hfZmVhdHVyZS9iYXNlIgojIFNBVkVfRElSOiAic2F2ZV9tb2RlbC9jb2NvX2JhbGFuY2VkL3NwbGl0X3NlZW5fdW5zZWVuL3NpYW1lc2VfbmV0X29ubHlfYm94X2ZlYXR1cmUvYmFzZSIKIyBFVkFMX0RJUjogImV2YWx1YXRpb25fb2NjbHVkZWQvY29jb19iYWxhbmNlZC9zcGxpdF9zZWVuX3Vuc2Vlbi9zaWFtZXNlX25ldF9vbmx5X2JveF9mZWF0dXJlL2Jhc2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW91X2lkeCA9IGludChucC5jZWlsKGFubnNbYm94X2lkXVsnaW91J10gLyAwLjEpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REFUQVNFVDogIkNPQ08iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TE9HX0RJUjogImxvZy9jb2NvX2JhbGFuY2VkL3NwbGl0X3NlZW5fdW5zZWVuL3NpYW1lc2VfbmV0X3dpdGhfYm94X2ZlYXR1cmUvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giClNBVkVfRElSOiAic2F2ZV9tb2RlbC9jb2NvX2JhbGFuY2VkL3NwbGl0X3NlZW5fdW5zZWVuL3NpYW1lc2VfbmV0X3dpdGhfYm94X2ZlYXR1cmUvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giCkVWQUxfRElSOiAiZXZhbHVhdGlvbl9vY2NsdWRlZC9jb2NvX2JhbGFuY2VkL3NwbGl0X3NlZW5fdW5zZWVuL3NpYW1lc2VfbmV0X3dpdGhfYm94X2ZlYXR1cmUvbDFfbm9ybS92Z2cvYmxvY2s0X3NjcmF0Y2giCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBUUkFJTjogImFubm90YXRpb25zL3NlZW5fdW5zZWVuL2JhbGFuY2VkL2luc3RhbmNlc19zZWVuMjAxNF90cmFpbi5qc29uIgogIFZBTDogImFubm90YXRpb25zL3NlZW5fdW5zZWVuL2JhbGFuY2VkL2luc3RhbmNlc19zZWVuMjAxNF92YWwuanNvbiIKICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vYmFsYW5jZWQvaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
+        <text encoding="base64">ICAgIGxzdF9jb3VudF90b29fZGV0ZWN0ZWRfYm94ZXMgPSBbMF0gKiBudW1fY2xhc3Nlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>l1_norm\/vgg\/block4_scratch</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>l1_norm\/vgg\/block4_scratch</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>base</last-replace>
       <last-substitute>l1_norm\/vgg\/block4_scratch</last-substitute>
       <last-dir>1</last-dir>
@@ -1828,11 +1833,6 @@
     </search>
     <history>
       <history-search>
-        <entry>def get</entry>
-        <entry>trans</entry>
-        <entry>build_</entry>
-        <entry>cache_data_dir</entry>
-        <entry>args =</entry>
         <entry>split</entry>
         <entry>figsize</entry>
         <entry>size</entry>
@@ -1848,6 +1848,11 @@
         <entry>siamese_net</entry>
         <entry>siamese_net_with_box_feature</entry>
         <entry>l1_norm\/vgg\/block4_scratch</entry>
+        <entry>iou</entry>
+        <entry>class_labels</entry>
+        <entry>lst</entry>
+        <entry>iou_idx</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
@@ -1919,6 +1924,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
