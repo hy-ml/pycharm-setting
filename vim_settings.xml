@@ -272,7 +272,7 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph_for_balanced.py" timestamp="1563287161017">
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph_for_balanced.py" timestamp="1563351850677">
         <mark key="'" line="27" column="27" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -389,6 +389,11 @@
         <mark key="]" line="23" column="43" />
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" timestamp="1563357883473">
+        <mark key="[" line="57" column="19" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_unet/configs/__init__.py" timestamp="1559395025381">
         <mark key="[" line="0" column="30" />
@@ -520,12 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="194" column="29" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="201" column="25" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/maskrcnn_benchmark/engine/trainer.py" />
-      <jump line="116" column="17" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="48" column="4" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
-      <jump line="50" column="54" filename="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tools/train_net.py" />
       <jump line="20" column="33" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" />
       <jump line="12" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
       <jump line="64" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
@@ -620,57 +619,61 @@
       <jump line="327" column="75" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
       <jump line="334" column="28" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
       <jump line="255" column="14" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="81" column="36" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="72" column="30" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="67" column="16" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="45" column="6" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRkawo=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>greedy_threshold_min = 0.65</text>
       </register>
       <register name="/" type="4">
-        <text>make_ratio</text>
+        <text>greedy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdMMU5vcm0nOiBbMC4yICogaSBmb3IgaSBpbiByYW5nZSgxNSldLCAgIyBibG9jazQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlCg==</text>
+        <text encoding="base64">ICAgIGRkawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfc2Vlbl9sYWJlbD1tYXhfc2Vlbl9sYWJlbCwK</text>
+        <text encoding="base64">Z3JlZWR5X3RocmVzaG9sZF9taW4gPSAwLjY1CmdyZWVkeV90aHJlc2hvbGRfbWF4ID0gMC43NQo=</text>
       </register>
-      <register name="3" type="8">
-        <text>np.array(
-np.array(</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRkCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>np.array(
-np.array(</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICcuLi8uLi9jb25maWdzL2NvY29fYmFsYW5jZWQvc2lhbWVzZV9uZXQvbDFfbm9ybS9ibG9jazRfc2NyYXRjaC55YW1sJywKICAgICcuLi8uLi9jb25maWdzL2NvY29fYmFsYW5jZWQvc2lhbWVzZV9uZXQvbDFfbm9ybS9ibG9jazJfb2ZfYmxvY2s0X3NjcmF0Y2gueWFtbCcsCiAgICAnLi4vLi4vY29uZmlncy9jb2NvX2JhbGFuY2VkL3NpYW1lc2VfbmV0X29ubHlfYm94X2ZlYXR1cmUvYmFzZS55YW1sJywKICAgICcuLi8uLi9jb25maWdzL2NvY29fYmFsYW5jZWQvc2lhbWVzZV9uZXRfd2l0aF9ib3hfZmVhdHVyZS9sMV9ub3JtL25vX2FkZGl0aW9uYWxfZmVhdXJlL3ZnZ19ibG9jazJfb2ZfYmxvY2s0X3NjcmF0Y2gueWFtbCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgY291bnRfYm94ZXNfc2VlbiA9IG5wLnN1bShucC5hcnJheShjb3VudF9ib3hlc1s6bWF4X3NlZW5fbGFiZWwrMV0pKQo=</text>
+        <text encoding="base64">ICAgICcuLi8uLi9jb25maWdzL2NvY29fYmFsYW5jZWQvc2lhbWVzZV9uZXRfd2l0aF9ib3hfZmVhdHVyZS9sMV9ub3JtL25vX2FkZGl0aW9uYWxfZmVhdXJlL3ZnZ19ibG9jazJfb2ZfYmxvY2s0X3NjcmF0Y2gueWFtbCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlZW5zCg==</text>
+        <text encoding="base64">bHN0X2NvbmZpZ19wYXRoID0gWwogICAgJy4uLy4uL2NvbmZpZ3MvY29jb19iYWxhbmNlZC9zaWFtZXNlX25ldC9sMV9ub3JtL2Jsb2NrNF9zY3JhdGNoLnlhbWwnLAogICAgJy4uLy4uL2NvbmZpZ3MvY29jb19iYWxhbmNlZC9zaWFtZXNlX25ldC9sMV9ub3JtL2Jsb2NrMl9vZl9ibG9jazRfc2NyYXRjaC55YW1sJywKICAgICcuLi8uLi9jb25maWdzL2NvY29fYmFsYW5jZWQvc2lhbWVzZV9uZXRfb25seV9ib3hfZmVhdHVyZS9iYXNlLnlhbWwnLAogICAgJy4uLy4uL2NvbmZpZ3MvY29jb19iYWxhbmNlZC9zaWFtZXNlX25ldF93aXRoX2JveF9mZWF0dXJlL2wxX25vcm0vbm9fYWRkaXRpb25hbF9mZWF1cmUvdmdnX2Jsb2NrMl9vZl9ibG9jazRfc2NyYXRjaC55YW1sJwpdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxzdF8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>make_ratio</last-search>
+      <last-search>greedy</last-search>
       <last-offset />
-      <last-pattern>make_ratio</last-pattern>
+      <last-pattern>greedy</last-pattern>
       <last-replace>block2_of</last-replace>
       <last-substitute>block4</last-substitute>
       <last-dir>1</last-dir>
@@ -678,7 +681,6 @@ np.array(</text>
     </search>
     <history>
       <history-search>
-        <entry>coco</entry>
         <entry>split_by</entry>
         <entry>xp</entry>
         <entry>append</entry>
@@ -698,6 +700,7 @@ np.array(</text>
         <entry>wrapper</entry>
         <entry>ratio</entry>
         <entry>make_ratio</entry>
+        <entry>greedy</entry>
       </history-search>
       <history-cmd>
         <entry>%s/annotations\/seen_unseen/annotations\/seen_unseen\/balanced/gc</entry>
