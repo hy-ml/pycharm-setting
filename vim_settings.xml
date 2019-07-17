@@ -125,12 +125,12 @@
         <mark key="." line="31" column="13" />
         <mark key="^" line="31" column="13" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1562607670280">
-        <mark key="'" line="20" column="33" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="77" />
-        <mark key="^" line="20" column="33" />
-        <mark key="." line="21" column="59" />
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1563366456490">
+        <mark key="'" line="23" column="5" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" timestamp="1562170441414">
         <mark key="'" line="56" column="37" />
@@ -390,11 +390,12 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" timestamp="1563364000074">
-        <mark key="[" line="102" column="90" />
-        <mark key="]" line="104" column="23" />
-        <mark key="." line="104" column="23" />
-        <mark key="^" line="104" column="23" />
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" timestamp="1563366906714">
+        <mark key="'" line="165" column="26" />
+        <mark key="[" line="144" column="16" />
+        <mark key="]" line="144" column="15" />
+        <mark key="." line="144" column="15" />
+        <mark key="^" line="144" column="15" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/pytorch_unet/configs/__init__.py" timestamp="1559395025381">
         <mark key="[" line="0" column="30" />
@@ -422,7 +423,12 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/config/coco_balanced.yaml" timestamp="1563287156488" />
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/config/coco_balanced.yaml" timestamp="1563367262846">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+      </file>
       <file name="$USER_HOME$/ws/hobby_code/chainer/classification_with_cam/support_tool/dataset/caltech/cache_data.py" timestamp="1562848518516">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -461,8 +467,8 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch_bn.yaml" timestamp="1562172382197">
-        <mark key="'" line="17" column="25" />
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch_bn.yaml" timestamp="1563366442393">
+        <mark key="'" line="17" column="69" />
         <mark key="[" line="6" column="18" />
         <mark key="]" line="7" column="9" />
         <mark key="^" line="7" column="9" />
@@ -526,17 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="33" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" />
-      <jump line="12" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
-      <jump line="9" column="5" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
-      <jump line="46" column="29" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
-      <jump line="35" column="25" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
-      <jump line="36" column="42" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
-      <jump line="33" column="25" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
-      <jump line="43" column="17" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
-      <jump line="49" column="48" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
       <jump line="53" column="61" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
       <jump line="30" column="10" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
       <jump line="32" column="25" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_feature/scripts/make_cache_info.py" />
@@ -549,7 +544,6 @@
       <jump line="60" column="37" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/train_scratch.py" />
       <jump line="60" column="10" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/model/networks/scrach_wrapper.py" />
       <jump line="52" column="25" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/model/networks/scrach_wrapper.py" />
-      <jump line="17" column="25" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch_bn.yaml" />
       <jump line="18" column="13" filename="$USER_HOME$/ws/research_code/python/occluded_dataset_generation/support_tools/get_info/check_area.py" />
       <jump line="17" column="20" filename="$USER_HOME$/ws/research_code/python/occluded_dataset_generation/support_tools/get_info/check_area.py" />
       <jump line="29" column="27" filename="$USER_HOME$/ws/research_code/python/occluded_dataset_generation/support_tools/get_info/check_box_area.py" />
@@ -622,60 +616,71 @@
       <jump line="255" column="14" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/evaluate_with_cached_iou_metric_output.py" />
       <jump line="68" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
       <jump line="81" column="36" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
-      <jump line="72" column="30" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
       <jump line="67" column="16" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
       <jump line="45" column="6" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
       <jump line="41" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="132" column="73" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="14" column="7" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="180" column="40" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="71" column="20" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="72" column="30" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="74" column="34" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="90" column="20" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="99" column="25" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="184" column="8" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="17" column="69" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch_bn.yaml" />
+      <jump line="23" column="5" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" />
+      <jump line="165" column="26" filename="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/support_tools/evaluation_scripts/make_graph.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>greedy</text>
+        <text>pdb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhdGlvX25vdF9kZXRlY3RlZF9zZWVuID0gY291bnRfbm90X2RldGVjdGVkX3NlZW4gLyBjb3VudF9ib3hlc19zZWVuCiAgICAgICAgICAgICAgICByYXRpb19ub3RfZGV0ZWN0ZWRfdW5zZWVuID0gY291bnRfbm90X2RldGVjdGVkX3Vuc2VlbiAvIGNvdW50X2JveGVzX3Vuc2Vlbgo=</text>
+        <text encoding="base64">ICAgICcuLi8uLi9jb25maWdzL2NvY29fYmFsYW5jZWQvc2lhbWVzZV9uZXQvbDFfbm9ybS9ibG9jazJfb2ZfYmxvY2s0X3NjcmF0Y2gueWFtbCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhdGlvX25vdF9kZXRlY3RlZF9zZWVuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhdGlvXwo=</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhdGlvX25vdF9kZXRlY3RlZF91bnNlZW4K</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>not
-not</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICcuLi8uLi9jb25maWdzL2NvY29fYmFsYW5jZWQvc2lhbWVzZV9uZXQvbDFfbm9ybS9ibG9jazJfb2ZfYmxvY2s0X3NjcmF0Y2gueWFtbCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICMgJy4uLy4uL2NvbmZpZ3MvY29jb19iYWxhbmNlZC9zaWFtZXNlX25ldC9sMV9ub3JtL2Jsb2NrNF9zY3JhdGNoLnlhbWwnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc3BsaXQsIGV2YWxzIGluIHppcCgKICAgICAgICAgICAgICAgIFsnb2NjbHVkZWQnLCAnbm90X29jY2x1ZGVkJ10sIFtldmFsc19vY2NsdWRlZCwgZXZhbHNfbm90X29jY2x1ZGVkXSk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>greedy</last-search>
+      <last-search>pdb</last-search>
       <last-offset />
-      <last-pattern>greedy</last-pattern>
+      <last-pattern>pdb</last-pattern>
       <last-replace>block2_of</last-replace>
       <last-substitute>block4</last-substitute>
       <last-dir>1</last-dir>
@@ -683,13 +688,6 @@ not</text>
     </search>
     <history>
       <history-search>
-        <entry>split_by</entry>
-        <entry>xp</entry>
-        <entry>append</entry>
-        <entry>pts</entry>
-        <entry>train</entry>
-        <entry>calc_distance</entry>
-        <entry>coco_balanced\/split_seen_unseen</entry>
         <entry>keypoints</entry>
         <entry>resize_size_img</entry>
         <entry>label</entry>
@@ -703,11 +701,15 @@ not</text>
         <entry>ratio</entry>
         <entry>make_ratio</entry>
         <entry>greedy</entry>
+        <entry>out_name</entry>
+        <entry>outname</entry>
+        <entry>Full</entry>
+        <entry>'eval'</entry>
+        <entry>sp</entry>
+        <entry>EVAL</entry>
+        <entry>pdb</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/annotations\/seen_unseen/annotations\/seen_unseen\/balanced/gc</entry>
-        <entry>%s/scratch/scratch_bn/gc</entry>
-        <entry>%s/block4_scratch/block2_of_block4_scratch/gc</entry>
         <entry>10</entry>
         <entry>%s/coco/coco_balanced/gc</entry>
         <entry>%s/split_by/split/gc</entry>
@@ -724,6 +726,9 @@ not</text>
         <entry>%s/block4/block2_of/gc</entry>
         <entry>s</entry>
         <entry>100</entry>
+        <entry>74</entry>
+        <entry>154</entry>
+        <entry>106</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
