@@ -66,10 +66,11 @@
         <mark key="^" line="135" column="41" />
         <mark key="." line="135" column="41" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" timestamp="1562657909415">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" timestamp="1563436619612">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+        <mark key="^" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3WeightedMAE_vgg16_conv3_3.yml" timestamp="1557171015458">
         <mark key="[" line="0" column="40" />
@@ -158,12 +159,12 @@
         <mark key="." line="81" column="4" />
         <mark key="^" line="81" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_only_box_feature/base.yaml" timestamp="1562657418509">
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_only_box_feature/base.yaml" timestamp="1563436677241">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="16" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="21" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/fast-rcnn-pytorch1.0/tests/test_coco.py" timestamp="1557321835868">
         <mark key="[" line="42" column="54" />
@@ -171,11 +172,12 @@
         <mark key="." line="42" column="57" />
         <mark key="^" line="42" column="57" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1562746417747">
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1563436610427">
         <mark key="'" line="25" column="2" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="26" column="1" />
       </file>
       <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/model/networks/siamesenet_only_additional_feature.py" timestamp="1561026154589">
         <mark key="[" line="28" column="21" />
@@ -509,11 +511,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" timestamp="1563434062171">
-        <mark key="'" line="327" column="28" />
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="43" />
-        <mark key="." line="26" column="43" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" timestamp="1563436804618">
+        <mark key="'" line="377" column="25" />
+        <mark key="[" line="350" column="36" />
+        <mark key="]" line="351" column="78" />
+        <mark key="." line="351" column="78" />
+        <mark key="^" line="351" column="78" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/tmp.py" timestamp="1558703113381">
         <mark key="'" line="193" column="0" />
@@ -838,11 +841,12 @@
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/defaults.py" timestamp="1563165615938">
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/defaults.py" timestamp="1563436500516">
         <mark key="'" line="68" column="42" />
-        <mark key="[" line="51" column="26" />
-        <mark key="]" line="51" column="26" />
-        <mark key="." line="51" column="26" />
+        <mark key="[" line="111" column="22" />
+        <mark key="]" line="112" column="25" />
+        <mark key="." line="112" column="25" />
+        <mark key="^" line="112" column="25" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_cache_feature/data/datasets/train/coco.py" timestamp="1557408646884">
         <mark key="'" line="83" column="55" />
@@ -1100,11 +1104,11 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block2_of_block4_scratch.yaml" timestamp="1562741894375">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="10" column="23" />
-        <mark key="^" line="12" column="15" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block2_of_block4_scratch.yaml" timestamp="1563436581524">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/support_tools/visualize_data.py" timestamp="1557088824787">
         <mark key="[" line="35" column="42" />
@@ -1472,12 +1476,6 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train.py" timestamp="1563177192400">
-        <mark key="'" line="106" column="4" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="89" column="73" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/test.py" timestamp="1561440563948">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="26" column="0" />
@@ -1712,10 +1710,11 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1563251005707">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="22" column="77" />
-        <mark key="." line="18" column="21" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1563436672507">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
       </file>
       <file name="$USER_HOME$/ws/research_code/suppression/occluded_data_generation/cache_grouped_ann_ids.py" timestamp="1562659054319">
         <mark key="'" line="53" column="59" />
@@ -2480,14 +2479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="78" column="4" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="79" column="4" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="75" column="38" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="91" column="16" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="122" column="8" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="114" column="11" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="148" column="15" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="149" column="39" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
       <jump line="152" column="39" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
@@ -2580,55 +2571,63 @@
       <jump line="263" column="11" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
       <jump line="327" column="28" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
       <jump line="24" column="5" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net_with_box_feature/l1_norm/vgg_block2_of_block4_scratch.yaml" />
+      <jump line="38" column="15" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="35" column="15" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="393" column="14" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="322" column="29" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="380" column="29" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="378" column="57" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="377" column="20" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
+      <jump line="376" column="25" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/evaluate_iou_wise.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>block4</text>
+        <text>cfg.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBGQ19ESU1TOiBbWzY1NTM2LCA0MDk2XSwgW10sIFs0MTAxLCA0MDk2LCA1MF1dCg==</text>
+        <text encoding="base64">ICAgICdMMU5vcm0nOiBbMC4yICogaSBmb3IgaSBpbiByYW5nZSgxMCldLCAgIyBibG9jazQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBGQ19ESU1TOiBbNjU1MzYsIDQwOTYsIDQwOTYsIDUwXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIGZvcm1hdCBpcyBbYG1scDFfaW1nYCwgbWxwMV9ib3hgLCBgbWxwMmBdCg==</text>
+        <text encoding="base64">ICAgICMgJ0wxTm9ybSc6IFswLjA1ICogaSBmb3IgaSBpbiByYW5nZSgxNyldLAogICAgIyAnTDFOb3JtJzogWzAuMSAqIGkgZm9yIGkgaW4gcmFuZ2UoMTcpXSwKICAgICMgJ0wxTm9ybSc6IFswLjIgKiBpIGZvciBpIGluIHJhbmdlKDE1KV0sICAjIGJsb2NrNAogICAgJ0wxTm9ybSc6IFswLjIgKiBpIGZvciBpIGluIHJhbmdlKDEwKV0sICAjIGJsb2NrNAogICAgIyAnTDFOb3JtJzogWzAuMzUgKiBpIGZvciBpIGluIHJhbmdlKDE3KV0sCiAgICAnQ2xhc3NpZmljYXRpb24nOiBbMC4xICogaSBmb3IgaSBpbiByYW5nZSgxNyldLAogICAgJ0wxTm9ybVdpdGhSZWd1bGFyaXphdGlvbic6IFswLjEgKyAwLjEgKiBpIGZvciBpIGluIHJhbmdlKDUpXSwKICAgICdDb3NpbmVTaW1pbGFyaXR5JzogWzAuMSArIDAuMSAqIGkgZm9yIGkgaW4gcmFuZ2UoNSldLAogICAgJ1NTRCc6IFswLjEgKyAwLjEgKiBpIGZvciBpIGluIHJhbmdlKDUpXSwKICAgICdOT05FJzogWzAuXQp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBGQ19ESU1TOiBbWzgxOTIsIDQwOTZdLCBbXSwgWzQxMDEsIDQwOTYsIDUwXV0K</text>
+        <text encoding="base64">bGlzdF9yYXRpbyA9IHsKICAgICMgJ0wxTm9ybSc6IFswLjA1ICogaSBmb3IgaSBpbiByYW5nZSgxNyldLAogICAgIyAnTDFOb3JtJzogWzAuMSAqIGkgZm9yIGkgaW4gcmFuZ2UoMTcpXSwKICAgICMgJ0wxTm9ybSc6IFswLjIgKiBpIGZvciBpIGluIHJhbmdlKDE1KV0sICAjIGJsb2NrNAogICAgJ0wxTm9ybSc6IFswLjIgKiBpIGZvciBpIGluIHJhbmdlKDEwKV0sICAjIGJsb2NrNAogICAgIyAnTDFOb3JtJzogWzAuMzUgKiBpIGZvciBpIGluIHJhbmdlKDE3KV0sCiAgICAnQ2xhc3NpZmljYXRpb24nOiBbMC4xICogaSBmb3IgaSBpbiByYW5nZSgxNyldLAogICAgJ0wxTm9ybVdpdGhSZWd1bGFyaXphdGlvbic6IFswLjEgKyAwLjEgKiBpIGZvciBpIGluIHJhbmdlKDUpXSwKICAgICdDb3NpbmVTaW1pbGFyaXR5JzogWzAuMSArIDAuMSAqIGkgZm9yIGkgaW4gcmFuZ2UoNSldLAogICAgJ1NTRCc6IFswLjEgKyAwLjEgKiBpIGZvciBpIGluIHJhbmdlKDUpXSwKICAgICdOT05FJzogWzAuXQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBFWFRSQUNUT1JfT1VUUFVUX0JMT0NLOiBbNF0K</text>
+        <text encoding="base64">ICBGQ19ESU1TOiBbNjU1MzYsIDQwOTYsIDQwOTYsIDUwXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAjIGZvcm1hdCBpcyBbYG1scDFfaW1nYCwgbWxwMV9ib3hgLCBgbWxwMmBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICBGQ19ESU1TOiBbWzgxOTIsIDQwOTZdLCBbXSwgWzQxMDEsIDQwOTYsIDUwXV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBrLCB2IGluIHJlc3VsdF9ldmFsLml0ZW1zKCk6CiAgICAgICAgcmVzdWx0W2tdID0gdgo=</text>
+        <text encoding="base64">ICBFWFRSQUNUT1JfT1VUUFVUX0JMT0NLOiBbNF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>block4</last-search>
+      <last-search>cfg.</last-search>
       <last-offset />
-      <last-pattern>block4</last-pattern>
+      <last-pattern>cfg.</last-pattern>
       <last-replace>block2_of_block4</last-replace>
       <last-substitute>block4</last-substitute>
       <last-dir>1</last-dir>
@@ -2636,9 +2635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>legennd</entry>
-        <entry>legend</entry>
-        <entry>coco_test_unseen_occluded</entry>
         <entry>split_by_seen_unseen</entry>
         <entry>not_additional_feature</entry>
         <entry>no_additional_feature</entry>
@@ -2656,6 +2652,9 @@
         <entry>pdb</entry>
         <entry>evaluate</entry>
         <entry>block4</entry>
+        <entry>lst_raio</entry>
+        <entry>list_ratio</entry>
+        <entry>cfg.</entry>
       </history-search>
       <history-cmd>
         <entry>54</entry>
@@ -2675,8 +2674,8 @@
         <entry>%s/siamese_net/siamese_net_with_box_feature/gc</entry>
         <entry>%s/siamese_net_with_box_feature/siamese_net_only_box_feature/gc</entry>
         <entry>%s/l1_norm\/vgg\/block4_scratch/base/gc</entry>
-        <entry>wq</entry>
         <entry>%s/block4/block2_of_block4/gc</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
