@@ -209,6 +209,12 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="39" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/paths_catalog.py" timestamp="1563449249678">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="35" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block2_freeze.yaml" timestamp="1557900784888">
         <mark key="[" line="8" column="90" />
         <mark key="]" line="10" column="27" />
@@ -332,6 +338,12 @@
         <mark key="]" line="9" column="85" />
         <mark key="^" line="9" column="85" />
         <mark key="." line="9" column="85" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output.py" timestamp="1563171421728">
+        <mark key="'" line="199" column="15" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/model/loss/build.py" timestamp="1559192041185">
         <mark key="[" line="29" column="46" />
@@ -472,6 +484,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/fast-rcnn-pytorch1.0/configs/faster_rcnn/e2e_faster_rcnn_X_101_32x8d_FPN_1x.yaml" timestamp="1563449748972">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/research_code/pytorch/nms_with_cached_feature/train.py" timestamp="1561027196489">
         <mark key="'" line="135" column="19" />
@@ -821,6 +838,9 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph_for_balanced.py" timestamp="1563447639722">
+        <mark key="'" line="98" column="28" />
+      </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/data/__init__.py" timestamp="1561371646635">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="36" />
@@ -955,6 +975,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic_640x480.yaml" timestamp="1563448817554">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/config/keypoints_detection/sample/Single1GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator.yml" timestamp="1557189299076">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="49" />
@@ -1005,11 +1030,11 @@
         <mark key="." line="38" column="5" />
         <mark key="^" line="38" column="5" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/config/coco_balanced.yaml" timestamp="1563441874709">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="15" column="23" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/config/coco_balanced.yaml" timestamp="1563447930121">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/model/build.py" timestamp="1557181595170">
         <mark key="'" line="119" column="0" />
@@ -1017,6 +1042,13 @@
         <mark key="]" line="128" column="0" />
         <mark key="^" line="127" column="57" />
         <mark key="." line="128" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/config/coco_unbalanced.yaml" timestamp="1563448382000">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="15" column="60" />
+        <mark key="]" line="15" column="65" />
+        <mark key="." line="15" column="65" />
+        <mark key="^" line="15" column="65" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/train.py" timestamp="1557163423743">
         <mark key="'" line="47" column="44" />
@@ -1110,7 +1142,7 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block2_of_block4_scratch.yaml" timestamp="1563436581524">
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block2_of_block4_scratch.yaml" timestamp="1563447365174">
         <mark key="[" line="26" column="21" />
         <mark key="]" line="26" column="22" />
         <mark key="." line="26" column="22" />
@@ -1206,6 +1238,14 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_iou_metric_output_scratch.py" timestamp="1562900512116">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="29" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net_with_box_feature/l1_norm/vgg_block4_scratch.yaml" timestamp="1563260088201">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="39" />
+      </file>
       <file name="$USER_HOME$/hobby_code/pytorch/pytorch1.0/classification_with_cam/model/classifier/build.py" timestamp="1561024086857">
         <mark key="[" line="19" column="65" />
         <mark key="]" line="20" column="19" />
@@ -1247,6 +1287,10 @@
         <mark key="]" line="1" column="70" />
         <mark key="^" line="1" column="70" />
         <mark key="." line="1" column="70" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scratch.yaml" timestamp="1563250981411">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="68" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/data/transforms.py" timestamp="1557098596809">
         <mark key="'" line="43" column="26" />
@@ -1290,6 +1334,11 @@
         <mark key="]" line="63" column="41" />
         <mark key="." line="63" column="41" />
         <mark key="^" line="63" column="41" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/fast-rcnn-pytorch1.0/configs/e2e_faster_rcnn_X_101_32x8d_FPN_1x.yaml" timestamp="1563449210015">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="43" />
+        <mark key="." line="26" column="43" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_occluded/split_by_seen_unseen/siamese_net/l1_norm/block4_scratch_bn.yaml" timestamp="1560134003406">
         <mark key="'" line="17" column="27" />
@@ -1458,10 +1507,11 @@
         <mark key="^" line="49" column="57" />
         <mark key="." line="49" column="57" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" timestamp="1563441621622">
-        <mark key="[" line="81" column="4" />
-        <mark key="]" line="81" column="4" />
-        <mark key="." line="81" column="4" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" timestamp="1563447829994">
+        <mark key="'" line="116" column="4" />
+        <mark key="[" line="137" column="15" />
+        <mark key="]" line="137" column="16" />
+        <mark key="." line="137" column="16" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/SingleStageNet/GaussianWeightedMAE_vgg16_conv3_3_stage1_estimator.yml" timestamp="1557143728520">
         <mark key="[" line="0" column="0" />
@@ -1538,6 +1588,10 @@
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/not_using_network/nms.yaml" timestamp="1563247290398">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="22" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/__init__.py" timestamp="1557152195702">
         <mark key="[" line="4" column="32" />
@@ -1997,6 +2051,10 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/fast-rcnn-pytorch1.0/configs/fast_rcnn/coco_seen_unseen/R_101_FPN/class_agnostic.yaml" timestamp="1563449553190">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="37" column="21" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_feature/data/build.py" timestamp="1557298747101">
         <mark key="[" line="35" column="23" />
         <mark key="]" line="35" column="26" />
@@ -2052,6 +2110,10 @@
         <mark key="]" line="50" column="74" />
         <mark key="." line="14" column="4" />
         <mark key="^" line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1563255826724">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="89" />
       </file>
       <file name="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" timestamp="1562923219176">
         <mark key="'" line="75" column="44" />
@@ -2245,6 +2307,12 @@
         <mark key="." line="291" column="37" />
         <mark key="^" line="291" column="37" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/python/box_share_tool/push.py" timestamp="1562741694376">
+        <mark key="'" line="20" column="14" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_subset/split_by_seen_unseen/siamese_net/l1_norm/no_additional_feaure/vgg_block4_scrach_with_lr_scheduler.yaml" timestamp="1558052189048">
         <mark key="'" line="10" column="85" />
         <mark key="[" line="10" column="85" />
@@ -2284,6 +2352,9 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" timestamp="1563449655614">
+        <mark key="'" line="184" column="35" />
       </file>
       <file name="$USER_HOME$/dataset/coco/coco_tool/get_occuluded_annot.py" timestamp="1557815014809">
         <mark key="'" line="102" column="11" />
@@ -2483,43 +2554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="11" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="157" column="31" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="160" column="31" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="38" column="13" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="74" column="39" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/ws/research_code/suppression/tmp/check.py" />
-      <jump line="15" column="31" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/data/transforms.py" />
-      <jump line="16" column="44" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" />
-      <jump line="29" column="4" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" />
-      <jump line="68" column="27" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" />
-      <jump line="40" column="54" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" />
-      <jump line="63" column="10" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" />
-      <jump line="64" column="38" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" />
-      <jump line="70" column="38" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" />
-      <jump line="75" column="44" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/support_tool/dataset/split_data_caltech.py" />
-      <jump line="20" column="20" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/config/default.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/config/default.py" />
-      <jump line="8" column="9" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/config/default.py" />
-      <jump line="17" column="22" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/train.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/train.py" />
-      <jump line="12" column="29" filename="$USER_HOME$/ws/hobby_code/chainer/chainer_classification_with_cam/model/classifier.py" />
-      <jump line="71" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="14" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="17" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="18" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="13" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="7" column="42" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_for_generated_occlusion_dataset.py" />
-      <jump line="15" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_for_generated_occlusion_dataset.py" />
-      <jump line="22" column="26" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_for_generated_occlusion_dataset.py" />
-      <jump line="42" column="30" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_for_generated_occlusion_dataset.py" />
-      <jump line="43" column="47" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_for_generated_occlusion_dataset.py" />
-      <jump line="50" column="37" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_with_cache_info.py" />
-      <jump line="110" column="35" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train.py" />
-      <jump line="16" column="29" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train.py" />
-      <jump line="18" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train.py" />
-      <jump line="19" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train.py" />
-      <jump line="13" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train.py" />
       <jump line="14" column="10" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train.py" />
       <jump line="41" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_train_generated_occlusion_dataset.py" />
       <jump line="148" column="25" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/datasets/evaluate/coco.py" />
@@ -2583,74 +2617,100 @@
       <jump line="63" column="24" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_detection.py" />
       <jump line="68" column="60" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_detection.py" />
       <jump line="66" column="43" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_detection.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="174" column="39" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="19" column="16" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="140" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="169" column="18" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="170" column="16" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="188" column="66" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="38" column="17" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="130" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="74" column="12" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph_for_balanced.py" />
+      <jump line="77" column="20" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph_for_balanced.py" />
+      <jump line="92" column="16" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph_for_balanced.py" />
+      <jump line="98" column="28" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph_for_balanced.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="56" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="57" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="59" column="16" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="72" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="89" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="112" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="113" column="11" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="136" column="12" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="137" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="141" column="20" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="156" column="16" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="157" column="12" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="49" column="27" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="50" column="42" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="55" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="123" column="43" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="138" column="55" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="158" column="59" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="116" column="4" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/config/coco_unbalanced.yaml" />
+      <jump line="191" column="0" filename="$USER_HOME$/ws/research_code/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
+      <jump line="184" column="35" filename="$USER_HOME$/ws/research_code/pytorch/fast-rcnn-pytorch1.0/maskrcnn_benchmark/config/defaults.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SU5QVVQ6CiAgTUlOX1NJWkVfVFJBSU46IDgwMAogIE1BWF9TSVpFX1RSQUlOOiAxMzMzCiAgTUlOX1NJWkVfVEVTVDogODAwCiAgTUFYX1NJWkVfVEVTVDogMTMzMwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>labels_seen_unseen</text>
+        <text>MODEL.ROIS_HEAD</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFtbMC41LCAwLjVdWzAuNiwgMC42XSwgWzAuNywgMC43XV0sCg==</text>
+        <text encoding="base64">SU5QVVQ6CiAgTUlOX1NJWkVfVFJBSU46IDgwMAogIE1BWF9TSVpFX1RSQUlOOiAxMzMzCiAgTUlOX1NJWkVfVEVTVDogODAwCiAgTUFYX1NJWkVfVEVTVDogMTMzMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBldmFsc19ub3Rfb2NjbHVkZWQsIGV2YWxzX25vdF9vY2NsdWRlZAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBmaXhlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtbMC42LCAwLjZdXSwKICAgIFtbMC42LCAwLjZdXSwKICAgIFtbMC42LCAwLjZdXSwK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3Cg==</text>
+        <text encoding="base64">ICBTVEVQUzogKDQwMDAwLCA4MDAwMCwgMTIwMDAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="5" type="8">
+        <text>l1_norm
+l1_norm</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBwZGIuc2V0Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="8">
+        <text encoding="base64">WzAuNSwgMC40XSwgClswLjUsIDAuNF0sIApbMC41LCAwLjRdLCAKWzAuNSwgMC40XSwgClswLjUsIDAuNF0sIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpb3UgPSBtZXRyY2kK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>labels_seen_unseen</last-search>
+      <last-search>MODEL.ROIS_HEAD</last-search>
       <last-offset />
-      <last-pattern>labels_seen_unseen</last-pattern>
-      <last-replace>block2_of_block4</last-replace>
-      <last-substitute>block4</last-substitute>
+      <last-pattern>MODEL.ROIS_HEAD</last-pattern>
+      <last-replace>coco_test_unseen_occluded</last-replace>
+      <last-substitute>coco_balanced</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>no_additional_feature</entry>
-        <entry>no_additional_feaure</entry>
-        <entry>no_additional_feaure\/</entry>
-        <entry>lst_confit</entry>
-        <entry>siamese_net</entry>
-        <entry>siamese_net_with_box_feature</entry>
-        <entry>l1_norm\/vgg\/block4_scratch</entry>
-        <entry>iou</entry>
-        <entry>class_labels</entry>
-        <entry>lst</entry>
-        <entry>iou_idx</entry>
-        <entry>print</entry>
         <entry>pdb</entry>
         <entry>evaluate</entry>
         <entry>block4</entry>
@@ -2659,12 +2719,20 @@
         <entry>cfg.</entry>
         <entry>add</entry>
         <entry>labels_seen_unseen</entry>
+        <entry>lst_max_</entry>
+        <entry>legend</entry>
+        <entry>lst_hyper_params</entry>
+        <entry>evals</entry>
+        <entry>split</entry>
+        <entry>threshold_occlusion</entry>
+        <entry>calc_ratios</entry>
+        <entry>coco_test_unseen_occluded</entry>
+        <entry>coco_balanced</entry>
+        <entry>dataset</entry>
+        <entry>Fast</entry>
+        <entry>MODEL.ROIS_HEAD</entry>
       </history-search>
       <history-cmd>
-        <entry>54</entry>
-        <entry>57</entry>
-        <entry>89</entry>
-        <entry>80</entry>
         <entry>182</entry>
         <entry>82</entry>
         <entry>%s/cache_info/cache_file/gc</entry>
@@ -2679,7 +2747,11 @@
         <entry>%s/siamese_net_with_box_feature/siamese_net_only_box_feature/gc</entry>
         <entry>%s/l1_norm\/vgg\/block4_scratch/base/gc</entry>
         <entry>%s/block4/block2_of_block4/gc</entry>
+        <entry>175</entry>
+        <entry>%s/coco_test_unseen_occluded/gc</entry>
+        <entry>%s/coco_balanced/coco_test_unseen_occluded/gc</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
