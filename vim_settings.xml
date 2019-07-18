@@ -450,6 +450,12 @@
         <mark key="." line="38" column="10" />
         <mark key="^" line="38" column="10" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net_with_box_feature/l1_norm/vgg_block2_of_block4_scratch.yaml" timestamp="1563426428678">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+      </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/configs/coco_test_unseen_occluded/split_by_seen_unseen/fusion/img1_bbox4.yaml" timestamp="1559295672879">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="19" />
@@ -1498,9 +1504,9 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net/l1_norm/block2_of_block4_scratch.yaml" timestamp="1563177026431">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="35" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net/l1_norm/block2_of_block4_scratch.yaml" timestamp="1563426410478">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="34" />
         <mark key="." line="13" column="35" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/nms_with_cached_feature/support_tools/evaluation/echo_num_boxes.py" timestamp="1557751153874">
@@ -1778,7 +1784,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAjIGZvcm1hdCBpcyBbYG1scDFfaW1nYCwgbWxwMV9ib3hgLCBgbWxwMmBdCg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -1787,35 +1793,34 @@
         <text>evaluate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxzdF9jb3VudF9ib3hlcyA9IFtbMCBmb3IgXyBpbiByYW5nZShudW1fY2xhc3NlcykgZm9yIF8gaW4gcmFuZ2UoMTApXV0K</text>
+        <text encoding="base64">ICBGQ19ESU1TOiBbNjU1MzYsIDQwOTYsIDQwOTYsIDUwXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAjIGZvcm1hdCBpcyBbYG1scDFfaW1nYCwgbWxwMV9ib3hgLCBgbWxwMmBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
+        <text encoding="base64">ICBGQ19ESU1TOiBbWzgxOTIsIDQwOTZdLCBbXSwgWzQxMDEsIDQwOTYsIDUwXV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBrLCB2IGluIHJlc3VsdF9ldmFsLml0ZW1zKCk6CiAgICAgICAgcmVzdWx0W2tdID0gdgo=</text>
+        <text encoding="base64">ICBFWFRSQUNUT1JfT1VUUFVUX0JMT0NLOiBbNF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciBrLCB2IGluIHJlc3VsdF9ldmFsLml0ZW1zKCk6CiAgICAgICAgcmVzdWx0W2tdID0gdgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW91X2lkeCwgY2xhc3NfaWQpCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW91X2lkeCwgY2xhc3NfaWQpCg==</text>
+        <text encoding="base64">ICAgIHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="9" type="8">
-        <text>10
-10</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBwZGIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
