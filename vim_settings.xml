@@ -66,11 +66,11 @@
         <mark key="^" line="135" column="41" />
         <mark key="." line="135" column="41" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" timestamp="1563436619612">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="25" column="1" />
-        <mark key="." line="25" column="1" />
-        <mark key="^" line="25" column="1" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net_with_box_feature/l1_norm/no_additional_feaure/vgg_block2_of_block4_scratch.yaml" timestamp="1563439651234">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/config/keypoints_detection/MultiStageNet/Stage3WeightedMAE_vgg16_conv3_3.yml" timestamp="1557171015458">
         <mark key="[" line="0" column="40" />
@@ -1005,6 +1005,11 @@
         <mark key="." line="38" column="5" />
         <mark key="^" line="38" column="5" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/config/coco_balanced.yaml" timestamp="1563439586762">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/submit/model/build.py" timestamp="1557181595170">
         <mark key="'" line="119" column="0" />
         <mark key="[" line="128" column="0" />
@@ -1710,11 +1715,11 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1563436672507">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="26" column="21" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1563439521091">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+        <mark key="^" line="26" column="1" />
       </file>
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_detection.py" timestamp="1563438862507">
         <mark key="'" line="66" column="43" />
@@ -2594,8 +2599,8 @@
       <jump line="66" column="43" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_detection.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RVZBTF9SQVRJT19TVFJJREU6IDAuMwo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -2604,7 +2609,7 @@
         <text>labels_seen_unseen</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpb3UgPSBucC5hcHBlbmQoeFsnaW91J10pCg==</text>
+        <text encoding="base64">RVZBTF9SQVRJT19TVFJJREU6IDAuMwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB3Cg==</text>
