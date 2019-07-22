@@ -247,12 +247,12 @@
         <mark key="^" line="25" column="43" />
         <mark key="." line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" timestamp="1563770556650">
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" timestamp="1563774469239">
         <mark key="'" line="90" column="8" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="16" />
+        <mark key="[" line="128" column="63" />
+        <mark key="]" line="129" column="54" />
+        <mark key="." line="129" column="54" />
+        <mark key="^" line="129" column="54" />
       </file>
       <file name="$USER_HOME$/research_code/suppression/keypoint_matching/utils/calc_ratio.py" timestamp="1562142399254">
         <mark key="'" line="72" column="19" />
@@ -2570,11 +2570,11 @@
         <mark key="." line="57" column="42" />
         <mark key="^" line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/utils.py" timestamp="1563769881824">
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/utils.py" timestamp="1563774074593">
         <mark key="[" line="62" column="0" />
-        <mark key="]" line="64" column="634" />
-        <mark key="." line="64" column="634" />
-        <mark key="^" line="64" column="634" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="634" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/stage3_net.py" timestamp="1557162189538">
         <mark key="[" line="5" column="47" />
@@ -2686,44 +2686,44 @@
       <jump line="90" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyYWluX21lYW5fcmUK</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYWluX21lYW5fYm94X3NpemUgPSBnZXRfYm94X21lYW5fYm94X3NpemUodHJhaW5fY29jbykKICAgIHRlc3RfbWVhbl9ib3hfc2l6ZSA9IGdldF9ib3hfbWVhbl9ib3hfc2l6ZSh0ZXN0X2NvY28pCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dChvdXRwYXRoLCAnbnVtIGluc3RhbmNlcycsIHRyYWluX251bV9pbnN0YW5jZXMsIHRlc3RfbnVtX2luc3RhbmNlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYWluX21lYW5fcmUK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyYWkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0Xwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG91dHB1dChvdXQpCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIG91dHB1dF9udW1faW1ncyhjb2NvKToK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzcGxpdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZ2V0Xwo=</text>
+        <text encoding="base64">CmRlZiBsb2FkX2ltZyhjb2NvKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
