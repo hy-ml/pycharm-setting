@@ -247,12 +247,12 @@
         <mark key="^" line="25" column="43" />
         <mark key="." line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" timestamp="1563774469239">
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" timestamp="1563776498018">
         <mark key="'" line="90" column="8" />
-        <mark key="[" line="128" column="63" />
-        <mark key="]" line="129" column="54" />
-        <mark key="." line="129" column="54" />
-        <mark key="^" line="129" column="54" />
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/research_code/suppression/keypoint_matching/utils/calc_ratio.py" timestamp="1562142399254">
         <mark key="'" line="72" column="19" />
@@ -2687,43 +2687,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>value_test</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>value_test</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG91dHB1dChvdXRwYXRoLCAnbnVtIGluc3RhbmNlcycsIHRyYWluX251bV9pbnN0YW5jZXMsIHRlc3RfbnVtX2luc3RhbmNlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVfdHJhaW4gPSBfZm9ybWF0X3ZhbHVlKHZhbHVlKQogICAgICAgICAgICBmcC53cml0ZSgndHJhaW46IHt9XG4nLmZvcm1hdCh2YWx1ZV90cmFpbikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZV90cmFpbiA9IG5wLnJvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIG91dHB1dF9udW1faW1ncyhjb2NvKToK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">77yL77yL77yL77yL44CA6KaB6aCF44CA77yL77yL77yL77yLCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">5qSc5Ye65ZGC5Z+f44Gu55S75YOP44K144Kk44K644Gr5a++44GZ44KL5aSn44GN44GVCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlZiBsb2FkX2ltZyhjb2NvKToK</text>
+        <text encoding="base64">5qSc5Ye66aCY5Z+f44Gu5aSn44GN44GVCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
