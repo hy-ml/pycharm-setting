@@ -247,6 +247,12 @@
         <mark key="^" line="25" column="43" />
         <mark key="." line="25" column="43" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" timestamp="1563766255750">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/research_code/suppression/keypoint_matching/utils/calc_ratio.py" timestamp="1562142399254">
         <mark key="'" line="72" column="19" />
         <mark key="[" line="87" column="47" />
