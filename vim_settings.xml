@@ -247,12 +247,12 @@
         <mark key="^" line="25" column="43" />
         <mark key="." line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" timestamp="1563776498018">
-        <mark key="'" line="90" column="8" />
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" timestamp="1563788316527">
+        <mark key="'" line="159" column="16" />
+        <mark key="[" line="75" column="71" />
+        <mark key="]" line="76" column="10" />
+        <mark key="." line="76" column="10" />
+        <mark key="^" line="76" column="10" />
       </file>
       <file name="$USER_HOME$/research_code/suppression/keypoint_matching/utils/calc_ratio.py" timestamp="1562142399254">
         <mark key="'" line="72" column="19" />
@@ -936,6 +936,10 @@
         <mark key="[" line="8" column="36" />
         <mark key="]" line="8" column="37" />
         <mark key="." line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/get_occlusion_range.py" timestamp="1563787715595">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="91" column="30" />
       </file>
       <file name="$USER_HOME$/ws/pytorch/pytorch-1.0/nms_with_feature/test/imagenet_categories.py" timestamp="1556699353335">
         <mark key="[" line="0" column="0" />
@@ -2570,11 +2574,11 @@
         <mark key="." line="57" column="42" />
         <mark key="^" line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/utils.py" timestamp="1563774074593">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="62" column="634" />
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/utils.py" timestamp="1563787791890">
+        <mark key="[" line="61" column="25" />
+        <mark key="]" line="68" column="37" />
+        <mark key="." line="68" column="37" />
+        <mark key="^" line="68" column="37" />
       </file>
       <file name="$USER_HOME$/ws/chainer/pfn_intern/pfn_intern_assignment/model/meta_architecture/stage3_net.py" timestamp="1557162189538">
         <mark key="[" line="5" column="47" />
@@ -2584,8 +2588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="17" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/train.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/build.py" />
       <jump line="26" column="43" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/build.py" />
       <jump line="104" column="43" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/build.py" />
       <jump line="150" column="37" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/data/build.py" />
@@ -2684,55 +2686,57 @@
       <jump line="18" column="42" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" />
       <jump line="68" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" />
       <jump line="90" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" />
+      <jump line="147" column="20" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" />
+      <jump line="159" column="16" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/compare_annot_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>value_test</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>value_test</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text>occlusion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVfdHJhaW4gPSBfZm9ybWF0X3ZhbHVlKHZhbHVlKQogICAgICAgICAgICBmcC53cml0ZSgndHJhaW46IHt9XG4nLmZvcm1hdCh2YWx1ZV90cmFpbikpCg==</text>
+        <text encoding="base64">ICAgIG91dHB1dF9tZWFuX3JlbGF0aXZlX2JveF9zaXplKGFyZ3Mub3V0cGF0aCwgdHJhaW5fY29jbywgdGVzdF9jb2NvKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZV90cmFpbiA9IG5wLnJvbgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICBpb3VzID0gbnAuYXNhcnJheShsc3RfaW91KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbHN0X2lvdSArPSBtYXhfaW91cy50b2xpc3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">77yL77yL77yL77yL44CA6KaB6aCF44CA77yL77yL77yL77yLCg==</text>
+        <text encoding="base64">ICAgICAgICBpb3VzID0gbnAuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5qSc5Ye65ZGC5Z+f44Gu55S75YOP44K144Kk44K644Gr5a++44GZ44KL5aSn44GN44GVCg==</text>
+        <text encoding="base64">ICAgICAgICBpb3VzID0gbnAuZW1wdHkoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">5qSc5Ye66aCY5Z+f44Gu5aSn44GN44GVCg==</text>
+        <text encoding="base64">ICAgICAgICBsc3RfaW91ID0gW10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>value</last-search>
+      <last-search>occlusion</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern>occlusion</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>test_annotation</last-substitute>
       <last-dir>1</last-dir>
@@ -2740,7 +2744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>labels_seen_unseen</entry>
         <entry>lst_max_</entry>
         <entry>legend</entry>
         <entry>lst_hyper_params</entry>
@@ -2760,9 +2763,9 @@
         <entry>test_annotation</entry>
         <entry>raise</entry>
         <entry>value</entry>
+        <entry>occlusion</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/cache_info/cache_file/gc</entry>
         <entry>135</entry>
         <entry>%s/coco_test_unseen_occluded/coco_balanced/gc</entry>
         <entry>%s/split_by_seen_unseen//gc</entry>
@@ -2781,6 +2784,7 @@
         <entry>wq</entry>
         <entry>%s/train_annotation/train/gc</entry>
         <entry>%s/test_annotation/test/gc</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
