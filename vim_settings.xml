@@ -9,44 +9,55 @@
         <mark key="^" line="40" column="30" />
         <mark key="." line="40" column="30" />
       </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/test_nms_classification/libs/coco.py" timestamp="1563899436799">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/test_nms_classification/libs/coco.py" timestamp="1563899871751">
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="34" column="37" />
+        <mark key="." line="34" column="37" />
+        <mark key="^" line="34" column="37" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/test_nms_classification/cache_data.py" timestamp="1563900136718">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltZ19wYXRoID0gb3MucGF0aC5qbwo=</text>
+        <text encoding="base64">ZGVmIHJlbW92ZV9zbWFsbF9hbm4oYW5ucyk6CiAgICBhbm5zX3JlbW92ZWQgPSBbXQogICAgZm9yIGFubiBpbiBhbm5zOgogICAgICAgIGlmIGFubgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltZ19wYXRoID0gb3MucGF0aC5qbwo=</text>
+        <text encoding="base64">ZGVmIHJlbW92ZV9zbWFsbF9hbm4oYW5ucyk6CiAgICBhbm5zX3JlbW92ZWQgPSBbXQogICAgZm9yIGFubiBpbiBhbm5zOgogICAgICAgIGlmIGFubgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltZ19wYXRoID0gc28K</text>
+        <text encoding="base64">ICAgIGZvciBhbm4gaW4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGNhbGNfYXJlYShib3hfeHl3aCk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+        <text encoding="base64">ICAgIF8sIF8sIHcsIGggPSBib3hfeHl3aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgdXV1CiAgICA6cGFyYW0gY29jb19kaXI6IAogICAgOnBhcmFtIGNvY286IAogICAgOnBhcmFtIGltZ19pZDogCiAgICA6cmV0dXJuOiAKICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
       </register>
     </registers>
     <search>
