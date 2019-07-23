@@ -2,14 +2,63 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/test_nms_classification/libs/box_shifter.py" timestamp="1563898640434">
+        <mark key="[" line="40" column="30" />
+        <mark key="]" line="40" column="30" />
+        <mark key="^" line="40" column="30" />
+        <mark key="." line="40" column="30" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/test_nms_classification/libs/coco.py" timestamp="1563899436799">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGltZ19wYXRoID0gb3MucGF0aC5qbwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltZ19wYXRoID0gb3MucGF0aC5qbwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGltZ19wYXRoID0gc28K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICIiIgogICAgdXV1CiAgICA6cGFyYW0gY29jb19kaXI6IAogICAgOnBhcmFtIGNvY286IAogICAgOnBhcmFtIGltZ19pZDogCiAgICA6cmV0dXJuOiAKICAgICIiIgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
