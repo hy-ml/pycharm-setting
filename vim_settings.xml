@@ -2,14 +2,126 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/introduction.txt" timestamp="1563943015201">
+        <mark key="'" line="40" column="226" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="44" column="569" />
+        <mark key="^" line="44" column="569" />
+        <mark key="." line="44" column="569" />
+      </file>
+      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/the_foreshadow_attack.txt" timestamp="1563943803140">
+        <mark key="'" line="217" column="228" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/translate.py" timestamp="1563944373311">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+      </file>
+      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/abstract.txt" timestamp="1563942879204">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="838" />
+        <mark key="^" line="4" column="838" />
+        <mark key="." line="4" column="838" />
+      </file>
+      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/config/os_report.yml" timestamp="1563943932310">
+        <mark key="[" line="1" column="73" />
+        <mark key="]" line="1" column="73" />
+        <mark key="^" line="1" column="73" />
+        <mark key="." line="1" column="73" />
+      </file>
+      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/background.txt" timestamp="1563943369840">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="121" column="984" />
+        <mark key="^" line="121" column="984" />
+        <mark key="." line="121" column="984" />
+      </file>
+      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/libs/os.txt" timestamp="1563942820588">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2" column="0" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/libs/os.txt" />
+      <jump line="2" column="0" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/abstract.txt" />
+      <jump line="15" column="569" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/introduction.txt" />
+      <jump line="13" column="226" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/introduction.txt" />
+      <jump line="47" column="984" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/background.txt" />
+      <jump line="45" column="0" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/background.txt" />
+      <jump line="81" column="0" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/the_foreshadow_attack.txt" />
+      <jump line="80" column="228" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/the_foreshadow_attack.txt" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>]</text>
+      </register>
+      <register name="-" type="4">
+        <text>]</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XC4g</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJ2lucGF0aCcpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGwpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGwgaW4gdHJhbnNsYXRlX2xpbmVzKGxpbmVzKToK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdpdAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IAoxIGZvcmVzaGFkb3c6CjIJIyAlcmRpOiBvcmFjbGUKMwkjICVyc2k6IHNlY3JldF9wdHIKNAo1CW1vdmIoJXJzaSksICVhbAo2CXNobCQxMiwgJXJheAo3CW1vdnEoJXJkaSwgJXJheCksICVyZGkKOAlyZXRxCkxpc3RpbmcgMTogeDg2IGFzc2VtYmx5LgogCgogCjEgdm9pZGZvcmVzaGFkb3coCjIJdWludDhfdCDiiJdvcmFjbGUsCjMJdWludDhfdCDiiJdzZWNyZXRfcHRyKQo0IHsKNQl1aW50OF90diA9IOKIl3NlY3JldF9wdHI7CjYJdiA9IHYg4oiXIDB4MTAwMDsKNwl1aW50NjRfdG8gPSBvcmFjbGVbdl07CjggfQoKIApMaXN0aW5nIDI6IEMgY29kZS4=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
+      <last-search encoding="base64">XC4g</last-search>
+      <last-pattern encoding="base64">XC4g</last-pattern>
+      <last-replace>.\r</last-replace>
+      <last-substitute encoding="base64">XC4g</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry encoding="base64">LSA=</entry>
+        <entry encoding="base64">XC4g</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/- //g</entry>
+        <entry>%s/\. /.\r/g</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
