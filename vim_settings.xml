@@ -75,11 +75,10 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/translate.py" timestamp="1563964159605">
+      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/translate.py" timestamp="1564069277790">
         <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="8" />
-        <mark key="^" line="40" column="35" />
-        <mark key="." line="16" column="8" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -94,10 +93,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RVZBTF9SQVRJT19TVFJJREU6IDAuNAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaW5lKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XC4g</text>
@@ -106,10 +105,10 @@
         <text encoding="base64">RVZBTF9SQVRJT19TVFJJREU6IDAuNAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaW5lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
+        <text encoding="base64">ICAgICAgICBsaW5lID0gJ1RoaXMgaXMgYSBwZW4uJwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
@@ -121,16 +120,16 @@
         <text encoding="base64">ICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGltcG9ydCBwZGIKICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCiAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGltcG9ydCBwZGIKICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCiAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -156,6 +155,8 @@
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
