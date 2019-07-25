@@ -40,6 +40,12 @@
         <mark key="." line="193" column="25" />
         <mark key="^" line="193" column="25" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/test_by_unbalanced/siamese_net/vgg_block2_of_block4_scratch.yaml" timestamp="1564047294368">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="62" />
+        <mark key="^" line="10" column="62" />
+        <mark key="." line="10" column="62" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/generated_occlusion_dataset/siamese_net/l1_norm/block2_of_block4_scratch.yaml" timestamp="1563453718186">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="77" />
@@ -105,6 +111,12 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/test_by_unbalanced/siamese_net_with_box_feature/vgg_block2_of_block4_scratch.yaml" timestamp="1564047343281">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="62" />
+        <mark key="^" line="11" column="62" />
+        <mark key="." line="11" column="62" />
+      </file>
       <file name="$USER_HOME$/research_code/suppression/keypoint_matching/eval.py" timestamp="1562139386134">
         <mark key="[" line="35" column="55" />
         <mark key="]" line="35" column="56" />
@@ -142,6 +154,13 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/test_by_unbalanced/siamese_net/vgg_block4_scratch.yaml" timestamp="1564047270833">
+        <mark key="'" line="16" column="39" />
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="62" />
+        <mark key="^" line="12" column="62" />
+        <mark key="." line="12" column="62" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/check_coco_data/make_bar_graph_same_diff_class.py" timestamp="1563695836385">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="9" />
@@ -155,6 +174,12 @@
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/cache_script/cache_feature_test.py" timestamp="1563861331774">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="113" column="10" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/test_by_unbalanced/siamese_net_only_box_feature/base.yaml" timestamp="1564047321856">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="62" />
+        <mark key="^" line="11" column="62" />
+        <mark key="." line="11" column="62" />
       </file>
       <file name="$USER_HOME$/research_code/suppression/keypoint_matching/calc_ratio.py" timestamp="1562065046226">
         <mark key="[" line="33" column="0" />
@@ -182,6 +207,12 @@
         <mark key="]" line="34" column="21" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/test_by_unbalanced/siamese_net_with_box_feature/vgg_block4_scratch.yaml" timestamp="1564047356192">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="62" />
+        <mark key="^" line="13" column="62" />
+        <mark key="." line="13" column="62" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/README.md" timestamp="1563858650596">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -194,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="11" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
       <jump line="136" column="12" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
       <jump line="137" column="8" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
       <jump line="141" column="20" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
@@ -294,6 +324,7 @@
       <jump line="187" column="56" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
       <jump line="56" column="0" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/make_graph.py" />
       <jump line="22" column="17" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/support_tools/evaluation_scripts/config/coco_balanced.yaml" />
+      <jump line="16" column="39" filename="$USER_HOME$/ws/research_code/suppression/nms_with_cached_feature/configs/coco_balanced/test_by_unbalanced/siamese_net/vgg_block4_scratch.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -303,7 +334,7 @@
         <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>balanced</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGhyZXNob2xkX29jY2x1c2lvbjogMC4wMQpncmVlZHlfdGhyZXNob2xkX21pbjogMC42CmdyZWVkeV90aHJlc2hvbGRfbWF4OiAwLjgKCmZpZ19zaXplOiBbOSwgNl0KZm9udF9zaXplX2Jhc2U6IDEwCmZvbnRfc2l6ZV9sZWdlbmQ6IDE1CmZvbnRfc2l6ZV9heGlzX2xhYmVsOiAxNQo=</text>
@@ -338,22 +369,20 @@ g</text>
         <text encoding="base64">Z3JlZWR5X3RocmVzaG9sZF9taW46IDAuNjpXCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>balanced</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
-      <last-replace>test</last-replace>
-      <last-substitute>test_annotation</last-substitute>
+      <last-pattern>balanced</last-pattern>
+      <last-replace>balanced_test_by_unbalanced</last-replace>
+      <last-substitute>balanced</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>raise</entry>
-        <entry>value</entry>
         <entry>occlusion</entry>
         <entry>save_dir</entry>
         <entry>iteration</entry>
@@ -372,10 +401,10 @@ g</text>
         <entry>plt.</entry>
         <entry>fontsize</entry>
         <entry>config</entry>
+        <entry>balanced_test_by_unbalanced_model</entry>
+        <entry>balanced</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/coco_test_unseen_occluded/coco_balanced/gc</entry>
-        <entry>%s/split_by_seen_unseen//gc</entry>
         <entry>%s/not_additional_feature//gc</entry>
         <entry>%s/no_additional_feature//gc</entry>
         <entry>%s/no_additional_feaure//gc</entry>
@@ -387,13 +416,15 @@ g</text>
         <entry>175</entry>
         <entry>%s/coco_test_unseen_occluded/gc</entry>
         <entry>%s/coco_balanced/coco_test_unseen_occluded/gc</entry>
-        <entry>wq</entry>
         <entry>%s/train_annotation/train/gc</entry>
         <entry>%s/test_annotation/test/gc</entry>
         <entry>we</entry>
         <entry>q</entry>
         <entry>e</entry>
+        <entry>%s/balanced_test_by_unbalanced_model//gc</entry>
+        <entry>%s/balanced/balanced_test_by_unbalanced/gc</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
