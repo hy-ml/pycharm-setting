@@ -1,163 +1,18 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/test_by_unbalanced/siamese_net_with_box_feature/vgg_block2_of_block4_scratch.yaml" timestamp="1563986650931">
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="19" column="1" />
-        <mark key="^" line="19" column="1" />
-      </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/siamese_net/l1_norm/block4_scratch.yaml" timestamp="1563986696382">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="21" />
-      </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/test_by_unbalanced/siameset_net/vgg_block4_scratch.yaml" timestamp="1563986618032">
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="22" />
-        <mark key="." line="21" column="22" />
-        <mark key="^" line="20" column="1" />
-      </file>
-      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/abstract.txt" timestamp="1563942879204">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="838" />
-        <mark key="^" line="4" column="838" />
-        <mark key="." line="4" column="838" />
-      </file>
-      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/config/os_report.yml" timestamp="1563945865422">
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="1" column="42" />
-        <mark key="^" line="1" column="42" />
-        <mark key="." line="1" column="42" />
-      </file>
-      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/background.txt" timestamp="1563943369840">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="36" column="45" />
-        <mark key="]" line="121" column="984" />
-        <mark key="^" line="121" column="984" />
-        <mark key="." line="121" column="984" />
-      </file>
-      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/libs/os.txt" timestamp="1563942820588">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/test_by_unbalanced/siamese_net_with_box_feature/vgg_block4_scratch.yaml" timestamp="1563986680149">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-      </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/test_by_unbalanced/siameset_net/vgg_block2_of_block4_scratch.yaml" timestamp="1563986570267">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="18" column="1" />
-        <mark key="." line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-      </file>
-      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/introduction.txt" timestamp="1563943015201">
-        <mark key="'" line="40" column="226" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="44" column="569" />
-        <mark key="^" line="44" column="569" />
-        <mark key="." line="44" column="569" />
-      </file>
-      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/the_foreshadow_attack.txt" timestamp="1563943803140">
-        <mark key="'" line="217" column="228" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/test_by_unbalanced/siamese_net_only_box_feature/base.yaml" timestamp="1563986699501">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="18" column="1" />
-        <mark key="." line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-      </file>
-      <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/translate.py" timestamp="1564069277790">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/libs/os.txt" />
-      <jump line="2" column="0" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/abstract.txt" />
-      <jump line="15" column="569" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/introduction.txt" />
-      <jump line="13" column="226" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/introduction.txt" />
-      <jump line="47" column="984" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/background.txt" />
-      <jump line="45" column="0" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/background.txt" />
-      <jump line="81" column="0" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/the_foreshadow_attack.txt" />
-      <jump line="80" column="228" filename="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/the_foreshadow_attack.txt" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaW5lKQo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>s</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XC4g</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">RVZBTF9SQVRJT19TVFJJREU6IDAuNAo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaW5lKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lID0gJ1RoaXMgaXMgYSBwZW4uJwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBURVNUOiAiYW5ub3RhdGlvbnMvc2Vlbl91bnNlZW4vaW5zdGFuY2VzX3Vuc2VlbjIwMTRfb2NjbHVkZWQuanNvbiIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIGltcG9ydCBwZGIKICAgICAgICAgICAgcGRiLnNldF90cmFjZSgpCiAgICAgICAgICAgIHBhc3MK</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
-    <search>
-      <last-search encoding="base64">XC4g</last-search>
-      <last-pattern encoding="base64">XC4g</last-pattern>
-      <last-replace>.\r</last-replace>
-      <last-substitute encoding="base64">XC4g</last-substitute>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry encoding="base64">LSA=</entry>
-        <entry encoding="base64">XC4g</entry>
-      </history-search>
-      <history-cmd>
-        <entry>%s/- //g</entry>
-        <entry>%s/\. /.\r/g</entry>
-        <entry>w:wq</entry>
-        <entry>wq</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts />
+    <state version="5" enabled="true" />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
