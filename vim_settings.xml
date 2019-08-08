@@ -50,6 +50,9 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/ws/hobby_code/chainer/i19_homma/oic/links/model/fpn_2018/bbox_head.py" timestamp="1565275953774">
+        <mark key="'" line="269" column="4" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/test_by_unbalanced/siameset_net/vgg_block2_of_block4_scratch.yaml" timestamp="1563986570267">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="18" column="1" />
@@ -96,6 +99,8 @@
       <jump line="107" column="55" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" />
       <jump line="110" column="26" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" />
       <jump line="108" column="17" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" />
+      <jump line="259" column="9" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/oic/links/model/fpn_2018/bbox_head.py" />
+      <jump line="269" column="4" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/oic/links/model/fpn_2018/bbox_head.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -105,7 +110,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>verified_label</text>
+        <text>bbox_pred</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">RVZBTF9SQVRJT19TVFJJREU6IDAuNAo=</text>
@@ -142,9 +147,9 @@
       </register>
     </registers>
     <search>
-      <last-search>verified_label</last-search>
+      <last-search>bbox_pred</last-search>
       <last-offset />
-      <last-pattern>verified_label</last-pattern>
+      <last-pattern>bbox_pred</last-pattern>
       <last-replace>.\r</last-replace>
       <last-substitute encoding="base64">XC4g</last-substitute>
       <last-dir>1</last-dir>
@@ -155,6 +160,8 @@
         <entry encoding="base64">LSA=</entry>
         <entry encoding="base64">XC4g</entry>
         <entry>verified_label</entry>
+        <entry>roi_indices</entry>
+        <entry>bbox_pred</entry>
       </history-search>
       <history-cmd>
         <entry>%s/- //g</entry>
