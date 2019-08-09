@@ -1,6 +1,5 @@
 <application>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Hack" />
   </component>
 </application>
