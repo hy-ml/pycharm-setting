@@ -50,8 +50,8 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/ws/hobby_code/chainer/i19_homma/oic/links/model/fpn_2018/bbox_head.py" timestamp="1565275953774">
-        <mark key="'" line="269" column="4" />
+      <file name="$USER_HOME$/ws/hobby_code/chainer/i19_homma/oic/links/model/fpn_2018/bbox_head.py" timestamp="1565276328615">
+        <mark key="'" line="325" column="17" />
       </file>
       <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/nms_with_cache_feature/configs/coco_balanced/test_by_unbalanced/siameset_net/vgg_block2_of_block4_scratch.yaml" timestamp="1563986570267">
         <mark key="[" line="17" column="24" />
@@ -59,8 +59,8 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" timestamp="1565273662210">
-        <mark key="'" line="108" column="17" />
+      <file name="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" timestamp="1565276296968">
+        <mark key="'" line="180" column="16" />
       </file>
       <file name="$USER_HOME$/ws/hobby_code/python/translate_en_to_jp/texts/introduction.txt" timestamp="1563943015201">
         <mark key="'" line="40" column="226" />
@@ -101,6 +101,14 @@
       <jump line="108" column="17" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" />
       <jump line="259" column="9" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/oic/links/model/fpn_2018/bbox_head.py" />
       <jump line="269" column="4" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/oic/links/model/fpn_2018/bbox_head.py" />
+      <jump line="139" column="48" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" />
+      <jump line="171" column="39" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" />
+      <jump line="174" column="21" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" />
+      <jump line="175" column="46" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" />
+      <jump line="179" column="27" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" />
+      <jump line="180" column="16" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/examples/detection/train_multi.py" />
+      <jump line="326" column="39" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/oic/links/model/fpn_2018/bbox_head.py" />
+      <jump line="325" column="17" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/oic/links/model/fpn_2018/bbox_head.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -110,7 +118,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>bbox_pred</text>
+        <text>gt_labels</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">RVZBTF9SQVRJT19TVFJJREU6IDAuNAo=</text>
@@ -147,9 +155,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bbox_pred</last-search>
+      <last-search>gt_labels</last-search>
       <last-offset />
-      <last-pattern>bbox_pred</last-pattern>
+      <last-pattern>gt_labels</last-pattern>
       <last-replace>.\r</last-replace>
       <last-substitute encoding="base64">XC4g</last-substitute>
       <last-dir>1</last-dir>
@@ -162,6 +170,10 @@
         <entry>verified_label</entry>
         <entry>roi_indices</entry>
         <entry>bbox_pred</entry>
+        <entry>bbox_head</entry>
+        <entry>bbox_head_loss_po</entry>
+        <entry>head_gt_labels</entry>
+        <entry>gt_labels</entry>
       </history-search>
       <history-cmd>
         <entry>%s/- //g</entry>
