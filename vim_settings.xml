@@ -9,6 +9,12 @@
       <file name="$USER_HOME$/ws/hobby_code/chainer/i19_homma/homma/links/model/rep_met_fast_rcnn.py" timestamp="1565359831256">
         <mark key="'" line="33" column="13" />
       </file>
+      <file name="$USER_HOME$/ws/hobby_code/chainer/tutorial_tabular_dataset/my_dataset.py" timestamp="1565528703976">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="24" column="8" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/homma/examples/fsd/train_multi.py" />
@@ -22,6 +28,36 @@
       <jump line="32" column="0" filename="$USER_HOME$/ws/hobby_code/chainer/i19_homma/homma/examples/fsd/train_multi.py" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhID0gbnAuCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfZXhhbXBsZShzZWxmLCBpKToK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZGQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1vcnQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBjaGFpbmVyCgoKY2xhc3MgTXlEYXRlYXNldChjaGFpbmVyLmRhdGFzZXQuVGFidWxhckRhdGFzZXQpOgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
       <register name="/" type="4">
         <text>MetHead</text>
       </register>
@@ -41,10 +77,16 @@
         <entry>Config</entry>
         <entry>MetHead</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
