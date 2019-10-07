@@ -9,11 +9,19 @@
         <mark key="^" line="1" column="40" />
         <mark key="." line="1" column="40" />
       </file>
+      <file name="$USER_HOME$/ws/research_code/pytorch/pytorch-1.0/remove-occluded-region-nms/models/classifier.py" timestamp="1570465320138">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/research_code/python/coco_occlusion/utils/load_coco.py" timestamp="1569925188903">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="8" />
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/ws/research_code/python/coco_occlusion/get_occlusion_ratio.py" timestamp="1569926780788">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/hobby_code/pytorch/tmp/freeze_params.py" timestamp="1569040541021">
         <mark key="[" line="41" column="36" />
@@ -31,34 +39,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlvdSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlvdXMpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlvdXMgPSBpb3UoYmJveGVzMSwgYmJveGVzMikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB4ID0gdG9yY2guZmxhdHRlbih4LCAxKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KGlvdSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KGlvdXMpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIkNvbXB1dGVzIHBhaXJ3aXNlIGludGVyc2VjdGlvbi1vdmVyLXVuaW9uIGJldHdlZW4gYm94IGNvbGxlY3Rpb25zLgogICAgQXJnczoKICAgICAgYm94ZXMxOiBhIG51bXB5IGFycmF5IHdpdGggc2hhcGUgW04sIDRdIGhvbGRpbmcgTiBib3hlcy4KICAgICAgYm94ZXMyOiBhIG51bXB5IGFycmF5IHdpdGggc2hhcGUgW00sIDRdIGhvbGRpbmcgTiBib3hlcy4KICAgIFJldHVybnM6CiAgICAgIGEgbnVtcHkgYXJyYXkgd2l0aCBzaGFwZSBbTiwgTV0gcmVwcmVzZW50aW5nIHBhaXJ3aXNlIGlvdSBzY29yZXMuCiAgICAiIiIK</text>
+        <text encoding="base64">ICAgIGlvdXMgPSBpb3UoYmJveGVzMSwgYmJveGVzMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIkNvbXB1dGUgcGFpcndpc2UgaW50ZXJzZWN0aW9uIGFyZWFzIGJldHdlZW4gYm94ZXMuCiAgICBBcmdzOgogICAgICBib3hlczE6IGEgbnVtcHkgYXJyYXkgd2l0aCBzaGFwZSBbTiwgNF0gaG9sZGluZyBOIGJveGVzCiAgICAgIGJveGVzMjogYSBudW1weSBhcnJheSB3aXRoIHNoYXBlIFtNLCA0XSBob2xkaW5nIE0gYm94ZXMKICAgIFJldHVybnM6CiAgICAgIGEgbnVtcHkgYXJyYXkgd2l0aCBzaGFwZSBbTipNXSByZXByZXNlbnRpbmcgcGFpcndpc2UgaW50ZXJzZWN0aW9uIGFyZWEKICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
